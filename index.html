@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arabisch-Kurs</title>
+  </head>
+  <body>
+    <header class="topbar" id="topbar">
+      <a class="brand" href="#/" id="brand">Arabisch-Kurs</a>
+      <nav class="categories" id="categories" aria-label="Categories"></nav>
+      <div class="controls">
+        <button class="ctrl" id="langToggle" type="button" title="Language"></button>
+        <button class="ctrl" id="downloadBtn" type="button" hidden>PDF</button>
+        <button class="ctrl" id="settingsBtn" type="button" title="Settings" aria-haspopup="dialog">⚙</button>
+      </div>
+    </header>
+
+    <div class="settings-panel" id="settingsPanel" role="dialog" aria-label="Settings" hidden></div>
+
+    <main id="app" class="content"></main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

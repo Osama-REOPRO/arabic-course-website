@@ -1,0 +1,1 @@
+- [ ] create document about the tricky letters and their pronunciations (chat language)

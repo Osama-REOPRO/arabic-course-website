@@ -1,0 +1,127 @@
+**Übung:** Gehe die Liste durch und bestimme für jedes Wort, ob es sich um einen Sonnenbuchstaben (Shamsi) oder Mondbuchstaben (Qamari) handelt. Setze probeweise den Artikel **el- (ال)** davor.
+
+- **Kalb** :: Hund
+	- el-kalb
+- **Dars** :: Lektion / Unterricht
+	- ed-dars
+- **Ba7r** :: Meer
+	- el-ba7r
+- **Shams** :: Sonne
+	- esh-shams
+- **Farashe** :: Schmetterling
+	- el-farashe
+- **Zill** :: Schatten
+	- ez-zill
+- **2amaan** :: Sicherheit
+	- el-2amaan
+- **Taaleb** :: Student / Schüler
+	- eT-Taaleb
+- **Waqt** :: Zeit
+	- el-waqt
+	- el-wa2t
+- **Nasr** :: Adler
+	- en-nasr
+- **Baab** :: Tür
+	- el-baab
+- **3sal** :: Honig
+	- el-3asal
+- **Daw** :: Licht
+	- eD-Daw
+- **Khubz** :: Bread
+	- el-khubz
+- **Sayyarat** :: Auto
+	- es-sayyarat
+- 2iid
+	- el-2iid
+- rijjaal :: man
+	- er-rijjaal
+- **Jabal** :: Berg
+	- ej-jabal
+- **Tariq** :: Weg / Straße
+	- eT-Tariq
+	- eT-Tari2
+- **Qamar** :: Mond
+	- el-qamar
+	- el-2amar
+- **Samake** :: Fisch
+	- es-samake
+- **Hawa** :: Luft / Wind
+	- el-hawa
+- **Duhr** :: Mittag
+	- eD-Duhr
+- **3een** :: Auge / Quelle
+	- el-3een
+- **Dab3** :: Wolf
+	- eD-Dab3
+- **Ktaab** :: Buch
+	- el-ktaab
+- **Zeet** :: Öl
+	- ez-zeet
+- **2rnab** :: Hase / Kaninchen
+	- el-2arnab
+- **Nahr** :: Fluss
+	- en-nahr
+- **7aqeeqat** :: Wahrheit
+	- el-7aqiqat
+	- el-7a2i2at
+- **Shajarat** :: Baum
+	- esh-shajarat
+- **Madraset** :: Schule
+	- el-madraset
+- **Dahab** :: Gold
+	- ed-dahab
+- **8arb** :: Westen
+	- el-8arb
+- rfiiq :: freund
+	- er-rfiiq
+	- er-rfii2
+- **Hilaal** :: Sichelmond
+	- el-hilaal
+- **Laban** :: Joghurt
+	- el-laban
+- **Fajr** :: Morgendämmerung
+	- el-fajr
+- **teffaa7** :: Apfel
+	- et-teffaa7
+- **Walad** :: Junge
+	- el-walad
+- **Zahrat** :: Blume
+	- ez-zahrat
+- **Khareef** :: Herbst
+	- el-khareef
+- **Noom** :: Schlaf
+	- en-noom
+- **Jamal** :: Kamel
+	- ej-jamal
+- **Sabaa7** :: Morgen
+	- es-sabaah
+- **Mayy** :: Wasser
+	- el-mayy
+- **daftar** :: Notizbuch / Heft
+	- ed-daftar
+- **Ghazaal** :: Gazelle
+	- el-ghazaal
+- **Talj** :: Schnee / Eis
+	- et-talj
+	- ettalj
+- **Yameen** :: Rechte Seite
+	- el-yameen
+- **Deyf** :: Gast
+	- eD-Deyf
+- **Qalam** :: Stift
+	- el-qalam
+	- el-2alam
+- **Taaj** :: Krone
+	- et-taaj
+- **Yoom** :: Tag
+	- el-yoom (heute)
+- **Lsaan** :: Zunge / Sprache
+	- el-lsaan
+- **7ubb** :: Liebe
+	- el-7ubb
+- **Najmet** :: Stern
+	- en-najmet
+- **Yasmeen** :: Jasmin
+	- el-yasmeen
+- **Remmaan** :: Granatapfel
+	- er-remmaan

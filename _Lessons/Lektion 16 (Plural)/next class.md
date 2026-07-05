@@ -1,0 +1,2 @@
+- the dual form
+- plural with idafeh and other grammer stuff

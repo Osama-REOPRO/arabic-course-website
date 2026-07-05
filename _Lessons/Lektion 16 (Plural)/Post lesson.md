@@ -1,0 +1,4 @@
+- feminine (taa marboutat "-et, -at") >> Gesunde Feminine (egal ob sache oder person)
+- masculine (no taa marboutat)
+	- describes an object (not a person) >> broken
+	- describes men or mixed groups >> can be Gesunde maskulin

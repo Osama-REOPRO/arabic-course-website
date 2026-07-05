@@ -1,0 +1,23 @@
+Read out a bunch of text in Arabic so they have a good reference for their ears to refer back to
+- first show a bunch of examples, show the word before adding 'al-', and after, point out how sometimes we add 'al-', other times we add just 'e-', then you explain that this is based on sun/moon letters
+- write an explanation of sun letters, and that you don't need to really memorize them
+- first introduce al- before moon letters, so there is a consistent, simple rule, then introduce it before sun letters as a deviation from the rule, then introduce sun/moon letters as the thing that distinguishes between the two
+- read a bunch of fairuz songs and extract letters from them
+- find some grammer rule to teach to craft sentences that utilize el-ta3rif
+- the grammatic example could simply be the occupations we learned previously there could be two cases:
+	- indefinite case
+		- istaaz madraset (teacher of *a* school)
+			- any school
+	- definite case: we are talking about a specific place
+		- istaaz el-madraset (teacher of *the* school)
+			- a specific school
+- after correcting [[Al-Ta3rif (english)]], add the full [[Sun and Moon Letters]] explanation
+- don't add another grammer rule for this class, we need to practice this to hell and back
+- add more and more examples, extract all the vocab we worked with before and reuse it in all possible combinations
+- maybe feminine words should be introduced later, at first stick with the simpler
+- first normal al with moon letters, here you talk about how the first 'e' is very very faint in syria, you mostly just pronounce the 'l' alone
+- then you talk about the sun letters and get them used to that
+- then introduce feminine words and all that wierdness
+- centralize and collect the rules for al- into one single document so I can review it in a single go
+- for feminine words:
+	- first 

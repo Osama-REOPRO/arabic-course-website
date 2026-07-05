@@ -1,0 +1,2 @@
+- theory, physical practice, active listening, and application.
+- **Validate the Difficulty:** Remind them throughout the class that they are training physical muscles that have been dormant for decades. If they can't get the ع today, that is completely normal.

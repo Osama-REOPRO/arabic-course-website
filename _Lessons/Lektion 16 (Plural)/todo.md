@@ -1,0 +1,7 @@
+- look at hayat zentrum given slides
+- look at that book I use
+- lookup which words are usually broken and which are usually sound
+- make the homework
+	- I said I would have them create new words from scratch, I should probably include at least a few of those, although they are pretty difficult so maybe 5 is enough
+	- normal mixed plural exercises
+	- plural with idafeh and other stuff are probably for next week

@@ -1,0 +1,22 @@
+{
+  "name": "arabic-course-website",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Renders Obsidian markdown course notes as a simple website with PDF export, font/spacing controls, and an EN/DE switch.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  },
+  "dependencies": {
+    "@vscode/markdown-it-katex": "^1.1.1",
+    "gray-matter": "^4.0.3",
+    "katex": "^0.16.11",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.3.1"
+  }
+}

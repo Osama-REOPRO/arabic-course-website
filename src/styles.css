@@ -1,0 +1,292 @@
+/* ------------------------------------------------------------------ *
+ * Theme tokens. Reading tokens (--reading-*) are overwritten live by  *
+ * the student's settings; theme tokens flip with [data-theme].        *
+ * ------------------------------------------------------------------ */
+:root {
+  --reading-font: system-ui, sans-serif;
+  --reading-size: 18px;
+  --reading-lh: 1.65;
+  --reading-width: 760px;
+
+  --ui-font: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+:root[data-theme='light'] {
+  --bg: #ffffff;
+  --bg-soft: #f4f5f7;
+  --fg: #1f2328;
+  --fg-soft: #57606a;
+  --border: #d8dee4;
+  --accent: #1f6feb;
+  --callout-bg: #f2f6fc;
+  --callout-border: #1f6feb;
+  --code-bg: #f4f5f7;
+}
+
+:root[data-theme='dark'] {
+  --bg: #16181d;
+  --bg-soft: #21242b;
+  --fg: #e6e8eb;
+  --fg-soft: #9aa4b2;
+  --border: #30363d;
+  --accent: #6aa3ff;
+  --callout-bg: #1c2634;
+  --callout-border: #3b6db8;
+  --code-bg: #21242b;
+}
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--ui-font);
+  -webkit-text-size-adjust: 100%;
+}
+
+/* ------------------------------------------------------------------ *
+ * Top bar                                                             *
+ * ------------------------------------------------------------------ */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 20px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--fg);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.categories {
+  display: flex;
+  gap: 4px;
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.category-link {
+  padding: 6px 12px;
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--fg-soft);
+  font-size: 0.92rem;
+  white-space: nowrap;
+}
+.category-link:hover { background: var(--bg-soft); color: var(--fg); }
+.category-link.active { background: var(--accent); color: #fff; }
+
+.controls { display: flex; gap: 6px; align-items: center; }
+
+.ctrl {
+  font-family: var(--ui-font);
+  font-size: 0.88rem;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg);
+  border-radius: 8px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.ctrl:hover { background: var(--bg-soft); }
+
+/* ------------------------------------------------------------------ *
+ * Settings panel                                                      *
+ * ------------------------------------------------------------------ */
+.settings-panel {
+  position: fixed;
+  top: 58px;
+  right: 16px;
+  z-index: 20;
+  width: 280px;
+  max-width: calc(100vw - 32px);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.settings-panel[hidden] { display: none; }
+
+.field { display: flex; flex-direction: column; gap: 6px; font-size: 0.85rem; }
+.field-label { color: var(--fg-soft); }
+.field select {
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--ui-font);
+}
+.range-wrap { display: flex; align-items: center; gap: 10px; }
+.range-wrap input[type='range'] { flex: 1; accent-color: var(--accent); }
+.range-value { width: 52px; text-align: right; color: var(--fg-soft); font-variant-numeric: tabular-nums; }
+
+.reset-btn {
+  margin-top: 4px;
+  padding: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--fg);
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: var(--ui-font);
+}
+.reset-btn:hover { background: var(--border); }
+
+/* ------------------------------------------------------------------ *
+ * Content area                                                        *
+ * ------------------------------------------------------------------ */
+.content {
+  max-width: var(--reading-width);
+  margin: 0 auto;
+  padding: 28px 20px 80px;
+}
+
+.home, .empty { color: var(--fg-soft); padding: 40px 0; }
+
+.list-title { margin-top: 8px; }
+
+.page-list { list-style: none; margin: 20px 0 0; padding: 0; }
+.page-list li { margin: 0 0 8px; }
+
+.page-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--fg);
+  background: var(--bg);
+}
+.page-link:hover { border-color: var(--accent); background: var(--bg-soft); }
+.page-link-title { font-weight: 600; }
+.page-link-lesson { color: var(--fg-soft); font-size: 0.82rem; white-space: nowrap; }
+
+/* ------------------------------------------------------------------ *
+ * Rendered note (reading view)                                        *
+ * ------------------------------------------------------------------ */
+.note-meta { color: var(--fg-soft); font-size: 0.82rem; margin-bottom: 4px; }
+
+.lang-note {
+  margin: 10px 0 18px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: var(--bg-soft);
+  color: var(--fg-soft);
+  font-size: 0.85rem;
+}
+
+.note-body {
+  font-family: var(--reading-font);
+  font-size: var(--reading-size);
+  line-height: var(--reading-lh);
+}
+
+.note-body h1, .note-body h2, .note-body h3 { line-height: 1.25; margin-top: 1.6em; }
+.note-body h1:first-child, .note-body h2:first-child { margin-top: 0.2em; }
+.note-body p, .note-body ul, .note-body ol { margin: 0.7em 0; }
+.note-body img { max-width: 100%; height: auto; border-radius: 6px; }
+.note-body a { color: var(--accent); }
+.note-body hr { border: none; border-top: 1px solid var(--border); margin: 1.6em 0; }
+
+.note-body code {
+  background: var(--code-bg);
+  padding: 0.1em 0.35em;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+.note-body pre {
+  background: var(--code-bg);
+  padding: 12px 14px;
+  border-radius: 8px;
+  overflow: auto;
+}
+.note-body pre code { background: none; padding: 0; }
+
+.note-body blockquote {
+  margin: 1em 0;
+  padding: 0.2em 1em;
+  border-left: 3px solid var(--border);
+  color: var(--fg-soft);
+}
+
+.note-body table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+.note-body th, .note-body td {
+  border: 1px solid var(--border);
+  padding: 7px 10px;
+  text-align: start;
+}
+.note-body thead th { background: var(--bg-soft); }
+
+/* Obsidian callouts */
+.callout {
+  margin: 1.2em 0;
+  padding: 12px 16px;
+  border-inline-start: 4px solid var(--callout-border);
+  border-radius: 8px;
+  background: var(--callout-bg);
+}
+.callout > :first-child { margin-top: 0; }
+.callout > :last-child { margin-bottom: 0; }
+.callout-title { font-weight: 700; margin-bottom: 6px; }
+.callout-warning, .callout-caution { --callout-border: #d29922; --callout-bg: #fff8e6; }
+.callout-tip, .callout-success { --callout-border: #2da44e; --callout-bg: #eafaef; }
+:root[data-theme='dark'] .callout-warning { --callout-bg: #2b2410; }
+:root[data-theme='dark'] .callout-tip { --callout-bg: #10241a; }
+
+/* `Term :: Definition` separator */
+.def-sep { color: var(--fg-soft); margin: 0 0.45em; opacity: 0.6; }
+
+/* wikilinks */
+.wikilink { text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 40%, transparent); }
+.wikilink:hover { border-bottom-color: var(--accent); }
+.wikilink-missing { color: var(--fg-soft); border-bottom: 1px dashed var(--border); }
+
+/* custom directives */
+.pagebreak { height: 0; border-top: 1px dashed var(--border); margin: 1.8em 0; opacity: 0.5; }
+.gap { display: block; }
+
+/* ------------------------------------------------------------------ *
+ * Print / PDF export — honour custom page breaks, drop the chrome.    *
+ * ------------------------------------------------------------------ */
+@media print {
+  @page { margin: 18mm 16mm; }
+
+  .topbar, .settings-panel, .note-meta, .lang-note { display: none !important; }
+
+  body { background: #fff; color: #000; }
+  .content { max-width: none; margin: 0; padding: 0; }
+  .note-body { font-size: 12pt; }
+  .note-body a { color: #000; text-decoration: none; }
+
+  .pagebreak { break-after: page; border: none; height: 0; margin: 0; }
+
+  .note-body h1, .note-body h2, .note-body h3 { break-after: avoid; }
+  .note-body img, .note-body table, .callout { break-inside: avoid; }
+}

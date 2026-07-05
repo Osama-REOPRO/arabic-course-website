@@ -1,0 +1,16 @@
+- remember this lesson will be longer by a whole hour
+- this last hour could be the breakout rooms practice
+	- prepare material to hand to students so they practice in breakout rooms
+- do a review of last weeks lesson and talk about the formulas because I had added them to the docs but never mentioned them in class
+	- turn last lecture into a slide show so it is easy to show
+- the stuff we learned last lesson were pretty heavy, we should probably focus on learning just a bit more vocabulary and keep practicing the same grammer with that new vocab rather than learn new grammer
+- we are in fact going to learn one new very important bit of grammer: the genitiv case (المضاف إليه), because that will allow us to add a few formulas to also practice with in addition to what we got last time
+- we are gonna keep practicing until those formulas become automatic, we no longer have to think about the formula, we immediately just say the thing
+- we want to master those before we proceed farther
+- and this will become our strong foundation for much father development down the line
+- we will take our time with this, because this will become the foundation on top of which so so so much of arabic is built, so it is very much worth taking the time to master this
+- if we move on quickly without mastering this, everything afterwards will feel extremely difficult and won't make sense
+- this is the first large hurdle that we face
+- once you are comfortable with the use of pronouns, you will have leveled up your arabic, we can finally say that you are not a complete beginner in arabic!
+- in fact, if you can leave this course having just mastered this, it will be way beyond were most people are even after they do longer courses or even multiple (trust me I've seen many examples)
+- so we will master this while also learning a bunch of vocab words

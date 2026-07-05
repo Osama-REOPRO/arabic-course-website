@@ -1,0 +1,4 @@
+- I could teach L ta3rif
+	- this could fill up the theory section of the lesson
+	- but maybe I should save this for later? for next lesson potentially?
+- this lesson maybe I should continue the throaty letters practice and also continue the formulas practice, this would be the wrap up for those things, and next lesson we kind of start fresh

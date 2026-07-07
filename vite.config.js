@@ -8,7 +8,7 @@ const base = process.env.BASE_PATH || '/arabic-course-website/';
 
 export default defineConfig({
   base,
-  plugins: [vaultContent({ vaultDir: '_Lessons' })],
+  plugins: [vaultContent({ vaultDir: 'Arabic Website' })],
   build: {
     outDir: 'dist',
     emptyOutDir: true,

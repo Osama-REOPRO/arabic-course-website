@@ -168,6 +168,7 @@ function walk(dir) {
     return out;
   }
   for (const entry of entries) {
+    if (entry.name.startsWith('.')) continue; // skip .obsidian, .git, etc.
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) out.push(...walk(full));
     else out.push(full);

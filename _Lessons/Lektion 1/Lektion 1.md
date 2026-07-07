@@ -1,1 +1,0 @@
-This was just an introduction to the class, it shows my method in teaching and sets the expectations.

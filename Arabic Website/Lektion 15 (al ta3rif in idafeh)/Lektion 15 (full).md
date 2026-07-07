@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "al- in der Idafeh"
-category: grammar
+category: explanations
 lang: de
 order: 15
 ---

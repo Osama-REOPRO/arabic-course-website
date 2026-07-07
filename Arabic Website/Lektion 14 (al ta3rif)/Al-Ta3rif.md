@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "Der bestimmte Artikel (al-)"
-category: grammar
+category: explanations
 lang: de
 group: al-tarif
 order: 14

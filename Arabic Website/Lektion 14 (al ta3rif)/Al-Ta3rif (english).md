@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "The Definite Article (al-)"
-category: grammar
+category: explanations
 lang: en
 group: al-tarif
 order: 14

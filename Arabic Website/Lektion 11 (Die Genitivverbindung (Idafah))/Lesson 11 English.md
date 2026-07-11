@@ -1,9 +1,0 @@
-- Last lesson was pretty heavy with the grammer
-- it requires a lot of practice until you can get all the formulas right without looking
-- so this lesson we are going to learn some new vocabulary, then we are going to practice together using this new vocab
-- we are going to practice all together an then separately in breakout rooms
-- just a note that the recording doesn't work inside breakout rooms
-- exercises could be as follows:
-	- I say in german, you translate to arabic
-	- I say in arabic, you translate in german
-	- we have a full conversation, both questions and answers all in arabic

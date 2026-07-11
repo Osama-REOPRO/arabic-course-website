@@ -1,2 +1,0 @@
-- [ ] find good resource for arabic so students can practice on their own if they want
-- [ ] Maybe your examples shouldn't include harakat on top of long vowel letters cause that is confusing as heck for a beginner

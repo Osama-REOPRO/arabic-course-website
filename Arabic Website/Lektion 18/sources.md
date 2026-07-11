@@ -1,9 +1,0 @@
-- https://youtu.be/RWtQO_dmlEo
-	- good simple explanation of the root system
-- https://www.youtube.com/shorts/i2Xcw3cY6W0?feature=share
-	- short explanation (a bit dense)
-- https://youtu.be/6XXrVHB0gSQ
-	- a german language video (but in standard arabic)
-	- I like how he says: "we take 3 letters from the alphabet, that is the root, it represents the base meaning of the word"
-- https://youtu.be/0zyXU1VBFPU
-	- white board explanation in english

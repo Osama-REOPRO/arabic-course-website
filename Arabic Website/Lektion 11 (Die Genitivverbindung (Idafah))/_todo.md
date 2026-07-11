@@ -1,3 +1,0 @@
-- [x] translate to german
-- [x] add conversation practice for breakout rooms
-- [x] revise breakout rooms practice (make sure they are correct and written correctly)

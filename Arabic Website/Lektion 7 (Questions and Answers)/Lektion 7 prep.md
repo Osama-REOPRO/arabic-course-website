@@ -1,2 +1,0 @@
-- we had previously had a short introduction as to how one may ask a basic question "shu had?" and how they may answer that "had bet"
-- today we are going to go deeper into that and expand it

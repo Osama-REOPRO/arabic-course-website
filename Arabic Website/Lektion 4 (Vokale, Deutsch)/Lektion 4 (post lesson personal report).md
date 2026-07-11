@@ -1,7 +1,0 @@
-This was a repeat of the last lesson but this time in German, there were 3 new participants, one of the students (jenny) I was told wanted to quit the classes because I kept speaking English during class, and so I decided to only go with German from then on, only switching to English when necessary.
-The new students didn't seem to like my approach at all, one of them found everything way too simplistic (she was higher level), and the other disagreed with me teaching the Arabic alphabet, she wants to learn to talk only and doesn't care about writing at all.
-I guess my approach isn't for everyone.
-I think I might be making a mistake not teaching some letters first, before I proceed to teaching things that depend on the letters.
-But I think to my credit, I thought that I was simply teaching the first 3 letters! (Alif, Waw, Yaa)
-Quick Fix: whenever I show vocab, I should just point out repeatedly that I am giving the arabic version only so they are used to the alphabet, but later I will show the alphabet itself slowly and without taking up too much time.
-Just make the expectations clear (you are not supposed to now be able to read them now), and be careful about what you are showing during class, again, your mother's words: preparation is everything.

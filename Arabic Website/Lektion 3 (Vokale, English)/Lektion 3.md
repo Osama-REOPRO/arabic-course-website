@@ -1,1 +1,0 @@
-Here we talked about arabic vowels, short and long, this was in english and some of the students were missing so I repeated it again in the next lesson

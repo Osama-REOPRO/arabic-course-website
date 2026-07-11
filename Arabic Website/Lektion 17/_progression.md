@@ -1,5 +1,0 @@
-- homework review [[Hausaufgabe Lektion 16 (mit losung)]]
-- [[Der Dual (Zweizahl)]]
-- [[Die Wurzel (ej-jazr)]]
-- [[Das Muster (el-wazn)]]
-- [[Übungen]]

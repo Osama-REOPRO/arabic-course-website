@@ -1,3 +1,0 @@
-- Mar7aba ya 7abibti, kifek?
-- il7amdillah, mni7a, w inti kifek?
-- il7amdillah, 2na kaman mni7at

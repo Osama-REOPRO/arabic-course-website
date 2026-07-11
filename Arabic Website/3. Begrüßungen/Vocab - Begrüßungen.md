@@ -16,10 +16,10 @@ Hier sind einige Begrüßungen und passende Antworten.
 |                              | Hallo! (Antwort)          | Ahleen!                    | أهلين                  |
 |                              |                           |                            |                        |
 | https://youtu.be/ys3wMjuD0qM | Guten Morgen!             | Sabaah el-kheer!            | صباح الخير!            |
-|                              | Guten Morgen (Antwort)    | Sabaah el-nuur!             | صباح النور!            |
+|                              | Guten Morgen (Antwort)    | Sabaah en-nuur!             | صباح النور!            |
 |                              |                           |                            |                        |
 | https://youtu.be/sMYqtEj8l4o | Guten Abend!              | Masa el-kheer!            | مسا الخير!             |
-|                              | Guten Abend! (Antwort)    | Masa el-noor!             | مسا النور!             |
+|                              | Guten Abend! (Antwort)    | Masa en-noor!             | مسا النور!             |
 |                              |                           |                            |                        |
 | https://youtu.be/RsW_a6Zy_8g | Danke!                    | Shukran!                   | شكراََ!                |
 |                              | Bitte / Gern geschehen!   | 3afwan!                    | عفواَََ                |

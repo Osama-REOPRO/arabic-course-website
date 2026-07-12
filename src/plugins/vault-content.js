@@ -58,21 +58,27 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
     const noteIndex = new Map(); // name/title -> { slug, category }
     const published = [];
     for (const p of parsed) {
-      if (p.data.publish !== true) continue;
-      const category = normalizeCategory(p.data.category);
+      // Obsidian's property editor often stores values as single-item YAML lists
+      // (e.g. `order:\n  - "5"`), so unwrap arrays and coerce types defensively.
+      const d = p.data;
+      if (!isTrue(first(d.publish))) continue;
+      const category = normalizeCategory(first(d.category));
       if (!category) {
         warn(`"${p.baseName}" has publish:true but no valid category — skipped.`);
         continue;
       }
-      const slug = uniqueSlug(p.data.title || p.baseName, usedSlugs);
-      const lang = (p.data.lang || 'de').toString().toLowerCase() === 'en' ? 'en' : 'de';
+      const titleVal = first(d.title);
+      const title = (titleVal != null && titleVal !== '' ? titleVal : p.baseName).toString();
+      const slug = uniqueSlug(title, usedSlugs);
+      const lang = String(first(d.lang) || 'de').toLowerCase() === 'en' ? 'en' : 'de';
+      const groupVal = first(d.group);
       const note = {
         slug,
-        title: (p.data.title || p.baseName).toString(),
+        title,
         category,
         lang,
-        group: p.data.group != null ? String(p.data.group) : null,
-        order: Number.isFinite(p.data.order) ? p.data.order : null,
+        group: groupVal != null && groupVal !== '' ? String(groupVal) : null,
+        order: toOrder(first(d.order)),
         lesson: lessonLabel(p.file, vaultPath),
         content: p.content,
         file: p.file,
@@ -237,10 +243,26 @@ function normalizeCategory(value) {
   return CATEGORY_ALIASES[key] || (CATEGORIES.includes(key) ? key : null);
 }
 
+// Unwrap Obsidian's single-item list properties; leave scalars as-is.
+function first(v) {
+  return Array.isArray(v) ? v[0] : v;
+}
+
+function isTrue(v) {
+  return v === true || v === 'true';
+}
+
+function toOrder(v) {
+  if (v == null || v === '') return null;
+  const n = Number(v);
+  return Number.isFinite(n) ? n : null;
+}
+
 function lessonLabel(file, vaultPath) {
   const rel = path.relative(vaultPath, file);
   const top = rel.split(path.sep)[0] || '';
-  const m = /Lektion\s*(\d+)/i.exec(top);
+  // "Lektion 14 (…)"  or  "4. Shaddet" / "4) x" / "4 - x"
+  const m = /Lektion\s*(\d+)/i.exec(top) || /^\s*(\d+)\s*[.)-]/.exec(top);
   return m ? `Lektion ${m[1]}` : '';
 }
 

@@ -19,7 +19,8 @@ reaches students.
 | `category` | **yes** | `grammar` \| `explanations` \| `vocabulary` \| `exercises` | Which of the four top-right sections the note lands in. German words also work: `Grammatik`, `Erklärungen`, `Vokabeln`/`Wortschatz`, `Übungen`/`Hausaufgabe`. |
 | `lang` | **yes** | `de` \| `en` | Which language mode shows the note. (If omitted, defaults to `de`.) |
 | `group` | optional | any short id | Links the German and English versions of the same page — see below. Leave it out if the note has no translation. |
-| `order` | optional | number | Sort order inside the category. **Convention: use the Lektion number** so lists read in course order. |
+| `order` | optional | number | **Sort position** inside the category (top → bottom). Notes without it sort last. |
+| `lektion` | optional | number | The **lesson number shown** as a small "Lektion N" label. This is display only — it does *not* affect sorting, and it is independent of the folder name. Leave it out to show no label. |
 
 ### What goes in which category
 
@@ -40,7 +41,8 @@ title: "al- / Bestimmtheit – Referenz"
 category: grammar
 lang: de
 group: gref-al          # omit if there is no English version
-order: 14               # = the Lektion number
+order: 14               # sort position within the category
+lektion: 14             # the "Lektion N" label (optional, display only)
 ---
 ```
 
@@ -53,6 +55,7 @@ category: explanations
 lang: de
 group: definiteness     # omit if there is no English version
 order: 14
+lektion: 14
 ---
 ```
 
@@ -64,6 +67,7 @@ title: "Berufe"
 category: vocabulary
 lang: de
 order: 11
+lektion: 11
 ---
 ```
 
@@ -75,6 +79,7 @@ title: "Hausaufgabe: al- & Idafeh"
 category: exercises
 lang: de
 order: 15
+lektion: 15
 ---
 ```
 

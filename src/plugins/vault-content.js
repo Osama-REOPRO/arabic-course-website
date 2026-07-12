@@ -79,7 +79,7 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
         lang,
         group: groupVal != null && groupVal !== '' ? String(groupVal) : null,
         order: toOrder(first(d.order)),
-        lesson: lessonLabel(p.file, vaultPath),
+        lesson: lektionLabel(first(d.lektion)),
         content: p.content,
         file: p.file,
       };
@@ -258,12 +258,11 @@ function toOrder(v) {
   return Number.isFinite(n) ? n : null;
 }
 
-function lessonLabel(file, vaultPath) {
-  const rel = path.relative(vaultPath, file);
-  const top = rel.split(path.sep)[0] || '';
-  // "Lektion 14 (…)"  or  "4. Shaddet" / "4) x" / "4 - x"
-  const m = /Lektion\s*(\d+)/i.exec(top) || /^\s*(\d+)\s*[.)-]/.exec(top);
-  return m ? `Lektion ${m[1]}` : '';
+// The displayed "Lektion N" label comes from the optional `lektion` frontmatter
+// property (folder names are just organisation and don't map to real lessons).
+function lektionLabel(v) {
+  if (v == null || v === '') return '';
+  return `Lektion ${v}`;
 }
 
 function lessonNumber(label) {

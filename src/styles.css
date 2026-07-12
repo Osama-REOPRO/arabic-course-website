@@ -164,6 +164,15 @@ body {
 
 .list-title { margin-top: 8px; }
 
+.list-intro {
+  margin: -6px 0 20px;
+  max-width: 60ch;
+  color: var(--fg-soft);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.list-intro a { color: var(--accent); }
+
 .page-list { list-style: none; margin: 20px 0 0; padding: 0; }
 .page-list li { margin: 0 0 8px; }
 

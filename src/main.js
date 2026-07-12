@@ -13,6 +13,16 @@ const CATEGORY_LABELS = {
   grammar: 'Grammatik-Referenz',
 };
 
+// Optional intro text shown under a category's list title.
+// `linkText` inside `text` becomes a link to `linkHash`.
+const CATEGORY_INTROS = {
+  grammar: {
+    text: 'Das sind kompakte Referenzblätter zum schnellen Nachschlagen – nur die Regeln, ohne lange Erklärungen. Die vollständigen Erklärungen findest du unter Erklärungen.',
+    linkText: 'Erklärungen',
+    linkHash: '#/explanations',
+  },
+};
+
 const UI = {
   brand: 'Arabisch-Kurs',
   download: 'Als PDF',
@@ -102,6 +112,25 @@ function renderList(category) {
   h.className = 'list-title';
   h.textContent = CATEGORY_LABELS[category];
   wrap.appendChild(h);
+
+  const intro = CATEGORY_INTROS[category];
+  if (intro) {
+    const p = document.createElement('p');
+    p.className = 'list-intro';
+    // link the LAST occurrence of linkText (earlier ones are part of the prose)
+    const i = intro.linkText ? intro.text.lastIndexOf(intro.linkText) : -1;
+    if (i === -1) {
+      p.textContent = intro.text;
+    } else {
+      p.append(intro.text.slice(0, i));
+      const a = document.createElement('a');
+      a.href = intro.linkHash;
+      a.textContent = intro.linkText;
+      p.appendChild(a);
+      p.append(intro.text.slice(i + intro.linkText.length));
+    }
+    wrap.appendChild(p);
+  }
 
   if (!items.length) {
     const p = document.createElement('p');

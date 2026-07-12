@@ -7,7 +7,7 @@ group: demonstrativartikel   # omit if no English version
 order: 2
 ---
 # Demonstrativartikel
-## Haad هاد
+## Haad/Haada هاد
 Das (männlich)
 ## Hay هي
 Das (weiblich)

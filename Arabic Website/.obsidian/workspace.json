@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Shaddet/Pronunciation - Shaddet.md",
+                "file": "5. Frage/Vocab - Fragen.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Pronunciation - Shaddet"
+              "title": "Vocab - Fragen"
             }
           }
         ]
@@ -182,10 +182,17 @@
   },
   "active": "588f488d606e7dcf",
   "lastOpenFiles": [
+    "5. Frage/Practice - Fragen.md",
+    "5. Frage/Vocab - Fragen.md",
+    "5. Frage/Explanation - Fragen.md",
+    "5. Frage/Grammer - Fragen.md",
+    "1. Demonstrativartikel/Grammer - Demonstrativartikel.md",
+    "5. Frage",
+    "1. Demonstrativartikel/Explanation - Demonstrativartikel.md",
+    "4. Shaddet/Pronunciation - Shaddet.md",
     "4. Shaddet/Fairouz-Fairuz-Fayrouz-Fayruz-Lebanese-singer-actress-performs-Amman-University-2004.jpg.webp",
     "4. Shaddet/Vocab - Vokabular mit Shadda.md",
     "4. Shaddet/Screenshot 2026-03-24 at 8.01.14 PM.png",
-    "4. Shaddet/Pronunciation - Shaddet.md",
     "4. Shaddet/Practice - title.md",
     "3. Begrüßungen/Vocab - Begrüßungen.md",
     "4. Shaddet/Grammer - title.md",
@@ -201,7 +208,6 @@
     "Screenshot 2026-07-11 at 8.25.04 PM.png",
     "2. Lange und kurze Vokale/Practice - Lange und kurze Vokale.md",
     "2. Lange und kurze Vokale/Vocab - Lange und kurze Vokale.md",
-    "1. Demonstrativartikel/Explanation - Demonstrativartikel.md",
     "todo.md",
     "folder template/Grammer - title.md",
     "folder template/Vocab - title.md",
@@ -209,16 +215,11 @@
     "folder template/Explanation - title.md",
     "2. Vokale",
     "folder template",
-    "1. Demonstrativartikel/Grammer - Demonstrativartikel.md",
     "2. Lange und kurze Vokale/Untitled.md",
     "1. Demonstrativartikel/Vocab - Grundwörter.md",
     "2. Vokale",
-    "1. Demonstrativartikel/Practice - Demonstrativartikel.md",
-    "Lektion 2 (Vokab, Had, Hay)/Lektion 2 Grammer.md",
     "1. Demonstrativartikel",
-    "Lektion 2 (Vokab, Had, Hay)/Lektion 2 Ubungen.md",
     "Lektion 2 (Vokab, Had, Hay)/Erste Lektion Doc.pdf",
-    "Lektion 2 (Vokab, Had, Hay)/Erste Lektion post Doc.pdf",
-    "Lektion 14 (al ta3rif)/der bestimmte Artikel (el-).pdf"
+    "Lektion 2 (Vokab, Had, Hay)/Erste Lektion post Doc.pdf"
   ]
 }

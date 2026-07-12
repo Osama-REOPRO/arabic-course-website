@@ -70,13 +70,11 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
       const titleVal = first(d.title);
       const title = (titleVal != null && titleVal !== '' ? titleVal : p.baseName).toString();
       const slug = uniqueSlug(title, usedSlugs);
-      const lang = String(first(d.lang) || 'de').toLowerCase() === 'en' ? 'en' : 'de';
       const groupVal = first(d.group);
       const note = {
         slug,
         title,
         category,
-        lang,
         group: groupVal != null && groupVal !== '' ? String(groupVal) : null,
         order: toOrder(first(d.order)),
         lesson: lektionLabel(first(d.lektion)),
@@ -88,10 +86,11 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
       noteIndex.set(note.title.toLowerCase(), { slug, category });
     }
 
-    // (c) render each published note.
+    // (c) render each published note. (Site is German-only; `group` is kept in
+    // the data as a free-form way to relate notes later.)
     const md = createMd();
     const pages = {};
-    const categories = Object.fromEntries(CATEGORIES.map((c) => [c, { en: [], de: [] }]));
+    const categories = Object.fromEntries(CATEGORIES.map((c) => [c, []]));
     for (const note of published) {
       const expanded = expandEmbeds(note.content, notesByName);
       const withDirectives = applyDirectives(expanded);
@@ -99,12 +98,11 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
       pages[note.slug] = {
         title: note.title,
         category: note.category,
-        lang: note.lang,
         group: note.group,
         lesson: note.lesson,
         html,
       };
-      categories[note.category][note.lang].push({
+      categories[note.category].push({
         slug: note.slug,
         title: note.title,
         lesson: note.lesson,
@@ -115,10 +113,8 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
 
     // (d) order each list: explicit `order` first, then lesson number, then title.
     for (const cat of CATEGORIES) {
-      for (const lang of ['en', 'de']) {
-        categories[cat][lang].sort(compareEntries);
-        categories[cat][lang].forEach((e) => delete e.order);
-      }
+      categories[cat].sort(compareEntries);
+      categories[cat].forEach((e) => delete e.order);
     }
 
     return { categories, pages };

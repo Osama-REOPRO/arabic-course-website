@@ -1,11 +1,37 @@
 import './styles.css';
 import 'katex/dist/katex.min.css';
 import { categories, pages } from 'virtual:content';
-import { CATEGORY_LABELS, UI } from './i18n.js';
 
-const CATEGORIES = ['grammar', 'explanations', 'vocabulary', 'exercises'];
+// Nav order, left to right. The first entry is also the landing page.
+const CATEGORIES = ['explanations', 'vocabulary', 'exercises', 'grammar'];
+const HOME_CATEGORY = 'explanations';
 
-// --- persisted state -------------------------------------------------------
+const CATEGORY_LABELS = {
+  explanations: 'Erklärungen',
+  vocabulary: 'Vokabeln',
+  exercises: 'Übungen',
+  grammar: 'Grammatik-Referenz',
+};
+
+const UI = {
+  brand: 'Arabisch-Kurs',
+  download: 'Als PDF',
+  downloadTitle: 'Diese Seite als PDF speichern',
+  font: 'Schriftart',
+  fontSans: 'Serifenlos',
+  fontSerif: 'Serif',
+  fontArabic: 'Arabisch optimiert',
+  size: 'Textgröße',
+  spacing: 'Zeilenabstand',
+  width: 'Seitenbreite',
+  theme: 'Design',
+  light: 'Hell',
+  dark: 'Dunkel',
+  reset: 'Zurücksetzen',
+  emptyCategory: 'Hier sind noch keine Seiten.',
+};
+
+// --- persisted settings ------------------------------------------------------
 const DEFAULT_SETTINGS = { font: 'sans', size: 18, spacing: 1.65, width: 760, theme: 'light' };
 const FONT_STACKS = {
   sans: "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, 'Noto Sans Arabic', 'Segoe UI Arabic', sans-serif",
@@ -13,32 +39,24 @@ const FONT_STACKS = {
   arabic: "'Noto Naskh Arabic', 'Amiri', 'Geeza Pro', 'Al Bayan', 'Segoe UI Arabic', 'Times New Roman', serif",
 };
 
-let lang = load('lang', 'de');
-if (!UI[lang]) lang = 'de';
 let settings = { ...DEFAULT_SETTINGS, ...load('settings', {}) };
 
-// group id -> { en?: slug, de?: slug } for the language switch
-const groupIndex = {};
-for (const [slug, page] of Object.entries(pages)) {
-  if (!page.group) continue;
-  (groupIndex[page.group] ||= {})[page.lang] = slug;
-}
-
-// --- elements --------------------------------------------------------------
+// --- elements ----------------------------------------------------------------
 const el = {
   brand: document.getElementById('brand'),
   categories: document.getElementById('categories'),
-  langToggle: document.getElementById('langToggle'),
   downloadBtn: document.getElementById('downloadBtn'),
   settingsBtn: document.getElementById('settingsBtn'),
   settingsPanel: document.getElementById('settingsPanel'),
   app: document.getElementById('app'),
 };
 
-// --- init ------------------------------------------------------------------
+// --- init ----------------------------------------------------------------------
 applySettings();
+el.brand.textContent = UI.brand;
+el.downloadBtn.textContent = UI.download;
+el.downloadBtn.title = UI.downloadTitle;
 el.settingsBtn.addEventListener('click', toggleSettings);
-el.langToggle.addEventListener('click', switchLanguage);
 el.downloadBtn.addEventListener('click', () => window.print());
 window.addEventListener('hashchange', render);
 document.addEventListener('click', (e) => {
@@ -48,68 +66,47 @@ document.addEventListener('click', (e) => {
 });
 render();
 
-// --- rendering -------------------------------------------------------------
+// --- rendering -----------------------------------------------------------------
 function render() {
-  const t = UI[lang];
-  document.documentElement.lang = lang;
-  el.brand.textContent = t.brand;
-  el.langToggle.textContent = t.switchTo;
-  el.langToggle.title = t.switchTo;
-  el.downloadBtn.textContent = t.download;
-  el.downloadBtn.title = t.downloadTitle;
-
   const route = parseHash();
   renderCategories(route);
 
   if (route.view === 'note') {
     renderNote(route);
     el.downloadBtn.hidden = false;
-  } else if (route.view === 'list') {
-    renderList(route.category);
-    el.downloadBtn.hidden = true;
   } else {
-    renderHome();
+    renderList(route.category);
     el.downloadBtn.hidden = true;
   }
   window.scrollTo(0, 0);
 }
 
 function renderCategories(route) {
-  const labels = CATEGORY_LABELS[lang];
   el.categories.innerHTML = '';
   for (const cat of CATEGORIES) {
     const a = document.createElement('a');
     a.href = `#/${cat}`;
-    a.textContent = labels[cat];
+    a.textContent = CATEGORY_LABELS[cat];
     a.className = 'category-link';
     if (route.category === cat) a.classList.add('active');
     el.categories.appendChild(a);
   }
 }
 
-function renderHome() {
-  const t = UI[lang];
-  const div = document.createElement('div');
-  div.className = 'home';
-  div.textContent = t.home;
-  swap(div);
-}
-
 function renderList(category) {
-  const t = UI[lang];
-  const items = (categories[category]?.[lang]) || [];
+  const items = categories[category] || [];
   const wrap = document.createElement('div');
   wrap.className = 'list-view';
 
   const h = document.createElement('h1');
   h.className = 'list-title';
-  h.textContent = CATEGORY_LABELS[lang][category];
+  h.textContent = CATEGORY_LABELS[category];
   wrap.appendChild(h);
 
   if (!items.length) {
     const p = document.createElement('p');
     p.className = 'empty';
-    p.textContent = t.emptyCategory;
+    p.textContent = UI.emptyCategory;
     wrap.appendChild(p);
   } else {
     const ul = document.createElement('ul');
@@ -138,10 +135,9 @@ function renderList(category) {
 }
 
 function renderNote(route) {
-  const t = UI[lang];
   const page = pages[route.slug];
   if (!page) {
-    renderHome();
+    renderList(HOME_CATEGORY);
     return;
   }
   const article = document.createElement('article');
@@ -149,15 +145,8 @@ function renderNote(route) {
 
   const meta = document.createElement('div');
   meta.className = 'note-meta';
-  meta.textContent = [CATEGORY_LABELS[lang][page.category], page.lesson].filter(Boolean).join(' · ');
+  meta.textContent = [CATEGORY_LABELS[page.category], page.lesson].filter(Boolean).join(' · ');
   article.appendChild(meta);
-
-  if (page.lang !== lang) {
-    const banner = document.createElement('div');
-    banner.className = 'lang-note';
-    banner.textContent = UI[lang].onlyIn;
-    article.appendChild(banner);
-  }
 
   const body = document.createElement('div');
   body.className = 'note-body';
@@ -168,25 +157,6 @@ function renderNote(route) {
 
 function swap(node) {
   el.app.replaceChildren(node);
-}
-
-// --- language switch -------------------------------------------------------
-function switchLanguage() {
-  const next = lang === 'de' ? 'en' : 'de';
-  const route = parseHash();
-  lang = next;
-  save('lang', lang);
-
-  // On a note with a translation, jump to the counterpart; otherwise re-render.
-  if (route.view === 'note') {
-    const page = pages[route.slug];
-    const counterpart = page?.group ? groupIndex[page.group]?.[next] : null;
-    if (counterpart && counterpart !== route.slug) {
-      location.hash = `#/${pages[counterpart].category}/${counterpart}`;
-      return; // hashchange triggers render
-    }
-  }
-  render();
 }
 
 // --- settings --------------------------------------------------------------
@@ -209,26 +179,25 @@ function toggleSettings() {
 }
 
 function buildSettingsPanel() {
-  const t = UI[lang];
   el.settingsPanel.innerHTML = '';
   const panel = el.settingsPanel;
 
-  panel.appendChild(makeSelect(t.font, settings.font, [
-    ['sans', t.fontSans], ['serif', t.fontSerif], ['arabic', t.fontArabic],
+  panel.appendChild(makeSelect(UI.font, settings.font, [
+    ['sans', UI.fontSans], ['serif', UI.fontSerif], ['arabic', UI.fontArabic],
   ], (v) => { settings.font = v; commit(); }));
 
-  panel.appendChild(makeRange(t.size, settings.size, 14, 26, 1, (v) => { settings.size = v; commit(); }, (v) => v + 'px'));
-  panel.appendChild(makeRange(t.spacing, settings.spacing, 1.2, 2.2, 0.05, (v) => { settings.spacing = v; commit(); }, (v) => v.toFixed(2)));
-  panel.appendChild(makeRange(t.width, settings.width, 560, 1000, 20, (v) => { settings.width = v; commit(); }, (v) => v + 'px'));
+  panel.appendChild(makeRange(UI.size, settings.size, 14, 26, 1, (v) => { settings.size = v; commit(); }, (v) => v + 'px'));
+  panel.appendChild(makeRange(UI.spacing, settings.spacing, 1.2, 2.2, 0.05, (v) => { settings.spacing = v; commit(); }, (v) => v.toFixed(2)));
+  panel.appendChild(makeRange(UI.width, settings.width, 560, 1000, 20, (v) => { settings.width = v; commit(); }, (v) => v + 'px'));
 
-  panel.appendChild(makeSelect(t.theme, settings.theme, [
-    ['light', t.light], ['dark', t.dark],
+  panel.appendChild(makeSelect(UI.theme, settings.theme, [
+    ['light', UI.light], ['dark', UI.dark],
   ], (v) => { settings.theme = v; commit(); }));
 
   const reset = document.createElement('button');
   reset.type = 'button';
   reset.className = 'reset-btn';
-  reset.textContent = t.reset;
+  reset.textContent = UI.reset;
   reset.addEventListener('click', () => {
     settings = { ...DEFAULT_SETTINGS };
     commit();
@@ -289,9 +258,8 @@ function makeRange(label, value, min, max, step, onChange, fmt) {
 function parseHash() {
   const raw = location.hash.replace(/^#\/?/, '');
   const parts = raw.split('/').filter(Boolean).map(decodeURIComponent);
-  if (parts.length === 0) return { view: 'home' };
   const category = CATEGORIES.includes(parts[0]) ? parts[0] : null;
-  if (!category) return { view: 'home' };
+  if (!category) return { view: 'list', category: HOME_CATEGORY };
   if (parts.length === 1) return { view: 'list', category };
   return { view: 'note', category, slug: parts[1] };
 }

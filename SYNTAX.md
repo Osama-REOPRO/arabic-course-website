@@ -16,103 +16,67 @@ reaches students.
 | --- | --- | --- | --- |
 | `publish` | **yes** | `true` | Publishes the note. Omit it (or set `false`) to keep a note private. |
 | `title` | recommended | text | Shown in the category list and the browser tab. If it contains a colon `:`, a dash at the start, or other punctuation, **wrap it in double quotes**. When in doubt, always quote. |
-| `category` | **yes** | `grammar` \| `explanations` \| `vocabulary` \| `exercises` | Which of the four top-right sections the note lands in. German words also work: `Grammatik`, `Erklärungen`, `Vokabeln`/`Wortschatz`, `Übungen`/`Hausaufgabe`. |
-| `lang` | **yes** | `de` \| `en` | Which language mode shows the note. (If omitted, defaults to `de`.) |
-| `group` | optional | any short id | Links the German and English versions of the same page — see below. Leave it out if the note has no translation. |
+| `category` | **yes** | `explanations` \| `vocabulary` \| `exercises` \| `grammar` | Which of the four sections the note lands in. German words also work: `Erklärungen`, `Vokabeln`/`Wortschatz`, `Übungen`/`Hausaufgabe`, `Grammatik`. |
+| `group` | optional | any short id | Free-form tag to relate notes that belong together (e.g. all notes of one topic). Not shown to students and currently unused by the site — reserved for future features. |
 | `order` | optional | number | **Sort position** inside the category (top → bottom). Notes without it sort last. |
 | `lektion` | optional | number | The **lesson number shown** as a small "Lektion N" label. This is display only — it does *not* affect sorting, and it is independent of the folder name. Leave it out to show no label. |
 
-### What goes in which category
+### The four sections (in nav order)
 
-- **grammar** — the bare, condensed rules only: a reference sheet you could print. No long
-  prose. Tables and short rule statements.
-- **explanations** — the same grammar but expanded with the full explanation, examples, and
-  reasoning.
-- **vocabulary** — just the vocabulary words.
-- **exercises** — practice tasks and homework.
+- **Erklärungen** (`explanations`) — the full explanation of a grammar topic, with examples
+  and reasoning. **This is the landing page.**
+- **Vokabeln** (`vocabulary`) — just the vocabulary words.
+- **Übungen** (`exercises`) — practice tasks and homework.
+- **Grammatik-Referenz** (`grammar`) — the bare, condensed rules only: a printable reference
+  sheet. No long prose; tables and short rule statements.
 
 ### Templates — copy the one you need
 
-**Grammar** (condensed reference sheet):
+**Grammatik-Referenz** (condensed reference sheet):
 ```yaml
 ---
 publish: true
 title: "al- / Bestimmtheit – Referenz"
 category: grammar
-lang: de
-group: gref-al          # omit if there is no English version
+group: al-tarif         # optional: relates notes of the same topic
 order: 14               # sort position within the category
 lektion: 14             # the "Lektion N" label (optional, display only)
 ---
 ```
 
-**Explanation**:
+**Erklärung**:
 ```yaml
 ---
 publish: true
 title: "Bestimmtheit"
 category: explanations
-lang: de
-group: definiteness     # omit if there is no English version
+group: al-tarif
 order: 14
 lektion: 14
 ---
 ```
 
-**Vocabulary**:
+**Vokabeln**:
 ```yaml
 ---
 publish: true
 title: "Berufe"
 category: vocabulary
-lang: de
 order: 11
 lektion: 11
 ---
 ```
 
-**Exercise / homework**:
+**Übung / Hausaufgabe**:
 ```yaml
 ---
 publish: true
 title: "Hausaufgabe: al- & Idafeh"
 category: exercises
-lang: de
 order: 15
 lektion: 15
 ---
 ```
-
-### Linking a German and English version
-
-Give both files the **same `group`** value. The language switch then jumps straight to the
-translation instead of just filtering the list:
-
-```yaml
-# Grammatik – al- (Referenz).md     # Grammar – al- (reference).md
----                                 ---
-publish: true                       publish: true
-title: "al- / Bestimmtheit …"       title: "al- / Definiteness …"
-category: grammar                   category: grammar
-lang: de                            lang: en
-group: gref-al                      group: gref-al      ← same id
-order: 14                           order: 14
----                                 ---
-```
-
-Pick any short, unique id — just use the **same string** in both files. Conventions already
-in use: a topic slug for explanations/vocab (`definiteness`, `l11-berufe`) and a `gref-…`
-prefix for grammar reference sheets (`gref-al`, `gref-idafeh`, `gref-plural`). If a note has
-no translation, omit `group`; the switch then shows a small "only available in …" note.
-
-> A note that currently holds **both** languages in one file should be split into two files —
-> a `lang: de` one and a `lang: en` one — sharing the same `group`.
-
-### Naming files (optional convention)
-
-Filenames aren't shown to students, but a consistent scheme keeps the vault tidy and makes
-`[[wikilinks]]` predictable. The reference sheets follow
-`Grammatik – <Thema> (Referenz).md` / `Grammar – <topic> (reference).md`.
 
 ## 2. Obsidian syntax that already works
 

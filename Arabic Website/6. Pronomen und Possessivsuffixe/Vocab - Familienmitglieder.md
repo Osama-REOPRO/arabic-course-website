@@ -7,7 +7,7 @@ group:
 order:
   - "6"
 ---
-# Wortschatz: Familienmitglieder (erweitert)
+# Wortschatz: Familienmitglieder
 
 ### Kernfamilie
 * **2ab**: Vater 

@@ -252,3 +252,5 @@ _Fokus: Shu ismo/isma + Nomen-Suffix & Idafah_
 39. **La2** (لأ)
 40. **Shu**
 
+
+---

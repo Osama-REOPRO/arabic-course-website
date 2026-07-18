@@ -5,7 +5,7 @@ category: exercises
 group:
   - Idaafet
 order:
-  - "9"
+  - "10"
 lektion:
 ---
 | Arabisch               | Deutsch                     |

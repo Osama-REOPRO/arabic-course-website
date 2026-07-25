@@ -1,6 +1,6 @@
 ---
 publish: true
-title: der bestimmte Artikel
+title: der bestimmte Artikel in der Idafet
 category: exercises
 group:
 order:

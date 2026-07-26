@@ -1,6 +1,6 @@
 ---
 publish: true
-title: der bestimmte Artikel in der Idafet
+title: Grammer - der bestimmte Artikel in der Idaafet
 category: explanations
 group:
 order:
@@ -34,9 +34,9 @@ In Syrien ist das „e" in „el-" sehr, sehr kurz. Man kann es kaum hören.
 
 ---
 
-# al- in der Idafeh
+# al- in der Idaafet
 
-Wir kennen die Idafeh schon. Sie verbindet zwei Nomen:
+Wir kennen die Idaafet schon. Sie verbindet zwei Nomen:
 
 > **(Hauptwort) + (Bestimmungswort)**
 > 
@@ -52,34 +52,46 @@ Der Unterschied:
 
 ---
 
-## Wichtig: Die Idafeh fließt wie ein Wort
+## Wichtig: Die Idaafet fließt wie ein Wort
 
-Lass beim Sprechen keine Pause zwischen den Wörtern. Eine Idafeh mit el- fließt zusammen wie ein einziges, längeres Wort:
+Lass beim Sprechen keine Pause zwischen den Wörtern. Eine Idaafet mit el- fließt zusammen wie ein einziges, längeres Wort:
 
 > mudif + el + maT3am = **mudif-el-maT3am**
 
 ---
 
-# Spezielle Regel: Feminine Wörter in der Idafeh mit el-
+# Spezielle Regel: Feminine Wörter in der Idaafet mit el-
 
-Feminine Wörter enden auf **-at** oder **-et** (Taa Marbouta). In einer Idafeh verändert sich dieses Ende.
+Feminine Wörter enden auf **-at** oder **-et** (Taa Marbouta). In einer Idaafet verändert sich dieses Ende.
 
-### Idafeh ohne el-
+### Idaafet ohne el-
 Das „t" am Ende wird **laut ausgesprochen**, und die Endung wechselt zu **-et**:
 
 > taalebet + jaam3at = **taalebet jaam3at** *(eine Universitätsstudentin)*
 
-### Idafeh mit el-
+### Idaafet mit el-
 Das „t" bleibt laut, aber das **„e" vor dem „t" fällt weg**:
 
 > taalebet + ej-jaam3at = **taalebt ej-jaam3at** *(die Studentin der Universität)*
 
 ### Übersicht
 
-| Form | Beispiel | Deutsch |
-|------|----------|---------|
-| Wort alleine | taalebet | eine Studentin |
-| + Idafeh (ohne el-) | taalebet jaam3at | eine Universitätsstudentin |
-| + Idafeh (mit el-) | taalebt ej-jaam3at | die Studentin der Universität |
+| Form                 | Beispiel           | Deutsch                       |
+| -------------------- | ------------------ | ----------------------------- |
+| Wort alleine         | taalebet           | eine Studentin                |
+| + Idaafet (ohne el-) | taalebet jaam3at   | eine Universitätsstudentin    |
+| + Idaafet (mit el-)  | taalebt ej-jaam3at | die Studentin der Universität |
 
 ---
+
+
+**Frage:** Kann man el- nicht auch vor das erste Wort setzen?
+Die Aufgabe der Idaafet ist es, ein unbestimmtes Wort zu bestimmen — die Bedeutung wird genauer, indem man ein zweites Wort hinzufügt.
+Wenn man el- stattdessen vor das erste Wort setzt, wird das erste Wort selbst bestimmt und braucht das zweite Wort nicht mehr — dadurch zerbricht die Idaafet, sie ist dann keine Idaafet mehr.
+
+Um ein Wort bestimmt zu machen, gibt es also zwei Möglichkeiten:
+- el- hinzufügen
+- ein zweites Wort hinzufügen (Idaafet)
+	- das zweites wort kann bestimmt (mit el-) oder unbestimmt sein
+
+Beides gleichzeitig geht nicht.

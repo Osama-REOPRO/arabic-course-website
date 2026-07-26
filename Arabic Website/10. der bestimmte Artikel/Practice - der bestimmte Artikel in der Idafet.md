@@ -8,7 +8,7 @@ order:
 lektion:
   - "15"
 ---
-# al- in der Idafeh: Maskuline Berufe
+# al- in der Idaafet: Maskuline Berufe
 - dektõr + mashfaa *(Arzt + Krankenhaus)*
   - **dektõr mashfaa** → *ein Krankenhausarzt*
   - **dektõr el-mashfaa** → *der Arzt des Krankenhauses*
@@ -92,7 +92,7 @@ lektion:
   - **mwazzaf esh-shirket** → *der Angestellte der Firma*
 
 ---
-# al- in der Idafeh: Feminine Berufe
+# al- in der Idaafet: Feminine Berufe
 
 ---
 
@@ -254,7 +254,7 @@ lektion:
 
 ---
 
-# Partnerübung: Idafeh mit el-
+# Partnerübung: Idaafet mit el-
 
 **So funktioniert die Übung:**
 - **Partner A** liest das Deutsche vor.
@@ -335,9 +335,9 @@ lektion:
 
 ---
 
-# Der Artikel el- in der Idafeh (maskulines erstes Wort)
+# Der Artikel el- in der Idaafet (maskulines erstes Wort)
 
-**Erinnerung:** In einer Idafeh (Genitivverbindung) bekommt nur das **zweite Wort** den Artikel **el-**, wenn die Verbindung bestimmt ist. Achte dabei auch auf Sonnen- und Mondbuchstaben!
+**Erinnerung:** In einer Idaafet (Genitivverbindung) bekommt nur das **zweite Wort** den Artikel **el-**, wenn die Verbindung bestimmt ist. Achte dabei auch auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
 - dektõr + mashfaa (Arzt + Krankenhaus) → **dektõr el-mashfaa** (der Arzt des Krankenhauses)
@@ -345,7 +345,7 @@ lektion:
 
 ---
 
-**Aufgabe:** Bilde die bestimmte Idafeh (mit el-) aus den zwei Wörtern.
+**Aufgabe:** Bilde die bestimmte Idaafet (mit el-) aus den zwei Wörtern.
 
 1. țaaleb + madraset (Schüler + Schule) → _______________
 <br>
@@ -404,9 +404,9 @@ lektion:
 ---
 <br>
 
-# Der Artikel el- in der Idafeh (feminines erstes Wort)
+# Der Artikel el- in der Idaafet (feminines erstes Wort)
 
-**Erinnerung:** Bei einer Idafeh mit einem femininen ersten Wort (das auf -et/-at endet) verändert sich die Endung leicht, wenn der Artikel **el-** vor das zweite Wort kommt: die Endung wird zu **-t** vor dem Artikel. Achte auch hier auf Sonnen- und Mondbuchstaben!
+**Erinnerung:** Bei einer Idaafet mit einem femininen ersten Wort (das auf -et/-at endet) verändert sich die Endung leicht, wenn der Artikel **el-** vor das zweite Wort kommt: die Endung wird zu **-t** vor dem Artikel. Achte auch hier auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
 - dektõr**e**t atfaal (eine Kinderärztin) → dektõr**t** el-atfaal (die Kinderärztin)
@@ -414,7 +414,7 @@ lektion:
 
 ---
 
-**Aufgabe:** Bilde die bestimmte Idafeh (mit el-) aus der unbestimmten Form.
+**Aufgabe:** Bilde die bestimmte Idaafet (mit el-) aus der unbestimmten Form.
 
 1. țaalebet jaam3at (eine Studentin einer Universität) → _______________
 <br>
@@ -472,13 +472,13 @@ lektion:
 ---
 <br>
 
-# Gemischte Übung — el- (Sonne/Mond, maskuline & feminine Idafeh)
+# Gemischte Übung — el- (Sonne/Mond, maskuline & feminine Idaafet)
 
 **Erinnerung:**
 - **Sonnenbuchstaben:** das „l" von el- verschwindet, der erste Buchstabe des Wortes wird verdoppelt
 - **Mondbuchstaben:** el- bleibt normal
-- **Feminine Idafeh** (Wort endet auf -et/-at): die Endung wird zu **-t**, bevor el- kommt
-- **Maskuline Idafeh:** das erste Wort bleibt unverändert, nur el- kommt vor das zweite Wort
+- **Feminine Idaafet** (Wort endet auf -et/-at): die Endung wird zu **-t**, bevor el- kommt
+- **Maskuline Idaafet:** das erste Wort bleibt unverändert, nur el- kommt vor das zweite Wort
 
 ---
 

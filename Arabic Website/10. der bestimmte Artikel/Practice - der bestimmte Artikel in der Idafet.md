@@ -8,6 +8,7 @@ order:
 lektion:
   - "15"
 ---
+# al- in der Idafeh: Maskuline Berufe
 - dektõr + mashfaa *(Arzt + Krankenhaus)*
   - **dektõr mashfaa** → *ein Krankenhausarzt*
   - **dektõr el-mashfaa** → *der Arzt des Krankenhauses*

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Sonnenwörter und Mondwörter
 category: vocabulary
 group:
@@ -10,74 +10,73 @@ lektion:
 ---
 # ☀️ Arabische Sonnenbuchstaben Vokabeln (حروف شمسية)
 ## Gruppe 1: Buchstaben (ت, ث, د, ذ, ر, ز)
-- **Taj** :: Krone
-- **Tufah** :: Apfel
-- **Thawb** :: Gewand / Kleidung
-- **Thalj** :: Schnee / Eis
-- **Daftar** :: Notizbuch / Heft
-- **Dars** :: Lektion / Unterricht
-- **Dhahab** :: Gold
-- **Dhi'b** :: Wolf
-- **Rajul** :: Mann
-- **Ruman** :: Granatapfel
-- **Zayt** :: Öl
-- **Zahra** :: Blume
+- **taaj** :: Krone
+- **teffaa7** :: Apfel
+- **toob** :: Gewand / Kleidung
+- **talj** :: Schnee / Eis
+- **daftar** :: Notizbuch / Heft
+- **dars** :: Lektion / Unterricht
+- **dahab** :: Gold
+- **diib** :: Wolf
+- **rijjaal** :: Mann
+- **remmaan** :: Granatapfel
+- **zeet** :: Öl
+- **zahrat** :: Blume
 
 ## Gruppe 2: Buchstaben (س, ش, ص, ض)
-- **Samaka** :: Fisch
-- **Sayara** :: Auto
-- **Shams** :: Sonne
-- **Shajarah** :: Baum
-- **Sadiq** :: Freund
-- **Sabah** :: Morgen
-- **Daw'** :: Licht
-- **Dayf** :: Gast
+- **samake** :: Fisch
+- **sayyaarat** :: Auto
+- **shams** :: Sonne
+- **shajarat** :: Baum
+- **Sabaah** :: Morgen
+- **Daw** :: Licht
+- **Deef** :: Gast
 
 ## Gruppe 3: Buchstaben (ط, ظ, ل, ن)
-- **Taleb** :: Student / Schüler
-- **Tariq** :: Weg / Straße
-- **Zill** :: Schatten
-- **Zuhr** :: Mittag
-- **Laban** :: Milch / Joghurt
-- **Lisan** :: Zunge / Sprache
-- **Najm** :: Stern
-- **Nahr** :: Fluss
-- **Nasr** :: Adler
-- **Nawm** :: Schlaf
+- **Taaleb** :: Student / Schüler
+- **Tarii2** :: Weg / Straße
+- **Zell** :: Schatten
+- **deher** :: Mittag
+- **laban** :: Milch / Joghurt
+- **lsaan** :: Zunge / Sprache
+- **najm** :: Stern
+- **naher** :: Fluss
+- **naser** :: Adler
+- **noom** :: Schlaf
 # 🌙 Arabische Mondbuchstaben Vokabeln (حروف قمرية)
 
 > **Hinweis:** Wenn du den bestimmten Artikel **Al- (ال)** vor diese Wörter setzt, wird das "L" deutlich ausgesprochen (z. B. *Al-Qamar*).
 
 ## Gruppe 1: Buchstaben (أ, ب, ح, خ)
-- **Arnab** :: Hase / Kaninchen
-- **Aman** :: Sicherheit
-- **Bab** :: Tür
-- **Bahr** :: Meer
-- **Hubb** :: Liebe
-- **Haqeeqah** :: Wahrheit
-- **Khubz** :: Brot
-- **Khareef** :: Herbst
+- **2arnab** :: Hase / Kaninchen
+- **2maan** :: Sicherheit
+- **Baab** :: Tür
+- **Ba7er** :: Meer
+- **7ubb** :: Liebe
+- **7a2ii2at** :: Wahrheit
+- **5ebez** :: Brot
+- **5areef** :: Herbst
 
 ## Gruppe 2: Buchstaben (ع, غ, ف, ق, ك)
-- **Ayn** :: Auge / Quelle
-- **Asal** :: Honig
-- **Gharb** :: Westen
-- **Ghazal** :: Gazelle
-- **Farasha** :: Schmetterling
-- **Fajr** :: Morgendämmerung
-- **Qamar** :: Mond
-- **Qalam** :: Stift / Stift
-- **Kitab** :: Buch
-- **Kalb** :: Hund
+- **3een** :: Auge / Quelle
+- **3asal** :: Honig
+- **8arb** :: Westen
+- **8azaal** :: Gazelle
+- **Faraashet** :: Schmetterling
+- **fajr** :: Morgendämmerung
+- **9amar** :: Mond
+- **9alam** :: Stift / Stift
+- **ktaab** :: Buch
+- **9alb** :: Hund
 
 ## Gruppe 3: Buchstaben (م, و, هـ, ي)
-- **Madrasa** :: Schule
-- **Ma'a** :: Wasser
-- **Walad** :: Junge
-- **Waqt** :: Zeit
-- **Hawa** :: Luft / Wind
-- **Hilal** :: Sichelmond
-- **Yad** :: Hand
-- **Yameen** :: Rechte Seite
-- **Yowm** :: Tag
-- **Yasmeen** :: Jasmin
+- **madraset** :: Schule
+- **mayy** :: Wasser
+- **walad** :: Junge
+- **Wa2t** :: Zeit
+- **hawaa** :: Luft / Wind
+- **hilaal** :: Sichelmond
+- **2iid** :: Hand
+- **yameen** :: Rechte Seite
+- **yoom** :: Tag
+- **yaasmeen** :: Jasmin

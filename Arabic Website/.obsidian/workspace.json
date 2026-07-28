@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e60561806192b64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. der bestimmte Artikel/Vocab - Sonnenwörter und Mondwörter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocab - Sonnenwörter und Mondwörter"
-            }
-          },
-          {
             "id": "2d37a233751446a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. der bestimmte Artikel/Grammer - der bestimmte Artikel in der Idaafet.md",
-                "mode": "source",
-                "source": false
+                "file": "11. Der Plural/Explanation - Der Plural.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Grammer - der bestimmte Artikel in der Idaafet"
+              "title": "Explanation - Der Plural"
             }
           }
         ]
@@ -194,15 +180,60 @@
       "bases:Create new base": false
     }
   },
-  "active": "e60561806192b64e",
+  "floating": {
+    "id": "be927edfddd62ba3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "13d610fb12f03363",
+        "type": "window",
+        "children": [
+          {
+            "id": "4c6eda7d8935bc3d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66032644c9bee31f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "11. Der Plural/Grammer - Der Plural.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Grammer - Der Plural"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1,
+        "y": 30,
+        "width": 641,
+        "height": 739,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2d37a233751446a6",
   "lastOpenFiles": [
-    "10. der bestimmte Artikel/Explanation - der bestimmte Artikel.md",
-    "10. der bestimmte Artikel/Practice - der bestimmte Artikel in der Idafet.md",
-    "10. der bestimmte Artikel/Grammer - der bestimmte Artikel in der Idaafet.md",
+    "11. Der Plural/Grammer - Der Plural.md",
+    "11. Der Plural/Practice - Der Plural.md",
+    "11. Der Plural/Vocab - Pluralformen von Berufen.md",
+    "11. Der Plural/Explanation - Der Plural.md",
     "10. der bestimmte Artikel/Explanation - der bestimmte Artikel in der Idaafet.md",
+    "10. der bestimmte Artikel/Explanation - der bestimmte Artikel.md",
+    "10. der bestimmte Artikel/Grammer - der bestimmte Artikel in der Idaafet.md",
+    "11. Der Plural",
+    "todo.md",
+    "10. der bestimmte Artikel/Vocab - Sonnenwörter und Mondwörter.md",
+    "10. der bestimmte Artikel/Practice - der bestimmte Artikel in der Idafet.md",
     "10. der bestimmte Artikel/Grammer - der bestimmte Artikel.md",
     "10. der bestimmte Artikel/Practice - der bestimmte Artikel.md",
-    "10. der bestimmte Artikel/Vocab - Sonnenwörter und Mondwörter.md",
     "9. Die Kehllaute/Explanation - Die Kehllaute.md",
     "9. Die Kehllaute/Grammer - Die Kehllaute.md",
     "10. der bestimmte Artikel/sonnenbuchstabe image.png",
@@ -224,17 +255,11 @@
     "7. Berufe",
     "9. Die Kehllaute",
     "5. Frage/Practice - Fragen.md",
-    "6. Pronomen und Possessivsuffixe/Grammer - Formeln zum Bilden von Sätzen mit Pronomen-Suffixen.md",
-    "6. Pronomen und Possessivsuffixe/Explanation - Pronomen und Possessivsuffixe.md",
-    "6. Pronomen und Possessivsuffixe/Grammer - Possessivsuffixe.md",
-    "6. Pronomen und Possessivsuffixe/Grammer - Pronomen.md",
-    "6. Pronomen und Possessivsuffixe/Practice - Pronomen und Possessivsuffixe.md",
     "8. Idaafet",
     "6. Pronomen und Possessivsuffixe",
     "Schoolgirl gagged at her school.mp4",
     "Squeels 1.mp4",
     "Squeels 5.mp4",
-    "Girl in latex outfit tied up and kissed.mp4",
     "4. Shaddet/Fairouz-Fairuz-Fayrouz-Fayruz-Lebanese-singer-actress-performs-Amman-University-2004.jpg.webp",
     "4. Shaddet/Screenshot 2026-03-24 at 8.01.14 PM.png",
     "Screenshot 2026-07-11 at 8.25.04 PM.png"

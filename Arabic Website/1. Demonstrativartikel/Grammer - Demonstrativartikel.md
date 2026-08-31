@@ -1,10 +1,10 @@
 ---
 publish: true
-title: "Demonstrativartikel"
+title: Demonstrativartikel
 category: grammar
 lang: de
-group: demonstrativartikel   # omit if no English version
-order: 2
+group: demonstrativartikel
+order: 1
 ---
 # Demonstrativartikel
 ## Haad/Haada هاد

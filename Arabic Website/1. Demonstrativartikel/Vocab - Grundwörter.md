@@ -6,12 +6,12 @@ lang: de
 group: demonstrativartikel   # omit if no English version
 order: 1             # = the Lektion number
 ---
-## Beit بيت
+## Beet بيت
 Haus/House
-## Sabi صبي
+## Sabii صبي
 auch (walad)
 Junge/Boy
-## Rijjal رجال
+## Rejjaal رجال
 Mann/Man
 ## Kalb كلب
 Hund (maskulin)/Dog (masculine)
@@ -21,7 +21,7 @@ Liebe / Love
 ---
 ## 3ilbet (ilbeh) علبة
 Dose/Can
-## Sabiyet صبية
+## Sabiiet صبية
 Mädchen/Girl
 ## Marat مرا
 Frau/Woman

@@ -22,20 +22,6 @@
               "icon": "lucide-file",
               "title": "Practice - Wiederholung – Niveau 1"
             }
-          },
-          {
-            "id": "f0736417963de379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ubung 7.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ubung 7"
-            }
           }
         ]
       }
@@ -201,8 +187,8 @@
   "active": "27c41f6fe2de3969",
   "lastOpenFiles": [
     "ubung 7.md",
-    "6. Pronomen und Possessivsuffixe/Practice - Pronomen und Possessivsuffixe.md",
     "13. Wiederholung/Practice - Wiederholung – Niveau 1.md",
+    "6. Pronomen und Possessivsuffixe/Practice - Pronomen und Possessivsuffixe.md",
     "6. Pronomen und Possessivsuffixe/Vocab - Familienmitglieder.md",
     "Ubung familie posessiv 1.md",
     "Ubung familie posessiv.md",

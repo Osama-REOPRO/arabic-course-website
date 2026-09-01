@@ -534,7 +534,7 @@ Ein Partner übersetzt die Wörter ins Arabische, während der andere die Antwor
 	- dein (m)
 
 
-# Übung 7: Wem gehört das?
+# Übung 7
 ins Arabische übersetzen
 
 1. Wessen Haus ist das? 

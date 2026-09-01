@@ -1,0 +1,240 @@
+- Mutter
+	- mein
+	- dein (m)
+	- dein (w)
+	- sein
+- Vater
+	- ihr (s)
+	- unser
+	- euer
+	- ihr (p)
+- Eltern
+	- dein (w)
+	- sein
+	- euer
+	- unser	
+- Bruder 
+	- mein
+	- ihr (s)
+	- ihr (p)
+	- dein (m)
+- Schwester 
+	- mein
+	- ihr (s)
+	- euer
+	- ihr (p)
+- Geschwister
+	- dein (m)
+	- sein
+	- unser	
+	- dein (w)
+- Großvater 
+	- dein (m)
+	- ihr (s)
+	- dein (w)
+	- mein
+- Großmutter 
+	- euer
+	- unser	
+	- ihr (p)
+	- sein
+- Onkel väterlicherseits (Bruder des Vaters) 
+	- mein
+	- ihr (s)
+	- unser	
+	- dein (m)
+- Tante väterlicherseits (Schwester des Vaters)
+	- euer
+	- sein
+	- ihr (p)
+	- dein (w)
+- **sohn** von **onkel** (Väterlicherseits)
+	- dein (m)
+	- unser	
+	- ihr (p)
+	- dein (w)
+- **sohn** von **tante** (Väterlicherseits)
+	- sein
+	- euer
+	- mein
+	- ihr (s)
+- **tochter** von **onkel** (Väterlicherseits)
+	- dein (m)
+	- euer
+	- ihr (s)
+	- sein
+- **tochter** von **tante** (Väterlicherseits)
+	- dein (w)
+	- unser	
+	- ihr (p)
+	- mein
+- Onkel mütterlicherseits (Bruder der Mutter) 
+	- sein
+	- unser	
+	- dein (w)
+	- ihr (p)
+- Tante mütterlicherseits (Schwester der Mutter) 
+	- ihr (s)
+	- dein (m)
+	- euer
+	- mein
+- **sohn** von **onkel** (Mütterlicherseits)
+	- euer
+	- sein
+	- mein
+	- unser	
+- **sohn** von **tante** (Mütterlicherseits)
+	- ihr (p)
+	- dein (m)
+	- ihr (s)
+	- dein (w)
+- **tochter** von **onkel** (Mütterlicherseits)
+	- euer
+	- ihr (s)
+	- dein (w)
+	- sein
+- **tochter** von **tante** (Mütterlicherseits)
+	- dein (m)
+	- unser	
+	- mein
+	- ihr (p)
+- Freund (m/s)
+	- unser	
+	- dein (m)
+	- sein
+	- ihr (p)
+- Freunde (m/p)
+	- euer
+	- dein (w)
+	- mein
+	- ihr (s)
+- Freunde (w/s)
+	- unser	
+	- dein (m)
+	- sein
+	- ihr (p)
+- Freundinnen (w/p)
+	- euer
+	- dein (w)
+	- mein
+	- ihr (s)
+---
+- unser	
+- dein (m)
+- sein
+- ihr (p)
+
+- euer
+- dein (w)
+- mein
+- ihr (s)
+
+- ihr (s)
+- euer
+- ihr (p)
+- sein
+
+- dein (m)
+- dein (w)
+- unser	
+- mein
+
+- dein (m)
+- mein
+- ihr (s)
+- unser	
+
+- sein
+- euer
+- dein (w)
+- ihr (p)
+
+- dein (w)
+- sein
+- euer
+- unser	
+
+- ihr (p)
+- dein (m)
+- ihr (s)
+- mein
+
+- ihr (s)
+- unser	
+- euer
+- ihr (p)
+
+- dein (w)
+- dein (m)
+- sein
+- mein
+
+- dein (m)
+- sein
+- mein
+- dein (w)
+
+- euer
+- unser	
+- ihr (p)
+- ihr (s)
+
+- sein
+- mein
+- dein (m)
+- ihr (s)
+
+- ihr (p)
+- dein (w)
+- euer
+- unser	
+
+- dein (w)
+- ihr (p)
+- dein (m)
+- euer
+
+- sein
+- mein
+- unser	
+- ihr (s)
+
+- dein (w)
+- unser	
+- mein
+- euer
+
+- dein (m)
+- ihr (s)
+- sein
+- ihr (p)
+
+- dein (m)
+- euer
+- sein
+- unser	
+
+- ihr (p)
+- mein
+- dein (w)
+- ihr (s)
+
+- unser	
+- euer
+- ihr (p)
+- mein
+
+- sein
+- dein (m)
+- dein (w)
+- ihr (s)
+
+- ihr (p)
+- dein (m)
+- sein
+- euer
+
+- ihr (s)
+- dein (w)
+- mein
+- unser

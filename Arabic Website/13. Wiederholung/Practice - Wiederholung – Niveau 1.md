@@ -231,54 +231,303 @@ Ein Partner übersetzt die Wörter ins Arabische, während der andere die Antwor
 
 ### Partner 1
 
+1. Mutter
+2. Vater
+3. Eltern
+4. Bruder 
+5. Schwester 
+6. Geschwister
+7. Großvater 
+8. Großmutter 
+9. Onkel väterlicherseits (Bruder des Vaters) 
+10. Tante väterlicherseits (Schwester des Vaters)
+11. **sohn** von **onkel** (Väterlicherseits)
+12. **sohn** von **tante** (Väterlicherseits)
+13. **tochter** von **onkel** (Väterlicherseits)
+14. **tochter** von **tante** (Väterlicherseits)
+15. Onkel mütterlicherseits (Bruder der Mutter) 
+16. Tante mütterlicherseits (Schwester der Mutter) 
+17. **sohn** von **onkel** (Mütterlicherseits)
+18. **sohn** von **tante** (Mütterlicherseits)
+19. **tochter** von **onkel** (Mütterlicherseits)
+20. **tochter** von **tante** (Mütterlicherseits)
+21. Freund (m/s)
+22. Freunde (m/p)
+23. Freunde (w/s)
+24. Freundinnen (w/p)
+
+### Partner 2
+
+1. Großmutter
+2. **tochter** von **onkel** (Mütterlicherseits)
+3. Freunde (w/s)
+4. **tochter** von **tante** (Väterlicherseits)
+5. **tochter** von **tante** (Mütterlicherseits)
+6. Tante väterlicherseits (Schwester des Vaters)
+7. Freundinnen (w/p)
+8. Mutter
+9. Tante mütterlicherseits (Schwester der Mutter)
+10. **sohn** von **tante** (Mütterlicherseits)
+11. Geschwister
+12. Großvater
+13. Onkel väterlicherseits (Bruder des Vaters)
+14. **tochter** von **onkel** (Väterlicherseits)
+15. Freunde (m/p)
+16. Schwester
+17. **sohn** von **onkel** (Väterlicherseits)
+18. Vater
+19. Eltern
+20. Onkel mütterlicherseits (Bruder der Mutter)
+21. Freund (m/s)
+22. **sohn** von **onkel** (Mütterlicherseits)
+23. **sohn** von **tante** (Väterlicherseits)
+24. Bruder
+
+
+# Übung 6: Familienmitglieder + Possessivsuffixe
+Ein Partner übersetzt die Wörter ins Arabische, während der andere die Antworten auf dem Spickzettel überprüft.
+
+### Partner 1
+
 - Mutter
+	- mein
+	- dein (m)
+	- dein (w)
+	- sein
 - Vater
+	- ihr (s)
+	- unser
+	- euer
+	- ihr (p)
 - Eltern
+	- dein (w)
+	- sein
+	- euer
+	- unser	
 - Bruder 
+	- mein
+	- ihr (s)
+	- ihr (p)
+	- dein (m)
 - Schwester 
+	- mein
+	- ihr (s)
+	- euer
+	- ihr (p)
 - Geschwister
+	- dein (m)
+	- sein
+	- unser	
+	- dein (w)
 - Großvater 
+	- dein (m)
+	- ihr (s)
+	- dein (w)
+	- mein
 - Großmutter 
+	- euer
+	- unser	
+	- ihr (p)
+	- sein
 - Onkel väterlicherseits (Bruder des Vaters) 
+	- mein
+	- ihr (s)
+	- unser	
+	- dein (m)
 - Tante väterlicherseits (Schwester des Vaters)
+	- euer
+	- sein
+	- ihr (p)
+	- dein (w)
 - **sohn** von **onkel** (Väterlicherseits)
+	- dein (m)
+	- unser	
+	- ihr (p)
+	- dein (w)
 - **sohn** von **tante** (Väterlicherseits)
+	- sein
+	- euer
+	- mein
+	- ihr (s)
 - **tochter** von **onkel** (Väterlicherseits)
+	- dein (m)
+	- euer
+	- ihr (s)
+	- sein
 - **tochter** von **tante** (Väterlicherseits)
+	- dein (w)
+	- unser	
+	- ihr (p)
+	- mein
 - Onkel mütterlicherseits (Bruder der Mutter) 
+	- sein
+	- unser	
+	- dein (w)
+	- ihr (p)
 - Tante mütterlicherseits (Schwester der Mutter) 
+	- ihr (s)
+	- dein (m)
+	- euer
+	- mein
 - **sohn** von **onkel** (Mütterlicherseits)
+	- euer
+	- sein
+	- mein
+	- unser	
 - **sohn** von **tante** (Mütterlicherseits)
+	- ihr (p)
+	- dein (m)
+	- ihr (s)
+	- dein (w)
 - **tochter** von **onkel** (Mütterlicherseits)
+	- euer
+	- ihr (s)
+	- dein (w)
+	- sein
 - **tochter** von **tante** (Mütterlicherseits)
+	- dein (m)
+	- unser	
+	- mein
+	- ihr (p)
 - Freund (m/s)
+	- unser	
+	- dein (m)
+	- sein
+	- ihr (p)
 - Freunde (m/p)
+	- euer
+	- dein (w)
+	- mein
+	- ihr (s)
 - Freunde (w/s)
+	- unser	
+	- dein (m)
+	- sein
+	- ihr (p)
 - Freundinnen (w/p)
+	- euer
+	- dein (w)
+	- mein
+	- ihr (s)
 
 ### Partner 2
 
 - Großmutter
+	- unser	
+	- dein (m)
+	- sein
+	- ihr (p)
 - **tochter** von **onkel** (Mütterlicherseits)
+	- euer
+	- dein (w)
+	- mein
+	- ihr (s)
 - Freunde (w/s)
+	- ihr (s)
+	- euer
+	- ihr (p)
+	- sein
 - **tochter** von **tante** (Väterlicherseits)
+	- dein (m)
+	- dein (w)
+	- unser	
+	- mein
 - **tochter** von **tante** (Mütterlicherseits)
+	- dein (m)
+	- mein
+	- ihr (s)
+	- unser	
 - Tante väterlicherseits (Schwester des Vaters)
+	- sein
+	- euer
+	- dein (w)
+	- ihr (p)
 - Freundinnen (w/p)
+	- dein (w)
+	- sein
+	- euer
+	- unser	
 - Mutter
+	- ihr (p)
+	- dein (m)
+	- ihr (s)
+	- mein
 - Tante mütterlicherseits (Schwester der Mutter)
+	- ihr (s)
+	- unser	
+	- euer
+	- ihr (p)
 - **sohn** von **tante** (Mütterlicherseits)
+	- dein (w)
+	- dein (m)
+	- sein
+	- mein
 - Geschwister
+	- dein (m)
+	- sein
+	- mein
+	- dein (w)
 - Großvater
+	- euer
+	- unser	
+	- ihr (p)
+	- ihr (s)
 - Onkel väterlicherseits (Bruder des Vaters)
+	- sein
+	- mein
+	- dein (m)
+	- ihr (s)
 - **tochter** von **onkel** (Väterlicherseits)
+	- ihr (p)
+	- dein (w)
+	- euer
+	- unser	
 - Freunde (m/p)
+	- dein (w)
+	- ihr (p)
+	- dein (m)
+	- euer
 - Schwester
+	- sein
+	- mein
+	- unser	
+	- ihr (s)
 - **sohn** von **onkel** (Väterlicherseits)
+	- dein (w)
+	- unser	
+	- mein
+	- euer
 - Vater
+	- dein (m)
+	- ihr (s)
+	- sein
+	- ihr (p)
 - Eltern
+	- dein (m)
+	- euer
+	- sein
+	- unser	
 - Onkel mütterlicherseits (Bruder der Mutter)
+	- ihr (p)
+	- mein
+	- dein (w)
+	- ihr (s)
 - Freund (m/s)
+	- unser	
+	- euer
+	- ihr (p)
+	- mein
 - **sohn** von **onkel** (Mütterlicherseits)
+	- sein
+	- dein (m)
+	- dein (w)
+	- ihr (s)
 - **sohn** von **tante** (Väterlicherseits)
+	- ihr (p)
+	- dein (m)
+	- sein
+	- euer
 - Bruder
+	- ihr (s)
+	- dein (w)
+	- mein

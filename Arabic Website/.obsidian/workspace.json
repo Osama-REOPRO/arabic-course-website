@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "6aacd740d06d7f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubung familie posessiv 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ubung familie posessiv 1"
+            }
+          },
+          {
             "id": "962a394315e1314a",
             "type": "leaf",
             "state": {
@@ -201,8 +215,10 @@
   },
   "active": "27c41f6fe2de3969",
   "lastOpenFiles": [
-    "6. Pronomen und Possessivsuffixe/Vocab - Familienmitglieder.md",
+    "Ubung familie posessiv 1.md",
+    "Ubung familie posessiv.md",
     "13. Wiederholung/Practice - Wiederholung – Niveau 1.md",
+    "6. Pronomen und Possessivsuffixe/Vocab - Familienmitglieder.md",
     "6. Pronomen und Possessivsuffixe/Practice - Pronomen und Possessivsuffixe.md",
     "6. Pronomen und Possessivsuffixe/Grammer - Formeln zum Bilden von Sätzen mit Pronomen-Suffixen.md",
     "6. Pronomen und Possessivsuffixe/Grammer - Possessivsuffixe.md",
@@ -225,8 +241,6 @@
     "stuff you can copy.md",
     "11. Der Plural/Vocab - Pluralformen von Berufen.md",
     "12. das Wurzelmuster-System/Vocab - das Wurzelmuster-System.md",
-    "12. das Wurzelmuster-System/Practice - das Wurzelmuster-System.md",
-    "12. das Wurzelmuster-System/Grammer - das Wurzelmuster-System.md",
     "13. Wiederholung",
     "13. Wiederholung",
     "12. das Wurzelmuster-System",

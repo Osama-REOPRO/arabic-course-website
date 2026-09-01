@@ -36,68 +36,68 @@ order:
 
 ## Wer ist das? (Einfache Identifikation)
 
-_Fokus: Mien had/hay/hadol? & Possessivsuffixe_
+_Fokus: miin had/hay/hadol? & Possessivsuffixe_
 
-1. **F: Mien had?** (Wer ist das? m.)
+1. **F: miin had?** (Wer ist das? m.)
 	**A: Had 2a5i.** (Das ist mein Bruder.)
 
 ---
 	
-2. **F: Mien hay?** (Wer ist das? f.)
+2. **F: miin hay?** (Wer ist das? f.)
     **A: Hay i5ti.** (Das ist meine Schwester.)
 
 ---
 	
-2. **F: Mien hadol?** (Wer sind diese?)
+2. **F: miin hadol?** (Wer sind diese?)
     
     **A: Hadol ahli.** (Das ist meine Eltern/meine Familie.)
 
 ---
 	
     
-3. **F: Mien had ya Sami?**
+3. **F: miin had ya Sami?**
     
     **A: Had jiddi.** (Das ist mein Großvater.)
 
 ---
 	
     
-4. **F: Mien hay ya Zahra?**
+4. **F: miin hay ya Zahra?**
     
     **A: Hay sitti.** (Das ist meine Großmutter.)
 
 ---
 	
     
-5. **F: Mien hadol?**
+5. **F: miin hadol?**
     
     **A: Hadol rif2ati.** (Das sind meine Freunde.)
 
 ---
 	
     
-6. **F: Mien had?**
+6. **F: miin had?**
     
     **A: Had 3ammi.** (Das ist mein Onkel väterlicherseits.)
 
 ---
 	
     
-7. **F: Mien hay?**
+7. **F: miin hay?**
     
     **A: Hay 5alti.** (Das ist meine Tante mütterlicherseits.)
 
 ---
 	
     
-8. **F: Mien hadol?**
+8. **F: miin hadol?**
     
     **A: Hadol i5wati.** (Das sind meine Geschwister.)
 
 ---
 	
     
-9. **F: Mien had?**
+9. **F: miin had?**
     
     **A: Had rfi2i.** (Das ist mein Freund.)
     

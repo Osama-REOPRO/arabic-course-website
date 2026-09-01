@@ -11,7 +11,7 @@ order:
 
 | Frage                            | Bedeutung                     |
 | -------------------------------- | ----------------------------- |
-| Shuu haada/hay/hadool?           | Was ist das?                  |
-| Haada/Hay/Hadool + Nomen?        | Ist das...? (Antwort: Eh/La2) |
-| Miin haada/hay/hadool?           | Wer ist das?                  |
-| Haada/Hay/Hadool + Nomen + miin? | Wessen ...?                   |
+| shuu haada/hay/hadool?           | Was ist das?                  |
+| haada/hay/hadool + Nomen?        | Ist das...? (Antwort: Eh/La2) |
+| miin haada/hay/hadool?           | Wer ist das?                  |
+| haada/hay/hadool + Nomen + miin? | Wessen ...?                   |

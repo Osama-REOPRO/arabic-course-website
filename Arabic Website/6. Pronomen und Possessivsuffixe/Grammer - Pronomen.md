@@ -14,8 +14,8 @@ order:
 | أنا      | ana       | ich      |
 | إنتَ     | inte      | du (m)   |
 | إنتي     | inti      | du (w)   |
-| هو       | hwwe      | er       |
-| هي       | hyye      | sie (s)  |
-| نحنا     | ni7na     | wir      |
+| هو       | huue      | er       |
+| هي       | hiie      | sie (s)  |
+| نحنا     | ne7na     | wir      |
 | إنتو     | intu      | ihr (pl) |
-| هنن      | hinnin    | sie (pl) |
+| هنن      | hennen    | sie (pl) |

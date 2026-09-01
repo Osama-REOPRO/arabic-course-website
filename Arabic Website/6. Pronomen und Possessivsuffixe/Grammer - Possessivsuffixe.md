@@ -12,9 +12,9 @@ order:
 | :------------------- | :------- | :--------------------- |
 | **ana** (Ich)        | **+i**   | **ismi** (Mein Name)   |
 | **inte** (Du, m)     | **+ak**  | **ismak** (Dein Name)  |
-| **inti** (Du, f)     | **+ik**  | **ismik** (Dein Name)  |
-| **huwe** (Er)        | **+o**   | **ismo** (Sein Name)   |
-| **hiye** (Sie)       | **+a**   | **isma** (Ihr Name)    |
-| **ni7na** (Wir)      | **+na**  | **ismna** (Unser Name) |
+| **inti** (Du, f)     | **+ek**  | **ismek** (Dein Name)  |
+| **huue** (Er)        | **+o**   | **ismo** (Sein Name)   |
+| **hiie** (Sie)       | **+a**   | **isma** (Ihr Name)    |
+| **ne7na** (Wir)      | **+na**  | **ismna** (Unser Name) |
 | **intu** (Ihr alle)  | **+kon** | **ismkon** (Euer Name) |
-| **hinnen** (Sie)     | **+on**  | **ismon** (Ihr Name)   |
+| **hennen** (Sie)     | **+on**  | **ismon** (Ihr Name)   |

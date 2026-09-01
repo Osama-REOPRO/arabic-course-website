@@ -7,7 +7,7 @@ group:
 order: 17
 lektion: 19
 ---
-# Ubung 1: Demonstrativartikel
+# Übung 1: Demonstrativartikel
 Fülle die Lücken mit (haad, hay, hadool) aus.
 
 1. \_\_\_\_\_ marat
@@ -28,7 +28,7 @@ Fülle die Lücken mit (haad, hay, hadool) aus.
 16. \_\_\_\_\_ byuut
 17. \_\_\_\_\_ Sebyaan
 
-# Ubung 2: die Vokale
+# Übung 2: die Vokale
 Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurzen oder langen Vokale korrekt ausgesprochen werden.
 ### Partner 1
 1. inte kiifak?
@@ -66,6 +66,10 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurze
 33. ma3 el-salaamet
 34. 3afwan!
 35. ahla w sahlaa!
+36.  3een
+37. Seef
+38. 7abbeetak
+39. shetee
 
 ### Partner 2
 1. Sabaa7 el-5eer!
@@ -103,3 +107,178 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurze
 33. kalbaat
 34. 3afwan!
 35. 3elbet
+36. 3yuun
+37. 7abiibi
+38. khalf
+39. NaTartak
+
+# Übung 3: Shaddet
+Ein Partner liest die Wörter vor, während der andere überprüft, ob das Shaddet richtig ausgesprochen wird.
+### Partner 1
+1. najjaar
+2. sayyaarat
+3. teffaa7at
+4. remmaan
+5. Tayyeb
+6. jannet
+7. M7ammad
+8. kazzab
+9. kazzaab
+	- unterschied? (kazzab, kazzaab)
+10. qarrar
+11. NaZZam
+12. ghazzaa
+13. khaffaf
+14. fakkar
+15. zayyan
+16. makke
+17. tfaDDal
+18. tfaDDalyy
+19. rejjaal
+### Partner 2
+1. teffaa7at
+2. Tayyeb
+3. NaZZam
+4. fakkar
+5. M7ammad
+6. remmaan
+7. najjaar
+8. zayyan
+9. khaffaf
+10. sayyaarat
+11. rejjaal
+12. jannet
+13. ghazzaa
+14. qarrar
+15. makke
+16. tfaDDalyy
+17. tfaDDal
+18. kazzab
+19. kazzaab
+	- unterschied? (kazzab, kazzaab)
+
+# Übung 4: einfache Fragen
+Ein Partner fragt, was/wer das ist, der andere antwortet.
+
+> frage: shuu/miin + haad/hay/hadool?
+> antwort: haad/hay/hadool + nomen
+
+> sache >> shuu
+> person >> miin
+
+### Partner 1
+1. rfi2
+2. Taawlet
+3. 7emmus
+4. sitt
+5. Anniinet
+6. Ktaab
+7. Maktab
+8. BaaSaat
+9. Kersi
+10. Ketob
+11. 2a5
+12. i5t
+13. madraset
+14. Karaasi
+15. NaDDaarat
+16. 3amm
+17. Shams
+18. Raf
+19. ahl
+20. 5aalet
+21. i5waatt
+22. jidd
+23. Rfuuf
+24. 2kl
+25. rif2aatt
+26. Taawlaatt
+27. Anaani
+28. BaaS
+
+### Partner 2
+1. Ktaab
+2. Ketob
+3. 7emmus
+4. 5alet
+5. Karaasi
+6. Maktab
+7. BaaS
+8. jidd
+9. anaani
+10. 2kl
+11. Rfuuf
+12. madraset
+13. Raf
+14. ahl
+15. Taawlet
+16. 2a5
+17. Anniinet
+18. rif2aatt
+19. NaDDaarat
+20. Kersi
+21. BaaSaat
+22. 3amm
+23. i5waatt
+24. Taawlaatt
+25. sitti
+26. rfi2
+27. Shams
+28. i5t
+
+# Übung 5: Familienmitglieder
+Ein Partner übersetzt die Wörter ins Arabische, während der andere die Antworten auf dem Spickzettel überprüft.
+
+### Partner 1
+
+- Mutter
+- Vater
+- Eltern
+- Bruder 
+- Schwester 
+- Geschwister
+- Großvater 
+- Großmutter 
+- Onkel väterlicherseits (Bruder des Vaters) 
+- Tante väterlicherseits (Schwester des Vaters)
+- **sohn** von **onkel** (Väterlicherseits)
+- **sohn** von **tante** (Väterlicherseits)
+- **tochter** von **onkel** (Väterlicherseits)
+- **tochter** von **tante** (Väterlicherseits)
+- Onkel mütterlicherseits (Bruder der Mutter) 
+- Tante mütterlicherseits (Schwester der Mutter) 
+- **sohn** von **onkel** (Mütterlicherseits)
+- **sohn** von **tante** (Mütterlicherseits)
+- **tochter** von **onkel** (Mütterlicherseits)
+- **tochter** von **tante** (Mütterlicherseits)
+- Freund (m/s)
+- Freunde (m/p)
+- Freunde (w/s)
+- Freundinnen (w/p)
+
+### Partner 2
+
+- Großmutter
+- **tochter** von **onkel** (Mütterlicherseits)
+- Freunde (w/s)
+- **tochter** von **tante** (Väterlicherseits)
+- **tochter** von **tante** (Mütterlicherseits)
+- Tante väterlicherseits (Schwester des Vaters)
+- Freundinnen (w/p)
+- Mutter
+- Tante mütterlicherseits (Schwester der Mutter)
+- **sohn** von **tante** (Mütterlicherseits)
+- Geschwister
+- Großvater
+- Onkel väterlicherseits (Bruder des Vaters)
+- **tochter** von **onkel** (Väterlicherseits)
+- Freunde (m/p)
+- Schwester
+- **sohn** von **onkel** (Väterlicherseits)
+- Vater
+- Eltern
+- Onkel mütterlicherseits (Bruder der Mutter)
+- Freund (m/s)
+- **sohn** von **onkel** (Mütterlicherseits)
+- **sohn** von **tante** (Väterlicherseits)
+- Bruder

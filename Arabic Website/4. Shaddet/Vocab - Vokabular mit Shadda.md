@@ -14,14 +14,14 @@ https://youtu.be/3NszKWpOMF4
 
 | **Syrisches Arabisch** | **Transliteration** | **Englisch**        | **Deutsch**              |
 | ---------------------- | ------------------- | ------------------- | ------------------------ |
-| نجّار                  | najjar              | carpenter           | Tischler                 |
+| نجّار                  | najjaar              | carpenter           | Tischler                 |
 | سيّارة                 | sayyaarat           | car                 | Auto                     |
 | تفّاحة                 | teffaa7at           | apple               | Apfel                    |
 | رمّان                  | remmaan             | pomegranate         | Granatapfel              |
 | طيّب                   | Tayyeb              | good / tasty        | gut / lecker             |
 | جنّة                   | jannet              | paradise / garden   | Paradies / Garten        |
 | محمّد                  | M7ammad             | Muhammad            | Muhammad                 |
-| كذّب                   | kazzaab             | to lie / deny       | lügen / leugnen          |
+| كذّب                   | kazzab             | to lie / deny       | lügen / leugnen          |
 | قرّر                   | 2arrar              | to decide           | entscheiden              |
 | نظّم                   | naZZam              | to organize         | organisieren             |
 | غذّى                   | ghazzaa             | to feed             | füttern                  |

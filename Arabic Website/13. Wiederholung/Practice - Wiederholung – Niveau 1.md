@@ -289,122 +289,122 @@ Ein Partner übersetzt die Wörter ins Arabische, während der andere die Antwor
 
 ### Partner 1
 
-- Mutter
+1. Mutter
 	- mein
 	- dein (m)
 	- dein (w)
 	- sein
-- Vater
+2. Vater
 	- ihr (s)
 	- unser
 	- euer
 	- ihr (p)
-- Eltern
+3. Eltern
 	- dein (w)
 	- sein
 	- euer
 	- unser	
-- Bruder 
+4. Bruder 
 	- mein
 	- ihr (s)
 	- ihr (p)
 	- dein (m)
-- Schwester 
+5. Schwester 
 	- mein
 	- ihr (s)
 	- euer
 	- ihr (p)
-- Geschwister
+6. Geschwister
 	- dein (m)
 	- sein
 	- unser	
 	- dein (w)
-- Großvater 
+7. Großvater 
 	- dein (m)
 	- ihr (s)
 	- dein (w)
 	- mein
-- Großmutter 
+8. Großmutter 
 	- euer
 	- unser	
 	- ihr (p)
 	- sein
-- Onkel väterlicherseits (Bruder des Vaters) 
+9. Onkel väterlicherseits (Bruder des Vaters) 
 	- mein
 	- ihr (s)
 	- unser	
 	- dein (m)
-- Tante väterlicherseits (Schwester des Vaters)
+10. Tante väterlicherseits (Schwester des Vaters)
 	- euer
 	- sein
 	- ihr (p)
 	- dein (w)
-- **sohn** von **onkel** (Väterlicherseits)
+11. **sohn** von **onkel** (Väterlicherseits)
 	- dein (m)
 	- unser	
 	- ihr (p)
 	- dein (w)
-- **sohn** von **tante** (Väterlicherseits)
+12. **sohn** von **tante** (Väterlicherseits)
 	- sein
 	- euer
 	- mein
 	- ihr (s)
-- **tochter** von **onkel** (Väterlicherseits)
+13. **tochter** von **onkel** (Väterlicherseits)
 	- dein (m)
 	- euer
 	- ihr (s)
 	- sein
-- **tochter** von **tante** (Väterlicherseits)
+14. **tochter** von **tante** (Väterlicherseits)
 	- dein (w)
 	- unser	
 	- ihr (p)
 	- mein
-- Onkel mütterlicherseits (Bruder der Mutter) 
+15. Onkel mütterlicherseits (Bruder der Mutter) 
 	- sein
 	- unser	
 	- dein (w)
 	- ihr (p)
-- Tante mütterlicherseits (Schwester der Mutter) 
+16. Tante mütterlicherseits (Schwester der Mutter) 
 	- ihr (s)
 	- dein (m)
 	- euer
 	- mein
-- **sohn** von **onkel** (Mütterlicherseits)
+17. **sohn** von **onkel** (Mütterlicherseits)
 	- euer
 	- sein
 	- mein
 	- unser	
-- **sohn** von **tante** (Mütterlicherseits)
+18. **sohn** von **tante** (Mütterlicherseits)
 	- ihr (p)
 	- dein (m)
 	- ihr (s)
 	- dein (w)
-- **tochter** von **onkel** (Mütterlicherseits)
+19. **tochter** von **onkel** (Mütterlicherseits)
 	- euer
 	- ihr (s)
 	- dein (w)
 	- sein
-- **tochter** von **tante** (Mütterlicherseits)
+20. **tochter** von **tante** (Mütterlicherseits)
 	- dein (m)
 	- unser	
 	- mein
 	- ihr (p)
-- Freund (m/s)
+21. Freund (m/s)
 	- unser	
 	- dein (m)
 	- sein
 	- ihr (p)
-- Freunde (m/p)
+22. Freunde (m/p)
 	- euer
 	- dein (w)
 	- mein
 	- ihr (s)
-- Freunde (w/s)
+23. Freunde (w/s)
 	- unser	
 	- dein (m)
 	- sein
 	- ihr (p)
-- Freundinnen (w/p)
+24. Freundinnen (w/p)
 	- euer
 	- dein (w)
 	- mein
@@ -412,122 +412,212 @@ Ein Partner übersetzt die Wörter ins Arabische, während der andere die Antwor
 
 ### Partner 2
 
-- Großmutter
+1. Großmutter
 	- unser	
 	- dein (m)
 	- sein
 	- ihr (p)
-- **tochter** von **onkel** (Mütterlicherseits)
+2. **tochter** von **onkel** (Mütterlicherseits)
 	- euer
 	- dein (w)
 	- mein
 	- ihr (s)
-- Freunde (w/s)
+3. Freunde (w/s)
 	- ihr (s)
 	- euer
 	- ihr (p)
 	- sein
-- **tochter** von **tante** (Väterlicherseits)
+4. **tochter** von **tante** (Väterlicherseits)
 	- dein (m)
 	- dein (w)
 	- unser	
 	- mein
-- **tochter** von **tante** (Mütterlicherseits)
+5. **tochter** von **tante** (Mütterlicherseits)
 	- dein (m)
 	- mein
 	- ihr (s)
 	- unser	
-- Tante väterlicherseits (Schwester des Vaters)
+6. Tante väterlicherseits (Schwester des Vaters)
 	- sein
 	- euer
 	- dein (w)
 	- ihr (p)
-- Freundinnen (w/p)
+7. Freundinnen (w/p)
 	- dein (w)
 	- sein
 	- euer
 	- unser	
-- Mutter
+8. Mutter
 	- ihr (p)
 	- dein (m)
 	- ihr (s)
 	- mein
-- Tante mütterlicherseits (Schwester der Mutter)
+9. Tante mütterlicherseits (Schwester der Mutter)
 	- ihr (s)
 	- unser	
 	- euer
 	- ihr (p)
-- **sohn** von **tante** (Mütterlicherseits)
+10. **sohn** von **tante** (Mütterlicherseits)
 	- dein (w)
 	- dein (m)
 	- sein
 	- mein
-- Geschwister
+11. Geschwister
 	- dein (m)
 	- sein
 	- mein
 	- dein (w)
-- Großvater
+12. Großvater
 	- euer
 	- unser	
 	- ihr (p)
 	- ihr (s)
-- Onkel väterlicherseits (Bruder des Vaters)
+13. Onkel väterlicherseits (Bruder des Vaters)
 	- sein
 	- mein
 	- dein (m)
 	- ihr (s)
-- **tochter** von **onkel** (Väterlicherseits)
+14. **tochter** von **onkel** (Väterlicherseits)
 	- ihr (p)
 	- dein (w)
 	- euer
 	- unser	
-- Freunde (m/p)
+15. Freunde (m/p)
 	- dein (w)
 	- ihr (p)
 	- dein (m)
 	- euer
-- Schwester
+16. Schwester
 	- sein
 	- mein
 	- unser	
 	- ihr (s)
-- **sohn** von **onkel** (Väterlicherseits)
+17. **sohn** von **onkel** (Väterlicherseits)
 	- dein (w)
 	- unser	
 	- mein
 	- euer
-- Vater
+18. Vater
 	- dein (m)
 	- ihr (s)
 	- sein
 	- ihr (p)
-- Eltern
+19. Eltern
 	- dein (m)
 	- euer
 	- sein
 	- unser	
-- Onkel mütterlicherseits (Bruder der Mutter)
+20. Onkel mütterlicherseits (Bruder der Mutter)
 	- ihr (p)
 	- mein
 	- dein (w)
 	- ihr (s)
-- Freund (m/s)
+21. Freund (m/s)
 	- unser	
 	- euer
 	- ihr (p)
 	- mein
-- **sohn** von **onkel** (Mütterlicherseits)
+22. **sohn** von **onkel** (Mütterlicherseits)
 	- sein
 	- dein (m)
 	- dein (w)
 	- ihr (s)
-- **sohn** von **tante** (Väterlicherseits)
+23. **sohn** von **tante** (Väterlicherseits)
 	- ihr (p)
 	- dein (m)
 	- sein
 	- euer
-- Bruder
+24. Bruder
 	- ihr (s)
 	- dein (w)
 	- mein
+	- dein (m)
+
+
+# Übung 7: Wem gehört das?
+ins Arabische übersetzen
+
+1. Wessen Haus ist das? 
+	- Das ist mein Haus. 
+	- Das ist dein Haus (m.). 
+	- Das ist dein Haus (f.). 
+2. Wessen Auto ist das? 
+	- Das ist mein Auto. 
+	- Das ist dein Auto (m.). 
+3. Ist das dein Auto, Hala? 
+4. Bist du Karim? 
+	- Ja, ich bin Karim. 
+5.  Wer ist sie? 
+	- Das ist meine Frau Lara. 
+6.  Bist du Jamal? 
+	- Nein, ich bin nicht Jamal. 
+7.  Seid ihr Ahmed und Lara? 
+	- Ja, wir sind Ahmed und Lara.
+8.  Wie heißt dein Bruder?
+	- Mein Bruder heißt Muhammad.
+9.  Wie heißt deine Schwester?
+	- Meine Schwester heißt Layla.
+10.  Wie heißt dein Onkel mütterlicherseits?
+	- Mein Onkel heißt Samer.
+11.  Wie heißt deine Tante väterlicherseits?
+	- Meine Tante heißt Mona.
+12.  Wie heißen deine Geschwister?
+	- Meine Geschwister heißen Omar und Sarah.
+13.  Wie heißt der Bankdirektor?
+	- Der Bankdirektor heißt Mr. Schmidt.
+14.  Ist Kamal dein Cousin?
+	- Ja, Kamal ist mein Cousin.
+15.  Wie heißt deine Cousine?
+	- Meine Cousine heißt Noor.
+16.  Wie heißen seine Eltern?
+	- Seine Eltern heißen Huda und Ahmad.
+17.  Wie heißt dein Freund, Maya?
+	- Mein Freund heißt Lukas.
+18.  Wer ist die Schulleiterin?
+	- Das ist die Schulleiterin, ihr Name ist Frau Müller.
+19.  Sind das die Kinder deines Onkels?
+	- Ja, das sind mein Cousin und meine Cousine.
+---
+
+# Übung 8
+Füllen Sie die Lücken aus.
+1. 2abi w immi hinnin ________. (Meine Eltern)
+2. 2a5i w i5ti hinnin ________. (Meine Geschwister)
+3. 2ab 2abi huwe ________. (Mein Großvater)
+4. imm immi hiyye ________. (Meine Großmutter)
+5. ________ huwe 2a5 2abi. (Der Onkel väterlicherseits)
+6. (Ich) ________ ismi Samira. (Mein Name)
+7. (Du, m) Shu ism________? (Dein Name)
+8. (Sie) Hiyye ism________ Maya. (Ihr Name)
+9. (Wir) Ni7na ism________ al-Asad. (Unser Name)
+10. (Ihr) Shu ism________? (Euer Name)
+11. ________ 25i M7ammad. (Das ist mein Bruder...)
+12. ________ immi w 2abi. (Das sind meine...)
+13. ________ rfi2ti Zahra. (Das ist meine Freundin...)
+14. Mien ________? (Wer sind diese?)
+15. Mien ________? (Wer ist das? (m))
+16. Mien ________? (Wer ist das? (f))
+17. ________ 3aylti. (Das ist meine Familie.)
+18. ________ Ahl 2abi. (Das sind die Eltern meines Vaters.)
+19. ________ inte ya Karim? (Bist du das, Karim?)
+20. ________ mo rfi2i, had 25i. (Das ist nicht mein Freund, das ist mein Bruder.)
+21. Shu ismo ________? (Wie heißt dein Onkel väterlicherseits?) (m)
+22. ________ isma Sabiha. (Der Name meiner Tante mütterlicherseits ist Sabiha.)
+23. ________ ismon Noor w Noora. (Die Namen meiner Geschwister sind...)
+24. Kamal ________? (Ist Kamal dein Onkel väterlicherseits?) (m)
+25. Shu ________ immak? (Wie heißt deine Mutter? - wörtl: Was [ihr Name] deine Mutter?)
+26. Shu ismon ________? (Wie heißen deine Eltern?) (m)
+27. ________ 5altkon? (Ist Manal eure Tante mütterlicherseits?)
+28. Eh, Manal ________. (Ja, Manal ist unsere Tante mütterlicherseits.)
+29. Shu ________ 2i5watik ya Zahra? (Wie heißen deine Geschwister, Zahra?)
+30. ________ ismo Samy. (Mein Cousin (väterlich) heißt Samy.)
+31. La2, ________ mo 3ammi, huwe 5ali. (Nein, er ist nicht mein Onkel (v), er ist mein Onkel (m).)
+32. Shu isma ________? (Wie heißt deine Freundin?)
+33. ________ ismo Jiddak? (Wie heißt dein Großvater?)
+34. Hadeel ________? (Ist Hadeel seine Mutter?)
+35. Eh, Hadeel ________. (Ja, Hadeel ist seine Mutter.)
+36. Shu ismon ________? (Wie heißen die Freunde deines Bruders?)
+37. ibn ________ ismo Karim. (Der Sohn meines Onkels (v) heißt Karim.)
+38. Shu ________ rfi2ak? (Wie heißt dein Freund?)
+39. ________ moo ana, hada 25i. (Nein, das bin nicht ich, das ist mein Bruder.)
+40. ________ isma Sitti? (Wie heißt meine Großmutter?)

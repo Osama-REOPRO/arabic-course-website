@@ -8,8 +8,8 @@ order: 2
 ---
 # Arabische Vokale
 
-| Kurz    | Lang  |
+| Lang    | Kurz  |
 | ------- | ----- |
-| a       | aa    |
+| aa      | a     |
 | ee / ii | e / i |
 | uu / oo | u / o |

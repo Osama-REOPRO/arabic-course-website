@@ -14,10 +14,10 @@ Fülle die Lücken mit (haad, hay, hadool) aus.
 2. \_\_\_\_\_ 7ubb
 3. \_\_\_\_\_ 3elbet
 4. \_\_\_\_\_ Sabiiet
-5. \_\_\_\_\_ 3elbaat
+5. \_\_\_\_\_ 3elbaatt
 6. \_\_\_\_\_ kalbet
 7. \_\_\_\_\_ neswaan
-8. \_\_\_\_\_ kalbaat
+8. \_\_\_\_\_ kalbaatt
 9. \_\_\_\_\_ rejjaal
 10. \_\_\_\_\_ rjaal
 11. \_\_\_\_\_ klaab

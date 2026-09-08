@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e657544b8191df31",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6521f2c9bac20ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. der Haushalt/Vocab - der haushalt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocab - der haushalt"
-            }
-          }
-        ]
-      },
-      {
         "id": "f05ce3b34cb73fff",
         "type": "tabs",
         "children": [
@@ -49,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. der Haushalt/Practice - der haushalt.md",
-                "mode": "source",
+                "file": "14. der Haushalt/Explanation - ween - bi.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice - der haushalt"
+              "title": "Explanation - ween - bi"
             }
           }
         ],
@@ -117,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "893e954cd68b95c6",
@@ -222,8 +201,10 @@
   },
   "active": "75bba400a6482d75",
   "lastOpenFiles": [
-    "14. der Haushalt/Vocab - der haushalt.md",
+    "14. der Haushalt/Grammer - ween - bi.md",
     "14. der Haushalt/Practice - der haushalt.md",
+    "14. der Haushalt/Vocab - der haushalt.md",
+    "14. der Haushalt/Explanation - ween - bi.md",
     "13. Wiederholung/Practice - Wiederholung – Niveau 1.md",
     "13. Wiederholung/Practice - Wiederholung 2 - der bestimmte artikel.md",
     "14. der Haushalt/Practice - Wiederholung 2 - der bestimmte artikel.md",
@@ -247,8 +228,6 @@
     "5. Frage/Vocab - Fragen.md",
     "5. Frage/Practice - Fragen.md",
     "5. Frage/Grammer - Fragen.md",
-    "5. Frage/Explanation - Fragen.md",
-    "4. Shaddet/Vocab - Vokabular mit Shadda.md",
     "13. Wiederholung",
     "13. Wiederholung",
     "12. das Wurzelmuster-System",

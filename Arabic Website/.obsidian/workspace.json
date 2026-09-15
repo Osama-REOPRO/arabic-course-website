@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. der Haushalt/Explanation - ween - bi.md",
+                "file": "14. der Haushalt/Explanation - der Haushalt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explanation - ween - bi"
+              "title": "Explanation - der Haushalt"
             }
           }
         ],
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "893e954cd68b95c6",
@@ -201,11 +202,17 @@
   },
   "active": "75bba400a6482d75",
   "lastOpenFiles": [
-    "14. der Haushalt/Grammer - ween - bi.md",
-    "14. der Haushalt/Practice - der haushalt.md",
-    "14. der Haushalt/Vocab - der haushalt.md",
     "14. der Haushalt/Explanation - ween - bi.md",
+    "14. der Haushalt/Explanation - der Haushalt.md",
+    "14. der Haushalt/Vocab - der haushalt.md",
+    "14. der Haushalt 1/Vocab - der haushalt.md",
+    "14. der Haushalt 1/Practice - der haushalt.md",
+    "14. der Haushalt 1/Grammer - ween - bi.md",
+    "14. der Haushalt 1/Explanation - ween - bi.md",
+    "14. der Haushalt 1",
     "13. Wiederholung/Practice - Wiederholung – Niveau 1.md",
+    "14. der Haushalt/Practice - der haushalt.md",
+    "14. der Haushalt/Grammer - ween - bi.md",
     "13. Wiederholung/Practice - Wiederholung 2 - der bestimmte artikel.md",
     "14. der Haushalt/Practice - Wiederholung 2 - der bestimmte artikel.md",
     "14. der Haushalt",
@@ -223,11 +230,6 @@
     "Ubung familie posessiv 1.md",
     "Ubung familie posessiv.md",
     "6. Pronomen und Possessivsuffixe/Grammer - Formeln zum Bilden von Sätzen mit Pronomen-Suffixen.md",
-    "6. Pronomen und Possessivsuffixe/Grammer - Possessivsuffixe.md",
-    "6. Pronomen und Possessivsuffixe/Grammer - Pronomen.md",
-    "5. Frage/Vocab - Fragen.md",
-    "5. Frage/Practice - Fragen.md",
-    "5. Frage/Grammer - Fragen.md",
     "13. Wiederholung",
     "13. Wiederholung",
     "12. das Wurzelmuster-System",
@@ -239,7 +241,6 @@
     "folder template/Untitled",
     "7. Berufe",
     "9. Die Kehllaute",
-    "8. Idaafet",
     "4. Shaddet/Fairouz-Fairuz-Fayrouz-Fayruz-Lebanese-singer-actress-performs-Amman-University-2004.jpg.webp",
     "4. Shaddet/Screenshot 2026-03-24 at 8.01.14 PM.png",
     "Screenshot 2026-07-11 at 8.25.04 PM.png"

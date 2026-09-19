@@ -98,38 +98,41 @@ L raff - das regal
 
 **✅ Übungen:**
 - **Fi Telvision bi 8urfet (L) Nom?**
-  ➢ ......................................
+  ➢ La2, maa fii Telvisioon bi 8urfett l noom.
 - **Fi 5zaanet bi 8urfet (L) Nom?**
-  ➢ ......................................
+	- eh, fii 5zaanet bi 8urfett L noom
+	- la2, maa fii 5zaanet bit 8urfett L noom
 
 ---
 
 ### 🧸 Schu fi bi 8urfet L Wlad? *(Möbel im Kinderzimmer)*
-| Ta5t Wlad | Raff Al3ab | Sajjedet | Birdeyet |
-|---|---|---|---|
-| Kinderbett | Spielzeugregal | Teppich | Vorhang |
+| Ta5t Wlad  | Raff Al3ab     | Sejjedet | Birdaayet |
+| ---------- | -------------- | -------- | --------- |
+| Kinderbett | Spielzeugregal | Teppich  | Vorhang   |
 
 **✅ Übungen:**
-- **Fi Kommondinat bi 8urfet L Wlad?**
-  ➢ ......................................................
+- **Fi Kommondinat bi 8urfet L Wlaad?**
+	  - eh, fii kommadinat bi 8urfet l wlaad
+	  - la2, maa fii kommadiinat bi 8urfet L wlaad
 - **Fi Birdayet bi 8urfet L Wlad?**
-  ➢ ......................................................
+	- eh, fii birdaayet bi 8urfet L wlaad
+	- la2, maa fii birdaayet bi 8urfet L wlaad
 
 ---
 
 ## 🧊 Bedd (fi3el d3if) — „Wollen" (schwaches Verb) — Konjugationstabelle
 
-| | ana | inta | inti | huwe | hiyi | ni7na | intu | hinnin |
-|---|---|---|---|---|---|---|---|---|
-| **bedd** | beddi | beddak | beddik | beddu | bedda | beddnna | bedkun | beddun |
+|          | ana   | inte   | inti   | huue  | hyye  | ni7na | intu   | hinnin |
+| -------- | ----- | ------ | ------ | ----- | ----- | ----- | ------ | ------ |
+| **bedd** | beddi | beddak | beddek | beddo | bedda | bedna | bedkon | beddon |
 
 ### 📗 Dialog — Lina w Joza beddon 8rad La L Matba5
-*(Lina und Joza brauchen Sachen für die Küche. Sie sind im Elektrogeschäft.)*
+*(Lina und ihre mann brauchen Sachen für die Küche. Sie sind im Elektrogeschäft.)*
 
-> **Joz Lina:** ayya Barraad biddek? haada wlla/aw haada?
+> **Joz Lina:** ayya Barraad beddek? haada walla haada?
 > **Lina:** beddi hada L Barrad.
 >
-> **Joz Lina:** ayya 8asselet beddik? hay aw hay
+> **Joz Lina:** ayya 8asselet beddik? hay walla hay
 > **Lina:** beddi hay L 8asselet.
 >
 > **Joz Lina:** beddik 8az?
@@ -139,29 +142,36 @@ L raff - das regal
 > **Lina:** La2, ma beddnna Jalleyt; Jalleyetna jdide.
 >
 > **Joz Lina:** bednna lissa schi La L Matba5?
-> **Lina:** Eh akid, beddnna lissa:
+> **Lina:** Eh akid, beddnna lissa kasaat
 
 ### Geräte / Küchenvokabular:
 | Barrad | 8asselet | 8az | Jalleyet |
 |---|---|---|---|
 | Kühlschrank | Waschmaschine | Herd | Geschirrspüler |
 
-| S7un | Kasat | Fanajin | Schuwak | Mala3i2 | Sakakin |
-|---|---|---|---|---|---|
-| Teller | Gläser | Tassen | Gabeln | Löffel | Messer |
+| Sa7n   | Kasat  | kaaset | Finjaan | fanaajeen       | Schuwak | ma3aale2 | Sakakin |
+| ------ | ------ | ------ | ------- | --------------- | ------- | -------- | ------- |
+| Teller | Gläser | Glas   | Tasse   | Tassen (plural) | Gabeln  | Löffel   | Messer  |
 
 ### ✅ Jawbi/jawib 3ala L 2as2ilat: *(Beantworte die Fragen)*
 
 1. wenun Lina w Joza?
-   ......................................................
-2. Schu beddun min Ma7al L Elektroniyet?
-   ......................................................
-3. bedda Lina Jalleyet?
-   ......................................................
-4. Kiif huwe 8az Lina?
-   ......................................................
+   Liina w Jooza bi Ma7al L Elektroniyet
+
+2. Schu beddun min Ma7al L Elektroniyaat?
+   beddun barraad w 8assaalet min ma7al L elektroniyaat
+
+3. bedda Liina Jalleyet?   
+	eh, liina bedda jallaayet
+	la2, liina maa bedda jallaayet
+	
+4. Kiif huwe 8aaz Lina?
+8aaz Liina jdiid
+8aaz liina mnee7
+
 5. bedda Lina S7un w Kasat?
-   ......................................................
+la2, maa bedda Liinaa S7uun w kaasaat
+eh, bedda Lina S7uun w kaasaat
 
 ### Adjektiv-Muster:
 **jdid - jdide - jdad** *(neu — m/f/pl)* # **2adim - 2adime - 2dam** *(alt — m/f/pl)*

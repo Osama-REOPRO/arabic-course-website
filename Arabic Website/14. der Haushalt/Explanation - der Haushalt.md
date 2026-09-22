@@ -254,15 +254,15 @@ eh, bedda Lina S7uun w kaasaat
 
 ## ❔ Schu huwe (L) Su2al? *(Was ist die Frage?)* — Schreibe die passende Frage
 
-| #   | Su2al                                                  | Jawab                                    |
-| --- | ------------------------------------------------------ | ---------------------------------------- |
-| 1   | shuu haada? / haada beet miin?                         | haada beet kariim.                       |
-| 2   | ...................................................... | beet kariim kbiir.                       |
-| 3   | ...................................................... | la2, bi beet kariim maa fii ktiir 8uraf. |
-| 4   | ...................................................... | 8urfet L 2a3det z8iire.                  |
-| 5   | ...................................................... | L maktabet bi 8urfet L 2a3det.           |
-| 6   | ...................................................... | la2, ahli muu bi L beet.                 |
-| 7   | ...................................................... | 5aaled w 7alaa bi beeton.                |
-| 8   | ...................................................... | hadool rfuuf Kutob.                      |
-| 9   | ...................................................... | eh, hay 8urfti.                          |
-| 10  | ...................................................... | hay 5zaanet i5ti.                        |
+| #   | Su2al                                       | Jawab                                    |
+| --- | ------------------------------------------- | ---------------------------------------- |
+| 1   | shuu haada? / haada beet miin?              | haada beet kariim.                       |
+| 2   | beet kariim kbiir? kiif huue beet kariim?   | beet kariim kbiir.                       |
+| 3   | fii ktiir 8uraf bi beet kariim?             | la2, bi beet kariim maa fii ktiir 8uraf. |
+| 4   | kiif hiiye 8urftet L 2a3det                 | 8urfet L 2a3det z8iiret.                 |
+| 5   | ween L maktabet? bi ayya 8urfet L maktabet? | L maktabet bi 8urfet L 2a3det.           |
+| 6   | ahlek bi L beet?                            | la2, ahli muu bi L beet.                 |
+| 7   | weenon 5aaled w 7alaa?                      | 5aaled w 7alaa bi beeton.                |
+| 8   | shuu hadool?                                | hadool rfuuf Kutob.                      |
+| 9   | hay 8urftek/8urftak?                        | eh, hay 8urfti.                          |
+| 10  | hay 5zaanet meen? lameen L 5zaanet?         | hay 5zaanet i5ti.                        |

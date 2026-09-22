@@ -24,8 +24,8 @@ fi = gibt
 | Schlafzimmer | **8urfet- noom**                        |
 | Kinderzimmer | **8urfet- wlaad**                       |
 | Esszimmer    | **8urfet- 2kel**                        |
-| Küche        | **maTba5**                        |
-| Badezimmer   | **7ammaam**                       |
+| Küche        | **maTba5**                              |
+| Badezimmer   | **7ammaam**                             |
 
 ---
 
@@ -64,7 +64,7 @@ L raff - das regal
 
 ---
 
-## 🛋️ Fi: (fi3el d3if) — „Es gibt" (schwaches Verb)
+## 🛋️ Fii: (fi3el d3if) — „Es gibt" (schwaches Verb)
 
 ### Möbel:
 | Kanabayet | Tawlet | Maktabet | Telfision | Schibbak |
@@ -181,10 +181,10 @@ eh, bedda Lina S7uun w kaasaat
 ## 🛁 Lina w Joza beddun kaman 8rad La L 7ammem
 *(Lina und Joza brauchen auch Sachen für das Badezimmer)*
 
-### ✅ Schu beddun La L 7ammem?
+### ✅ Schu beddun La L 7ammaam?
 
-| Ma8salet | Twalet | Banyo |
-|---|---|---|
+| Ma8salet    | Twalet   | Banyo     |
+| ----------- | -------- | --------- |
 | Waschbecken | Toilette | Badewanne |
 
 | 5zanet 7ammem ma3 Mrayet | 7anafiyet La L Ma8salet | Birdeyet La L Banyo |
@@ -203,62 +203,66 @@ eh, bedda Lina S7uun w kaasaat
 
 ### Konjugationstabelle — „ya" (es/sie als Objektsuffix):
 
-| | ana | inta | inti | huwe | hiyi | ni7na | intu | hinnin |
-|---|---|---|---|---|---|---|---|---|
-| **ya** | yani | yak | yaki | yah | yaha | yana | yakun | yahun |
-
+|        | ana  | inta | inti | huwe | hiyi | ni7na | intu  | hinnin |
+| ------ | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ------ |
+| **ya** | yani | yak  | yaki | yah  | yaha | yana  | yakun | yahun  |
 ### ✅ Jawbi/jawib 3ala L 2as2ilat:
 
-- **Beddik hada L Barrad?**
-  ➢ Eh, ............................
-  ➢ La2, .......................
+- **Beddek haada L Barraad?**
+  ➢ Eh, beddi yaah
+  ➢ La2, maa beddi yaah
 
-- **Beddak Hay L 8asselet?**
-  ➢ Eh, ....................................
-  ➢ La2, ...................................
+- **Beddak Hay L 8assaalet?**
+  ➢ Eh, beddi yaaha
+  ➢ La2, maa beddi yaaha
 
-- **Bedunk hadol L Fanajin?**
-  ➢ Eh, ..................................
-  ➢ La2, ..................................
+- **Bedkon hadool L Fanaajiin?**
+  ➢ Eh, bedna yaahon
+  ➢ La2, maa bedna yaahon
 
-- **Beddu Karim hadol (L) S7un?**
-  ➢ Eh, ...........................................
-  ➢ La2, ..........................................
+- **Beddo Kariim hadool (L) S7uun?**
+  ➢ Eh, kariim beddo yaahon
+  ➢ La2, kariim maa beddo yaahon
 
 ---
 
-## ✏️ "ma" aw "mo"? — Lücke füllen
+## ✏️ "maa" aw "muu"? — Lücke füllen
 
-- Bi 8urfet (L) Nom ......... fi Mrayet.
-- L Matba5 ....... kbir.
-- Hada L Bet ........... Beti.
-- Hadol L Al3ab........ La Wladi.
-- Lina ............... bedda Jalleyet.
-- Bi L Barrad .............. fi Akel.
-- Hinnin .............. beddun Schuwak w Sakakin.
+- bi 8urfet (L) Noom ....(maa).... fii mraayet.
+- L maTba5 ...(muu)... kbiir.
+- haada L Beet ....(muu)..... Beeti.
+- Hadool L Al3aab...(muu)... La Wlaadi.
+- Liina .......(maa)...... bedda Jallaayet.
+- Bi L Barraad ......(maa)...... fii akel.
+- hennen ......(maa)...... beddon shuwak w sakaakiin.
 
 ---
 
 ## 🔀 Rattbi/rattib L Kilmet bi Jumal *(Bring die Wörter in die richtige Reihenfolge, um einen Satz zu bilden)*
 
-- Bi- Matba5- ma- L- fi- Karasi- Tawlet.
-- Beddi- 8rad- ktir- ana - L - Bet- La.
-- Kutub- Madraset- L- Telaab- beddun- Dafatir- w- La- L.
-- L- immun- w- Wlad- Mal3ab- bi- L.
+- bi - maTba5 - maa - L - fii - Karaasi - Tawlaatt - w
+	- maa fii bi L maTba5 Tawlaat w karaasi
+	- bi L maTba5 maa fii Tawlaat w karaasi
+- beddi - 8raaD - ktiir - ana - L - beet - La.
+	- ana beddi 8raad ktiir la L beet
+- kutob - madraset - L - Tullaab- beddon - dafaater - w - La - L.
+	- L Tullaab beddon kutob w dafaater la L madraset
+- L - immun - w - wlaad - mal3ab - bi - L.
+	- L wlaad w immun bi L mal3ab
 
 ---
 
 ## ❔ Schu huwe (L) Su2al? *(Was ist die Frage?)* — Schreibe die passende Frage
 
-| # | Su2al | Jawab |
-|---|---|---|
-| 1 | ...................................................... | Hada Bet Karim. |
-| 2 | ...................................................... | Bet Karim kbir. |
-| 3 | ...................................................... | La2, bi Bet Karim ma fi ktir 8uraf. |
-| 4 | ...................................................... | 8urfet L 2a3det z8ire. |
-| 5 | ...................................................... | L Maktabet bi 8urfet L 2a3det. |
-| 6 | ...................................................... | La2, Ahli mo bi L Bet. |
-| 7 | ...................................................... | 5aled w 7ala bi Betun. |
-| 8 | ...................................................... | Hadol Rfuf Kutub. |
-| 9 | ...................................................... | Eh, hay Udti. |
-| 10 | ...................................................... | Hay 5zenet i5ti. |
+| #   | Su2al                                                  | Jawab                                    |
+| --- | ------------------------------------------------------ | ---------------------------------------- |
+| 1   | shuu haada? / haada beet miin?                         | haada beet kariim.                       |
+| 2   | ...................................................... | beet kariim kbiir.                       |
+| 3   | ...................................................... | la2, bi beet kariim maa fii ktiir 8uraf. |
+| 4   | ...................................................... | 8urfet L 2a3det z8iire.                  |
+| 5   | ...................................................... | L maktabet bi 8urfet L 2a3det.           |
+| 6   | ...................................................... | la2, ahli muu bi L beet.                 |
+| 7   | ...................................................... | 5aaled w 7alaa bi beeton.                |
+| 8   | ...................................................... | hadool rfuuf Kutob.                      |
+| 9   | ...................................................... | eh, hay 8urfti.                          |
+| 10  | ...................................................... | hay 5zaanet i5ti.                        |

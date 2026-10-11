@@ -15,3 +15,12 @@ Kammli/kammil L Jadwal: *(Vervollständige die Tabelle)*
 | **ta7t**   | ta7t**i**   |           |           |          |          |           |            |           |
 | **iddaam** | iddaam**i** |           |           |          |          |           |            |           |
 | **janb**   | janb**i**   |           |           |          |          |           |            |           |
+
+# Hausaufgabe 2
+1. Bi ayya Schaare3 Beet A7mad?
+2. Beetu bi Bineyet?
+3. Schu fii janb L Bineyet?
+4. Schu fii iddema?
+5. Fii waraha Jneenet?
+6. Fii wara L Beet M7attet Kitar?
+7. W inta, bi ayya Schaare3 Beetak? W inti, bi ayya Schaare3 Beetik?

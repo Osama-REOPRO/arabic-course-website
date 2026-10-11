@@ -140,18 +140,22 @@ Im Arabischen ist das ein angehängtes Pronomen (ein Suffix).
 
 |            | ana         | inte      | inti      | huwe     | hiye     | ni7na     | intu       | hinnin    |
 | ---------- | ----------- | --------- | --------- | -------- | -------- | --------- | ---------- | --------- |
-| **fo2**    | fo2**i**    | fo2**ak** | fo2**ik** | fo2**u** | fo2**a** | fo2**na** | fo2**kun** | fo2**un** |
-| **ta7t**   | ta7t**i**   |           |           |          |          |           |            |           |
-| **iddaam** | iddaam**i** |           |           |          |          |           |            |           |
-| **janb**   | janb**i**   |           |           |          |          |           |            |           |
+| **fo2**    | fo2**i**    | fo2**ak** | fo2**ik** | fo2**o** | fo2**a** | fo2**na** | fo2**kon** | fo2**on** |
+| **ta7t**   | ta7t**i**   | ta7tak    | ta7tek    | ta7to    | ta7ta    | ta7tna    | ta7tkon    | ta7ton    |
+| **iddaam** | iddaam**i** | iddaamak  | iddaamek  | iddaamo  | iddaama  | iddaamna  | iddaamkon  | iddaamon  |
+| **janb**   | janb**i**   | janbak    | janbek    | janbo    | janba    | janbna    | janbkon    | janbon    |
 
 # 7. Ktub/ktibi Damir muttasil ma7al L Kilmet Li ta7tun 5att:
 *(Schreibe das angehängte Pronomen anstelle des bold Wortes)*
 
-1. Bi 8urfti fii Schibbak, ta7t **(L) Schibbak** fii Ta5t: —————————————————————
-2. Bi 8urfet L Akel fii Tawlet, fo2 **(L) Tawlet** fii Lambat: —————————————————————
-3. 3ala (L) Raff fii Kutub, janb **L Kutub** fii Mazhariyet: —————————————————————
-4. Bi 8urfet L 2a3det fii Kanabeyt, iddaam **L Kanabeyt** fii Tawlet: —————————————————————
+1. Bi 8urfti fii Schibbaak, ta7t **(L) Schibbaak** fii ta5t: 
+	- Bi 8urfti fii Schibbaak, ta7to fii ta5t
+2. Bi 8urfet L Akel fii Taawlet, foo2 **(L) Taawlet** fii Lambat: 
+	- Bi 8urfet L akel fii Taawlet, foo2a fii Lambat
+3. 3ala (L) Raff fii Kutub, janb **L Kutub** fii Mazharyyet: 
+	- 3ala L raff fii kutub, janbon fii mazharyyet
+4. Bi 8urfet L 2a3det fii Kanabaayet, iddaam **L Kanabaayet** fii Tawlet: 
+	- Bi 8urfet L 2a3det fii Kanabaayet, iddaama fii Tawlet
 
 ---
 
@@ -164,27 +168,56 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 
 |          | ana        | inta      | inti       | huwe      | hiyi       | ni7na      | intu        | hinni       |
 | -------- | ---------- | --------- | ---------- | --------- | ---------- | ---------- | ----------- | ----------- |
-| **wara** | wara**yi** | wara**k** | wara**ki** | wara**h** | wara**ha** | wara**na** | wara**kun** | wara**hun** |
-| **3ala** | 3ala**yi** |           |            |           |            |            |             |             |
+| **wara** | wara**yi** | wara**k** | wara**ki** | wara**h** | wara**ha** | wara**na** | wara**kon** | wara**hon** |
+| **3ala** | 3ala**yi** | 3aleek    | 3aleeki    | 3aleeh    | 3aleeha    | 3aleena    | 3aleekon    | 3aleehon    |
 
 # 10. 2uli/2ul Wen: *(Sag, wo)*
 
 ![[Pasted image 20260920185134.png]]
 - Sabi – Bint *(Junge – Mädchen)*
+	- ween el Sabi? / ween el bint?
+	- el sabi iddaam el birdaayet / el bint wara el birdaayet
 
 ![[Pasted image 20260920185224.png]]
-- Hdiye – Zinet *(Geschenk – Weihnachtsbaum/Schmuck)*
+- hadyyet – ziinet *(Geschenk – Weihnachtsbaum/Schmuck)*
+	- ween el hadyyet? / ween el ziinet?
+	- el hadyyet iddaam / ta7t el ziinet
+	- el ziinet wara el hadyyet
 
 ![[Pasted image 20260920185244.png]]
-- Rami – Liina – Karim
+- raami – liina – kariim
+	- ween raami?
+	- raami janb liina w kariim
+	- ween liina?
+	- liina iddaam raami, w wara kariim
 
 ![[Pasted image 20260920185259.png]]
-- Kalb – 2eeta *(Hund – Tisch)*
+- kalb – 2eTTat *(Hund – katze)*
+	- ween el kalb?
+	- el kalb ta7t el Taawlet
+	- el kalb ta7t el 2eTTat
+	- not: katze
+		- 2eTTat
+		- bisset
 
 ![[Pasted image 20260921110736.png]]
-- Telvision – 5zanet – Zarri3at *(Fernseher – Schrank – Pflanze)*
-- Law7at – 7eyt – Bab *(Bild – Wand – Tür)*
-- Rfuf – Kanabeyt – Kutub *(Regale – Sofa – Bücher)*
+- talfizioon – 5zaanet – zrii3at *(Fernseher – Schrank – Pflanze)*
+	- ween el 5zaanet
+		- el 5zaanet wara el kanabaayet
+	- Tab ween el zree3at?
+		- el zree3at 3ala el shibbaak
+- law7at – 7eeT – baab *(Bild – Wand – Tür)*
+	- ween el law7at?
+		- el law7at 3ala el 7eeT
+	- Tab ween el baab?
+		- el baab janb el law7at
+- rfuuf – kanabaayet – kutub *(Regale – Sofa – Bücher)*
+	- ween el rfuuf?
+		- el rfuuf wara el kanabaayet
+	- shuu 3aleehon?
+		- 3aleehon kutub
+	- ween el kutub?
+		- el kutub 3ala el rfuuf
 
 
 ---
@@ -209,16 +242,30 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 
 # 12. Kammil/kammli L Jadwal:
 
-|          | ana    | inte   | inti | huwe | hiyi | ni7na | intu | hinne |
-| -------- | ------ | ------ | ---- | ---- | ---- | ----- | ---- | ----- |
-| **leek** | leekni | leekak |      |      |      |       |      |       |
+## typ 1
+- du: leek / leeki
+- ihr: leeku
+## typ 2
+
+|          | ana    | inte   | inti   | huwe  | hiyi  | ni7na  | intu    | hinne  |
+| -------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- | ------ |
+| **leek** | leekni | leekak | leekek | leeko | leeka | leekna | leekkon | leekon |
 
 # 13. Bildbeispiele
 ![[Pasted image 20260922162810.png]]
 Wen Karim yaa Sara?
+leeko hoon, iddaam el shajarat
+leeko honiik, janb sarat
 
 ![[Pasted image 20260922162842.png]]
-W Wen Maya w Rami?
+Ween Maya
+leeka hoon
+leeka honiik
+
+wen Rami?
+leeko honiik
+leeko hoon
+
 
 ---
 
@@ -227,21 +274,25 @@ W Wen Maya w Rami?
 
 > **Mira:** Wen Beetak yaa A7mad?
 > **A7mad:** Beeti bi haada (L) Schaare3.
+> (beeti leeko bi haada el shaare3)
 >
 > **Mira:** Beetak bi Binaayet?
 > **A7mad:** Eh, Beeti bi Binayet.
+> (eh, leeko bi hayy el binaayet)
 >
 > **Mira:** Schu fii janb L Bineyet?
 > **A7mad:** janba fii M7attet Benzin, w iddaama fii Supermarket.
 >
 > **Mira:** w schu fii waraha?
 > **A7mad:** waraha fii Jneenet, w fii kamaan Mal3ab Wlaad.
+> (leeka fii jneeenet, w leeko fii mal3ab wlaad)
 >
-> **Mira:** Schi8lak 2arib min Beetak?
+> **Mira:** Schi8lak 2ariib min Beetak?
 > **A7mad:** La2, Schi8li b3id 3an Beeti.
 >
-> **Liina:** Jam3tak aribe min Beetak?
-> **A7mad:** Eh, Jam3ti aribe min Beeti.
+> **Liina:** Jame3tak ariibe min Beetak?
+> **A7mad:** Eh, Jam3ti ariibe min Beeti.
+> (eh, leeka ariibe min beeti)
 
 **Vokabular:**
 

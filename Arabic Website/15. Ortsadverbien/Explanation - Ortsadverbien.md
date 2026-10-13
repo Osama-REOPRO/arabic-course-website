@@ -74,32 +74,32 @@ oder (juwwat # barrat)
 
 # 4. S2aal/S2ali mitl L Misaal: *(Frage/Antworte wie im Beispiel)*
 
-![[Pasted image 20260920182039.png]]
+![[15. Ortsadverbien/Pasted image 20260920182039.png]]
 - Bint – wara – Birdaayet *(Mädchen – hinter – Vorhang)*
 	- Weena L Bint?
 	- L Bint wara L Birdaayet
 
-![[Pasted image 20260920182110.png]]
+![[15. Ortsadverbien/Pasted image 20260920182110.png]]
 - sayyaarat – iddaam – Beet *(Auto – vor – Haus)*
 	- weena L sayyaarat?
 	- L sayyaarat iddaam L beet
 
-![[Pasted image 20260920182155.png]]
+![[15. Ortsadverbien/Pasted image 20260920182155.png]]
 - raff – foo2 – kanabaayet *(Regal – über – Sofa)*
 	- weeno L raff?
 	- L raff foo2 L kanabaayet
 
-![[Pasted image 20260920182212.png]]
+![[15. Ortsadverbien/Pasted image 20260920182212.png]]
 - kalb – Taawlet *(Hund – Tisch)*
 	- weeno L kalb?
 	- L kalb ta7t L Taawlet
 
-![[Pasted image 20260920182227.png]]
+![[15. Ortsadverbien/Pasted image 20260920182227.png]]
 - Akel – Taawlet *(Essen – Tisch)*
 	- weeno L akel?
 	- L akel 3ala L Taawlet
 
-![[Pasted image 20260920182244.png]]
+![[15. Ortsadverbien/Pasted image 20260920182244.png]]
 - telfizyoon – maktabet *(Fernseher – Schreibtisch)*
 	- weeno L telfizyoon?
 	- L telfizyoon janb L maktabet
@@ -173,25 +173,25 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 
 # 10. 2uli/2ul Wen: *(Sag, wo)*
 
-![[Pasted image 20260920185134.png]]
+![[15. Ortsadverbien/Pasted image 20260920185134.png]]
 - Sabi – Bint *(Junge – Mädchen)*
 	- ween el Sabi? / ween el bint?
 	- el sabi iddaam el birdaayet / el bint wara el birdaayet
 
-![[Pasted image 20260920185224.png]]
+![[15. Ortsadverbien/Pasted image 20260920185224.png]]
 - hadyyet – ziinet *(Geschenk – Weihnachtsbaum/Schmuck)*
 	- ween el hadyyet? / ween el ziinet?
 	- el hadyyet iddaam / ta7t el ziinet
 	- el ziinet wara el hadyyet
 
-![[Pasted image 20260920185244.png]]
+![[15. Ortsadverbien/Pasted image 20260920185244.png]]
 - raami – liina – kariim
 	- ween raami?
 	- raami janb liina w kariim
 	- ween liina?
 	- liina iddaam raami, w wara kariim
 
-![[Pasted image 20260920185259.png]]
+![[15. Ortsadverbien/Pasted image 20260920185259.png]]
 - kalb – 2eTTat *(Hund – katze)*
 	- ween el kalb?
 	- el kalb ta7t el Taawlet
@@ -200,7 +200,7 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 		- 2eTTat
 		- bisset
 
-![[Pasted image 20260921110736.png]]
+![[15. Ortsadverbien/Pasted image 20260921110736.png]]
 - talfizioon – 5zaanet – zrii3at *(Fernseher – Schrank – Pflanze)*
 	- ween el 5zaanet
 		- el 5zaanet wara el kanabaayet
@@ -222,7 +222,7 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 
 ---
 # 11. leeka- leeko hon / leeka-leeko honik
-[[Verben des Sehens — Deutsch und Arabisch]]
+[[15. Ortsadverbien/Verben des Sehens — Deutsch und Arabisch]]
 *(„hier ist es für dich" / „dort ist es für dich" — Präsentativ-Ausdrücke)*
 
 > - **Wen L Mifta7 yaa Maya?**
@@ -252,12 +252,12 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 | **leek** | leekni | leekak | leekek | leeko | leeka | leekna | leekkon | leekon |
 
 # 13. Bildbeispiele
-![[Pasted image 20260922162810.png]]
+![[15. Ortsadverbien/Pasted image 20260922162810.png]]
 Wen Karim yaa Sara?
 leeko hoon, iddaam el shajarat
 leeko honiik, janb sarat
 
-![[Pasted image 20260922162842.png]]
+![[15. Ortsadverbien/Pasted image 20260922162842.png]]
 Ween Maya
 leeka hoon
 leeka honiik
@@ -318,28 +318,28 @@ leeko hoon
 > **b3id - b3ide - b3ad** *(weit/fern — m/f/pl)*
 
 **Bildbeispiele:**
-![[Pasted image 20260922163614.png]]
+![[15. Ortsadverbien/Pasted image 20260922163614.png]]
 - Haada L Beet ————— *(nah)*
 
-![[Pasted image 20260922163627.png]]
+![[15. Ortsadverbien/Pasted image 20260922163627.png]]
 - Haada L Beet ————— *(weit)*
 
-![[Pasted image 20260922163645.png]]
+![[15. Ortsadverbien/Pasted image 20260922163645.png]]
 - Safinet *(Schiff)*
 
-![[Pasted image 20260922163700.png]]
+![[15. Ortsadverbien/Pasted image 20260922163700.png]]
 - Byut *(Häuser)*
 
-![[Pasted image 20260922163712.png]]
+![[15. Ortsadverbien/Pasted image 20260922163712.png]]
 - Sufun *(Schiffe)*
 
 # 17. 2arib min - b3id 3an *(nah an — weit von)*
 
-![[Pasted image 20260922163900.png]]
+![[15. Ortsadverbien/Pasted image 20260922163900.png]]
 > **L Wlaad 2rab ktir min (L) Telvision.**
 > *(Die Kinder sind sehr nah am Fernseher.)*
 
-![[Pasted image 20260922163917.png]]
+![[15. Ortsadverbien/Pasted image 20260922163917.png]]
 > **Layla w Binta b3ad schway 3an L Beet.**
 > *(Layla und ihre Tochter sind ein bisschen weit vom Haus entfernt.)*
 

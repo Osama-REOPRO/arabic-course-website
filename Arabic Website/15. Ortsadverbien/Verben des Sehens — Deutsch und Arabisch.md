@@ -59,4 +59,4 @@ Genau wie im Arabischen gibt es im Deutschen viele verschiedene Wörter für den
 Genau wie im Deutschen hat auch das Arabische mehrere solche Wörter.
 
 Für den Moment konzentrieren wir uns auf **leek**
-[[leek (explain by situation) |leek]]
+[[15. Ortsadverbien/leek (explain by situation)|leek]]

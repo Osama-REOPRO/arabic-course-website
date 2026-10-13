@@ -8,8 +8,7 @@ order: 21
 lektion:
   - "23"
 ---
-makrdown version of [[Dars 08.pdf]]
-Dars 8 – Kleidung, Adjektive, Besitz, Vergleich, Farben
+Kleidung, Adjektive, Besitz, Vergleich, Farben
 
 ---
 # L Sifat w L mawsuuf
@@ -37,32 +36,36 @@ Die zweite Möglichkeit ist einfacher anzuwenden. Es lohnt sich jedoch, auch die
 
 # 3. Vokab
 
-| Arabisch                          | Deutsch                    |
-| --------------------------------- | -------------------------- |
-| **fustaan** (Pl. **fasaatiin**)      | Kleid (Kleider)            |
-| **tannuurat**                      | Rock                       |
-| **5zaanet**           | Schrank       |
-| **ween**                           | wo                         |
-| **ayya**                          | welcher / welche / welches |
-| **bi**                            | in                         |
+| Arabisch                        | Deutsch                    |
+| ------------------------------- | -------------------------- |
+| **fustaan** (Pl. **fasaatiin**) | Kleid (Kleider)            |
+| **tannuurat** (Pl. tanaaniir)   | Rock                       |
+| **5zaanet** (pl. 5zanaat)       | Schrank                    |
+| **ween**                        | wo                         |
+| **ayya**                        | welcher / welche / welches |
+| **bi**                          | in                         |
 
 # 4. Übung
 - Das ist ein langes Kleid.
-	- haada fustaan Tawiil.
+	- haada fustaan Tawiil
 - Ein langer Rock.
-	- 
+	- tannuurat Tawiilet
 - Ein kurzer Rock.
-	- 
+	- tannuurat 2aSiirat
 - Lange Kleider.
-	- 
+	- fasaateen Twaal
+- Die langen Kleider
+	- L fasaatiin L Twaal
 - Wo ist das Kleid?
-	- 
+	- ween L fustaan
 - Welches Kleid?
-	- 
-- Das lange Kleid.
-	- 
+	- ayya fustaan
 - Das lange Kleid ist im Schrank.
-	- 
+	- L fustaan L Tawiil bi L 5zaanet
+- Die kurzen Röcke sind im Schrank.
+	- L tanaaniir L 2Saar bi L 5zaanet
+	- L tanaaniir L 2Saar bi 5zaanti
+	- L tanaaniir L 2Saar bi 5zaanet A7mad
 
 # 5. Übereinstimmung zwischen Adjektiv und Substantiv
 
@@ -122,35 +125,37 @@ Beide Formen bedeuten dasselbe und können immer austauschbar verwendet werden.
 
 # 7. Neu und Alt
 
-| Deutsch | maskulin | feminin | Plural |
-|---|---|---|---|
-| neu | jdiid | jdiidet | jdiidet / jdaad |
-| alt | qadiim | qadiimet | qadiimet / qdaam |
+| Deutsch | maskulin | feminin  | Plural           |
+| ------- | -------- | -------- | ---------------- |
+| neu     | jdiid    | jdiidet  | jdiidet / jdaad  |
+| alt     | qadiim   | qadiimet | qadiimet / qdaam |
+
 
 # 8. Vokab
-| Arabisch | Deutsch |
-|---|---|
-| **qamiiS** (Pl. **2emSaan**) | Hemd (Hemden) |
+| Arabisch                            | Deutsch        |
+| ----------------------------------- | -------------- |
+| **qamiiS** (Pl. **qemSaan**)        | Hemd (Hemden)  |
 | **bluuzet** (Pl. bluuzaat / bluuaz) | Bluse (Blusen) |
-| **kanzet** | Pullover |
+| **kanzet** (Pl. kanzaatt)           | Pullover       |
 
 # 9. Übung
 - Das ist ein neues Hemd.
 	- haada qamiiS jdiid 
-- Eine neue Bluse.
-	- 
+- Eine neue Bluse
+	- bluuzet jdiidet
 - Ein alter Pullover.
-	- 
+	- kanzet 2adiimet
 - Neue Blusen.
-	- 
+	- kanzaatt jdiidet
+	- kanzaat jdaad
 - Wo ist mein Hemd?
-	- 
+	- ween qamiSi
 - Welches Hemd?
-	- 
+	- ayya qamiiS
 - Mein neues Hemd.
-	- 
+	- qamiiSi L jdiid
 - Dein neues Hemd ist in deinem Schrank.
-	- 
+	- qamiiSak L jdiid bi 5zaantak
 
 # 10. Erinnerung: Definitheit
 
@@ -161,6 +166,8 @@ Denke daran, dass die Definitheit nicht nur durch (L) ausgedrückt wird. Es gibt
 - Possessivsuffix
     - sayyaarat – sayyaarti
         - ein Auto (unbestimmt) – mein Auto (bestimmt)
+- mit L
+	- sayyaarat - L sayyaarat
 
 # 11. Weit und eng
 

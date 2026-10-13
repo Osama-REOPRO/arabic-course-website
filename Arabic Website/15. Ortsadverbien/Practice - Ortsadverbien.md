@@ -24,3 +24,12 @@ Kammli/kammil L Jadwal: *(Vervollständige die Tabelle)*
 5. Fii waraha Jneenet?
 6. Fii wara L Beet M7attet Kitar?
 7. W inta, bi ayya Schaare3 Beetak? W inti, bi ayya Schaare3 Beetik?
+
+# Hausaufgabe 3: Bilde Sätze mit diesen Wörtern
+- binaayet: ————————————————————————————————————————
+- 8raaD: ————————————————————————————————————————
+- 8urfet: ————————————————————————————————————————
+- wlaad: ————————————————————————————————————
+- i5waat: ————————————————————————————————————————
+- anniinet: ————————————————————————————————————————
+- barraad: ————————————————————————————————————————

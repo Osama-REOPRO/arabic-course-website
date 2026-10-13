@@ -303,6 +303,7 @@ leeko hoon
 # 15. Jawbi/Jawib 3ala L 2as2ilat:
 
 1. Bi ayya Schaare3 Beet A7mad?
+	- beet a7mad bi haada el shaare3
 2. Beetu bi Bineyet?
 3. Schu fii janb L Bineyet?
 4. Schu fii iddema?
@@ -314,55 +315,74 @@ leeko hoon
 
 # 16. Adjektiv-Muster: Entfernung
 
-> **2arib - 2aribe - 2rab** *(nah — m/f/pl)* 
-> **b3id - b3ide - b3ad** *(weit/fern — m/f/pl)*
+> 2ariib - 2ariibet - 2raab *(nah — m/f/pl)* 
+> b3iid - b3iide - b3aad *(weit/fern — m/f/pl)*
 
 **Bildbeispiele:**
 ![[15. Ortsadverbien/Pasted image 20260922163614.png]]
-- Haada L Beet ————— *(nah)*
+- Haada L Beet 2ariib *(nah)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163627.png]]
-- Haada L Beet ————— *(weit)*
+- Haada L Beet b3iid *(weit)*
+- hadool L byuut b3aad
+- hadool L byuut b3eedet
 
 ![[15. Ortsadverbien/Pasted image 20260922163645.png]]
-- Safinet *(Schiff)*
+- safiinet *(Schiff)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163700.png]]
-- Byut *(Häuser)*
+- byuut *(Häuser)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163712.png]]
-- Sufun *(Schiffe)*
+- sufun *(Schiffe)*
 
-# 17. 2arib min - b3id 3an *(nah an — weit von)*
+# 17. 2ariib min - b3iid 3an *(nah an — weit von)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163900.png]]
-> **L Wlaad 2rab ktir min (L) Telvision.**
+> **L Wlaad 2raab ktiir min (L) Telvision.**
 > *(Die Kinder sind sehr nah am Fernseher.)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163917.png]]
-> **Layla w Binta b3ad schway 3an L Beet.**
+> **Layla w Binta b3aad schway 3an L Beet.**
 > *(Layla und ihre Tochter sind ein bisschen weit vom Haus entfernt.)*
 
 # 18. **Vokabelgruppen zum Üben:**
-- Ma7al – M7attat L Bas *(Geschäft – Bushaltestelle)*
-- Jam3at – A7mad – Beetu *(Universität – A7mad – sein Haus)*
-- 7adanet – Binti – Schi8li *(Kindergarten – meine Tochter – meine Arbeit)*
-- Mala3ib (L) Tennis – L Bineyet *(Tennisplätze – das Gebäude)*
-- (L) Sufun – Schatt *(die Schiffe – der Strand)*
-- **Ktir / schway** *(viel # ein bisschen)*
+- ma7al – m7attat L baaS *(Geschäft – Bushaltestelle)*
+	- L ma7al 2ariib shway min ma7aTTet L baaS
+- jaam3at – A7mad – beeto *(Universität – A7mad – sein Haus)*
+	- L jaam3at b3iidet ktiir 3an beet a7mad
+	- L jaam3at 2riibet min beet a7mad
+- 7aDaanet – binti – shi8li *(Kindergarten – meine Tochter – meine Arbeit)*
+	- 7aDaanet binti 2ariibet min shi8li
+	- 7aDaanet binti b3iidet 3an shi8li
+- malaa3ib (L) tenis – L binaayet *(Tennisplätze – das Gebäude)*
+	- malaa3ib L tenis 2raab min L binaayet
+	- malaa3ib L tenis 2ariibet min L binaayet
+	- malaa3ib L tenis b3aad 3an L binaayet
+- (L) sufun – shaTT *(die Schiffe – der Strand)*
+	- L sufun 2ariibet min L shaTT
+	- L sufun b3iidet 3an L shaTT
+
+
+(ktiir / shway *(viel # ein bisschen)*)
 
 # 19. Rattbi/Rattib L Kilmet bi Jumal: *(Bring die Wörter in die richtige Reihenfolge)*
 
 1. Beeti – L – 3an – Schi8il – b3id
-2. L – janb – L – M7attet – Banzin – Bineyet
+	- beeti b3iid 3an L shi8il
+2. L – janb – L – M7attet – baanziin – binaayet
+	- ma7aTTet L baanziin janb L binaayet
 3. (L) – bi – fii – Schaare3 – haada – Banzin – M7attet.
+	- bi haada L shaare3 fii ma7aTTet baanziin
+	- fii bi haada L shaare3 ma7aTTet baanziin
+	- fii banadoorat?
+	- fii banadoorat bi hay el 3ilbet
 
-# 20. 2ul/2uli Jumal ma3 hol L Kilmet: *(Bilde Sätze mit diesen Wörtern)*
-
-- Bineyet: ————————————————————————————————————————
-- 8rad: ————————————————————————————————————————
-- 8urfat: ————————————————————————————————————————
-- Wlaad: ————————————————————————————————————
-- i5wet: ————————————————————————————————————————
-- Anninet: ————————————————————————————————————————
-- Barrad: ————————————————————————————————————————
+# 20. Bilde Sätze mit diesen Wörtern
+- binaayet: ————————————————————————————————————————
+- 8raaD: ————————————————————————————————————————
+- 8urfet: ————————————————————————————————————————
+- wlaad: ————————————————————————————————————
+- i5waat: ————————————————————————————————————————
+- anniinet: ————————————————————————————————————————
+- barraad: ————————————————————————————————————————

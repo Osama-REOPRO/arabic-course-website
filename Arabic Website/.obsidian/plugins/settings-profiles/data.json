@@ -1,0 +1,19 @@
+{
+  "activeProfile": {
+    "name": "Default",
+    "modifiedAt": "2026-10-11T18:59:24.782Z"
+  },
+  "profileUpdate": true,
+  "profileUpdateDelay": 800,
+  "uiUpdate": true,
+  "uiUpdateInterval": 1000,
+  "devices": {
+    "a49ab4795c9567aecd35a76e426a1b93ce03e6d58c05b582e6f0abdfb29033f2": "/Users/osama/Library/Application Support/ObsidianPlugins/Profiles"
+  },
+  "statusbarInteraction": {
+    "click": "auto",
+    "ctrl_click": "none",
+    "shift_click": "none",
+    "alt_click": "none"
+  }
+}

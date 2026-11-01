@@ -12,41 +12,41 @@ lektion:
 
 ## Grundwörter
 - ghurfet: Raum
-- 2a3det: (nomen) das Sitzen / Herumhängen
-- Matba5: Küche
+- qa3det: (nomen) das Sitzen / Herumhängen, gesprochen „2a3det“
+- maTba5: Küche
 - 7ammaam: Badezimmer
 - noom: (nomen) der Schlaf
 - wlaad: Kinder
-- 2akel: das Essen
+- 2akl: das Essen, oft gesprochen „2akel“
 ## Kombinationen
-- ghurfet el 2a3det: das Wohnzimmer
-- ghurfet el noom: das Schlafzimmer
-- ghurfet el wlaad: Kinderzimmer
-- ghurfet el 2kel: Esszimmer
+- ghurft el-qa3det: das Wohnzimmer, gesprochen „ghurft el-2a3det“
+- ghurft el-noom: das Schlafzimmer, gesprochen „ghurft en-noom“
+- ghurft el-wlaad: Kinderzimmer
+- ghurft el-2akl: Esszimmer
 # Möbel
 - Taawlet: Tisch
 - shibbaak: Fenster
 - ta5t: Bett
 - barraad: Kühlschrank
-- 8assaalet: Waschmaschine
-- Sa7n: Platte
+- ghassaalet: Waschmaschine
+- Sa7n: Teller
 - kaaset: Glas
 - kanabaayet: Sofa
 - maktabet: Bibliothek/Bücherregale
-- Tilfezyoon: der Fernseher
-- komadiinat: Schminktisch
+- talfizyoon: der Fernseher
+- komadiinat: Kommode / Nachttisch
 - 5zaanet: Kleiderschrank
-- Raff: Regal
-- sejjaadet: Teppich
+- raff: Regal
+- sajjaadet: Teppich, oft gesprochen „sejjaadet“
 - birdaayet: Vorhang
-- 8aaz: Ofen
+- ghaaz: Herd (Gasherd)
 - jallaayet: Spülmaschine
 - finjaan: Tasse
 - shooket: Gabel
-- ma3la2at: Löffel
+- ma3laqat: Löffel, gesprochen „ma3la2at“
 - sikkiinet: Messer
-- ma8salet: das Waschbecken
-- Twaaleett: die Toilette
-- baanyoo: Bad
+- maghsalet: das Waschbecken
+- twaaleett: die Toilette
+- baanyoo: Badewanne
 - mraayet: Spiegel
-- 7anafyyet: Wasserhahn
+- 7anafiyyet: Wasserhahn

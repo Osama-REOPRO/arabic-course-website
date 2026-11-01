@@ -12,49 +12,49 @@ order:
 # Formeln zum Bilden von Sätzen mit Pronomen/Suffixen
 ## Wer ist das? / Wer sind diese? (Frage)
 > [!NOTE] Formel
-> **Mien + had/hay/hadol?**
+> **miin + haad/hay/hadool?**
 
 ## Das ist [Nomen] / Das sind [Nomen] (Antwort)
 > [!NOTE] Antwortsformel: 
-> **Had/Hay/Hadol + nomen**
+> **haad/hay/hadool + nomen**
 
 ---
 
 ## Ist das [Nomen/Pronomen]? / Sind das [Nomen/Pronomen]? (Ja/Nein-Frage)
 > [!NOTE] Ja/Nein-Frageformel: 
-> **Had/Hay/Hadol + nomen + ?**
+> **haad/hay/hadool + nomen + ?**
 
 ## Ja/Nein, das ist / das sind [Nomen] (Ja/Nein-Antwort)
 > [!NOTE] Ja/Nein-Antwortsformel: 
-> **(positiv): Eh, Had/Hay/Hadol + nomen**
-> **(negativ): La2, Had/Hay/Hadol + *moo* + nomen**
+> **(positiv): 2ee, haad/hay/hadool + nomen**
+> **(negativ): la2, haad/hay/hadool + *muu* + nomen**
 
 ---
 
 ## Wie ist der Name von [Pronomen]? (Frage)
 
 > [!NOTE] Frageformel: 
-> **Shu + ism[suffix]?**
+> **shuu + 2ism[suffix]?**
 
 ## Der Name von [Pronomen] ist [Nomen] (Antwort)
 
 > [!NOTE] Antwortsformel: 
-> **[pronomen] + ism[suffix] + [nomen]**
+> **[pronomen] + 2ism[suffix] + [nomen]**
 
 ---
 ## Wie ist der Name von [Nomen]? (Frage)
 
 > [!NOTE] Frageformel: 
-> **Shu + ism[suffix] + nomen[suffix]**
+> **shuu + 2ism[suffix] + nomen[suffix]**
 >
-> das an „ism“ angehängte Suffix wird entsprechend dem Nomen gewählt
+> das an „2ism“ angehängte Suffix wird entsprechend dem Nomen gewählt
 > das an das Nomen angehängte Suffix wird entsprechend der Person gewählt, mit der wir sprechen
 
 ## Der Name von [Nomen] ist [Name] (Antwort)
 > [!NOTE] Antwortsformel: 
-> **nomen[suffix] + ism[suffix] + [name]**
+> **nomen[suffix] + 2ism[suffix] + [name]**
 >
-> das an „ism“ angehängte Suffix wird entsprechend dem Nomen gewählt
+> das an „2ism“ angehängte Suffix wird entsprechend dem Nomen gewählt
 > das an das Nomen angehängte Suffix wird entsprechend der Person gewählt, die antwortet
 
 ---
@@ -65,5 +65,5 @@ order:
 
 ## Ist [Name] [Pronomen]s [Familienbeziehung]? (Ja/Nein Antwort)
 > [!NOTE] Frageformel: 
-> **eh + [name] + family relation[suffix]**
-> **la2 + [name] + moo + family relation[suffix]**
+> **2ee + [name] + family relation[suffix]**
+> **la2 + [name] + muu + family relation[suffix]**

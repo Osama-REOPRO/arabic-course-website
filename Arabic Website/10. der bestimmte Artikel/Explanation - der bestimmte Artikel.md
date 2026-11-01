@@ -178,77 +178,98 @@ Genau wie im Deutschen und Englischen meinen **Eigennamen** eine ganz genaue Per
 
 Beispiele:
 
-- **أحمد** (_Ahmad_)
-- **دمشق** (_Damascus_ / Damaskus)
-- **سوريا** (_Syria_ / Syrien)
+- **2a7mad** (_Ahmad_)
+
+  أحمد
+
+- **dimashq** (_Damascus_ / Damaskus)
+
+  دمشق
+
+- **suuriyaa** (_Syria_ / Syrien)
+
+  سوريا
 
 Diese Namen sind schon bestimmt, weil sie sofort eine genaue Person oder einen genauen Ort zeigen.
 
-**Allgemeine Nomen** meinen dagegen eine ganze Gruppe von Dingen. Sie können **bestimmt** oder **unbestimmt** sein. Das Arabische zeigt den Unterschied mit dem **bestimmten Artikel** **الـ** (_al-_).
+**Allgemeine Nomen** meinen dagegen eine ganze Gruppe von Dingen. Sie können **bestimmt** oder **unbestimmt** sein. Das Arabische zeigt den Unterschied mit dem **bestimmten Artikel** **el-**.
+
+الـ
 
 Beispiele:
 
-- **كتاب** (_a book_ / ein Buch)
+- **ktaab** (_a book_ / ein Buch)
+
+  كتاب
     
-- **الكتاب** (_the book_ / das Buch)
+- **el-ktaab** (_the book_ / das Buch)
+
+  الكتاب
     
-- **بيت** (_a house_ / ein Haus)
+- **beet** (_a house_ / ein Haus)
+
+  بيت
     
-- **البيت** (_the house_ / das Haus)
+- **el-beet** (_the house_ / das Haus)
+
+  البيت
     
 
 Es gibt aber einen großen Unterschied zum Englischen und Deutschen: Das Arabische hat **nur einen bestimmten Artikel**. Es gibt **keinen unbestimmten Artikel** (wie _ein_ oder _eine_ auf Deutsch).
 
-Wenn ein allgemeines Nomen **kein** **الـ** (_al-_) am Anfang hat, ist es automatisch **unbestimmt**. Wenn man **الـ** davor setzt, wird das Wort bestimmt.
+Wenn ein allgemeines Nomen **kein** **el-** am Anfang hat, ist es automatisch **unbestimmt**. Wenn man **el-** davor setzt, wird das Wort bestimmt.
 
 Daraus ergibt sich eine sehr einfache Regel:
 
-- **Allgemeines Nomen + الـ → Bestimmt**
+- **Allgemeines Nomen + el- → Bestimmt**
     
-- **Allgemeines Nomen ohne الـ → Unbestimmt**
+- **Allgemeines Nomen ohne el- → Unbestimmt**
     
 - **Eigenname → Fast immer bestimmt ohne Artikel**
     
 
 Zum Beispiel:
 
-| Arabisch | Bedeutung |
-|---|---|
-| **كتاب** | _a book_ / ein Buch |
-| **الكتاب** | _the book_ / das Buch |
-| **أحمد** | _Ahmad_ (schon bestimmt) |
-| **دمشق** | _Damascus_ / Damaskus (schon bestimmt) |
+| Arabisch (Transliteration) | Arabische Schrift | Bedeutung |
+|---|---|---|
+| **ktaab** | كتاب | _a book_ / ein Buch |
+| **el-ktaab** | الكتاب | _the book_ / das Buch |
+| **2a7mad** | أحمد | _Ahmad_ (schon bestimmt) |
+| **dimashq** | دمشق | _Damascus_ / Damaskus (schon bestimmt) |
 
-Das heißt: Im Arabischen zeigt man Bestimmtheit vor allem, indem man **الـ** vor ein allgemeines Nomen stellt. Wenn kein **الـ** da ist, meint man meistens eine unbestimmte Sache.
+Das heißt: Im Arabischen zeigt man Bestimmtheit vor allem, indem man **el-** vor ein allgemeines Nomen stellt. Wenn kein **el-** da ist, meint man meistens eine unbestimmte Sache.
 
 ---
 
-# Der arabische bestimmte Artikel (الـ)
+# Der arabische bestimmte Artikel (el-)
 
-Im **syrischen Arabisch** heißt der **bestimmte Artikel** **al-**. Das bedeutet das Gleiche wie **der, die, das** auf Deutsch.
+Im **syrischen Arabisch** heißt der **bestimmte Artikel** **el-**. Das bedeutet das Gleiche wie **der, die, das** auf Deutsch.
 
 Man hängt ihn direkt an den Anfang von einem Nomen, um es **bestimmt** zu machen.
 
 Beispiele:
 
-- **ktāb** — *ein Buch*
-- **el-ktāb** — *das Buch*
+- **ktaab** — *ein Buch*
+- **el-ktaab** — *das Buch*
 
-- **bēt** — *ein Haus*
-- **el-bēt** — *das Haus*
+- **beet** — *ein Haus*
+- **el-beet** — *das Haus*
 
 ## Aussprache
 
-Der Artikel wird zwar **al-** geschrieben, aber man spricht ihn oft anders aus. Das kommt auf die Laute um ihn herum an.
+Der Artikel wird **immer el-** geschrieben, aber man spricht ihn oft anders aus. Das kommt auf die Laute um ihn herum an.
 
 Im normalen syrischen Arabisch spricht man ihn oft als e-, **l-**, **el-** oder **le-** aus. Das hängt vom Satz und dem nächsten Wort ab.
 
 ### Sonnenbuchstaben
 ![[sonnenbuchstabe image.png]]
-Wenn **al-** vor einem Wort mit einem **[[sun letters|Sonnenbuchstaben]]** steht, verändert sich die Aussprache: Der **l**-Laut verschwindet. Stattdessen spricht man den ersten Buchstaben vom Nomen **doppelt** aus. Der Artikel klingt dann wie ein kurzes **e-**.
+Wenn **el-** vor einem Wort mit einem **[[sun letters|Sonnenbuchstaben]]** steht, verändert sich die Aussprache: Der **l**-Laut verschwindet. Stattdessen spricht man den ersten Buchstaben vom Nomen **doppelt** aus. Der Artikel klingt dann wie ein kurzes **e-**.
 
 Ein Beispiel:
-- **esh-shams** (*die Sonne*), und nicht *el-shams*.
+- wir **schreiben** **el-shams** (*die Sonne*), aber wir **sprechen** „esh-shams“.
+
+> [!NOTE] Schreiben und Sprechen
+> In unserer Umschrift schreiben wir den Artikel **immer gleich: el-**. Wie er klingt, zeigen wir in Anführungszeichen: el-shams → „esh-shams“, el-qamar → „el-2amar“.
 
 [Schönes Video über die Geschichte von dem Wort](https://www.youtube.com/shorts/qzRMKRIy_Sc?feature=share)
 
@@ -263,7 +284,7 @@ Schau dir das Foto noch einmal an, und schau dir an, wie nah alle Sonnenbuchstab
 
 Wenn du wissen willst, ob ein Buchstabe ein Sonnenbuchstabe ist, sprich ihn einfach laut aus. Wenn der Ton von weit vorne im Mund kommt und die Zunge ähnlich wie beim „L“ liegt, dann ist es ein Sonnenbuchstabe! So einfach ist das!
 
-Und mit der Zeit wirst du merken: Es fühlt sich automatisch komisch an, ein komplettes „al-“ vor einem Sonnenbuchstaben zu sprechen. Dann machst du es ganz von alleine richtig.
+Und mit der Zeit wirst du merken: Es fühlt sich automatisch komisch an, ein komplettes „el-“ vor einem Sonnenbuchstaben zu sprechen. Dann machst du es ganz von alleine richtig.
 
 Ich selbst kann mich auch nie erinnern, welche Buchstaben Sonnenbuchstaben und welche Mondbuchstaben sind!
 
@@ -271,165 +292,162 @@ Ich selbst kann mich auch nie erinnern, welche Buchstaben Sonnenbuchstaben und w
 
 Im Arabischen gibt es **keinen unbestimmten Artikel** (wie *ein* oder *eine* im Deutschen).
 
-Wenn ein allgemeines Nomen **kein** **al-** am Anfang hat, ist es automatisch **unbestimmt**.
+Wenn ein allgemeines Nomen **kein** **el-** am Anfang hat, ist es automatisch **unbestimmt**.
 
 Die Regel ist also ganz einfach:
 
-- **Allgemeines Nomen + al- → Bestimmt**
-- **Allgemeines Nomen ohne al- → Unbestimmt**
+- **Allgemeines Nomen + el- → Bestimmt**
+- **Allgemeines Nomen ohne el- → Unbestimmt**
 
 Zum Beispiel:
 
 | Arabisch (Transliteration) | Deutsch     |
 | -------------------------- | ----------- |
-| **fəndo2**                 | *ein Hotel* |
-| **el-fəndo2**              | *das Hotel* |
-| **bēt**                    | *ein Haus*  |
-| **el-bēt**                 | *das Haus*  |
+| **funduq**                 | *ein Hotel* |
+| **el-funduq**              | *das Hotel* |
+| **beet**                   | *ein Haus*  |
+| **el-beet**                | *das Haus*  |
 
-Das heißt: Wenn ein normales Nomen **ohne** **al-** dasteht, übersetzt man es im Deutschen meistens mit **ein** oder **eine**.
+(funduq wird in Damaskus „fendo2“ gesprochen.)
 
-# Aussprache von al- in Syrien
+Das heißt: Wenn ein normales Nomen **ohne** **el-** dasteht, übersetzt man es im Deutschen meistens mit **ein** oder **eine**.
+
+# Aussprache von el- in Syrien
 In Syrien ist das „e“ in „el-“ sehr, sehr kurz, man kann es kaum hören.
 Es sei denn, es handelt sich um ein Sonnenbuchstaben-„e“, in diesem Fall ist es viel stärker betont.
 
-## Feminine Wörter vor „al-“ innerhalb einer Idaafet
+## Feminine Wörter vor „el-“ innerhalb einer 2iDaafet
 
-Wenn wir innerhalb einer Idaafet dem zweiten Wort ein „al-“ hinzufügen und das erste Wort feminin ist (auf „-et“ endet), dann fällt das „e“ weg und es bleibt nur das „-t“ übrig. Dies macht die Aussprache viel einfacher:
+Wenn wir innerhalb einer 2iDaafet dem zweiten Wort ein „el-“ hinzufügen und das erste Wort feminin ist (auf „-et“ endet), dann fällt das „e“ weg und es bleibt nur das „-t“ übrig. Dies macht die Aussprache viel einfacher:
 
-Talbet + Madraset = Talebt el-madraset
+Taalbet + madraset = Taalbt el-madraset
 
-## Eine Idaafet wie ein einziges Wort aussprechen
+## Eine 2iDaafet wie ein einziges Wort aussprechen
 
-Lass beim Sprechen keine Lücke: Eine Idaafet mit einem „al-“ dazwischen fließt zusammen und verschmilzt wie ein einziges, längeres Wort:
+Lass beim Sprechen keine Lücke: Eine 2iDaafet mit einem „el-“ dazwischen fließt zusammen und verschmilzt wie ein einziges, längeres Wort:
 
-mudif + el + maT3am = mudif-el-maT3am
+muDiif + el- + maT3am = muDiif el-maT3am, gesprochen wie ein Wort: „muDiif-el-maT3am“
 
 ---
 
 # Beispiele
-- **Kalb** :: Hund
+Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
+
+- **kalb** :: Hund
 	- el-kalb
-- **Dars** :: Lektion / Unterricht
-	- ed-dars
-- **Ba7r** :: Meer
+- **dars** :: Lektion / Unterricht
+	- el-dars („ed-dars“)
+- **ba7r** :: Meer
 	- el-ba7r
-- **Shams** :: Sonne
-	- esh-shams
-- **Farashe** :: Schmetterling
-	- el-farashe
-- **Zill** :: Schatten
-	- ez-zill
+- **shams** :: Sonne
+	- el-shams („esh-shams“)
+- **faraashet** :: Schmetterling
+	- el-faraashet
+- **DHill** :: Schatten
+	- el-DHill („eZ-Zill“)
 - **2amaan** :: Sicherheit
 	- el-2amaan
 - **Taaleb** :: Student / Schüler
-	- eT-Taaleb
-- **Waqt** :: Zeit
-	- el-waqt
-	- el-wa2t
-- **Nasr** :: Adler
-	- en-nasr
-- **Baab** :: Tür
+	- el-Taaleb („eT-Taaleb“)
+- **waqt** :: Zeit
+	- el-waqt („el-wa2t“)
+- **nasr** :: Adler
+	- el-nasr („en-nasr“)
+- **baab** :: Tür
 	- el-baab
-- **3sal** :: Honig
+- **3asal** :: Honig
 	- el-3asal
 - **Daw** :: Licht
-	- eD-Daw
-- **Khubz** :: Bread
-	- el-khubz
-- **Sayyarat** :: Auto
-	- es-sayyarat
-- 2iid
+	- el-Daw („eD-Daw“)
+- **5ubz** :: Brot
+	- el-5ubz
+- **sayyaarat** :: Auto
+	- el-sayyaarat („es-sayyaarat“)
+- **2iid** :: Hand
 	- el-2iid
-- rijjaal :: man
-	- er-rijjaal
-- **Jabal** :: Berg
-	- ej-jabal
-- **Tariq** :: Weg / Straße
-	- eT-Tariq
-	- eT-Tari2
-- **Qamar** :: Mond
-	- el-qamar
-	- el-2amar
-- **Samake** :: Fisch
-	- es-samake
-- **Hawa** :: Luft / Wind
-	- el-hawa
-- **Duhr** :: Mittag
-	- eD-Duhr
+- **rijjaal** :: Mann
+	- el-rijjaal („er-rijjaal“)
+- **jabal** :: Berg
+	- el-jabal („ej-jabal“)
+- **Tariiq** :: Weg / Straße
+	- el-Tariiq („eT-Tarii2“)
+- **qamar** :: Mond
+	- el-qamar („el-2amar“)
+- **samaket** :: Fisch
+	- el-samaket („es-samaket“)
+- **hawaa** :: Luft / Wind
+	- el-hawaa
+- **DHuhr** :: Mittag
+	- el-DHuhr („eD-Duhr“)
 - **3een** :: Auge / Quelle
 	- el-3een
-- **Dab3** :: Wolf
-	- eD-Dab3
-- **Ktaab** :: Buch
+- **Dab3** :: Hyäne
+	- el-Dab3 („eD-Dab3“)
+- **ktaab** :: Buch
 	- el-ktaab
-- **Zeet** :: Öl
-	- ez-zeet
-- **2rnab** :: Hase / Kaninchen
+- **zeet** :: Öl
+	- el-zeet („ez-zeet“)
+- **2arnab** :: Hase / Kaninchen
 	- el-2arnab
-- **Nahr** :: Fluss
-	- en-nahr
-- **7aqeeqat** :: Wahrheit
-	- el-7aqiqat
-	- el-7a2i2at
-- **Shajarat** :: Baum
-	- esh-shajarat
-- **Madraset** :: Schule
+- **nahr** :: Fluss
+	- el-nahr („en-nahr“)
+- **7aqiiqat** :: Wahrheit
+	- el-7aqiiqat („el-7a2ii2at“)
+- **shajarat** :: Baum
+	- el-shajarat („esh-shajarat“)
+- **madraset** :: Schule
 	- el-madraset
-- **Dahab** :: Gold
-	- ed-dahab
-- **8arb** :: Westen
-	- el-8arb
-- rfiiq :: freund
-	- er-rfiiq
-	- er-rfii2
-- **Hilaal** :: Sichelmond
+- **dhahab** :: Gold
+	- el-dhahab („ed-dahab“)
+- **gharb** :: Westen
+	- el-gharb
+- **rfiiq** :: Freund
+	- el-rfiiq („er-rfii2“)
+- **hilaal** :: Sichelmond
 	- el-hilaal
-- **Laban** :: Joghurt
+- **laban** :: Joghurt
 	- el-laban
-- **Fajr** :: Morgendämmerung
+- **fajr** :: Morgendämmerung
 	- el-fajr
-- **teffaa7** :: Apfel
-	- et-teffaa7
-- **Walad** :: Junge
+- **tuffaa7** :: Äpfel (Sammelbegriff)
+	- el-tuffaa7 („et-teffaa7“)
+- **walad** :: Junge
 	- el-walad
-- **Zahrat** :: Blume
-	- ez-zahrat
-- **Khareef** :: Herbst
-	- el-khareef
-- **Noom** :: Schlaf
-	- en-noom
-- **Jamal** :: Kamel
-	- ej-jamal
+- **zahrat** :: Blume
+	- el-zahrat („ez-zahrat“)
+- **5ariif** :: Herbst
+	- el-5ariif
+- **noom** :: Schlaf
+	- el-noom („en-noom“)
+- **jamal** :: Kamel
+	- el-jamal („ej-jamal“)
 - **Sabaa7** :: Morgen
-	- es-sabaah
-- **Mayy** :: Wasser
+	- el-Sabaa7 („eS-Sabaa7“)
+- **mayy** :: Wasser
 	- el-mayy
 - **daftar** :: Notizbuch / Heft
-	- ed-daftar
-- **Ghazaal** :: Gazelle
+	- el-daftar („ed-daftar“)
+- **ghazaal** :: Gazelle
 	- el-ghazaal
-- **Talj** :: Schnee / Eis
-	- et-talj
-	- ettalj
-- **Yameen** :: Rechte Seite
-	- el-yameen
-- **Deyf** :: Gast
-	- eD-Deyf
-- **Qalam** :: Stift
-	- el-qalam
-	- el-2alam
-- **Taaj** :: Krone
-	- et-taaj
-- **Yoom** :: Tag
+- **thalj** :: Schnee / Eis
+	- el-thalj („et-talj“)
+- **yamiin** :: Rechte Seite
+	- el-yamiin
+- **Deef** :: Gast
+	- el-Deef („eD-Deef“)
+- **qalam** :: Stift
+	- el-qalam („el-2alam“)
+- **taaj** :: Krone
+	- el-taaj („et-taaj“)
+- **yoom** :: Tag
 	- el-yoom (heute)
-- **Lsaan** :: Zunge / Sprache
+- **lsaan** :: Zunge / Sprache
 	- el-lsaan
 - **7ubb** :: Liebe
 	- el-7ubb
-- **Najmet** :: Stern
-	- en-najmet
-- **Yasmeen** :: Jasmin
-	- el-yasmeen
-- **Remmaan** :: Granatapfel
-	- er-remmaan
+- **najmet** :: Stern
+	- el-najmet („en-najmet“)
+- **yaasmiin** :: Jasmin
+	- el-yaasmiin
+- **rummaan** :: Granatapfel
+	- el-rummaan („er-remmaan“)

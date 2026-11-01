@@ -9,323 +9,328 @@ lektion:
   - "22"
 ---
 
-# 1. Zarf L Makaan *(Ortsadverbien)*
+# 1. DHarf el-makaan *(Ortsadverbien)*
 
-| Arabisch                | Deutsch           |
-| ----------------------- | ----------------- |
-| **foo2 # ta7t**         | oben # unten      |
-| **iddaam # wara**        | vorne # hinten    |
-| **juwwaatt # barraatt** | drinnen # draußen |
-| **janb − 3ala**         | neben − auf       |
+| Arabisch                  | Deutsch           |
+| ------------------------- | ----------------- |
+| **fooq # ta7t**           | oben # unten      |
+| **quddaam # waraa**       | vorne # hinten    |
+| **juwwaatt # barraatt**   | drinnen # draußen |
+| **janb − 3alaa**          | neben − auf       |
 
-oder (juwwat # barrat)
+oder (juwwaa # barraa)
 
----
-
-# 2. Haada Beet Kamaal
-*(Das ist Kamaals Haus)*
-
-> **Liina:** haada Beetak yaa Kamaal?
-> **Kamaal:** Eh, haada Beeti.
->
-> **Liina:** bi ayya Schaare3 Beetak?
-> **Kamaal:** Beeti bi Schaare3 L 7amrat.
->
-> **Liina:** Beetak z8iir aw kbiir?
-> **Kamaal:** Beeti kbiir.
->
-> **Liina:** Schu fii **iddaam** Beetak?
-> **Kamaal:** iddaam Beeti fii Jneenet.
->
-> **Liina:** Schu fii **wara** Beetak?
-> **Kamaal:** Wara Beeti fii garaaj.
-> (fii garaaj wara beeti)
->
-> **Liina:** Schu fii **janb** Beetak?
-> **Kamaal:** janb Beeti fii Mal3ab Wlaad.
-> (fii Mal3ab Wlaad janb beeti)
->
-> **Liina:** Schu fii **foo2** L garaaj?
-> **Kamaal:** foo2 L garaaj Fii 8urfet.
->
-> **Liina:** Fii kamaan 8urfet **ta7t** L garaaj?
-> **Kamaal:** La2, ta7t L garaaj ma fii 8urfet.
->
-> **Liina:** Fii armiid **3ala** Sat7 L Beet?
-> **Kamaal:** Eh, 3ala Sat7 L Beet fii Armid.
-
-# 3. Jawbi/jawib 3ala L 2as2ilat: *(Beantworte die Fragen)*
-
-1. Bi ayya Schaare3 Beeto La Kamaal?
-	- beeto la kamaal bi shaare3 L 7amrat
-2. Kiif huwe Beeto?
-	- beeto la kamaal kbiir
-3. Fii Jneenet iddaam Beeto?
-	- eh, fii jneenet iddaam beeto
-4. Schu fii wara L Beet?
-	- fii garaaj wara L beet / wara L beet fii garaaj
-5. Schu fii 3ala (L) SaT7?
-	- fii 3ala L SaT7 armiid / 3ala L SaT7 fii armiid
-6. W inte, bi ayya Schaare3 Beetak? w inti bi ayya Schaare3 Beetek?
-	- beeti bi shaare3 opal
+> [!note] Aussprache in Damaskus
+> fooq → „foo2“, quddaam → „2iddaam“, DHarf → „Zarf“
 
 ---
 
+# 2. haadaa beet kamaal
+*(Das ist Kamals Haus)*
 
-# 4. S2aal/S2ali mitl L Misaal: *(Frage/Antworte wie im Beispiel)*
+> **liinaa:** haadaa beetak yaa kamaal?
+> **kamaal:** 2ee, haadaa beetii.
+>
+> **liinaa:** bi 2ayyaa shaare3 beetak?
+> **kamaal:** beetii bi shaare3 el-7amraa.
+>
+> **liinaa:** beetak Sghiir aw kbiir?
+> **kamaal:** beetii kbiir.
+>
+> **liinaa:** shuu fii **quddaam** beetak?
+> **kamaal:** quddaam beetii fii jneenet.
+>
+> **liinaa:** shuu fii **waraa** beetak?
+> **kamaal:** waraa beetii fii garaaj.
+> (fii garaaj waraa beetii)
+>
+> **liinaa:** shuu fii **janb** beetak?
+> **kamaal:** janb beetii fii mal3ab wlaad.
+> (fii mal3ab wlaad janb beetii)
+>
+> **liinaa:** shuu fii **fooq** el-garaaj?
+> **kamaal:** fooq el-garaaj fii ghurfet.
+>
+> **liinaa:** fii kamaan ghurfet **ta7t** el-garaaj?
+> **kamaal:** la2, ta7t el-garaaj maa fii ghurfet.
+>
+> **liinaa:** fii qarmiid **3alaa** SaT7 el-beet?
+> **kamaal:** 2ee, 3alaa SaT7 el-beet fii qarmiid.
+
+# 3. jaaweb / jaawbii 3alaa el-2as2ilet: *(Beantworte die Fragen)*
+
+1. bi 2ayyaa shaare3 beetoh la kamaal?
+	- beetoh la kamaal bi shaare3 el-7amraa
+2. kiif huwwe beetoh?
+	- beetoh la kamaal kbiir
+3. fii jneenet quddaam beetoh?
+	- 2ee, fii jneenet quddaam beetoh
+4. shuu fii waraa el-beet?
+	- fii garaaj waraa el-beet / waraa el-beet fii garaaj
+5. shuu fii 3alaa (el-)SaT7?
+	- fii 3alaa el-SaT7 qarmiid / 3alaa el-SaT7 fii qarmiid
+6. w 2inte, bi 2ayyaa shaare3 beetak? w 2intii bi 2ayyaa shaare3 beetek?
+	- beetii bi shaare3 Opal
+
+---
+
+
+# 4. s2al / s2alii mithl el-mithaal: *(Frage/Antworte wie im Beispiel)*
 
 ![[15. Ortsadverbien/Pasted image 20260920182039.png]]
-- Bint – wara – Birdaayet *(Mädchen – hinter – Vorhang)*
-	- Weena L Bint?
-	- L Bint wara L Birdaayet
+- bint – waraa – birdaayet *(Mädchen – hinter – Vorhang)*
+	- weenhaa el-bint?
+	- el-bint waraa el-birdaayet
 
 ![[15. Ortsadverbien/Pasted image 20260920182110.png]]
-- sayyaarat – iddaam – Beet *(Auto – vor – Haus)*
-	- weena L sayyaarat?
-	- L sayyaarat iddaam L beet
+- sayyaarat – quddaam – beet *(Auto – vor – Haus)*
+	- weenhaa el-sayyaarat?
+	- el-sayyaarat quddaam el-beet
 
 ![[15. Ortsadverbien/Pasted image 20260920182155.png]]
-- raff – foo2 – kanabaayet *(Regal – über – Sofa)*
-	- weeno L raff?
-	- L raff foo2 L kanabaayet
+- raff – fooq – kanabaayet *(Regal – über – Sofa)*
+	- weenoh el-raff?
+	- el-raff fooq el-kanabaayet
 
 ![[15. Ortsadverbien/Pasted image 20260920182212.png]]
 - kalb – Taawlet *(Hund – Tisch)*
-	- weeno L kalb?
-	- L kalb ta7t L Taawlet
+	- weenoh el-kalb?
+	- el-kalb ta7t el-Taawlet
 
 ![[15. Ortsadverbien/Pasted image 20260920182227.png]]
-- Akel – Taawlet *(Essen – Tisch)*
-	- weeno L akel?
-	- L akel 3ala L Taawlet
+- 2akl – Taawlet *(Essen – Tisch)*
+	- weenoh el-2akl?
+	- el-2akl 3alaa el-Taawlet
 
 ![[15. Ortsadverbien/Pasted image 20260920182244.png]]
-- telfizyoon – maktabet *(Fernseher – Schreibtisch)*
-	- weeno L telfizyoon?
-	- L telfizyoon janb L maktabet
+- talfizyoon – maktabet *(Fernseher – Schreibtisch)*
+	- weenoh el-talfizyoon?
+	- el-talfizyoon janb el-maktabet
 
 **Weitere Wortpaare:**
-- birdaayet – schibbaak *(Vorhang – Fenster)*
-	- L birdaayet iddaam L shibbaak?
-		- eh, L birdaayet iddaam L shibbaak.
-	- ween L birdaayet?
-		- L birdaayet iddaam L shibbaak
-- kanabaayet – schibbaak *(Sofa – Fenster)*
-	- ween L shibbaak?
-		- L shibbaak wara L kanabaayet
+- birdaayet – shibbaak *(Vorhang – Fenster)*
+	- el-birdaayet quddaam el-shibbaak?
+		- 2ee, el-birdaayet quddaam el-shibbaak.
+	- ween el-birdaayet?
+		- el-birdaayet quddaam el-shibbaak
+- kanabaayet – shibbaak *(Sofa – Fenster)*
+	- ween el-shibbaak?
+		- el-shibbaak waraa el-kanabaayet
 - law7at – 7eeT *(Bild/Gemälde – Wand)*
-	- weena L law7at?
-		- L law7at 3ala L 7eeT
-- zrii3at – 5zaanet telfizyoon *(Pflanze – TV-Schrank)*
-	- ween L zrii3at?
-		- L zrii3at 3ala 5zaanet L telfizyoon
-			- 5zaant et-telfizyoon (aussprache)
+	- weenhaa el-law7at?
+		- el-law7at 3alaa el-7eeT
+- zrii3at – 5zaanet talfizyoon *(Pflanze – TV-Schrank)*
+	- ween el-zrii3at?
+		- el-zrii3at 3alaa 5zaant el-talfizyoon
+			- „5zaant et-talfizyoon“ (Aussprache)
 
 ---
 
-# 5. zarf L makaan + Damiir muttasil
+# 5. DHarf el-makaan + Damiir muttaSil
 *(Ortsadverbien + angehängtes Pronomen)*
 
-Man verwendet ein Pronomen (auf Arabisch: „Damir“), um **Wiederholungen zu vermeiden** und sich auf etwas zu beziehen, das bereits erwähnt wurde.
+Man verwendet ein Pronomen (auf Arabisch: „Damiir“), um **Wiederholungen zu vermeiden** und sich auf etwas zu beziehen, das bereits erwähnt wurde.
 > Das Fenster ist offen, die Vase steht **vor dem Fenster**.
 > Das Fenster ist offen, die Vase steht **davor**.
 
 
-> L shibbaak maftoo7, L mazharyyet iddaam L shibbaak
-> L shibbaak maftoo7, L mazharyyet iddaamo
+> el-shibbaak maftuu7, el-mazhariyyet quddaam el-shibbaak
+> el-shibbaak maftuu7, el-mazhariyyet quddaamoh
 
 Im Arabischen ist das ein angehängtes Pronomen (ein Suffix).
 
-# 6. Kammli/kammil L Jadwal: *(Vervollständige die Tabelle)*
+# 6. kammel / kammlii el-jadwal: *(Vervollständige die Tabelle)*
 
-|            | ana         | inte      | inti      | huwe     | hiye     | ni7na     | intu       | hinnin    |
-| ---------- | ----------- | --------- | --------- | -------- | -------- | --------- | ---------- | --------- |
-| **fo2**    | fo2**i**    | fo2**ak** | fo2**ik** | fo2**o** | fo2**a** | fo2**na** | fo2**kon** | fo2**on** |
-| **ta7t**   | ta7t**i**   | ta7tak    | ta7tek    | ta7to    | ta7ta    | ta7tna    | ta7tkon    | ta7ton    |
-| **iddaam** | iddaam**i** | iddaamak  | iddaamek  | iddaamo  | iddaama  | iddaamna  | iddaamkon  | iddaamon  |
-| **janb**   | janb**i**   | janbak    | janbek    | janbo    | janba    | janbna    | janbkon    | janbon    |
+|             | 2anaa        | 2inte        | 2intii       | huwwe        | hiyye          | ni7naa       | 2intuu       | hinnen         |
+| ----------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------------ | ------------ | -------------- |
+| **fooq**    | fooq**ii**   | fooq**ak**   | fooq**ek**   | fooq**oh**   | fooq**haa**    | fooq**naa**  | fooq**kon**  | fooq**hon**    |
+| **ta7t**    | ta7t**ii**   | ta7tak       | ta7tek       | ta7toh       | ta7t'haa       | ta7tnaa      | ta7tkon      | ta7t'hon       |
+| **quddaam** | quddaam**ii** | quddaamak   | quddaamek    | quddaamoh    | quddaamhaa     | quddaamnaa   | quddaamkon   | quddaamhon     |
+| **janb**    | janb**ii**   | janbak       | janbek       | janboh       | janbhaa        | janbnaa      | janbkon      | janbhon        |
 
-# 7. Ktub/ktibi Damir muttasil ma7al L Kilmet Li ta7tun 5att:
+Aussprache: fooqoh → „foo2o“, quddaamhaa → „2iddaama“, ta7t'haa → „ta7ta“
+
+# 7. ktub / ktibii Damiir muttaSil ma7all el-kilmet yallii ta7t'hon 5aTT:
 *(Schreibe das angehängte Pronomen anstelle des bold Wortes)*
 
-1. Bi 8urfti fii Schibbaak, ta7t **(L) Schibbaak** fii ta5t: 
-	- Bi 8urfti fii Schibbaak, ta7to fii ta5t
-2. Bi 8urfet L Akel fii Taawlet, foo2 **(L) Taawlet** fii Lambat: 
-	- Bi 8urfet L akel fii Taawlet, foo2a fii Lambat
-3. 3ala (L) Raff fii Kutub, janb **L Kutub** fii Mazharyyet: 
-	- 3ala L raff fii kutub, janbon fii mazharyyet
-4. Bi 8urfet L 2a3det fii Kanabaayet, iddaam **L Kanabaayet** fii Tawlet: 
-	- Bi 8urfet L 2a3det fii Kanabaayet, iddaama fii Tawlet
+1. bi ghurftii fii shibbaak, ta7t **(el-)shibbaak** fii ta5t: 
+	- bi ghurftii fii shibbaak, ta7toh fii ta5t
+2. bi ghurft el-2akl fii Taawlet, fooq **(el-)Taawlet** fii lambat: 
+	- bi ghurft el-2akl fii Taawlet, fooqhaa fii lambat
+3. 3alaa (el-)raff fii kutub, janb **el-kutub** fii mazhariyyet: 
+	- 3alaa el-raff fii kutub, janbhon fii mazhariyyet
+4. bi ghurft el-qa3det fii kanabaayet, quddaam **el-kanabaayet** fii Taawlet: 
+	- bi ghurft el-qa3det fii kanabaayet, quddaamhaa fii Taawlet
 
 ---
 
-# 8. Damir muttasil bi Kilmet btintihi bi "a"
-*(Angehängtes Pronomen bei Wörtern, die auf "a" enden)*
+# 8. Damiir muttaSil bi kilmet btintihii bi "aa"
+*(Angehängtes Pronomen bei Wörtern, die auf "aa" enden)*
 
 Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nur aus einem weiteren Vokal besteht, muss man etwas unternehmen, um zu vermeiden, dass zwei Vokale unangenehm aufeinandertreffen. Normalerweise fügt man in der Mitte einen „Schutzbuchstaben" ein, zum Beispiel „y", „k", „h" usw.
 
-# 9. Kammil/kammli L Jadwal:
+# 9. kammel / kammlii el-jadwal:
 
-|          | ana        | inta      | inti       | huwe      | hiyi       | ni7na      | intu        | hinni       |
-| -------- | ---------- | --------- | ---------- | --------- | ---------- | ---------- | ----------- | ----------- |
-| **wara** | wara**yi** | wara**k** | wara**ki** | wara**h** | wara**ha** | wara**na** | wara**kon** | wara**hon** |
-| **3ala** | 3ala**yi** | 3aleek    | 3aleeki    | 3aleeh    | 3aleeha    | 3aleena    | 3aleekon    | 3aleehon    |
+|           | 2anaa         | 2inte       | 2intii        | huwwe       | hiyye          | ni7naa        | 2intuu        | hinnen         |
+| --------- | ------------- | ----------- | ------------- | ----------- | -------------- | ------------- | ------------- | -------------- |
+| **waraa** | waraa**yii**  | waraa**k**  | waraa**kii**  | waraa**h**  | waraa**haa**   | waraa**naa**  | waraa**kon**  | waraa**hon**   |
+| **3alaa** | 3alayyii      | 3aleek      | 3aleekii      | 3aleeh      | 3aleehaa       | 3aleenaa      | 3aleekon      | 3aleehon       |
 
-# 10. 2uli/2ul Wen: *(Sag, wo)*
+# 10. quul / quulii ween: *(Sag, wo)*
 
 ![[15. Ortsadverbien/Pasted image 20260920185134.png]]
-- Sabi – Bint *(Junge – Mädchen)*
-	- ween el Sabi? / ween el bint?
-	- el sabi iddaam el birdaayet / el bint wara el birdaayet
+- Sabii – bint *(Junge – Mädchen)*
+	- ween el-Sabii? / ween el-bint?
+	- el-Sabii quddaam el-birdaayet / el-bint waraa el-birdaayet
 
 ![[15. Ortsadverbien/Pasted image 20260920185224.png]]
-- hadyyet – ziinet *(Geschenk – Weihnachtsbaum/Schmuck)*
-	- ween el hadyyet? / ween el ziinet?
-	- el hadyyet iddaam / ta7t el ziinet
-	- el ziinet wara el hadyyet
+- hadiyyet – ziinet *(Geschenk – Weihnachtsbaum/Schmuck)*
+	- ween el-hadiyyet? / ween el-ziinet?
+	- el-hadiyyet quddaam / ta7t el-ziinet
+	- el-ziinet waraa el-hadiyyet
 
 ![[15. Ortsadverbien/Pasted image 20260920185244.png]]
-- raami – liina – kariim
-	- ween raami?
-	- raami janb liina w kariim
-	- ween liina?
-	- liina iddaam raami, w wara kariim
+- raamii – liinaa – kariim
+	- ween raamii?
+	- raamii janb liinaa w kariim
+	- ween liinaa?
+	- liinaa quddaam raamii, w waraa kariim
 
 ![[15. Ortsadverbien/Pasted image 20260920185259.png]]
-- kalb – 2eTTat *(Hund – katze)*
-	- ween el kalb?
-	- el kalb ta7t el Taawlet
-	- el kalb ta7t el 2eTTat
-	- not: katze
-		- 2eTTat
+- kalb – qiTTat *(Hund – Katze)*
+	- ween el-kalb?
+	- el-kalb ta7t el-Taawlet
+	- el-kalb ta7t el-qiTTat
+	- not: Katze
+		- qiTTat („2eTTat“)
 		- bisset
 
 ![[15. Ortsadverbien/Pasted image 20260921110736.png]]
-- talfizioon – 5zaanet – zrii3at *(Fernseher – Schrank – Pflanze)*
-	- ween el 5zaanet
-		- el 5zaanet wara el kanabaayet
-	- Tab ween el zree3at?
-		- el zree3at 3ala el shibbaak
+- talfizyoon – 5zaanet – zrii3at *(Fernseher – Schrank – Pflanze)*
+	- ween el-5zaanet
+		- el-5zaanet waraa el-kanabaayet
+	- Tab ween el-zrii3at?
+		- el-zrii3at 3alaa el-shibbaak
 - law7at – 7eeT – baab *(Bild – Wand – Tür)*
-	- ween el law7at?
-		- el law7at 3ala el 7eeT
-	- Tab ween el baab?
-		- el baab janb el law7at
+	- ween el-law7at?
+		- el-law7at 3alaa el-7eeT
+	- Tab ween el-baab?
+		- el-baab janb el-law7at
 - rfuuf – kanabaayet – kutub *(Regale – Sofa – Bücher)*
-	- ween el rfuuf?
-		- el rfuuf wara el kanabaayet
+	- ween el-rfuuf?
+		- el-rfuuf waraa el-kanabaayet
 	- shuu 3aleehon?
 		- 3aleehon kutub
-	- ween el kutub?
-		- el kutub 3ala el rfuuf
+	- ween el-kutub?
+		- el-kutub 3alaa el-rfuuf
 
 
 ---
-# 11. leeka- leeko hon / leeka-leeko honik
+# 11. leek'haa - leekoh hoon / leek'haa - leekoh huniik
 [[15. Ortsadverbien/Verben des Sehens — Deutsch und Arabisch]]
 *(„hier ist es für dich" / „dort ist es für dich" — Präsentativ-Ausdrücke)*
 
-> - **Wen L Mifta7 yaa Maya?**
-> - ➢ **L Mifta7 hon 3ala (L) Tawlet.**
-> - ➢ **L Mifta7 leeko hon 3ala (L) Tawlet.**
-> - ➢ **Leeko hon 3ala (L) Tawlet.**
+> - **ween el-miftaa7 yaa maayat?**
+> - ➢ **el-miftaa7 hoon 3alaa (el-)Taawlet.**
+> - ➢ **el-miftaa7 leekoh hoon 3alaa (el-)Taawlet.**
+> - ➢ **leekoh hoon 3alaa (el-)Taawlet.**
 
-> - **Wen L Kutub?**
-> - ➢ **L Kutub honik 3ala (L) Raff.**
-> - ➢ **L Kutub lekun honik 3ala (L) Raff.**
-> - ➢ **Leekun honik 3ala (L) Raff.**
+> - **ween el-kutub?**
+> - ➢ **el-kutub huniik 3alaa (el-)raff.**
+> - ➢ **el-kutub leek'hon huniik 3alaa (el-)raff.**
+> - ➢ **leek'hon huniik 3alaa (el-)raff.**
 
-> - **Wenkun yaa Sami w Jad?**
-> - ➢ **Ni7na hon bi 8urfetna.**
-> - ➢ **Ni7na Leekana hon bi 8urfetna.**
-> - ➢ **Leekna hon bi 8urfetna.**
+> - **weenkon yaa saamii w jaad?**
+> - ➢ **ni7naa hoon bi ghurftnaa.**
+> - ➢ **ni7naa leeknaa hoon bi ghurftnaa.**
+> - ➢ **leeknaa hoon bi ghurftnaa.**
 
-# 12. Kammil/kammli L Jadwal:
+# 12. kammel / kammlii el-jadwal:
 
 ## typ 1
-- du: leek / leeki
-- ihr: leeku
+- du: leek / leekii
+- ihr: leekuu
 ## typ 2
 
-|          | ana    | inte   | inti   | huwe  | hiyi  | ni7na  | intu    | hinne  |
-| -------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- | ------ |
-| **leek** | leekni | leekak | leekek | leeko | leeka | leekna | leekkon | leekon |
+|          | 2anaa   | 2inte  | 2intii | huwwe  | hiyye   | ni7naa  | 2intuu  | hinnen  |
+| -------- | ------- | ------ | ------ | ------ | ------- | ------- | ------- | ------- |
+| **leek** | leeknii | leekak | leekek | leekoh | leek'haa | leeknaa | leekkon | leek'hon |
 
 # 13. Bildbeispiele
 ![[15. Ortsadverbien/Pasted image 20260922162810.png]]
-Wen Karim yaa Sara?
-leeko hoon, iddaam el shajarat
-leeko honiik, janb sarat
+ween kariim yaa saarat?
+leekoh hoon, quddaam el-shajarat
+leekoh huniik, janb saarat
 
 ![[15. Ortsadverbien/Pasted image 20260922162842.png]]
-Ween Maya
-leeka hoon
-leeka honiik
+ween maayat?
+leek'haa hoon
+leek'haa huniik
 
-wen Rami?
-leeko honiik
-leeko hoon
+ween raamii?
+leekoh huniik
+leekoh hoon
 
 
 ---
 
-# 14. Beet A7mad bi Bineyet
-*(A7mads Haus ist in einem Gebäude)*
+# 14. beet 2a7mad bi binaayet
+*(Ahmads Haus ist in einem Gebäude)*
 
-> **Mira:** Wen Beetak yaa A7mad?
-> **A7mad:** Beeti bi haada (L) Schaare3.
-> (beeti leeko bi haada el shaare3)
+> **miiraa:** ween beetak yaa 2a7mad?
+> **2a7mad:** beetii bi haadaa (el-)shaare3.
+> (beetii leekoh bi haadaa el-shaare3)
 >
-> **Mira:** Beetak bi Binaayet?
-> **A7mad:** Eh, Beeti bi Binayet.
-> (eh, leeko bi hayy el binaayet)
+> **miiraa:** beetak bi binaayet?
+> **2a7mad:** 2ee, beetii bi binaayet.
+> (2ee, leekoh bi hay el-binaayet)
 >
-> **Mira:** Schu fii janb L Bineyet?
-> **A7mad:** janba fii M7attet Benzin, w iddaama fii Supermarket.
+> **miiraa:** shuu fii janb el-binaayet?
+> **2a7mad:** janbhaa fii m7aTTet baanziin, w quddaamhaa fii supermarket.
 >
-> **Mira:** w schu fii waraha?
-> **A7mad:** waraha fii Jneenet, w fii kamaan Mal3ab Wlaad.
-> (leeka fii jneeenet, w leeko fii mal3ab wlaad)
+> **miiraa:** w shuu fii waraahaa?
+> **2a7mad:** waraahaa fii jneenet, w fii kamaan mal3ab wlaad.
+> (leek'haa fii jneenet, w leekoh fii mal3ab wlaad)
 >
-> **Mira:** Schi8lak 2ariib min Beetak?
-> **A7mad:** La2, Schi8li b3id 3an Beeti.
+> **miiraa:** shughlak qariib min beetak?
+> **2a7mad:** la2, shughlii b3iid 3an beetii.
 >
-> **Liina:** Jame3tak ariibe min Beetak?
-> **A7mad:** Eh, Jam3ti ariibe min Beeti.
-> (eh, leeka ariibe min beeti)
+> **liinaa:** jaam3tak qariibet min beetak?
+> **2a7mad:** 2ee, jaam3tii qariibet min beetii.
+> (2ee, leek'haa qariibet min beetii)
 
 **Vokabular:**
 
-| M7attat Banzin | M7attat Kitar      | M7attat Bas    |
-| -------------- | ------------------ | -------------- |
-| Tankstelle     | Zugstation/Bahnhof | Bushaltestelle |
+| m7aTTet baanziin | m7aTTet qiTaar     | m7aTTet baaS   |
+| ---------------- | ------------------ | -------------- |
+| Tankstelle       | Zugstation/Bahnhof | Bushaltestelle |
 
-# 15. Jawbi/Jawib 3ala L 2as2ilat:
+# 15. jaaweb / jaawbii 3alaa el-2as2ilet:
 
-1. Bi ayya Schaare3 Beet A7mad?
-	- beet a7mad bi haada el shaare3
-2. Beetu bi Bineyet?
-3. Schu fii janb L Bineyet?
-4. Schu fii iddema?
-5. Fii waraha Jneenet?
-6. Fii wara L Beet M7attet Kitar?
-7. W inta, bi ayya Schaare3 Beetak? W inti, bi ayya Schaare3 Beetik?
+1. bi 2ayyaa shaare3 beet 2a7mad?
+	- beet 2a7mad bi haadaa el-shaare3
+2. beetoh bi binaayet?
+3. shuu fii janb el-binaayet?
+4. shuu fii quddaamhaa?
+5. fii waraahaa jneenet?
+6. fii waraa el-beet m7aTTet qiTaar?
+7. w 2inte, bi 2ayyaa shaare3 beetak? w 2intii, bi 2ayyaa shaare3 beetek?
 
 ---
 
 # 16. Adjektiv-Muster: Entfernung
 
-> 2ariib - 2ariibet - 2raab *(nah — m/f/pl)* 
-> b3iid - b3iide - b3aad *(weit/fern — m/f/pl)*
+> qariib - qariibet - qraab *(nah — m/f/pl, gesprochen „2ariib“)* 
+> b3iid - b3iidet - b3aad *(weit/fern — m/f/pl)*
 
 **Bildbeispiele:**
 ![[15. Ortsadverbien/Pasted image 20260922163614.png]]
-- Haada L Beet 2ariib *(nah)*
+- haadaa el-beet qariib *(nah)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163627.png]]
-- Haada L Beet b3iid *(weit)*
-- hadool L byuut b3aad
-- hadool L byuut b3eedet
+- haadaa el-beet b3iid *(weit)*
+- hadool el-byuut b3aad
+- hadool el-byuut b3iidet
 
 ![[15. Ortsadverbien/Pasted image 20260922163645.png]]
 - safiinet *(Schiff)*
@@ -336,53 +341,53 @@ leeko hoon
 ![[15. Ortsadverbien/Pasted image 20260922163712.png]]
 - sufun *(Schiffe)*
 
-# 17. 2ariib min - b3iid 3an *(nah an — weit von)*
+# 17. qariib min - b3iid 3an *(nah an — weit von)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163900.png]]
-> **L Wlaad 2raab ktiir min (L) Telvision.**
+> **el-wlaad qraab kthiir min (el-)talfizyoon.**
 > *(Die Kinder sind sehr nah am Fernseher.)*
 
 ![[15. Ortsadverbien/Pasted image 20260922163917.png]]
-> **Layla w Binta b3aad schway 3an L Beet.**
+> **laylaa w bint'haa b3aad shway 3an el-beet.**
 > *(Layla und ihre Tochter sind ein bisschen weit vom Haus entfernt.)*
 
 # 18. **Vokabelgruppen zum Üben:**
-- ma7al – m7attat L baaS *(Geschäft – Bushaltestelle)*
-	- L ma7al 2ariib shway min ma7aTTet L baaS
-- jaam3at – A7mad – beeto *(Universität – A7mad – sein Haus)*
-	- L jaam3at b3iidet ktiir 3an beet a7mad
-	- L jaam3at 2riibet min beet a7mad
-- 7aDaanet – binti – shi8li *(Kindergarten – meine Tochter – meine Arbeit)*
-	- 7aDaanet binti 2ariibet min shi8li
-	- 7aDaanet binti b3iidet 3an shi8li
-- malaa3ib (L) tenis – L binaayet *(Tennisplätze – das Gebäude)*
-	- malaa3ib L tenis 2raab min L binaayet
-	- malaa3ib L tenis 2ariibet min L binaayet
-	- malaa3ib L tenis b3aad 3an L binaayet
-- (L) sufun – shaTT *(die Schiffe – der Strand)*
-	- L sufun 2ariibet min L shaTT
-	- L sufun b3iidet 3an L shaTT
+- ma7all – m7aTTet el-baaS *(Geschäft – Bushaltestelle)*
+	- el-ma7all qariib shway min m7aTTt el-baaS
+- jaam3at – 2a7mad – beetoh *(Universität – Ahmad – sein Haus)*
+	- el-jaam3at b3iidet kthiir 3an beet 2a7mad
+	- el-jaam3at qariibet min beet 2a7mad
+- 7aDaanet – bintii – shughlii *(Kindergarten – meine Tochter – meine Arbeit)*
+	- 7aDaanet bintii qariibet min shughlii
+	- 7aDaanet bintii b3iidet 3an shughlii
+- malaa3ib (el-)tenis – el-binaayet *(Tennisplätze – das Gebäude)*
+	- malaa3ib el-tenis qraab min el-binaayet
+	- malaa3ib el-tenis qariibet min el-binaayet
+	- malaa3ib el-tenis b3aad 3an el-binaayet
+- (el-)sufun – shaTT *(die Schiffe – der Strand)*
+	- el-sufun qariibet min el-shaTT
+	- el-sufun b3iidet 3an el-shaTT
 
 
-(ktiir / shway *(viel # ein bisschen)*)
+(kthiir / shway *(viel # ein bisschen)*)
 
-# 19. Rattbi/Rattib L Kilmet bi Jumal: *(Bring die Wörter in die richtige Reihenfolge)*
+# 19. ratteb / rattbii el-kilmaatt bi jumal: *(Bring die Wörter in die richtige Reihenfolge)*
 
-1. Beeti – L – 3an – Schi8il – b3id
-	- beeti b3iid 3an L shi8il
-2. L – janb – L – M7attet – baanziin – binaayet
-	- ma7aTTet L baanziin janb L binaayet
-3. (L) – bi – fii – Schaare3 – haada – Banzin – M7attet.
-	- bi haada L shaare3 fii ma7aTTet baanziin
-	- fii bi haada L shaare3 ma7aTTet baanziin
+1. beetii – el- – 3an – shughl – b3iid
+	- beetii b3iid 3an el-shughl
+2. el- – janb – el- – m7aTTet – baanziin – binaayet
+	- m7aTTt el-baanziin janb el-binaayet
+3. (el-) – bi – fii – shaare3 – haadaa – baanziin – m7aTTet.
+	- bi haadaa el-shaare3 fii m7aTTet baanziin
+	- fii bi haadaa el-shaare3 m7aTTet baanziin
 	- fii banadoorat?
-	- fii banadoorat bi hay el 3ilbet
+	- fii banadoorat bi hay el-3ilbet
 
 # 20. Bilde Sätze mit diesen Wörtern
 - binaayet: ————————————————————————————————————————
-- 8raaD: ————————————————————————————————————————
-- 8urfet: ————————————————————————————————————————
+- ghraaD: ————————————————————————————————————————
+- ghurfet: ————————————————————————————————————————
 - wlaad: ————————————————————————————————————
-- i5waat: ————————————————————————————————————————
-- anniinet: ————————————————————————————————————————
+- 2i5waatt: ————————————————————————————————————————
+- qanniinet: ————————————————————————————————————————
 - barraad: ————————————————————————————————————————

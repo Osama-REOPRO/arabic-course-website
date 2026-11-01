@@ -8,21 +8,21 @@ lektion:
   - "17"
 ---
 
-# Die Wurzel (ej-jazr) — Ein Blick hinter die Kulissen
+# Die Wurzel (el-jazr) — Ein Blick hinter die Kulissen
 
 Schauen wir uns gemeinsam eine Reihe neuer Wörter an:
 
 **Nomen:**
 - ktaab — Buch
 - maktab — Büro
-- maktoob — geschrieben / Brief
+- maktuub — geschrieben / Brief
 - kaateb — Schriftsteller
 - maktabet — Bibliothek
 
 **Verben:**
 - katab — er schrieb
 - byektob — er schreibt
-- katabna — wir schrieben
+- katabnaa — wir schrieben
 - katbett — sie schrieb
 
 Schau dir die Wörter genau an. Was haben alle diese Wörter gemeinsam — sowohl die Nomen als auch die Verben?
@@ -31,8 +31,8 @@ Schau dir die Wörter genau an. Was haben alle diese Wörter gemeinsam — sowoh
 
 Achte darauf: Jedes einzelne Wort enthält **dieselben drei Konsonanten**, immer in derselben Reihenfolge: **k — t — b**.
 
-> k**t**aab, **mak**t**ab**, **mak**t**oo**b, **k**aate**b**, **mak**t**a**b**et**
-> **k**a**t**a**b**, by**ekt**o**b**, **k**a**t**a**b**na, **k**a**t**a**b**et
+> **k**·**t**·aa·**b**, ma·**k**·**t**·a·**b**, ma·**k**·**t**·uu·**b**, **k**·aa·**t**·e·**b**, ma·**k**·**t**·a·**b**·et
+> **k**·a·**t**·a·**b**, by·e·**k**·**t**·o·**b**, **k**·a·**t**·a·**b**·naa, **k**·a·**t**·**b**·ett
 
 Manchmal steht am Anfang ein **m**. Manchmal stehen unterschiedliche Vokale dazwischen. Die drei Buchstaben **k, t, b** verschieben sich innerhalb des Wortes — aber ihre Reihenfolge zueinander ändert sich nie.
 
@@ -46,18 +46,18 @@ Schauen wir uns eine weitere Wortgruppe an:
 **Verben:**
 - Taba5 — er kochte
 - byeTbo5 — er kocht
-- Taba5na — wir kochten
-- Tab5et — sie kochte
+- Taba5naa — wir kochten
+- Tab5ett — sie kochte
 
 **Nomen:**
-- Tabba5 — Koch
+- Tabbaa5 — Koch
 - maTba5 — Küche
-- maTboo5 — gekocht (Gericht)
+- maTbuu5 — gekocht (Gericht)
 
 Auch hier passiert dasselbe: Jedes Wort enthält dieselben drei Konsonanten, immer in derselben Reihenfolge: **T — b — 5**.
 
-> **T**a**b**a**5**, by**eTb**o**5**, **T**a**b**a**5**na, **T**a**b**a**5**et
-> **Tabb**a**5**, ma**Tb**a**5**, ma**Tb**oo**5**
+> **T**·a·**b**·a·**5**, by·e·**T**·**b**·o·**5**, **T**·a·**b**·a·**5**·naa, **T**·a·**b**·**5**·ett
+> **T**·a·**bb**·aa·**5**, ma·**T**·**b**·a·**5**, ma·**T**·**b**·uu·**5**
 
 Genau wie vorher verschieben sich die drei Buchstaben innerhalb des Wortes — aber ihre Reihenfolge zueinander bleibt immer gleich.
 
@@ -69,23 +69,23 @@ Genau wie vorher verschieben sich die drei Buchstaben innerhalb des Wortes — a
 Schauen wir uns noch eine letzte Wortgruppe an:
 
 **Verben:**
-- byishtighil — er arbeitet
-- eshtaghal — er arbeitete
-- eshtaghalna — wir arbeiteten
-- eshtaghlett — sie arbeitete
+- byishtighel — er arbeitet
+- 2ishtaghal — er arbeitete
+- 2ishtaghalnaa — wir arbeiteten
+- 2ishtaghlett — sie arbeitete
 
 **Nomen:**
-- sheghel — Arbeit / Job
-- mashghoul — beschäftigt
+- shughl — Arbeit / Job (gesprochen „sheghel“)
+- mashghuul — beschäftigt
 - mashghal — Werkstatt
 
 **Adjektiv:**
-- shaghghaal — funktionstüchtig / es funktioniert
+- shagghaal — funktionstüchtig / es funktioniert
 
 Noch einmal dasselbe Muster: Jedes Wort enthält dieselben drei Konsonanten, immer in derselben Reihenfolge: **sh — gh — l**.
 
-> by**isht**i**ghil**, **esht**a**ghal**, **esht**a**ghal**na, **esht**a**ghl**et
-> **shegh**e**l**, ma**shgh**oo**l**, ma**shgh**a**l**, **shaghgh**aa**l**
+> by·i·**sh**·t·i·**gh**·e·**l**, 2i·**sh**·t·a·**gh**·a·**l**, 2i·**sh**·t·a·**gh**·a·**l**·naa, 2i·**sh**·t·a·**gh**·**l**·ett
+> **sh**·u·**gh**·**l**, ma·**sh**·**gh**·uu·**l**, ma·**sh**·**gh**·a·**l**, **sh**·a·**ggh**·aa·**l**
 
 Dieses Muster zeigt auch, dass eine Wurzel nicht nur Verben und Nomen hervorbringen kann, sondern auch Adjektive.
 
@@ -94,9 +94,9 @@ Dieses Muster zeigt auch, dass eine Wurzel nicht nur Verben und Nomen hervorbrin
 
 ---
 
-## Die Regel: Die Wurzel (ej-jazr)
+## Die Regel: Die Wurzel (el-jazr)
 
-Was du gerade entdeckt hast, hat einen Namen. Im Arabischen basiert fast jedes Wort auf einer **Wurzel** — meistens drei Konsonanten, die die **Kernbedeutung** einer Idee tragen. Das nennt man **ej-jazr** (die Wurzel).
+Was du gerade entdeckt hast, hat einen Namen. Im Arabischen basiert fast jedes Wort auf einer **Wurzel** — meistens drei Konsonanten, die die **Kernbedeutung** einer Idee tragen. Das nennt man **el-jazr** (die Wurzel, gesprochen „ej-jazr“).
 
 - k-t-b → die Idee von **Schreiben**
 - T-b-5 → die Idee von **Kochen**
@@ -118,9 +118,9 @@ Hier siehst du fünf weitere Wurzeln, die jeweilige Grundidee, und drei daraus a
 - diraaset — Studium / Untersuchung
 
 **3-l-m — die Idee von "Wissen"**
-- ta3leem — Bildung
+- ta3liim — Bildung
 - 3aalem — Gelehrte(r)
-- ma3loomaatt — Information
+- ma3luumaatt — Information
 
 **f-t-7 — die Idee von "Öffnen"**
 - fata7 — er öffnete
@@ -132,10 +132,10 @@ Hier siehst du fünf weitere Wurzeln, die jeweilige Grundidee, und drei daraus a
 - ghassaalet — Waschmaschine
 - maghsalet — Waschraum / Spüle
 
-**9-r-2 — die Idee von "Lesen"**
-- 9ara2 — er las
-- 9iraa2at — das Lesen
-- ma9roo2 — gelesen / lesbar
+**q-r-2 — die Idee von "Lesen"**
+- qara2 — er las
+- qiraa2at — das Lesen
+- maqruu2 — gelesen / lesbar
 
 <div style="page-break-after: always;"></div>
 
@@ -165,12 +165,12 @@ Schauen Sie sich genau die Form jedes Wortes an:
 Schauen wir uns eine weitere Wortgruppe an, wieder aus unterschiedlichen Wurzeln:
 
 - Tabbaa5 (T-b-5) — Koch
-- 7allaa2 (7-l-2) — Friseur
-- sawwaa2 (s-w-2) — Fahrer
+- 7allaaq (7-l-q) — Friseur
+- sawwaaq (s-w-q) — Fahrer
 - 5ayyaaT (5-y-T) — Schneider
 - bayyaa3 (b-y-3) — Verkäufer
 
-Dieselbe Frage: Die Wurzeln sind alle unterschiedlich — T-b-5, 7-l-2, s-w-2, 5-y-T, b-y-3 — aber was fällt Ihnen an der Form dieser Wörter auf?
+Dieselbe Frage: Die Wurzeln sind alle unterschiedlich — T-b-5, 7-l-q, s-w-q, 5-y-T, b-y-3 — aber was fällt Ihnen an der Form dieser Wörter auf?
 
 Schauen Sie genau hin: 
 > **[Wurzel1] + a + [Wurzel2][Wurzel2] + aa + [Wurzel3]**
@@ -188,7 +188,7 @@ Schauen wir uns noch eine Wortgruppe an — diesmal mit Wurzeln, die Sie schon k
 - daras (d-r-s) — er lernte
 - fata7 (f-t-7) — er öffnete
 - ghasal (gh-s-l) — er wusch
-- 9ara2 (9-r-2) — er las
+- qara2 (q-r-2) — er las
 
 Dieselbe Frage wie zuvor: Die Wurzeln sind alle unterschiedlich, aber was fällt Ihnen an der Form dieser Wörter auf?
 
@@ -229,8 +229,8 @@ ein *Ort*, an dem die Handlung der Wurzel stattfindet
 eine Person, die die Handlung der Wurzel beruflich ausübt
 ###### Beispiele:
 - T-b-5 > Tabbaa5 (Koch)
-- 7-l-2 > 7allaa2 (Friseur)
-- s-w-2 > sawwaa2 (Fahrer)
+- 7-l-q > 7allaaq (Friseur)
+- s-w-q > sawwaaq (Fahrer)
 - 5-y-T > 5ayyaaT (Schneider)
 - b-y-3 > bayyaa3 (Verkäufer)
 
@@ -242,14 +242,16 @@ eine Person, die die Handlung der Wurzel beruflich ausübt
 - d-r-s > daras (er lernte)
 - f-t-7 > fata7 (er öffnete)
 - gh-s-l > ghasal (er wusch)
-- 9-r-2 > 9ara2 (er las)
+- q-r-2 > qara2 (er las)
 
 ---
 
 <div style="page-break-after: always;"></div>
 
 ## der Trick (f-3-l)
-Diese eckige-Klammer-Schreibweise jedes Mal auszuschreiben ist umständlich und schwer zu merken. Deshalb haben sich arabische Grammatiker einen cleveren Trick ausgedacht: Sie benutzen eine bestimmte Platzhalter-Wurzel — **ف-ع-ل (f-3-l)** — als Stellvertreter für "irgendeine Wurzel". Statt [W1]a[W2][W2]a[W3] zu schreiben, schreibt man einfach **fa33al**, wobei f, 3 und l die Position von Wurzelbuchstabe 1, 2 und 3 markieren.
+Diese eckige-Klammer-Schreibweise jedes Mal auszuschreiben ist umständlich und schwer zu merken. Deshalb haben sich arabische Grammatiker einen cleveren Trick ausgedacht: Sie benutzen eine bestimmte Platzhalter-Wurzel — **f-3-l** — als Stellvertreter für "irgendeine Wurzel". Statt [W1]a[W2][W2]a[W3] zu schreiben, schreibt man einfach **fa33al**, wobei f, 3 und l die Position von Wurzelbuchstabe 1, 2 und 3 markieren.
+
+ف-ع-ل
 
 Statt der umständlichen Klammer-Schreibweise werden die drei oben gezeigten Muster also einfach so geschrieben:
 
@@ -273,7 +275,7 @@ Genau darin liegt die eigentliche Stärke des arabischen Wortschatzes: Sobald Si
 | d-r-s | d | r | s |
 | f-t-7 | f | t | 7 |
 | gh-s-l | gh | s | l |
-| 9-r-2 | 9 | r | 2 |
+| q-r-2 | q | r | 2 |
 
 Wenn Sie also ein Muster wie **fa3al** sehen, wissen Sie genau, was zu tun ist: Setzen Sie den ersten Buchstaben Ihrer Wurzel an die Stelle des **f**, den zweiten an die Stelle des **3**, und den dritten an die Stelle des **l**.
 
@@ -293,15 +295,15 @@ Am Ende dieser Lektion soll es nicht mehr darum gehen, bewusst zu berechnen: "f 
 
 Nehmen wir ein Muster — **maf3al** (das "Orts-Muster") — und lassen wir verschiedene Wurzeln hindurchlaufen. Beobachten Sie, wie dieselbe "Melodie" jedes Mal ein anderes Wort hervorbringt, die Bedeutung aber immer "ein Ort, an dem ___ passiert" bleibt.
 
-| Wurzel        | Bedeutung der Wurzel | maf3al → Ergebnis | Bedeutung               |
-| ------------- | -------------------- | ----------------- | ----------------------- |
-| l-3-b (ل-ع-ب) | spielen              | mal3ab            | Spielplatz / Stadion    |
-| k-t-b (ك-ت-ب) | schreiben            | maktab            | Büro                    |
-| 3-m-l (ع-م-ل) | tun / arbeiten       | ma3mal            | Fabrik                  |
-| s-b-7 (س-ب-ح) | schwimmen            | masba7            | Schwimmbad              |
-| 5-r-j (خ-ر-ج) | hinausgehen          | ma5raj            | Ausgang                 |
-| w-9-f (و-ق-ف) | anhalten / parken    | maw9ef            | Parkplatz / Haltestelle |
-| 3-r-D (ع-ر-ض) | zeigen / ausstellen  | ma3raD            | Ausstellung             |
+| Wurzel | Arabisch        | Bedeutung der Wurzel | maf3al → Ergebnis | Bedeutung               |
+| --- | ------------- | -------------------- | ----------------- | ----------------------- |
+| l-3-b | ل-ع-ب | spielen              | mal3ab            | Spielplatz / Stadion    |
+| k-t-b | ك-ت-ب | schreiben            | maktab            | Büro                    |
+| 3-m-l | ع-م-ل | tun / arbeiten       | ma3mal            | Fabrik                  |
+| s-b-7 | س-ب-ح | schwimmen            | masba7            | Schwimmbad              |
+| 5-r-j | خ-ر-ج | hinausgehen          | ma5raj            | Ausgang                 |
+| w-q-f | و-ق-ف | anhalten / parken    | mawqef            | Parkplatz / Haltestelle |
+| 3-r-D | ع-ر-ض | zeigen / ausstellen  | ma3raD            | Ausstellung             |
 
 Beachten Sie: derselbe Rhythmus, dasselbe Vokalmuster, jedes Mal — nur eine neue Wurzel wird eingesetzt, und die Bedeutung passt sich an die neue Wurzel an, während das Gefühl von "Ort" gleich bleibt.
 
@@ -312,7 +314,9 @@ Beachten Sie: derselbe Rhythmus, dasselbe Vokalmuster, jedes Mal — nur eine ne
 
 Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch verschiedene Muster laufen. Beobachten Sie, wie die *Bedeutung* der Wurzel gleich bleibt, sich aber die *Funktion* des Wortes komplett ändert, je nachdem, zu welchem Muster sie "gesungen" wird.
 
-**Wurzel: T-b-5 (ط-ب-خ) — die Idee von "Kochen"**
+**Wurzel: T-b-5 — die Idee von "Kochen"**
+
+ط-ب-خ
 
 | Muster | Was das Muster bewirkt | Ergebnis | Bedeutung |
 |---|---|---|---|
@@ -320,16 +324,20 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 | maf3al | "ein Ort, an dem X passiert" | maTba5 | Küche |
 | fa33aal | "eine Person, die X beruflich tut" | Tabbaa5 | Koch |
 
-**Wurzel: k-t-b (ك-ت-ب) — die Idee von "Schreiben"**
+**Wurzel: k-t-b — die Idee von "Schreiben"**
+
+ك-ت-ب
 
 | Muster | Was das Muster bewirkt | Ergebnis | Bedeutung |
 |---|---|---|---|
 | fa3al | "er hat X getan" (Vergangenheit) | katab | er schrieb |
 | maf3al | "ein Ort, an dem X passiert" | maktab | Büro |
-| maf3uul | "etwas, dem X angetan wurde" | maktoob | geschrieben / Brief |
+| maf3uul | "etwas, dem X angetan wurde" | maktuub | geschrieben / Brief |
 | faa3el | "derjenige, der X tut" | kaateb | Schriftsteller |
 
-**Wurzel: d-r-s (د-ر-س) — die Idee von "Lernen"**
+**Wurzel: d-r-s — die Idee von "Lernen"**
+
+د-ر-س
 
 | Muster | Was das Muster bewirkt | Ergebnis | Bedeutung |
 |---|---|---|---|
@@ -337,7 +345,9 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 | maf3alet | "ein Ort, an dem X passiert" | madraset | Schule |
 | fa33al | "er hat X bei jemand anderem bewirkt" | darras | er unterrichtete |
 
-**Wurzel: f-t-7 (ف-ت-ح) — die Idee von "Öffnen"**
+**Wurzel: f-t-7 — die Idee von "Öffnen"**
+
+ف-ت-ح
 
 | Muster | Was das Muster bewirkt | Ergebnis | Bedeutung |
 |---|---|---|---|
@@ -347,7 +357,9 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 
 
 
-**Wurzel: gh-s-l (غ-س-ل) — die Idee von "Waschen"**
+**Wurzel: gh-s-l — die Idee von "Waschen"**
+
+غ-س-ل
 
 | Muster    | Was das Muster bewirkt           | Ergebnis   | Bedeutung         |
 | --------- | -------------------------------- | ---------- | ----------------- |

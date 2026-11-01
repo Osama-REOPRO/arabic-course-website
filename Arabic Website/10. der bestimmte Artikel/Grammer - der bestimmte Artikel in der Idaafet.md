@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Grammer - der bestimmte Artikel in der Idaafet
+title: der bestimmte Artikel in der 2iDaafet
 category: grammar
 group:
 order:
@@ -8,15 +8,15 @@ order:
 lektion:
   - "15"
 ---
-Die Idaafet verbindet zwei Nomen: (Hauptwort) + (Bestimmungswort). Das zweite Wort kann entweder bestimmt (el-) oder unbestimmt (ohne el-) sein.
+Die 2iDaafet verbindet zwei Nomen: (Hauptwort) + (Bestimmungswort). Das zweite Wort kann entweder bestimmt (el-) oder unbestimmt (ohne el-) sein.
 
 
-## Idaafet ohne el-
-Unbestimmt — irgendein Bestimmungswort. Tabba5 + maT3am → Tabba5 maT3am (ein Koch in einem Restaurant).
+## 2iDaafet ohne el-
+Unbestimmt — irgendein Bestimmungswort. Tabbaa5 + maT3am → Tabbaa5 maT3am (ein Koch in einem Restaurant).
 
-## Idaafet mit el-
-Bestimmt — ein genaues, bekanntes Bestimmungswort. Tabba5 + el-maT3am → Tabba5 el-maT3am (der Koch des Restaurants).
+## 2iDaafet mit el-
+Bestimmt — ein genaues, bekanntes Bestimmungswort. Tabbaa5 + el-maT3am → Tabbaa5 el-maT3am (der Koch des Restaurants).
 
-## Feminine Wörter (-et) in der Idaafet
-Ohne el-: Endung bleibt -et. taalebet + jaam3at → taalebet jaam3at (eine Universitätsstudentin).
-Mit el-: das "e" vor dem "t" fällt weg, nur "-t" bleibt. taalebet + ej-jaam3at → taalebt ej-jaam3at (die Studentin der Universität).
+## Feminine Wörter (-et) in der 2iDaafet
+Ohne el-: Endung bleibt -et. Taalbet + jaam3at → Taalbet jaam3at (eine Universitätsstudentin).
+Mit el-: das "e" vor dem "t" fällt weg, nur "-t" bleibt. Taalbet + el-jaam3at → Taalbt el-jaam3at, gesprochen „Taalbt ej-jaam3at“ (die Studentin der Universität).

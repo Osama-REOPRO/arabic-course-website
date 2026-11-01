@@ -11,104 +11,104 @@ order:
 
 # Frage: Was ist das? (männlich)
 
-> Frage: Shuu haada?
-> Antwort: Haada Beet.
+> Frage: shuu haadaa?
+> Antwort: haadaa beet.
 
-> Frage: Shuu haada?
-> Antwort: Haad kalb
+> Frage: shuu haadaa?
+> Antwort: haad kalb
 
-> Frage: Shuu haada?
-> Antwort: Haad rijjaal
+> Frage: shuu haadaa?
+> Antwort: haad rijjaal
 
 ---
 
 # Frage: Ist das...? (männlich)
 
-> Hier fragt man mit **Haada + Nomen?** und antwortet mit **Eh** (ja) oder **La2** (nein). Bei "nein" sagt man **"muu"** (nicht) vor dem Nomen.
+> Hier fragt man mit **haadaa + Nomen?** und antwortet mit **2ee** (ja) oder **la2** (nein). Bei "nein" sagt man **"muu"** (nicht) vor dem Nomen.
 
 **Beispiele:**
 
-- Haada Beet? → Eh, haada beet. *(Ist das ein Haus? – Ja, das ist ein Haus.)*
-- Haada Beet? → La2, haada muu beet. *(Ist das ein Haus? – Nein, das ist kein Haus.)*
-- Shuu haada? → Haada Kalb.
+- haadaa beet? → 2ee, haadaa beet. *(Ist das ein Haus? – Ja, das ist ein Haus.)*
+- haadaa beet? → la2, haadaa muu beet. *(Ist das ein Haus? – Nein, das ist kein Haus.)*
+- shuu haadaa? → haadaa kalb.
 
-**Übe mit:** Sabi – Rijjal
+**Übe mit:** Sabii – rijjaal
 
 ---
 
 # Frage: Was ist das? (weiblich)
 
-- Shuu hay? → Hay 3ilbet.
-- Shuu hay? → Hay Schantat.
-- Shuu hay? → Hay Mayy.
-- Shuu hay? → Hay Nar.
-- Shuu hay? → Hay Bint.
+- shuu hay? → hay 3ilbet.
+- shuu hay? → hay shantat.
+- shuu hay? → hay mayy.
+- shuu hay? → hay naar.
+- shuu hay? → hay bint.
 
 ---
 
 # Frage: Ist das...? (weiblich)
-- Hay Sabiyet? → Eh, hay Sabiyet. / La2, hay muu Sabiyet.
-- Hay Kalbet? → Eh, hay Kalbet. / La2, hay muu Kalbet.
-- Hay Marat? → Eh, hay Marat. / La2, hay muu Marat.
-- Hay Battat? → Eh, hay Battat. / La2, hay muu Battat.
-- Hay Mayy? → Eh, hay mayy. / La2, hay muu mayy.
+- hay Sabiyyet? → 2ee, hay Sabiyyet. / la2, hay muu Sabiyyet.
+- hay kalbet? → 2ee, hay kalbet. / la2, hay muu kalbet.
+- hay marat? → 2ee, hay marat. / la2, hay muu marat.
+- hay baTTat? → 2ee, hay baTTat. / la2, hay muu baTTat.
+- hay mayy? → 2ee, hay mayy. / la2, hay muu mayy.
 
 ---
 
-# Frage: Miin? *(Wer?)*
+# Frage: miin? *(Wer?)*
 
-> **Grammatik:** Um nach einer **Person** zu fragen, benutzt man **"Miin?"** (Wer?) statt "Shuu?" (Was?). Die Antwort enthält dann einen Eigennamen.
+> **Grammatik:** Um nach einer **Person** zu fragen, benutzt man **"miin?"** (Wer?) statt "shuu?" (Was?). Die Antwort enthält dann einen Eigennamen.
 
-### Einfache Fragen mit "Miin"
+### Einfache Fragen mit "miin"
 
-| Arabisch (Chat) | Deutsch |
+| Arabisch (Transliteration) | Deutsch |
 |---|---|
-| Miin haada? | Wer ist das? (männlich) |
-| Miin hay? | Wer ist das? (weiblich) |
-| Miin hadool? | Wer sind das? (Plural) |
+| miin haadaa? | Wer ist das? (männlich) |
+| miin hay? | Wer ist das? (weiblich) |
+| miin hadool? | Wer sind das? (Plural) |
 
 **Beispiele:**
-- Miin haada? → Haada 3ali. *(Das ist Ali.)*
-- Miin hay? → Hay Liina. *(Das ist Lina.)*
-- Miin hadool? → Hadool 5aaled w Raami. *(Das sind Khaled und Rami.)*
-- Miin hadool? → Hadool 7ala w Liina w Saarat. *(Das sind Hala, Lina und Sara.)*
+- miin haadaa? → haadaa 3alii. *(Das ist Ali.)*
+- miin hay? → hay liinaa. *(Das ist Lina.)*
+- miin hadool? → hadool 5aaled w raamii. *(Das sind Khaled und Rami.)*
+- miin hadool? → hadool 7alaa w liinaa w saarat. *(Das sind Hala, Lina und Sara.)*
 
 ### Ja/Nein Fragen mit Namen
-- Haada 5aaled? → Eh, haada 5aaled. / La2, haada muu 5aaled.
-- Hay Saarat? → Eh, hay Saarat. / La2, hay muu Saarat.
-- Hay Liina wallaa 7ala? *(Ist das Lina oder Hala?)* → Hay 7ala.
-- Hadool Sebyaan? → Eh, hadol Sebyaan. / La2, hadol mo Sebyaan.
-- Hadool Byuut? → Eh, hadool Byuut. / La2, hadool muu Byuut.
+- haadaa 5aaled? → 2ee, haadaa 5aaled. / la2, haadaa muu 5aaled.
+- hay saarat? → 2ee, hay saarat. / la2, hay muu saarat.
+- hay liinaa wallaa 7alaa? *(Ist das Lina oder Hala?)* → hay 7alaa.
+- hadool Sibyaan? → 2ee, hadool Sibyaan. / la2, hadool muu Sibyaan.
+- hadool byuut? → 2ee, hadool byuut. / la2, hadool muu byuut.
 
 ### Besitz-Kombination: Nomen + Name
 **Struktur:**
-> **Frage:** Haada/Hay/Hadool + Nomen + **miin**?
-> **Antwort:** Haada/Hay/Hadool + Nomen + Eigenname
+> **Frage:** haadaa/hay/hadool + Nomen + **miin**?
+> **Antwort:** haadaa/hay/hadool + Nomen + Eigenname
 
 **Beispiel:**
 
-> F: Haada Ktaab miin? *(Wessen Buch ist das?)*
-> A: Haada Ktaab Saarat. *(Das ist Saras Buch.)*
+> F: haadaa ktaab miin? *(Wessen Buch ist das?)*
+> A: haadaa ktaab saarat. *(Das ist Saras Buch.)*
 
-> F: Hay Schantaayett miin?
-> A: Hay Schantaayett Rami. *(Das ist Ramis Tasche.)*
+> F: hay shantaayet miin?
+> A: hay shantaayet raamii. *(Das ist Ramis Tasche.)*
 
 Weitere Beispiele:
 
-| Arabisch (Chat) | Deutsch |
+| Arabisch (Transliteration) | Deutsch |
 |---|---|
-| Hay NaDDaarett miin? → Hay NaDDaarett Liina | Wessen Sonnenbrille ist das? → Das ist Linas Sonnenbrille |
-| Hadool ketob miin? → Hadool ketob Tim | Wessen Bücher sind das? → Das sind Tims Bücher |
-| Hay Bint miin? → Hay Bint Liina | Wessen Mädchen (Tochter) ist das? → Das ist Linas Tochter |
-| Haada Beet miin? → Haada Beet Tim | Wessen Haus ist das? → Das ist Tims Haus |
+| hay naDDHaaret miin? → hay naDDHaaret liinaa | Wessen Sonnenbrille ist das? → Das ist Linas Sonnenbrille |
+| hadool kutub miin? → hadool kutub Tim | Wessen Bücher sind das? → Das sind Tims Bücher |
+| hay bint miin? → hay bint liinaa | Wessen Mädchen (Tochter) ist das? → Das ist Linas Tochter |
+| haadaa beet miin? → haadaa beet Tim | Wessen Haus ist das? → Das ist Tims Haus |
 
 ---
 
 ## 📌 Zusammenfassung
 
-| Frage                            | Bedeutung                     |
-| -------------------------------- | ----------------------------- |
-| Shuu haada/hay/hadool?           | Was ist das?                  |
-| Haada/Hay/Hadool + Nomen?        | Ist das...? (Antwort: Eh/La2) |
-| Miin haada/hay/hadool?           | Wer ist das?                  |
-| Haada/Hay/Hadool + Nomen + miin? | Wessen ...?                   |
+| Frage                              | Bedeutung                       |
+| ---------------------------------- | ------------------------------- |
+| shuu haadaa/hay/hadool?            | Was ist das?                    |
+| haadaa/hay/hadool + Nomen?         | Ist das...? (Antwort: 2ee/la2)  |
+| miin haadaa/hay/hadool?            | Wer ist das?                    |
+| haadaa/hay/hadool + Nomen + miin?  | Wessen ...?                     |

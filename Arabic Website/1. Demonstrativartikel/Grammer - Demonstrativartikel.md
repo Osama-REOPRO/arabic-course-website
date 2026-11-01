@@ -7,9 +7,18 @@ group: demonstrativartikel
 order: 1
 ---
 # Demonstrativartikel
-## Haad/Haada هاد
+## haad / haadaa
+
+هاد / هادا
+
 Das (männlich)
-## Hay هي
+## hay
+
+هي
+
 Das (weiblich)
-## Hadool هدول
+## hadool
+
+هدول
+
 Das sind

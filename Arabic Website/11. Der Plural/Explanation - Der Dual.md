@@ -18,7 +18,7 @@ Das System sieht also so aus:
 Die Regel zur Bildung des Duals ist einfach:
 
 - Bei normalen Nomen: **-een** ans Ende anhängen
-- Bei Nomen mit Taa Marbouta (-et/-at): die Endung wird zu **-teen**
+- Bei Nomen mit taa2 marbuuTat (-et/-at): die Endung wird zu **-teen**
 
 ---
 
@@ -26,11 +26,11 @@ Die Regel zur Bildung des Duals ist einfach:
 
 | Singular | Dual | Plural | Deutsch |
 |---|---|---|---|
-| ktaab | ktabeen | kutub | Buch |
-| beet | beteen | byuut | Haus |
-| ghurfet | ghurfteen | ghurfaat | Zimmer |
-| sayyaarat | sayyarteen | sayyaraat | Auto |
-| mwazzaf | mwazzafeen | mwazzafiin | Angestellte(r) |
+| ktaab | ktaabeen | kutub | Buch |
+| beet | beeteen | byuut | Haus |
+| ghurfet | ghurfteen | ghuraf / ghurfaatt | Zimmer |
+| sayyaarat | sayyaarteen | sayyaaraatt | Auto |
+| mwaDDHaf | mwaDDHafeen | mwaDDHafiin | Angestellte(r) |
 
 ---
 
@@ -38,13 +38,13 @@ Die Regel zur Bildung des Duals ist einfach:
 
 Possessivsuffixe werden an den Dual genauso angehängt wie du es schon kennst:
 
-|            | ktabeen   | beteen    | ghurfteen   | sayyarteen   |
-| ---------- | --------- | --------- | ----------- | ------------ |
-| mein/meine | ktabeeni  | beteeni   | ghurfteeni  | sayyarteeni  |
-| dein (m.)  | ktabeenak | beeteenak | ghurfteenak | sayyarteenak |
-| dein (f.)  | ktabeenek | beteenek  | ghurfteenek | sayyarteenek |
+|            | ktaabeen    | beeteen    | ghurfteen   | sayyaarteen   |
+| ---------- | ----------- | ---------- | ----------- | ------------- |
+| mein/meine | ktaabeenii  | beeteenii  | ghurfteenii | sayyaarteenii |
+| dein (m.)  | ktaabeenak  | beeteenak  | ghurfteenak | sayyaarteenak |
+| dein (f.)  | ktaabeenek  | beeteenek  | ghurfteenek | sayyaarteenek |
 
 ---
 
 > [!NOTE] Hinweis
-> Man kann immer **tneen + Nomen** sagen (wörtlich „zwei + Nomen") — also „tneen ktaab" statt „ktabeen". Das ist immer korrekt und wird verstanden. Der Dual klingt in den meisten Fällen jedoch natürlicher und wird im Alltag häufig bevorzugt.
+> Man kann immer **thneen + Nomen** sagen (wörtlich „zwei + Nomen", in Damaskus gesprochen „tneen“) — also „thneen ktaab" statt „ktaabeen". Das ist immer korrekt und wird verstanden. Der Dual klingt in den meisten Fällen jedoch natürlicher und wird im Alltag häufig bevorzugt.

@@ -13,16 +13,16 @@ lektion:
 
 Ordne jedes Wort der richtigen Kategorie zu (gesund maskulin / gesund feminin / gebrochen), bevor du den Plural bildest:
 
-1. mudeer (m.) → mudaraa2/mudeerin
-2. mumarridat (f.) → mumarridaat
+1. mudiir (m.) → mudaraa2 / mudiiriin
+2. mumarreDat (f.) → mumarreDaatt
 3. walad → wlaad
 4. beet → byuut
-5. sawwa2at (f.) → sawwa2aat
-6. tifl → atfaal
-7. Tabba5 (m.) → Tabba5iin
+5. sawwaaqat (f.) → sawwaaqaatt
+6. Tifl → 2aTfaal
+7. Tabbaa5 (m.) → Tabbaa5iin
 8. ktaab → kutub
-9. sayyaarat → sayyaraat
-10. mwazzafet (f.) → mwazzafaat
+9. sayyaarat → sayyaaraatt
+10. mwaDDHafet (f.) → mwaDDHafaatt
 
 ---
 
@@ -31,62 +31,62 @@ Ordne jedes Wort der richtigen Kategorie zu (gesund maskulin / gesund feminin / 
 Übersetze die folgenden Sätze ins syrische Arabisch:
 
 1. Das sind meine Geschwister
-	- Hadool 2i5waati
+	- hadool 2i5waatii
 2. Die Ingenieure arbeiten in der Firma.
-	- el-muhandesiin byishtighlu bil-shirket
+	- el-muhandesiin byishtighluu bi el-shirket („bish-shirket“)
 3. Das sind meine Bücher.
-	- Hadool kutubi
-4. Wo sind die Autos? *(Ween — kennen wir schon)*
-	- Ween es-sayyaraat?
+	- hadool kutubii
+4. Wo sind die Autos? *(ween — kennen wir schon)*
+	- ween el-sayyaaraatt? („ween es-sayyaaraatt“)
 5. Meine Freunde sind Ärzte. 
-	- rif2aati dakaatrat
+	- rifqaatii dakaatrat
 
 ---
 ## Übung: Welcher Plural?
 
 Bilde den Plural und schreib dazu, welche Regel du benutzt hast:
-- **A** = Taa Marbouta → -aat
-- **B** = Lehnwort → -aat
-- **C** = mu- / -iyy / fa33aal → -iin
+- **A** = taa2 marbuuTat → -aatt
+- **B** = Lehnwort → -aatt
+- **C** = mu- / -ii / fa33aal → -iin
 - **D** = Gebrochener Plural
 
-| #   | Singular   | Plural | Regel |
-| --- | ---------- | ------ | ----- |
-| 1   | mwazzafet  |        |       |
-| 2   | beet       |        |       |
-| 3   | muhandes   |        |       |
-| 4   | telfoon    |        |       |
-| 5   | sawwa2     |        |       |
-| 6   | ktaab      |        |       |
-| 7   | mumarridat |        |       |
-| 8   | suuriyy    |        |       |
-| 9   | kalb       |        |       |
-| 10  | kompyuuter |        |       |
-| 11  | ghurfet    |        |       |
-| 12  | Tabba5     |        |       |
-| 13  | walad      |        |       |
-| 14  | mudeer     |        |       |
-| 15  | sayyaarat  |        |       |
+| #   | Singular    | Plural | Regel |
+| --- | ----------- | ------ | ----- |
+| 1   | mwaDDHafet  |        |       |
+| 2   | beet        |        |       |
+| 3   | muhandes    |        |       |
+| 4   | talifoon    |        |       |
+| 5   | sawwaaq     |        |       |
+| 6   | ktaab       |        |       |
+| 7   | mumarreDat  |        |       |
+| 8   | suurii      |        |       |
+| 9   | kalb        |        |       |
+| 10  | kambyuutar  |        |       |
+| 11  | ghurfet     |        |       |
+| 12  | Tabbaa5     |        |       |
+| 13  | walad       |        |       |
+| 14  | mudiir      |        |       |
+| 15  | sayyaarat   |        |       |
 
 ### Lösungsschlüssel
 
-| #   | Singular   | Plural          | Regel       |
-| --- | ---------- | --------------- | ----------- |
-| 1   | mwazzafet  | mwazzafaat      | A           |
-| 2   | beet       | byuut           | D           |
-| 3   | muhandes   | muhandesiin     | C (mu-)     |
-| 4   | talifoon   | talifoonaat     | B           |
-| 5   | sawwaa2    | sawwaa2iin      | C (fa33aal) |
-| 6   | ktaab      | ketub           | D           |
-| 7   | mumarridat | mumarridaat     | A           |
-| 8   | suuriyy    | suuriyyiin      | C           |
-| 9   | kalb       | klaab           | D           |
-| 10  | kambyuutar | kambyuutaraat   | B           |
-| 11  | ghurfet    | ghurfaat/ghuraf | A           |
-| 12  | Tabba5     | Tabba5iin       | C (fa33aal) |
-| 13  | walad      | wlaad           | D           |
-| 14  | mudeer     | mudeeriin       | C (mu-)     |
-| 15  | sayyaarat  | sayyaaraat      | A           |
+| #   | Singular    | Plural               | Regel       |
+| --- | ----------- | -------------------- | ----------- |
+| 1   | mwaDDHafet  | mwaDDHafaatt         | A           |
+| 2   | beet        | byuut                | D           |
+| 3   | muhandes    | muhandesiin          | C (mu-)     |
+| 4   | talifoon    | talifoonaatt         | B           |
+| 5   | sawwaaq     | sawwaaqiin           | C (fa33aal) |
+| 6   | ktaab       | kutub                | D           |
+| 7   | mumarreDat  | mumarreDaatt         | A           |
+| 8   | suurii      | suuriyyiin           | C           |
+| 9   | kalb        | klaab                | D           |
+| 10  | kambyuutar  | kambyuutaraatt       | B           |
+| 11  | ghurfet     | ghurfaatt / ghuraf   | A           |
+| 12  | Tabbaa5     | Tabbaa5iin           | C (fa33aal) |
+| 13  | walad       | wlaad                | D           |
+| 14  | mudiir      | mudiiriin            | C (mu-)     |
+| 15  | sayyaarat   | sayyaaraatt          | A           |
 
 
 ## Übung: Sätze mit Plural 
@@ -103,8 +103,8 @@ Bilde den Plural und schreib dazu, welche Regel du benutzt hast:
 
 ### Lösungsschlüssel
 
-1. Hadol mwazzafiin esh-shirket.
-2. Hadol rif2ati.
-3. Hadol es-sayyaaraat?
-4. Hadol mumarridiin el-mashfaa.
-5. Hadol i5watak?
+1. hadool mwaDDHafiin el-shirket. („mwazzafiin esh-shirket“)
+2. hadool rifqaatii.
+3. hadool el-sayyaaraatt? („es-sayyaaraatt“)
+4. hadool mumarreDiin el-mashfaa.
+5. hadool 2i5waatak?

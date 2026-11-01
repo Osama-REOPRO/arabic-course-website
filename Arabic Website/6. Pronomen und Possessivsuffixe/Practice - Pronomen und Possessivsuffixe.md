@@ -9,135 +9,145 @@ order:
 ---
 ### Übung: Wem gehört das?
 
-Vokabeln: **Beit** (Haus), **Kalb** (Hund), **Jouz** (Ehemann).
+Vokabeln: **beet** (Haus), **kalb** (Hund), **jooz** (Ehemann).
 
-- **Hada Beit mien?** (**هدا بيت مين؟**) — Wessen Haus ist das? 
+- **haadaa beet miin?** — Wessen Haus ist das? 
+
+  هادا بيت مين؟
     
-- **Hada Beiti (ana)** — Das ist mein Haus. 
+- **haadaa beetii (2anaa)** — Das ist mein Haus. 
     
-- **Hada Beitak (inté)** — Das ist dein Haus (m.). 
+- **haadaa beetak (2inte)** — Das ist dein Haus (m.). 
     
-- **Hada Beitik (inti)** — Das ist dein Haus (f.). 
+- **haadaa beetek (2intii)** — Das ist dein Haus (f.). 
     
 
 ---
 
 ## Weibliche Substantive
 
-Vokabeln: **Sayyarat** (Auto), **Kalbet** (Hündin), **Maret** (Ehefrau).
+Vokabeln: **sayyaarat** (Auto), **kalbet** (Hündin), **marat** (Ehefrau).
 
-- **Hay Sayyarat mien?** (**هاي سيارة مين؟**) — Wessen Auto ist das? 
+- **hay sayyaarat miin?** — Wessen Auto ist das? 
+
+  هي سيارة مين؟
     
-- **Hay Sayyarti** — Das ist mein Auto. 
+- **hay sayyaartii** — Das ist mein Auto. 
     
-- **Hay Sayyartak** — Das ist dein Auto (m.). 
+- **hay sayyaartak** — Das ist dein Auto (m.). 
     
-- **Hay Sayyartik ya 7ala?** — Ist das dein Auto, Hala? 
+- **hay sayyaartek yaa 7alaa?** — Ist das dein Auto, Hala? 
     
 
 ---
 
 ## Fragen mit Personalpronomen
 
-- **inté Karim?** (**إنتَ كريم؟**) — Bist du Karim? 
+- **2inte kariim?** — Bist du Karim? 
+
+  إنت كريم؟
     
-- **Eh, ana Karim.** (**إيه، أنا كريم**) — Ja, ich bin Karim. 
+- **2ee, 2anaa kariim.** — Ja, ich bin Karim. 
+
+  إي، أنا كريم
     
-- **Mien hay? Hay Marti Lara.** (**مين هاي؟ هاي مرتي لارا**) — Wer ist sie? Das ist meine Frau Lara. 
+- **miin hay? hay martii laaraa.** — Wer ist sie? Das ist meine Frau Lara. 
+
+  مين هي؟ هي مرتي لارا
     
-- **inté Jamal?** — Bist du Jamal? 
+- **2inte jamaal?** — Bist du Jamal? 
     
-- **La2, ana mo Jamal.** — Nein, ich bin nicht Jamal. 
+- **la2, 2anaa muu jamaal.** — Nein, ich bin nicht Jamal. 
     
-- **intu A7mad w Lara?** — Seid ihr Ahmed und Lara? 
+- **2intuu 2a7mad w laaraa?** — Seid ihr Ahmed und Lara? 
     
-- **Eh, ni7na A7mad w Lara.** — Ja, wir sind Ahmed und Lara.
+- **2ee, ni7naa 2a7mad w laaraa.** — Ja, wir sind Ahmed und Lara.
 
 ---
 # Namen & Beziehungen
 
-_Fokus: Shu ismo/isma + Nomen-Suffix & Idafah_
+_Fokus: shuu 2ismoh/2ismhaa + Nomen-Suffix & 2iDaafet_
 
-21. **F: Shu ismo 2a5uk?** (Wie heißt dein Bruder?)
+21. **F: shuu 2ismoh 2a5uuk?** (Wie heißt dein Bruder?)
     
-    **A: 2a5i ismo M7ammad.** (Mein Bruder heißt Muhammad.)
-
----
-	
-    
-22. **F: Shu isma i5tek?** (Wie heißt deine Schwester?)
-    
-    **A: i5ti isma Layla.** (Meine Schwester heißt Layla.)
+    **A: 2a5ii 2ismoh m7ammad.** (Mein Bruder heißt Muhammad.)
 
 ---
 	
     
-23. **F: Shu ismo 5alak?** (Wie heißt dein Onkel mütterlicherseits?)
+22. **F: shuu 2ismhaa 2u5tek?** (Wie heißt deine Schwester?)
     
-    **A: 5ali ismo Samer.** (Mein Onkel heißt Samer.)
+    **A: 2u5tii 2ismhaa laylaa.** (Meine Schwester heißt Layla.)
 
 ---
 	
     
-24. **F: Shu isma 3ammtak?** (Wie heißt deine Tante väterlicherseits?)
+23. **F: shuu 2ismoh 5aalak?** (Wie heißt dein Onkel mütterlicherseits?)
     
-    **A: 3ammti isma Mona.** (Meine Tante heißt Mona.)
+    **A: 5aalii 2ismoh saamer.** (Mein Onkel heißt Samer.)
 
 ---
 	
     
-25. **F: Shu ismon i5watak?** (Wie heißen deine Geschwister?)
+24. **F: shuu 2ismhaa 3ammtak?** (Wie heißt deine Tante väterlicherseits?)
     
-    **A: i5wati ismon Omar w Sarah.** (Meine Geschwister heißen Omar und Sarah.)
+    **A: 3ammtii 2ismhaa munaa.** (Meine Tante heißt Mona.)
 
 ---
 	
     
-26. **F: Shu ismo mudeer al-bank?** (Wie heißt der Bankdirektor?)
+25. **F: shuu 2ismhon 2i5waatak?** (Wie heißen deine Geschwister?)
     
-    **A: Mudeer al-bank ismo Mr. Schmidt.** (Der Bankdirektor heißt Mr. Schmidt.)
+    **A: 2i5waatii 2ismhon 3umar w saarat.** (Meine Geschwister heißen Omar und Sarah.)
 
 ---
 	
     
-27. **F: Kamal ibn 3ammak?** (Ist Kamal dein Cousin?)
+26. **F: shuu 2ismoh mudiir el-bank?** (Wie heißt der Bankdirektor?)
     
-    **A: Eh, Kamal ibn 3ammi.** (Ja, Kamal ist mein Cousin.)
+    **A: mudiir el-bank 2ismoh Mr. Schmidt.** (Der Bankdirektor heißt Mr. Schmidt.)
 
 ---
 	
     
-28. **F: Shu isma bint 5altak?** (Wie heißt deine Cousine?)
+27. **F: kamaal 2ibn 3ammak?** (Ist Kamal dein Cousin?)
     
-    **A: Bint 5alti isma Noor.** (Meine Cousine heißt Noor.)
+    **A: 2ee, kamaal 2ibn 3ammii.** (Ja, Kamal ist mein Cousin.)
 
 ---
 	
     
-29. **F: Shu ismon ahlih?** (Wie heißen seine Eltern?)
+28. **F: shuu 2ismhaa bint 5aaltak?** (Wie heißt deine Cousine?)
     
-    **A: Ahlo ismon Huda w Ahmad.** (Seine Eltern heißen Huda und Ahmad.)
+    **A: bint 5aaltii 2ismhaa nuur.** (Meine Cousine heißt Nur.)
 
 ---
 	
     
-30. **F: Shu ismo rfi2ek ya Maya?** (Wie heißt dein Freund, Maya?)
+29. **F: shuu 2ismhon 2ahloh?** (Wie heißen seine Eltern?)
     
-    **A: Rfi2i ismo Lukas.** (Mein Freund heißt Lukas.)
+    **A: 2ahloh 2ismhon hudaa w 2a7mad.** (Seine Eltern heißen Huda und Ahmad.)
 
 ---
 	
     
-31. **F: Mien mudeerat al-madrase?** (Wer ist die Schulleiterin?)
+30. **F: shuu 2ismoh rfiiqek yaa maayat?** (Wie heißt dein Freund, Maya?)
     
-    **A: Hay mudeerat al-madrase, isma Frau Müller.** (Das ist die Schulleiterin, ihr Name ist Frau Müller.)
+    **A: rfiiqii 2ismoh Lukas.** (Mein Freund heißt Lukas.)
 
 ---
 	
     
-32. **F: Hadol wlad 5alak?** (Sind das die Kinder deines Onkels?)
+31. **F: miin mudiirt el-madraset?** (Wer ist die Schulleiterin?)
     
-    **A: Eh, hadol ibn 5ali w bint 5ali.** (Ja, das sind mein Cousin und meine Cousine.)
+    **A: hay mudiirt el-madraset, 2ismhaa Frau Müller.** (Das ist die Schulleiterin, ihr Name ist Frau Müller.)
+
+---
+	
+    
+32. **F: hadool wlaad 5aalak?** (Sind das die Kinder deines Onkels?)
+    
+    **A: 2ee, hadool 2ibn 5aalii w bint 5aalii.** (Ja, das sind mein Cousin und meine Cousine.)
     
 
 ---
@@ -146,64 +156,64 @@ _Fokus: Shu ismo/isma + Nomen-Suffix & Idafah_
 ## Teil 1: Vokabeln & Kernfamilie
 *Fülle die Lücken mit dem passenden Verwandtschaftsgrad.*
 
-1. 2abi w immi hinnin ________. (Meine Eltern)
-2. 2a5i w i5ti hinnin ________. (Meine Geschwister)
-3. 2ab 2abi huwe ________. (Mein Großvater)
-4. imm immi hiyye ________. (Meine Großmutter)
-5. ________ huwe 2a5 2abi. (Der Onkel väterlicherseits)
+1. 2abii w 2ummii hinnen ________. (Meine Eltern)
+2. 2a5ii w 2u5tii hinnen ________. (Meine Geschwister)
+3. 2ab 2abii huwwe ________. (Mein Großvater)
+4. 2umm 2ummii hiyye ________. (Meine Großmutter)
+5. ________ huwwe 2a5 2abii. (Der Onkel väterlicherseits)
 
 ---
 
 ## Teil 2: Possessivsuffixe (Besitzanzeiger)
-*Hänge das richtige Suffix an das Wort „ism“ (Name) oder das Familienmitglied.*
+*Hänge das richtige Suffix an das Wort „2ism“ (Name) oder das Familienmitglied.*
 
-6. (Ich) ________ ismi Samira. (Mein Name)
-7. (Du, m) Shu ism________? (Dein Name)
-8. (Sie) Hiyye ism________ Maya. (Ihr Name)
-9. (Wir) Ni7na ism________ al-Asad. (Unser Name)
-10. (Ihr) Shu ism________? (Euer Name)
+6. (Ich) ________ 2ismii samiirat. (Mein Name)
+7. (Du, m) shuu 2ism________? (Dein Name)
+8. (Sie) hiyye 2ism________ maayat. (Ihr Name)
+9. (Wir) ni7naa 2ism________ el-2asad. (Unser Name)
+10. (Ihr) shuu 2ism________? (Euer Name)
 
 ---
 
 ## Teil 3: Satzbau & Demonstrativpronomen (10 Übungen)
-*Wähle had (m), hay (f) oder hadol (pl) basierend auf dem Nomen.*
+*Wähle haad (m), hay (f) oder hadool (pl) basierend auf dem Nomen.*
 
-11. ________ 25i M7ammad. (Das ist mein Bruder...)
-12. ________ immi w 2abi. (Das sind meine...)
-13. ________ rfi2ti Zahra. (Das ist meine Freundin...)
-14. Mien ________? (Wer sind diese?)
-15. Mien ________? (Wer ist das? (m))
-16. Mien ________? (Wer ist das? (f))
-17. ________ 3aylti. (Das ist meine Familie.)
-18. ________ Ahl 2abi. (Das sind die Eltern meines Vaters.)
-19. ________ inte ya Karim? (Bist du das, Karim?)
-20. ________ mo rfi2i, had 25i. (Das ist nicht mein Freund, das ist mein Bruder.)
+11. ________ 2a5ii m7ammad. (Das ist mein Bruder...)
+12. ________ 2ummii w 2abii. (Das sind meine...)
+13. ________ rfiiqtii zahrat. (Das ist meine Freundin...)
+14. miin ________? (Wer sind diese?)
+15. miin ________? (Wer ist das? (m))
+16. miin ________? (Wer ist das? (f))
+17. ________ 3eeltii. (Das ist meine Familie.)
+18. ________ 2ahl 2abii. (Das sind die Eltern meines Vaters.)
+19. ________ 2inte yaa kariim? (Bist du das, Karim?)
+20. ________ muu rfiiqii, haad 2a5ii. (Das ist nicht mein Freund, das ist mein Bruder.)
 
 ---
 
 ## Teil 4: Die Formel & Suffix-Logik (20 Übungen)
 *Wende die Regeln für Namen, Verwandte und Ja/Nein-Fragen an.*
 
-21. Shu ismo ________? (Wie heißt dein Onkel väterlicherseits?) (m)
-22. ________ isma Sabiha. (Der Name meiner Tante mütterlicherseits ist Sabiha.)
-23. ________ ismon Noor w Noora. (Die Namen meiner Geschwister sind...)
-24. Kamal ________? (Ist Kamal dein Onkel väterlicherseits?) (m)
-25. Shu ________ immak? (Wie heißt deine Mutter? - wörtl: Was [ihr Name] deine Mutter?)
-26. Shu ismon ________? (Wie heißen deine Eltern?) (m)
-27. ________ 5altkon? (Ist Manal eure Tante mütterlicherseits?)
-28. Eh, Manal ________. (Ja, Manal ist unsere Tante mütterlicherseits.)
-29. Shu ________ 2i5watik ya Zahra? (Wie heißen deine Geschwister, Zahra?)
-30. ________ ismo Samy. (Mein Cousin (väterlich) heißt Samy.)
-31. La2, ________ mo 3ammi, huwe 5ali. (Nein, er ist nicht mein Onkel (v), er ist mein Onkel (m).)
-32. Shu isma ________? (Wie heißt deine Freundin?)
-33. ________ ismo Jiddak? (Wie heißt dein Großvater?)
-34. Hadeel ________? (Ist Hadeel seine Mutter?)
-35. Eh, Hadeel ________. (Ja, Hadeel ist seine Mutter.)
-36. Shu ismon ________? (Wie heißen die Freunde deines Bruders?)
-37. ibn ________ ismo Karim. (Der Sohn meines Onkels (v) heißt Karim.)
-38. Shu ________ rfi2ak? (Wie heißt dein Freund?)
-39. ________ moo ana, hada 25i. (Nein, das bin nicht ich, das ist mein Bruder.)
-40. ________ isma Sitti? (Wie heißt meine Großmutter?)
+21. shuu 2ismoh ________? (Wie heißt dein Onkel väterlicherseits?) (m)
+22. ________ 2ismhaa Sabii7at. (Der Name meiner Tante mütterlicherseits ist Sabiha.)
+23. ________ 2ismhon nuur w nuurat. (Die Namen meiner Geschwister sind...)
+24. kamaal ________? (Ist Kamal dein Onkel väterlicherseits?) (m)
+25. shuu ________ 2ummak? (Wie heißt deine Mutter? - wörtl: Was [ihr Name] deine Mutter?)
+26. shuu 2ismhon ________? (Wie heißen deine Eltern?) (m)
+27. ________ 5aaltkon? (Ist Manal eure Tante mütterlicherseits?)
+28. 2ee, manaal ________. (Ja, Manal ist unsere Tante mütterlicherseits.)
+29. shuu ________ 2i5waatek yaa zahrat? (Wie heißen deine Geschwister, Zahra?)
+30. ________ 2ismoh saamii. (Mein Cousin (väterlich) heißt Sami.)
+31. la2, ________ muu 3ammii, huwwe 5aalii. (Nein, er ist nicht mein Onkel (v), er ist mein Onkel (m).)
+32. shuu 2ismhaa ________? (Wie heißt deine Freundin?)
+33. ________ 2ismoh jiddak? (Wie heißt dein Großvater?)
+34. hadiil ________? (Ist Hadeel seine Mutter?)
+35. 2ee, hadiil ________. (Ja, Hadeel ist seine Mutter.)
+36. shuu 2ismhon ________? (Wie heißen die Freunde deines Bruders?)
+37. 2ibn ________ 2ismoh kariim. (Der Sohn meines Onkels (v) heißt Karim.)
+38. shuu ________ rfiiqak? (Wie heißt dein Freund?)
+39. ________ muu 2anaa, haadaa 2a5ii. (Nein, das bin nicht ich, das ist mein Bruder.)
+40. ________ 2ismhaa sittii? (Wie heißt meine Großmutter?)
 
 ---
 
@@ -211,46 +221,92 @@ _Fokus: Shu ismo/isma + Nomen-Suffix & Idafah_
 
 # Lösungsschlüssel (Answer Key)
 
-1. **Ahli** (أهلي)
-2. **i5wati** (إخوتي)
-3. **Jiddi** (جدي)
-4. **Sitti** (ستي)
-5. **3amm** (عم)
-6. **Ana** (أنا)
-7. **-ak** (ismak)
-8. **-a** (isma)
-9. **-na** (ismna)
-10. **-kon** (ismkon)
-11. **had**
-12. **hadol**
+1. **2ahlii**
+
+   أهلي
+2. **2i5waatii**
+
+   إخواتي
+3. **jiddii**
+
+   جدي
+4. **sittii**
+
+   ستي
+5. **3amm**
+
+   عم
+6. **2anaa**
+
+   أنا
+7. **-ak** (2ismak)
+8. **-haa** (2ismhaa)
+9. **-naa** (2ismnaa)
+10. **-kon** (2ismkon)
+11. **haad**
+12. **hadool**
 13. **hay**
-14. **hadol**
-15. **had**
+14. **hadool**
+15. **haad**
 16. **hay**
-17. **hay** (oder hadol)
-18. **hadol**
-19. **had**
-20. **had**
-21. **3ammak** (عمك)
-22. **5alti** (خالتي)
-23. **2i5wati** (إخواتي)
-24. **3ammak** (عمك)
-25. **isma** (اسمها)
-26. **Ahlak** (أهلك)
-27. **Manal**
-28. **5altna** (خالتنا)
-29. **ismon** (اسمهم)
-30. **ibn 3ammi** (ابن عمي)
-31. **huwe** (هو)
-32. **rfi2tik** (رفيقتك)
-33. **Shu**
-34. **immo** (أمه)
-35. **immo** (أمه)
-36. **rif2at 2a5uk** (رفقات أخوك)
-37. **3ammi** (عمي)
-38. **ismo** (اسمه)
-39. **La2** (لأ)
-40. **Shu**
+17. **hay** (oder hadool)
+18. **hadool**
+19. **haad**
+20. **haad**
+21. **3ammak**
+
+    عمك
+22. **5aaltii**
+
+    خالتي
+23. **2i5waatii**
+
+    إخواتي
+24. **3ammak**
+
+    عمك
+25. **2ismhaa**
+
+    اسمها
+26. **2ahlak**
+
+    أهلك
+27. **manaal**
+28. **5aaltnaa**
+
+    خالتنا
+29. **2ismhon**
+
+    اسمهن
+30. **2ibn 3ammii**
+
+    ابن عمي
+31. **huwwe**
+
+    هو
+32. **rfiiqtek**
+
+    رفيقتك
+33. **shuu**
+34. **2ummoh**
+
+    أمه
+35. **2ummoh**
+
+    أمه
+36. **rifqaat 2a5uuk**
+
+    رفقات أخوك
+37. **3ammii**
+
+    عمي
+38. **2ismoh**
+
+    اسمه
+39. **la2**
+
+    لأ
+40. **shuu**
 
 
 ---

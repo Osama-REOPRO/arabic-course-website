@@ -6,35 +6,74 @@ lang: de
 group: demonstrativartikel   # omit if no English version
 order: 1             # = the Lektion number
 ---
-## Beet بيت
+## beet
+
+بيت
+
 Haus/House
-## Sabii صبي
+## Sabii
+
+صبي
+
 auch (walad)
 Junge/Boy
-## Rejjaal رجال
+## rijjaal
+
+رجال
+
 Mann/Man
-## Kalb كلب
+## kalb
+
+كلب
+
 Hund (maskulin)/Dog (masculine)
-## Hubb حب
+## 7ubb
+
+حب
+
 Liebe / Love
 
 ---
-## 3ilbet (ilbeh) علبة
+## 3ilbet
+
+علبة
+
 Dose/Can
-## Sabiiet صبية
+## Sabiyyet
+
+صبية
+
 Mädchen/Girl
-## Marat مرا
+## marat
+
+مرة
+
 Frau/Woman
-## Kalbet كلبة
+## kalbet
+
+كلبة
+
 Hund (weiblich)/Dog (feminine)
 
 ---
-# Grammer: Demonstrativartikel / Demonstrative Articles أسماء الإشارة
-## Had هاد
+# Grammer: Demonstrativartikel / Demonstrative Articles
+
+أسماء الإشارة
+
+## haad
+
+هاد
+
 Das (männlich)
-## Hay هي
+## hay
+
+هي
+
 Das (weiblich)
-## Hadol هدول
+## hadool
+
+هدول
+
 Das sind
 
 ## Aussprachebeispiel / pronounciation example
@@ -44,5 +83,8 @@ youtube link https://www.youtube.com/shorts/KDQunl_Jw-k?feature=share
 youtube https://youtu.be/y3Hy0VGFatE
 
 هاد حبي وهاد حبك، شايف الفرق الكبير؟
+
+haad 7ubbii w haad 7ubbak, shaayef el-farq el-kbiir?
+
 Das ist meine Liebe und das ist deine Liebe, siehst du den großen Unterschied?
 This is my love and this is your love, do you see the big difference?

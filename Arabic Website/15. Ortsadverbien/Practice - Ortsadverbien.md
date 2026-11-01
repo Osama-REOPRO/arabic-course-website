@@ -7,29 +7,29 @@ order: 20
 lektion: 22
 ---
 # Hausaufgabe
-Kammli/kammil L Jadwal: *(Vervollständige die Tabelle)*
+kammel / kammlii el-jadwal: *(Vervollständige die Tabelle)*
 
-|            | ana         | inte      | inti      | huwe     | hiye     | ni7na     | intu       | hinnin    |
-| ---------- | ----------- | --------- | --------- | -------- | -------- | --------- | ---------- | --------- |
-| **fo2**    | fo2**i**    | fo2**ak** | fo2**ik** | fo2**u** | fo2**a** | fo2**na** | fo2**kun** | fo2**un** |
-| **ta7t**   | ta7t**i**   |           |           |          |          |           |            |           |
-| **iddaam** | iddaam**i** |           |           |          |          |           |            |           |
-| **janb**   | janb**i**   |           |           |          |          |           |            |           |
+|             | 2anaa         | 2inte      | 2intii     | huwwe      | hiyye       | ni7naa      | 2intuu      | hinnen      |
+| ----------- | ------------- | ---------- | ---------- | ---------- | ----------- | ----------- | ----------- | ----------- |
+| **fooq**    | fooq**ii**    | fooq**ak** | fooq**ek** | fooq**oh** | fooq**haa** | fooq**naa** | fooq**kon** | fooq**hon** |
+| **ta7t**    | ta7t**ii**    |            |            |            |             |             |             |             |
+| **quddaam** | quddaam**ii** |            |            |            |             |             |             |             |
+| **janb**    | janb**ii**    |            |            |            |             |             |             |             |
 
 # Hausaufgabe 2
-1. Bi ayya Schaare3 Beet A7mad?
-2. Beetu bi Bineyet?
-3. Schu fii janb L Bineyet?
-4. Schu fii iddema?
-5. Fii waraha Jneenet?
-6. Fii wara L Beet M7attet Kitar?
-7. W inta, bi ayya Schaare3 Beetak? W inti, bi ayya Schaare3 Beetik?
+1. bi 2ayyaa shaare3 beet 2a7mad?
+2. beetoh bi binaayet?
+3. shuu fii janb el-binaayet?
+4. shuu fii quddaamhaa?
+5. fii waraahaa jneenet?
+6. fii waraa el-beet m7aTTet qiTaar?
+7. w 2inte, bi 2ayyaa shaare3 beetak? w 2intii, bi 2ayyaa shaare3 beetek?
 
 # Hausaufgabe 3: Bilde Sätze mit diesen Wörtern
 - binaayet: ————————————————————————————————————————
-- 8raaD: ————————————————————————————————————————
-- 8urfet: ————————————————————————————————————————
+- ghraaD: ————————————————————————————————————————
+- ghurfet: ————————————————————————————————————————
 - wlaad: ————————————————————————————————————
-- i5waat: ————————————————————————————————————————
-- anniinet: ————————————————————————————————————————
+- 2i5waatt: ————————————————————————————————————————
+- qanniinet: ————————————————————————————————————————
 - barraad: ————————————————————————————————————————

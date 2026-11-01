@@ -8,177 +8,172 @@ order:
 lektion:
   - "14"
 ---
+Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
+
 # Sonnenwörter
 - shams (*Sonne*)
-	- el + shams = e-sh-shams (*die Sonne*)
-- tazkarat (*Ticket / Fahrkarte*)
-	- e-t-tazkarat (*das Ticket / die Fahrkarte*)
+	- el + shams = el-shams („esh-shams“) (*die Sonne*)
+- tadhkarat (*Ticket / Fahrkarte*), gesprochen „tazkarat“
+	- el-tadhkarat („et-tazkarat“) (*das Ticket / die Fahrkarte*)
 - saa3at (*Uhr / Stunde*)
-	- e-s-saa3at (*die Uhr / die Stunde*)
-- šuurat (*Foto / Bild*)
-	- e-š-šuurat (*das Foto / das Bild*)
+	- el-saa3at („es-saa3at“) (*die Uhr / die Stunde*)
+- Suurat (*Foto / Bild*)
+	- el-Suurat („eS-Suurat“) (*das Foto / das Bild*)
 - daftar (*Heft / Notizbuch*)
-	- e-d-daftar (*das Heft / das Notizbuch*)
+	- el-daftar („ed-daftar“) (*das Heft / das Notizbuch*)
 - shaay (*Tee*)
-	- e-sh-shaay (*der Tee*)
+	- el-shaay („esh-shaay“) (*der Tee*)
 ---
 # Mondwörter
-- 2amar (*Mond*)
-	- el + 2amar = el-2amar (*der Mond*)
-- hawiyye (*Identität / Ausweis*)
-	- el-hawiyye (*die Identität / der Ausweis*)
-- mašraf (*Bank / Geldinstitut*)
-	- el-mašraf (*die Bank*)
-- fendo2 (*Hotel*)
-	- el-fendo2 (*das Hotel*)
+- qamar (*Mond*), gesprochen „2amar“
+	- el + qamar = el-qamar („el-2amar“) (*der Mond*)
+- hawiyyet (*Identität / Ausweis*)
+	- el-hawiyyet (*die Identität / der Ausweis*)
+- maSraf (*Bank / Geldinstitut*)
+	- el-maSraf (*die Bank*)
+- funduq (*Hotel*), gesprochen „fendo2“
+	- el-funduq („el-fendo2“) (*das Hotel*)
 - mayy (*Wasser*)
 	- el-mayy (*das Wasser*)
-- 2ahwe (*Kaffee / Café*)
-	- el-2ahwe (*der Kaffee / das Café*)
+- qahwet (*Kaffee / Café*), gesprochen „2ahwet“
+	- el-qahwet („el-2ahwet“) (*der Kaffee / das Café*)
 
 ---
 # Gemischt
-- **Kalb** :: Hund
+- **kalb** :: Hund
 	- el-kalb
-- **Dars** :: Lektion / Unterricht
-	- ed-dars
-- **Ba7r** :: Meer
+- **dars** :: Lektion / Unterricht
+	- el-dars („ed-dars“)
+- **ba7r** :: Meer
 	- el-ba7r
-- **Shams** :: Sonne
-	- esh-shams
-- **Farashe** :: Schmetterling
-	- el-farashe
-- **Zill** :: Schatten
-	- ez-zill
+- **shams** :: Sonne
+	- el-shams („esh-shams“)
+- **faraashet** :: Schmetterling
+	- el-faraashet
+- **DHill** :: Schatten
+	- el-DHill („eZ-Zill“)
 - **2amaan** :: Sicherheit
 	- el-2amaan
 - **Taaleb** :: Student / Schüler
-	- eT-Taaleb
-- **Waqt** :: Zeit
-	- el-waqt
-	- el-wa2t
-- **Nasr** :: Adler
-	- en-nasr
-- **Baab** :: Tür
+	- el-Taaleb („eT-Taaleb“)
+- **waqt** :: Zeit
+	- el-waqt („el-wa2t“)
+- **nasr** :: Adler
+	- el-nasr („en-nasr“)
+- **baab** :: Tür
 	- el-baab
-- **3sal** :: Honig
+- **3asal** :: Honig
 	- el-3asal
 - **Daw** :: Licht
-	- eD-Daw
-- **Khubz** :: Bread
-	- el-khubz
-- **Sayyarat** :: Auto
-	- es-sayyarat
-- 2iid
+	- el-Daw („eD-Daw“)
+- **5ubz** :: Brot
+	- el-5ubz
+- **sayyaarat** :: Auto
+	- el-sayyaarat („es-sayyaarat“)
+- **2iid** :: Hand
 	- el-2iid
-- rijjaal :: man
-	- er-rijjaal
-- **Jabal** :: Berg
-	- ej-jabal
-- **Tariq** :: Weg / Straße
-	- eT-Tariq
-	- eT-Tari2
-- **Qamar** :: Mond
-	- el-qamar
-	- el-2amar
-- **Samake** :: Fisch
-	- es-samake
-- **Hawa** :: Luft / Wind
-	- el-hawa
-- **Duhr** :: Mittag
-	- eD-Duhr
+- **rijjaal** :: Mann
+	- el-rijjaal („er-rijjaal“)
+- **jabal** :: Berg
+	- el-jabal („ej-jabal“)
+- **Tariiq** :: Weg / Straße
+	- el-Tariiq („eT-Tarii2“)
+- **qamar** :: Mond
+	- el-qamar („el-2amar“)
+- **samaket** :: Fisch
+	- el-samaket („es-samaket“)
+- **hawaa** :: Luft / Wind
+	- el-hawaa
+- **DHuhr** :: Mittag
+	- el-DHuhr („eD-Duhr“)
 - **3een** :: Auge / Quelle
 	- el-3een
-- **Dab3** :: Wolf
-	- eD-Dab3
-- **Ktaab** :: Buch
+- **Dab3** :: Hyäne
+	- el-Dab3 („eD-Dab3“)
+- **ktaab** :: Buch
 	- el-ktaab
-- **Zeet** :: Öl
-	- ez-zeet
-- **2rnab** :: Hase / Kaninchen
+- **zeet** :: Öl
+	- el-zeet („ez-zeet“)
+- **2arnab** :: Hase / Kaninchen
 	- el-2arnab
-- **Nahr** :: Fluss
-	- en-nahr
-- **7aqeeqat** :: Wahrheit
-	- el-7aqiqat
-	- el-7a2i2at
-- **Shajarat** :: Baum
-	- esh-shajarat
-- **Madraset** :: Schule
+- **nahr** :: Fluss
+	- el-nahr („en-nahr“)
+- **7aqiiqat** :: Wahrheit
+	- el-7aqiiqat („el-7a2ii2at“)
+- **shajarat** :: Baum
+	- el-shajarat („esh-shajarat“)
+- **madraset** :: Schule
 	- el-madraset
-- **Dahab** :: Gold
-	- ed-dahab
-- **8arb** :: Westen
-	- el-8arb
-- rfiiq :: freund
-	- er-rfiiq
-	- er-rfii2
-- **Hilaal** :: Sichelmond
+- **dhahab** :: Gold
+	- el-dhahab („ed-dahab“)
+- **gharb** :: Westen
+	- el-gharb
+- **rfiiq** :: Freund
+	- el-rfiiq („er-rfii2“)
+- **hilaal** :: Sichelmond
 	- el-hilaal
-- **Laban** :: Joghurt
+- **laban** :: Joghurt
 	- el-laban
-- **Fajr** :: Morgendämmerung
+- **fajr** :: Morgendämmerung
 	- el-fajr
-- **teffaa7** :: Apfel
-	- et-teffaa7
-- **Walad** :: Junge
+- **tuffaa7** :: Äpfel (Sammelbegriff)
+	- el-tuffaa7 („et-teffaa7“)
+- **walad** :: Junge
 	- el-walad
-- **Zahrat** :: Blume
-	- ez-zahrat
-- **Khareef** :: Herbst
-	- el-khareef
-- **Noom** :: Schlaf
-	- en-noom
-- **Jamal** :: Kamel
-	- ej-jamal
+- **zahrat** :: Blume
+	- el-zahrat („ez-zahrat“)
+- **5ariif** :: Herbst
+	- el-5ariif
+- **noom** :: Schlaf
+	- el-noom („en-noom“)
+- **jamal** :: Kamel
+	- el-jamal („ej-jamal“)
 - **Sabaa7** :: Morgen
-	- es-sabaah
-- **Mayy** :: Wasser
+	- el-Sabaa7 („eS-Sabaa7“)
+- **mayy** :: Wasser
 	- el-mayy
 - **daftar** :: Notizbuch / Heft
-	- ed-daftar
-- **Ghazaal** :: Gazelle
+	- el-daftar („ed-daftar“)
+- **ghazaal** :: Gazelle
 	- el-ghazaal
-- **Talj** :: Schnee / Eis
-	- et-talj
-	- ettalj
-- **Yameen** :: Rechte Seite
-	- el-yameen
-- **Deyf** :: Gast
-	- eD-Deyf
-- **Qalam** :: Stift
-	- el-qalam
-	- el-2alam
-- **Taaj** :: Krone
-	- et-taaj
-- **Yoom** :: Tag
+- **thalj** :: Schnee / Eis
+	- el-thalj („et-talj“)
+- **yamiin** :: Rechte Seite
+	- el-yamiin
+- **Deef** :: Gast
+	- el-Deef („eD-Deef“)
+- **qalam** :: Stift
+	- el-qalam („el-2alam“)
+- **taaj** :: Krone
+	- el-taaj („et-taaj“)
+- **yoom** :: Tag
 	- el-yoom (heute)
-- **Lsaan** :: Zunge / Sprache
+- **lsaan** :: Zunge / Sprache
 	- el-lsaan
 - **7ubb** :: Liebe
 	- el-7ubb
-- **Najmet** :: Stern
-	- en-najmet
-- **Yasmeen** :: Jasmin
-	- el-yasmeen
-- **Remmaan** :: Granatapfel
-	- er-remmaan
+- **najmet** :: Stern
+	- el-najmet („en-najmet“)
+- **yaasmiin** :: Jasmin
+	- el-yaasmiin
+- **rummaan** :: Granatapfel
+	- el-rummaan („er-remmaan“)
 ---
 # Hausaufgabe
 
-**Aufgabe:** Füge den bestimmten Artikel **el-** vor das Wort ein. Achte auf Sonnenbuchstaben!
-- Bei einem **Sonnenbuchstaben** → das „l" verschwindet, der erste Buchstabe wird verdoppelt
-- Bei einem **Mondbuchstaben** → el- bleibt normal
+**Aufgabe:** Füge den bestimmten Artikel **el-** vor das Wort ein und schreib dazu, wie man es spricht. Achte auf Sonnenbuchstaben!
+- Bei einem **Sonnenbuchstaben** → geschrieben el-, aber beim Sprechen verschwindet das „l“ und der erste Buchstabe wird verdoppelt
+- Bei einem **Mondbuchstaben** → el- wird normal gesprochen
 
 ---
 
 **Beispiel:**
-- shams (Sonne) → **esh-shams**
-- fendo2 (Hotel) → **el-fendo2**
+- shams (Sonne) → **el-shams** („esh-shams“)
+- funduq (Hotel) → **el-funduq** („el-fendo2“)
 
 ---
 
-1. 2ahwe (Kaffee) → _______________
+1. qahwet (Kaffee) → _______________
 <br>
 <br>
 2. daftar (Heft) → _______________
@@ -190,43 +185,43 @@ lektion:
 4. shams (Sonne) → _______________
 <br>
 <br>
-5. fendo2 (Hotel) → _______________
+5. funduq (Hotel) → _______________
 <br>
 <br>
 6. saa3at (Uhr) → _______________
 <br>
 <br>
-7. hawiyye (Ausweis) → _______________
+7. hawiyyet (Ausweis) → _______________
 <br>
 <br>
 8. shaay (Tee) → _______________
 <br>
 <br>
-9. 2amar (Mond) → _______________
+9. qamar (Mond) → _______________
 <br>
 <br>
-10. tazkarat (Fahrkarte) → _______________
+10. tadhkarat (Fahrkarte) → _______________
 <br>
 <br>
-11. mašraf (Bank) → _______________
+11. maSraf (Bank) → _______________
 <br>
 <br>
-12. šuurat (Foto) → _______________
+12. Suurat (Foto) → _______________
 <br>
 <br>
 ---
 
 ## Lösungen
 
-1. 2ahwe → **el-2ahwe** ☽
-2. daftar → **ed-daftar** ☀️
+1. qahwet → **el-qahwet** („el-2ahwet“) ☽
+2. daftar → **el-daftar** („ed-daftar“) ☀️
 3. mayy → **el-mayy** ☽
-4. shams → **esh-shams** ☀️
-5. fendo2 → **el-fendo2** ☽
-6. saa3at → **es-saa3at** ☀️
-7. hawiyye → **el-hawiyye** ☽
-8. shaay → **esh-shaay** ☀️
-9. 2amar → **el-2amar** ☽
-10. tazkarat → **et-tazkarat** ☀️
-11. mašraf → **el-mašraf** ☽
-12. šuurat → **es-šuurat** ☀️
+4. shams → **el-shams** („esh-shams“) ☀️
+5. funduq → **el-funduq** („el-fendo2“) ☽
+6. saa3at → **el-saa3at** („es-saa3at“) ☀️
+7. hawiyyet → **el-hawiyyet** ☽
+8. shaay → **el-shaay** („esh-shaay“) ☀️
+9. qamar → **el-qamar** („el-2amar“) ☽
+10. tadhkarat → **el-tadhkarat** („et-tazkarat“) ☀️
+11. maSraf → **el-maSraf** ☽
+12. Suurat → **el-Suurat** („eS-Suurat“) ☀️

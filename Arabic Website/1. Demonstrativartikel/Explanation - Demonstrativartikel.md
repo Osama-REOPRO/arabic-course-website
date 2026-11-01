@@ -6,74 +6,76 @@ lang: de
 group: demonstrativartikel
 order: 1
 ---
-# Demonstrativartikel / أسماء الإشارة
+# Demonstrativartikel
+
+أسماء الإشارة
 
 # Männliche Nomen
 
-> **Grammatik:** Für männliche, unbestimmte Nomen benutzt man das Demonstrativpronomen **"Haad"** (= "das/dieser hier"). Es steht immer **vor** dem Nomen.
+> **Grammatik:** Für männliche, unbestimmte Nomen benutzt man das Demonstrativpronomen **"haad"** (= "das/dieser hier"). Es steht immer **vor** dem Nomen.
 
 
-> **Hinweis**: „Haad“ und „Haada“ sind **absolut gleichbedeutend**; man kann beide verwenden, es gibt keinen Unterschied, und man hört Leute ständig beide Varianten benutzen.
+> **Hinweis**: „haad“ und „haadaa“ sind **absolut gleichbedeutend**; man kann beide verwenden, es gibt keinen Unterschied, und man hört Leute ständig beide Varianten benutzen.
 
 ### Vokabeln
 
-| Arabisch (Chat) | Deutsch   |
-| --------------- | --------- |
-| Beet            | das Haus  |
-| Sabi / Walad    | der Junge |
-| Kalb            | der Hund  |
-| Rijjaal         | der Mann  |
+| Arabisch (Transliteration) | Deutsch   |
+| -------------------------- | --------- |
+| beet                       | das Haus  |
+| Sabii / walad              | der Junge |
+| kalb                       | der Hund  |
+| rijjaal                    | der Mann  |
 
 ### Beispiele
 
-- Haada Beit → Das ist ein Haus.
-- Haada Sabi → Das ist ein Junge.
-- Haada Kalb → Das ist ein Hund.
-- Haada Rijjaal → Das ist ein Mann.
+- haadaa beet → Das ist ein Haus.
+- haadaa Sabii → Das ist ein Junge.
+- haadaa kalb → Das ist ein Hund.
+- haadaa rijjaal → Das ist ein Mann.
 
 
 # Weibliche Nomen
 
-> **Grammatik:** Für weibliche, unbestimmte Nomen benutzt man **"Hay"** (= "das/diese hier"). Arabische Nomen erkennt man oft an der weiblichen Endung **-et** oder **-at**, manche haben aber **keine** feminine Endung und sind trotzdem weiblich.
+> **Grammatik:** Für weibliche, unbestimmte Nomen benutzt man **"hay"** (= "das/diese hier"). Arabische Nomen erkennt man oft an der weiblichen Endung **-et** oder **-at**, manche haben aber **keine** feminine Endung und sind trotzdem weiblich.
 
 ### A) Nomen mit Endung **-et**
 
-| Arabisch (Chat) | Deutsch |
+| Arabisch (Transliteration) | Deutsch |
 |---|---|
 | 3ilbet | die Dose |
-| Sabiyet | das (junge) Mädchen / die junge Frau |
-| Kalbet | die Hündin |
+| Sabiyyet | das (junge) Mädchen / die junge Frau |
+| kalbet | die Hündin |
 
 **Beispiele:**
-- Hay 3ilbet
-- Hay Sabyyet
-- Hay kalbet
+- hay 3ilbet
+- hay Sabiyyet
+- hay kalbet
 
 ### B) Nomen mit Endung **-at**
 
-| Arabisch (Chat) | Deutsch |
+| Arabisch (Transliteration) | Deutsch |
 |---|---|
-| Schantat | die Tasche / der Rucksack |
-| Marat | die (ältere) Frau |
-| BaTTat | die Ente |
+| shantat | die Tasche / der Rucksack |
+| marat | die (ältere) Frau |
+| baTTat | die Ente |
 
 **Beispiele:**
-- Hay shantat
-- Hay Marat
-- Hay BaTTat
+- hay shantat
+- hay marat
+- hay baTTat
 
 ### C) Feminine Nomen ohne Endung
 
-| Arabisch (Chat) | Deutsch |
+| Arabisch (Transliteration) | Deutsch |
 |---|---|
-| Mayy | das Wasser |
-| Naar | das Feuer |
-| Bint | das Mädchen |
+| mayy | das Wasser |
+| naar | das Feuer |
+| bint | das Mädchen |
 
 **Beispiele:**
-- Hay Mayy
-- Hay naar
-- Hay bint
+- hay mayy
+- hay naar
+- hay bint
 
 
 > 📝 **Merksatz:** Ein feminines Nomen endet meistens auf **-et** oder **-at**, aber nicht immer!
@@ -82,25 +84,25 @@ order: 1
 
 # Plural
 
-> **Grammatik:** Für den Plural (egal ob männlich oder weiblich) benutzt man **"Hadool"** (= "diese hier").
+> **Grammatik:** Für den Plural (egal ob männlich oder weiblich) benutzt man **"hadool"** (= "diese hier").
 
 ### Vokabeln – Plural
 
-| Arabisch (Chat) | Deutsch |
+| Arabisch (Transliteration) | Deutsch |
 |---|---|
-| Sebyaan / Wlaad | die Jungen |
-| Byuut | die Häuser |
-| Klaab | die Hunde |
-| Schanaati | die Taschen |
+| Sibyaan / wlaad | die Jungen |
+| byuut | die Häuser |
+| klaab | die Hunde |
+| shanaatii | die Taschen |
 | 3ilab | die Dosen |
-| BaTTaat / BaT | die Enten |
+| baTTaatt / baTT | die Enten |
 
 **Beispiele:**
-- Hadool Sibyaan
-- Hadool byuut
-- Hadool BaTTaat
+- hadool Sibyaan
+- hadool byuut
+- hadool baTTaatt
 
-**Übe mit:** Klaab, 3ilab und shanaati
+**Übe mit:** klaab, 3ilab und shanaatii
 
 ## Aussprachebeispiel
 instagram link https://www.instagram.com/reel/DUttshtgOWW/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ%3D%3D
@@ -109,6 +111,8 @@ youtube link https://www.youtube.com/shorts/KDQunl_Jw-k?feature=share
 youtube https://youtu.be/y3Hy0VGFatE
 
 هاد حبي وهاد حبك، شايف الفرق الكبير؟
-Haada 7ubbi w haada 7ubbak, shaayef il-fark il-kbiir?
+
+haad 7ubbii w haad 7ubbak, shaayef el-farq el-kbiir?
+
 Das ist meine Liebe und das ist deine Liebe, siehst du den großen Unterschied?
 This is my love and this is your love, do you see the big difference?

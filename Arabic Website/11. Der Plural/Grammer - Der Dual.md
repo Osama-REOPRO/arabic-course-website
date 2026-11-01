@@ -11,5 +11,5 @@ lektion:
 
 Die Regel zur Bildung des Duals ist einfach:
 
-- Bei normalen Nomen: **-een** ans Ende anhängen
-- Bei Nomen mit Taa Marbouta (-et/-at): die Endung wird zu **-teen**
+- Bei normalen Nomen: **-een** ans Ende anhängen (ktaab → ktaabeen)
+- Bei Nomen mit taa2 marbuuTat (-et/-at): die Endung wird zu **-teen** (sayyaarat → sayyaarteen)

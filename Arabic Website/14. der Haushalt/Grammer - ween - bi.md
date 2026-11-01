@@ -10,4 +10,4 @@ lektion:
 ---
 # ween / bi
 > ween: wo?
-> bi: in/an
+> bi: in/an (immer als eigenes Wort: bi el-maTba5)

@@ -9,171 +9,171 @@ order:
   - "5"
 ---
 
-# Übung: Shuu haada? / Shuu hay? / Shuu hadool?
+# Übung: shuu haadaa? / shuu hay? / shuu hadool?
 
-> Entscheide, ob das Nomen männlich (**haada**), weiblich (**hay**) oder Plural (**hadool**) ist!
+> Entscheide, ob das Nomen männlich (**haadaa**), weiblich (**hay**) oder Plural (**hadool**) ist!
 
-- Ktaab → shuu haada? → Haada ktaab.
-- BaaS → shuu haada? → Haada baaS.
-- Anniinet → shuu hay? → Hay Anniinet.
-- Raf → shuu haada? → Haada Raf.
-- 7emmus → shuu haada? → Haada 7emmus.
-- Akl → shuu haada? → Haada Akl.
-- Ketob → shuu hadool? → Hadool Ketob.
-- BaaSaat → shuu hadool? → Hadool BaaSaat.
-- Anaani → shuu hadool? → hadool anaani
-- Madraset → shuu hay? → Hay Madraset.
-- Taawlet → shuu hay? → Hay Taawlet.
-- Kersi → shuu haada? → Haada Kersi.
-- Maktab → shuu haada? → haada maktab
-- Shams → shuu hay? → Hay Shams.
-- NaDDaarat → shuu hay? → Hay NaDDaarat.
-- Karaasi → shuu hadool? → Hadool Karaasi.
-- Taawlaatt → shuu hadool? → Hadool Taawlaatt.
-- Rfuuf → shuu hadool? → Hadool Rfuuf.
+- ktaab → shuu haadaa? → haadaa ktaab.
+- baaS → shuu haadaa? → haadaa baaS.
+- qanniinet → shuu hay? → hay qanniinet.
+- raff → shuu haadaa? → haadaa raff.
+- 7ummuS → shuu haadaa? → haadaa 7ummuS.
+- 2akl → shuu haadaa? → haadaa 2akl.
+- kutub → shuu hadool? → hadool kutub.
+- baaSaatt → shuu hadool? → hadool baaSaatt.
+- qanaanii → shuu hadool? → hadool qanaanii.
+- madraset → shuu hay? → hay madraset.
+- Taawlet → shuu hay? → hay Taawlet.
+- kursii → shuu haadaa? → haadaa kursii.
+- maktab → shuu haadaa? → haadaa maktab.
+- shams → shuu hay? → hay shams.
+- naDDHaarat → shuu hay? → hay naDDHaarat.
+- karaasii → shuu hadool? → hadool karaasii.
+- Taawlaatt → shuu hadool? → hadool Taawlaatt.
+- rfuuf → shuu hadool? → hadool rfuuf.
 
 ---
 
 ## Wer ist das? (Einfache Identifikation)
 
-_Fokus: miin had/hay/hadol? & Possessivsuffixe_
+_Fokus: miin haad/hay/hadool? & Possessivsuffixe_
 
-1. **F: miin had?** (Wer ist das? m.)
-	**A: Had 2a5i.** (Das ist mein Bruder.)
-
----
-	
-2. **F: miin hay?** (Wer ist das? f.)
-    **A: Hay i5ti.** (Das ist meine Schwester.)
+1. **F: miin haad?** (Wer ist das? m.)
+	**A: haad 2a5ii.** (Das ist mein Bruder.)
 
 ---
 	
-2. **F: miin hadol?** (Wer sind diese?)
-    
-    **A: Hadol ahli.** (Das ist meine Eltern/meine Familie.)
+2. **F: miin hay?** (Wer ist das? f.)
+    **A: hay 2u5tii.** (Das ist meine Schwester.)
 
 ---
 	
+2. **F: miin hadool?** (Wer sind diese?)
     
-3. **F: miin had ya Sami?**
-    
-    **A: Had jiddi.** (Das ist mein Großvater.)
+    **A: hadool 2ahlii.** (Das ist meine Eltern/meine Familie.)
 
 ---
 	
     
-4. **F: miin hay ya Zahra?**
+3. **F: miin haad yaa saamii?**
     
-    **A: Hay sitti.** (Das ist meine Großmutter.)
+    **A: haad jiddii.** (Das ist mein Großvater.)
 
 ---
 	
     
-5. **F: miin hadol?**
+4. **F: miin hay yaa zahrat?**
     
-    **A: Hadol rif2ati.** (Das sind meine Freunde.)
+    **A: hay sittii.** (Das ist meine Großmutter.)
 
 ---
 	
     
-6. **F: miin had?**
+5. **F: miin hadool?**
     
-    **A: Had 3ammi.** (Das ist mein Onkel väterlicherseits.)
+    **A: hadool rifqaatii.** (Das sind meine Freunde.)
+
+---
+	
+    
+6. **F: miin haad?**
+    
+    **A: haad 3ammii.** (Das ist mein Onkel väterlicherseits.)
 
 ---
 	
     
 7. **F: miin hay?**
     
-    **A: Hay 5alti.** (Das ist meine Tante mütterlicherseits.)
+    **A: hay 5aaltii.** (Das ist meine Tante mütterlicherseits.)
 
 ---
 	
     
-8. **F: miin hadol?**
+8. **F: miin hadool?**
     
-    **A: Hadol i5wati.** (Das sind meine Geschwister.)
+    **A: hadool 2i5waatii.** (Das sind meine Geschwister.)
 
 ---
 	
     
-9. **F: miin had?**
+9. **F: miin haad?**
     
-    **A: Had rfi2i.** (Das ist mein Freund.)
+    **A: haad rfiiqii.** (Das ist mein Freund.)
     
 
 ---
 
 ## Ja/Nein-Fragen (Bestätigung & Berufe)
 
-_Fokus: Tonfall-Fragen & Verneinung mit „moo“_
+_Fokus: Tonfall-Fragen & Verneinung mit „muu“_
 
-11. **F: Hadol ahlek?** (Sind das deine Eltern?)
+11. **F: hadool 2ahlek?** (Sind das deine Eltern?)
     
-    **A: Eh, hadol ahli.** (Ja, das sind meine Eltern.)
-
----
-	
-    
-12. **F: Hay sittek?** (Ist das deine Großmutter?)
-    
-    **A: La2, hay moo sitti, hay 5aleti.** (Nein, das ist nicht meine Oma, das ist meine Tante.)
+    **A: 2ee, hadool 2ahlii.** (Ja, das sind meine Eltern.)
 
 ---
 	
     
-13. **F: Had 2a5uk?** (Ist das dein Bruder?)
+12. **F: hay sittek?** (Ist das deine Großmutter?)
     
-    **A: Eh, had 2a5i.** (Ja, das ist mein Bruder.)
+    **A: la2, hay muu sittii, hay 5aaltii.** (Nein, das ist nicht meine Oma, das ist meine Tante.)
 
 ---
 	
     
-14. **F: Hadol rif2atek?** (Sind das deine Freunde?)
+13. **F: haad 2a5uuk?** (Ist das dein Bruder?)
     
-    **A: La2, hadol moo rif2ati, hadol i5wati.** (Nein, das sind nicht meine Freunde, das sind meine Geschwister.)
+    **A: 2ee, haad 2a5ii.** (Ja, das ist mein Bruder.)
 
 ---
 	
     
-15. **F: Had 3ammak ya Karim?** (Ist das dein Onkel, Karim?)
+14. **F: hadool rifqaatek?** (Sind das deine Freunde?)
     
-    **A: Eh, had 3ammi.** (Ja, das ist mein Onkel.)
+    **A: la2, hadool muu rifqaatii, hadool 2i5waatii.** (Nein, das sind nicht meine Freunde, das sind meine Geschwister.)
 
 ---
 	
     
-16. **F: Hay mudeerat madrase?** (Ist das eine Schuldirektorin?)
+15. **F: haad 3ammak yaa kariim?** (Ist das dein Onkel, Karim?)
     
-    **A: Eh, hay mudeerat madrase.** (Ja, das ist eine Schuldirektorin.)
+    **A: 2ee, haad 3ammii.** (Ja, das ist mein Onkel.)
 
 ---
 	
     
-17. **F: Had 5ayyaT?** (Ist das ein Schneider?)
+16. **F: hay mudiiret madraset?** (Ist das eine Schuldirektorin?)
     
-    **A: La2, had moo 5ayyaT, had muhandes.** (Nein, das ist kein Schneider, das ist ein Ingenieur.)
+    **A: 2ee, hay mudiiret madraset.** (Ja, das ist eine Schuldirektorin.)
 
 ---
 	
     
-18. **F: Hadol mwazzafin?** (Sind das Angestellte?)
+17. **F: haad 5ayyaaT?** (Ist das ein Schneider?)
     
-    **A: Eh, hadol mwazzafin.** (Ja, das sind Angestellte.)
+    **A: la2, haad muu 5ayyaaT, haad muhandes.** (Nein, das ist kein Schneider, das ist ein Ingenieur.)
 
 ---
 	
     
-19. **F: Hay mumarridat?** (Ist sie Krankenschwester?)
+18. **F: hadool mwaDDHafiin?** (Sind das Angestellte?)
     
-    **A: Eh, hay mumarridat.** (Ja, sie ist Krankenschwester.)
+    **A: 2ee, hadool mwaDDHafiin.** (Ja, das sind Angestellte.)
 
 ---
 	
     
-20. **F: Had sawwa2?** (Ist das ein Fahrer?)
+19. **F: hay mumarreDat?** (Ist sie Krankenschwester?)
     
-    **A: La2, had moo sawwa2, had Tabba5.** (Nein, das ist kein Fahrer, das ist ein Koch.)
+    **A: 2ee, hay mumarreDat.** (Ja, sie ist Krankenschwester.)
+
+---
+	
+    
+20. **F: haad sawwaaq?** (Ist das ein Fahrer?)
+    
+    **A: la2, haad muu sawwaaq, haad Tabbaa5.** (Nein, das ist kein Fahrer, das ist ein Koch.)
     
 
 ---

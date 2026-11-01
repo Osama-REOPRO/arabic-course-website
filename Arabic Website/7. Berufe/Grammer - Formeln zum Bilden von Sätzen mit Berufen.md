@@ -10,9 +10,9 @@ lektion:
 ## Was macht [Pronomen] beruflich? / Was arbeitet [Pronomen]? (Frage)
 
 > [!NOTE] Frageformel
-> - Shu **by**ischti8**il**? (Was arbeitet er?)
-> - Shu **bt**ischti8**il**? (Was arbeitet sie?, Was arbeitest du? (m))
-> - Shu **bt**ischti8**li**? (Was arbeitest du? (f))
+> - shuu **by**ishtigh**el**? (Was arbeitet er?)
+> - shuu **bt**ishtigh**el**? (Was arbeitet sie?, Was arbeitest du? (m))
+> - shuu **bt**ishtigh**lii**? (Was arbeitest du? (f))
 > 
 ---
 
@@ -35,5 +35,5 @@ lektion:
 ## Ja/Nein, [Pronomen] ist [Beruf] (Ja/Nein-Antwort)
 
 > [!NOTE] Ja/Nein-Antwortsformel: 
-> **(positiv): Eh, [Pronomen] + [Beruf]**
-> **(negativ): La2, [Pronomen] + *moo* + [Beruf]**
+> **(positiv): 2ee, [Pronomen] + [Beruf]**
+> **(negativ): la2, [Pronomen] + *muu* + [Beruf]**

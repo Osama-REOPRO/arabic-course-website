@@ -8,76 +8,76 @@ order: 17
 lektion: 20
 ---
 # Übung 1
-**Aufgabe:** Füge den bestimmten Artikel **el-** vor das Wort ein. Achte auf Sonnenbuchstaben!
-- Bei einem **Sonnenbuchstaben** → das „l" verschwindet, der erste Buchstabe wird verdoppelt
-- Bei einem **Mondbuchstaben** → el- bleibt normal
+**Aufgabe:** Füge den bestimmten Artikel **el-** vor das Wort ein und sag, wie man es spricht. Achte auf Sonnenbuchstaben!
+- Bei einem **Sonnenbuchstaben** → geschrieben el-, aber beim Sprechen verschwindet das „l" und der erste Buchstabe wird verdoppelt
+- Bei einem **Mondbuchstaben** → el- wird normal gesprochen
 
 1. shams (*Sonne*)
-	- el + shams = e-sh-shams (*die Sonne*)
-2. tazkarat (*Ticket / Fahrkarte*)
+	- el + shams = el-shams („esh-shams“) (*die Sonne*)
+2. tadhkarat (*Ticket / Fahrkarte*), gesprochen „tazkarat“
 3. saa3at (*Uhr / Stunde*)
 4. Suurat (*Foto / Bild*)
 5. daftar (*Heft / Notizbuch*)
 6. shaay (*Tee*)
-7. 2amar (*Mond*)
-	- el + 2amar = el-2amar (*der Mond*)
-8. hawiyye (*Identität / Ausweis*)
-9. mašraf (*Bank / Geldinstitut*)
-10. fendo2 (*Hotel*)
+7. qamar (*Mond*), gesprochen „2amar“
+	- el + qamar = el-qamar („el-2amar“) (*der Mond*)
+8. hawiyyet (*Identität / Ausweis*)
+9. maSraf (*Bank / Geldinstitut*)
+10. funduq (*Hotel*), gesprochen „fendo2“
 11. mayy (*Wasser*)
-12. 2ahwe (*Kaffee / Café*)
-13. **Kalb** :: Hund
+12. qahwet (*Kaffee / Café*), gesprochen „2ahwet“
+13. **kalb** :: Hund
 	- el-kalb
-14. **Dars** :: Lektion / Unterricht
-	- ed-dars
-15. **Ba7r** :: Meer
-16. **Shams** :: Sonne
-17. **Farashe** :: Schmetterling
-18. **Zill** :: Schatten
+14. **dars** :: Lektion / Unterricht
+	- el-dars („ed-dars“)
+15. **ba7r** :: Meer
+16. **shams** :: Sonne
+17. **faraashet** :: Schmetterling
+18. **DHill** :: Schatten
 19. **2amaan** :: Sicherheit
 20. **Taaleb** :: Student / Schüler
-21. **Waqt** :: Zeit
-22. **Nasr** :: Adler
-23. **Baab** :: Tür
-24. **3sal** :: Honig
+21. **waqt** :: Zeit
+22. **nasr** :: Adler
+23. **baab** :: Tür
+24. **3asal** :: Honig
 25. **Daw** :: Licht
-26. **Khubz** :: Bread
-27. **Sayyarat** :: Auto
-28. 2iid
-29. rijjaal :: man
-30. **Jabal** :: Berg
+26. **5ubz** :: Brot
+27. **sayyaarat** :: Auto
+28. **2iid** :: Hand
+29. **rijjaal** :: Mann
+30. **jabal** :: Berg
 31. **Tariiq** :: Weg / Straße
-32. **Qamar** :: Mond
+32. **qamar** :: Mond
 
 ---
-# Übung 2: Der Artikel el- in der Idaafet (maskulines erstes Wort)
+# Übung 2: Der Artikel el- in der 2iDaafet (maskulines erstes Wort)
 
-**Erinnerung:** In einer Idaafet (Genitivverbindung) bekommt nur das **zweite Wort** den Artikel **el-**, wenn die Verbindung bestimmt ist. Achte dabei auch auf Sonnen- und Mondbuchstaben!
+**Erinnerung:** In einer 2iDaafet (Genitivverbindung) bekommt nur das **zweite Wort** den Artikel **el-**, wenn die Verbindung bestimmt ist. Achte beim Sprechen auch auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
-- dektõr + mashfaa (Arzt + Krankenhaus) → **dektõr el-mashfaa** (der Arzt des Krankenhauses)
-- mudeer + shariket (Manager + Firma) → **mudeer esh-shariket** (der Manager der Firma) ☀️
+- doktoor + mashfaa (Arzt + Krankenhaus) → **doktoor el-mashfaa** (der Arzt des Krankenhauses)
+- mudiir + shirket (Manager + Firma) → **mudiir el-shirket** („mudiir esh-shirket“) (der Manager der Firma) ☀️
 
 ---
 
-**Aufgabe:** Bilde die bestimmte Idaafet (mit el-) aus den zwei Wörtern.
+**Aufgabe:** Bilde die bestimmte 2iDaafet (mit el-) aus den zwei Wörtern.
 
-1. țaaleb + madraset (Schüler + Schule) → _______________
+1. Taaleb + madraset (Schüler + Schule) → _______________
 <br>
 <br>
-2. sawwa2 + taxi (Fahrer + Taxi) → _______________
+2. sawwaaq + taaksii (Fahrer + Taxi) → _______________
 <br>
 <br>
 3. mumarreD + mashfaa (Krankenpfleger + Krankenhaus) → _______________
 <br>
 <br>
-4. Tabba5 + maT3am (Koch + Restaurant) → _______________
+4. Tabbaa5 + maT3am (Koch + Restaurant) → _______________
 <br>
 <br>
-5. bayya3 + ma7al (Verkäufer + Laden) → _______________
+5. bayyaa3 + ma7all (Verkäufer + Laden) → _______________
 <br>
 <br>
-6. 7allaa2 + rjaal (Friseur + Männer) → _______________
+6. 7allaaq + rjaal (Friseur + Männer) → _______________
 <br>
 <br>
 7. sekerteer + maktab (Sekretär + Büro) → _______________
@@ -86,49 +86,49 @@ lektion: 20
 8. muhandes + 3amaarat (Ingenieur + Gebäude) → _______________
 <br>
 <br>
-9. 5ayyaaT + badlaat (Schneider + Anzüge) → _______________
+9. 5ayyaaT + badlaatt (Schneider + Anzüge) → _______________
 <br>
 <br>
-10. Seedaly + 9aryet (Apotheker + Dorf) → _______________
+10. Seedalii + qaryet (Apotheker + Dorf) → _______________
 <br>
 <br>
-11. muDif + maT3am (Kellner + Restaurant) → _______________
+11. muDiif + maT3am (Kellner + Restaurant) → _______________
 <br>
 <br>
-12. mwazzaf + shirket (Angestellter + Firma) → _______________
+12. mwaDDHaf + shirket (Angestellter + Firma) → _______________
 <br>
 <br>
 
 ---
 
-# Übung 3: Der Artikel el- in der Idaafet (feminines erstes Wort)
+# Übung 3: Der Artikel el- in der 2iDaafet (feminines erstes Wort)
 
-**Erinnerung:** Bei einer Idaafet mit einem femininen ersten Wort (das auf -et/-at endet) verändert sich die Endung leicht, wenn der Artikel **el-** vor das zweite Wort kommt: die Endung wird zu **-t** vor dem Artikel. Achte auch hier auf Sonnen- und Mondbuchstaben!
+**Erinnerung:** Bei einer 2iDaafet mit einem femininen ersten Wort (das auf -et/-at endet) verändert sich die Endung leicht, wenn der Artikel **el-** vor das zweite Wort kommt: die Endung wird zu **-t** vor dem Artikel. Achte beim Sprechen auch hier auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
-- dektõr**e**t atfaal (eine Kinderärztin) → dektõr**t** el-atfaal (die Kinderärztin)
-- mudeer**e**t shariket (eine Firmenleiterin) → mudeer**t** esh-shariket (die Managerin der Firma) ☀️
+- doktoor**e**t 2aTfaal (eine Kinderärztin) → doktoor**t** el-2aTfaal (die Kinderärztin)
+- mudiir**e**t shirket (eine Firmenleiterin) → mudiir**t** el-shirket („mudiirt esh-shirket“) (die Managerin der Firma) ☀️
 
 ---
 
-**Aufgabe:** Bilde die bestimmte Idaafet (mit el-) aus der unbestimmten Form.
+**Aufgabe:** Bilde die bestimmte 2iDaafet (mit el-) aus der unbestimmten Form.
 
-1. țaalebet jaam3at (eine Studentin einer Universität) → _______________
+1. Taalbet jaam3at (eine Studentin einer Universität) → _______________
 <br>
 <br>
-2. sawwa2et baaS (eine Busfahrerin) → _______________
+2. sawwaaqet baaS (eine Busfahrerin) → _______________
 <br>
 <br>
-3. mumarriDet mashfaa (eine Krankenschwester in einem Krankenhaus) → _______________
+3. mumarreDet mashfaa (eine Krankenschwester in einem Krankenhaus) → _______________
 <br>
 <br>
-4. Tabba5et maT3am (eine Restaurantköchin) → _______________
+4. Tabbaa5et maT3am (eine Restaurantköchin) → _______________
 <br>
 <br>
-5. bayya3et ma7al (eine Ladenverkäuferin) → _______________
+5. bayyaa3et ma7all (eine Ladenverkäuferin) → _______________
 <br>
 <br>
-6. kuafèret niswaan (eine Damenfriseurin) → _______________
+6. kwaafeeret niswaan (eine Damenfriseurin) → _______________
 <br>
 <br>
 7. sekerteeret maktab (eine Bürosekretärin) → _______________
@@ -137,75 +137,77 @@ lektion: 20
 8. muhandiset 3amaarat (eine Bauingenieurin) → _______________
 <br>
 <br>
-9. 5ayyaTet fasateen (eine Kleiderschneiderin) → _______________
+9. 5ayyaaTet fasaatiin (eine Kleiderschneiderin) → _______________
 <br>
 <br>
-10. Seedalyet 9aryet (eine Dorflapothekerin) → _______________
+10. Seedalaaniyyet qaryet (eine Dorfapothekerin) → _______________
 <br>
 <br>
-11. mudifet maT3am (eine Restaurantkellnerin) → _______________
+11. muDiifet maT3am (eine Restaurantkellnerin) → _______________
 <br>
 <br>
-12. mwazzafet shirket (eine Firmenangestellte) → _______________
+12. mwaDDHafet shirket (eine Firmenangestellte) → _______________
 <br>
 <br>
+
 ---
 <br>
 
-# Übung 4: Gemischte Übung — el- (Sonne/Mond, maskuline & feminine Idaafet)
+# Übung 4: Gemischte Übung — el- (Sonne/Mond, maskuline & feminine 2iDaafet)
 
 **Erinnerung:**
-- **Sonnenbuchstaben:** das „l" von el- verschwindet, der erste Buchstabe des Wortes wird verdoppelt
-- **Mondbuchstaben:** el- bleibt normal
-- **Feminine Idaafet** (Wort endet auf -et/-at): die Endung wird zu **-t**, bevor el- kommt
-- **Maskuline Idaafet:** das erste Wort bleibt unverändert, nur el- kommt vor das zweite Wort
+- geschrieben wird **immer el-**
+- **Sonnenbuchstaben:** beim Sprechen verschwindet das „l" von el-, der erste Buchstabe des Wortes wird verdoppelt
+- **Mondbuchstaben:** el- wird normal gesprochen
+- **Feminine 2iDaafet** (Wort endet auf -et/-at): die Endung wird zu **-t**, bevor el- kommt
+- **Maskuline 2iDaafet:** das erste Wort bleibt unverändert, nur el- kommt vor das zweite Wort
 
 ---
 
-**Aufgabe:** Bilde die bestimmte Form (mit el-).
+**Aufgabe:** Bilde die bestimmte Form (mit el-) und sag, wie man sie spricht.
 
 1. saa3at (Uhr) → _______________
 <br>
 <br>
-2. mudeer + shariket (Manager + Firma) → _______________
+2. mudiir + shirket (Manager + Firma) → _______________
 <br>
 <br>
-3. 2amar (Mond) → _______________
+3. qamar (Mond) → _______________
 <br>
 <br>
-4. țaalebet + jaam3at (Studentin + Universität) → _______________
+4. Taalbet + jaam3at (Studentin + Universität) → _______________
 <br>
 <br>
-5. fendo2 (Hotel) → _______________
+5. funduq (Hotel) → _______________
 <br>
 <br>
-6. sawwa2 + taxi (Fahrer + Taxi) → _______________
+6. sawwaaq + taaksii (Fahrer + Taxi) → _______________
 <br>
 <br>
-7. dektõret + atfaal (Ärztin + Kinder) → _______________
+7. doktooret + 2aTfaal (Ärztin + Kinder) → _______________
 <br>
 <br>
 8. shaay (Tee) → _______________
 <br>
 <br>
-9. Seedaly + 9aryet (Apotheker + Dorf) → _______________
+9. Seedalii + qaryet (Apotheker + Dorf) → _______________
 <br>
 <br>
-10. kuafèret + niswaan (Damenfriseurin + Frauen) → _______________
+10. kwaafeeret + niswaan (Damenfriseurin + Frauen) → _______________
 <br>
 <br>
-11. mašraf (Bank) → _______________
+11. maSraf (Bank) → _______________
 <br>
 <br>
-12. 5ayyaaT + badlaat (Schneider + Anzüge) → _______________
+12. 5ayyaaT + badlaatt (Schneider + Anzüge) → _______________
 <br>
 <br>
-13. mwazzafet + shirket (Angestellte + Firma) → _______________
+13. mwaDDHafet + shirket (Angestellte + Firma) → _______________
 <br>
 <br>
-14. dektõr + mashfaa (Arzt + Krankenhaus) → _______________
+14. doktoor + mashfaa (Arzt + Krankenhaus) → _______________
 <br>
 <br>
-15. mumarriDet + mashfaa (Krankenschwester + Krankenhaus) → _______________
+15. mumarreDet + mashfaa (Krankenschwester + Krankenhaus) → _______________
 <br>
 <br>

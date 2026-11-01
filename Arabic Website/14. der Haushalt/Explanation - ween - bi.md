@@ -22,11 +22,13 @@ Um zu fragen, **wo** sich etwas oder jemand befindet, verwendet man "ween".
 
 Um anzuzeigen, dass sich jemand oder etwas **an** einem Ort befindet, verwendet man "bi".
 
-- m7ammad bi-el-madraset
+- m7ammad bi el-madraset
 	- Mohammed ist in der Schule
-- el-Taawlet bi-el-maTba5
+- el-Taawlet bi el-maTba5
 	- Der Tisch ist in der Küche.
 
+> [!NOTE] Schreiben und Sprechen
+> Wir schreiben **bi** immer als eigenes Wort: bi el-maTba5. Gesprochen klingt es wie ein Wort: „bil-maTba5“.
 
 > [!NOTE] Hinweis: Das Wort muss bestimmt sein.
 > Beachten Sie, dass das Wort nach „ween“ und „bi“ bestimmt sein muss, also entweder ein bestimmter Name „m7ammad“ oder ein Wort mit dem bestimmten Artikel „el-“.

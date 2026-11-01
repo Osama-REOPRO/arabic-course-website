@@ -9,9 +9,9 @@ order:
   - "5"
 ---
 
-| Frage                            | Bedeutung                     |
-| -------------------------------- | ----------------------------- |
-| shuu haada/hay/hadool?           | Was ist das?                  |
-| haada/hay/hadool + Nomen?        | Ist das...? (Antwort: Eh/La2) |
-| miin haada/hay/hadool?           | Wer ist das?                  |
-| haada/hay/hadool + Nomen + miin? | Wessen ...?                   |
+| Frage                              | Bedeutung                       |
+| ---------------------------------- | ------------------------------- |
+| shuu haadaa/hay/hadool?            | Was ist das?                    |
+| haadaa/hay/hadool + Nomen?         | Ist das...? (Antwort: 2ee/la2)  |
+| miin haadaa/hay/hadool?            | Wer ist das?                    |
+| haadaa/hay/hadool + Nomen + miin?  | Wessen ...?                     |

@@ -7,15 +7,36 @@ group:
 order:
   - "6"
 ---
-# Pronomen (Dama2ir)
+# Pronomen (Damaa2ir)
 
-| Arabisch | Umschrift | Deutsch  |
-| :------- | :-------- | :------- |
-| أنا      | ana       | ich      |
-| إنتَ     | inte      | du (m)   |
-| إنتي     | inti      | du (w)   |
-| هو       | huue      | er       |
-| هي       | hiie      | sie (s)  |
-| نحنا     | ne7na     | wir      |
-| إنتو     | intu      | ihr (pl) |
-| هنن      | hennen    | sie (pl) |
+**2anaa** – ich
+
+أنا
+
+**2inte** – du (m)
+
+إنت
+
+**2intii** – du (w)
+
+إنتي
+
+**huwwe** – er
+
+هو
+
+**hiyye** – sie (s)
+
+هي
+
+**ni7naa** – wir
+
+نحنا
+
+**2intuu** – ihr (pl)
+
+إنتو
+
+**hinnen** – sie (pl)
+
+هنن

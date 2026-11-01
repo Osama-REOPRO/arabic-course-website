@@ -9,6 +9,11 @@ lektion:
 ---
 Wenn Araber sich gegenseitig Textnachrichten unter Verwendung des lateinischen Alphabets schicken (was als **Arabic Chat English** oder **Franco-Arabic** bezeichnet wird), nutzen sie Zahlen, die optisch den entsprechenden arabischen Buchstaben ähneln, um diese einzigartigen Laute wiederzugeben.
 
+> [!NOTE] In unserem Kurs
+> Im Internet schreibt jeder ein bisschen anders. In unserem Kurs benutzen wir **immer dieselben Zeichen**:
+> **q**, **5**, **gh**, **7**, **3**, **2** und **h**.
+> Also nie 9, kh, 4 oder 8.
+
 ---
 # Lektionsübersicht: Die 6 Kehllaute + 1 Zungenlaut & Chat-Zahlen
 
@@ -18,63 +23,101 @@ Schauen wir uns die korrekte Übersicht dieser speziellen Laute an – sowie die
 
 ## 1. Oberhalb der Kehle: Der hintere Zungenbereich
 
-### 9 / q = ق (Qaaf)
+### q (qaaf)
+
+ق
+
 * **Der Laut:** Ein tiefer, scharfer „K“-Laut, der erzeugt wird, indem man den allerhintersten Teil der Zunge gegen das Gaumensegel bzw. das Zäpfchen drückt.
-* **Die syrische Besonderheit:** In Syrien wird dieser Buchstabe bekanntermaßen exakt wie ein Hamza (ein Glottisschlag / 2) ausgesprochen. Dies ist ein starkes regionales Erkennungsmerkmal!
-* **Warum die Zahl 9?** Der arabische Buchstabe `ق` sieht aus wie eine `9`.
-* **Beispielwort:** `Rfi9` (freund) (Damaskus: Rfi2, Swieda: Rfi9)
+* **Die syrische Besonderheit:** In Damaskus wird dieser Buchstabe meistens exakt wie ein hamzet (ein Glottisschlag / 2) ausgesprochen. Dies ist ein starkes regionales Erkennungsmerkmal! Wir **schreiben** trotzdem immer **q**.
+* **Warum sieht man im Internet oft eine 9?** Der Buchstabe qaaf sieht aus wie eine 9. In unserem Kurs schreiben wir aber immer **q**.
+* **Beispielwort:** rfiiq (Freund) (Damaskus: „rfii2“, Swieda: „rfiiq“)
 
 
 ---
 
 ## 2. Die obere Kehlzone
 
-### 5 / kh = خ (Khaa)
+### 5 (5aa2)
+
+خ
+
 * **Der Laut:** Ein kratzendes, trockenes Geräusch (exakt wie der deutsche *Ach-Laut* in *Bach* oder *Kuchen*).
-* **Warum die Zahl 5?** Der arabische Buchstabe `خ` sieht aus wie die Ziffer `5` in der arabischen Schrift (`٥`).
-* **Beispielwort:** `5al` (Onkel) oder `Tabba5` (Koch).
+* **Warum die Zahl 5?** Der Buchstabe 5aa2 erinnert an die Ziffer 5 in der arabischen Schrift.
+* **Beispielwort:** 5aal (Onkel) oder Tabbaa5 (Koch).
 
 
-### 4 / 8 / gh = غ (Ghayn)
+### gh (ghayn)
+
+غ
+
 (r auf deutsch)
 * **Der Laut:** Ein feuchtes, gurgelndes Geräusch (exakt wie das standarddeutsche Kehlen-„R“ in *Regen*).
-Er wird häufig als `gh` geschrieben, manchmal aber auch als `4`oder `8`
-- 4ali = غالي = teuer
-- 4êmet = غيمة = wolke
+Im Internet wird er häufig als gh geschrieben, manchmal aber auch als 4 oder 8. In unserem Kurs schreiben wir immer **gh**.
+- ghaalii = teuer
+
+  غالي
+
+- gheemet = Wolke
+
+  غيمة
 
 ---
 
 ## 3. Die Zone des mittleren Rachens (Mitte)
-### 7 = tiefes h = ح (Haa)
+### 7 = tiefes h (7aa2)
+
+ح
 
 * **Der Laut:** Ein tiefes, behauchtes „H“, das durch das Anspannen der Muskeln im mittleren Rachenbereich gebildet wird (wie beim Anhauchen einer Brille).
-* **Warum die Zahl 7?** Der arabische Buchstabe `ح` sieht genau wie eine gespiegelte Zahl `7` aus.
-* **Vokabelbeispiel:** `7alla2` (Friseur) oder `Mar7aba` (Hallo).
+* **Warum die Zahl 7?** Der Buchstabe 7aa2 sieht aus wie eine gespiegelte 7.
+* **Vokabelbeispiel:** 7allaaq (Friseur) oder mar7abaa (Hallo).
 
-### 3 = Ayn = ع
+### 3 (3ayn)
+
+ع
+
 * **Der Laut:** Ein anhaltendes, tiefes Zusammenpressen der Muskeln im mittleren Rachenbereich. *Hinweis: Wir werden diesen Buchstaben in einer zukünftigen Lektion ausführlich behandeln!*
-* **Warum die Zahl 3?** Der arabische Buchstabe `ع` sieht genau wie eine gespiegelte Zahl `3` aus.
-* **Vokabelbeispiel:** `3ilbet` (Dose) oder `bayya3` (Verkäufer).
+* **Warum die Zahl 3?** Der Buchstabe 3ayn sieht aus wie eine gespiegelte 3.
+* **Vokabelbeispiel:** 3ilbet (Dose) oder bayyaa3 (Verkäufer).
 
 ---
 
 ## 4. Die Zone des tiefen Rachens (Unten)
-### 2 = Hamza = ء
+### 2 (hamzet)
+
+ء
+
 * **Der Laut:** Der Glottisschlag (Kehlkopfverschlusslaut). Ein plötzlicher, scharfer Luftstopp direkt an den Stimmbändern.
-* **Warum die Zahl 2?** Die Zahl `2` sieht wie ein gespiegeltes Hamza `ء` aus.
-* **Vokabelbeispiel:** `2ab` (Vater) oder `2anset` (Lehrerin).
+* **Warum die Zahl 2?** Die Zahl 2 sieht aus wie ein gespiegeltes hamzet.
+* **Vokabelbeispiel:** 2ab (Vater) oder 2aanset (Lehrerin).
 
 
-### h = هـ (Haa)
+### h (haa2)
+
+هـ
+
 * **Der Laut:** Das standardmäßige, entspannte deutsche „H“ (wie in *Hund* oder *haben*). Völlig ohne Anspannung.
-* **Warum keine Zahl?** Es klingt genau wie ein normales lateinisches `h`.
-* **Vokabelbeispiel:** `muhandes` (Ingenieur) oder `2ahleen` (Hallo). ---
+* **Warum keine Zahl?** Es klingt genau wie ein normales lateinisches h.
+* **Vokabelbeispiel:** muhandes (Ingenieur) oder 2ahleen (Hallo).
+
+---
 ## 💡 Hinweis
 Die Zahlen ahmen die arabischen Buchstaben optisch nach:
-* **ح** sieht aus wie **7**
-* **خ** sieht aus wie **5** (arabisch ٥)
-* **ق** sieht aus wie **9**
-* **ء** sieht aus wie **2**
+* **7aa2** sieht aus wie **7**
+
+  ح
+
+* **5aa2** erinnert an die arabische Ziffer **5**
+
+  خ ٥
+
+* **qaaf** sieht aus wie **9** (wir schreiben aber immer **q**)
+
+  ق
+
+* **hamzet** sieht aus wie **2**
+
+  ء
 
 ---
 # Anatomische Erklärung
@@ -95,225 +138,344 @@ Sie müssen also kein völlig fremdes Konzept erlernen. Sie müssen lediglich je
 
 ---
 
-# Die 4 deutschen "Cheat-Buchstaben" (خ, غ, هـ, ء)
+# Die 4 deutschen "Cheat-Buchstaben" (5, gh, h, 2)
 
 **Ziel:** Zu zeigen, dass sie 4 von 6 Kehllauten schon perfekt auf Deutsch aussprechen können.
 
 ---
 
-### 1. Der "Ach-Laut" — Das **خ** (Khaa)
+### 1. Der "Ach-Laut" — Das **5** (5aa2)
+
+خ
+
 * Dieser Buchstabe klingt wie das deutsche **'ch'** nach den Vokalen A, O, U. Denkt an das Wort **'Ach so!'**, **'Kuchen'** oder den Namen **'Bach'**. Es ist ein trockenes, reibendes Geräusch ganz oben im Hals.
 * **Beispiel aus eurem Vokabular:**
-  * **طبّاخ** (Tabba5 — Koch)
+  * **Tabbaa5** — Koch
+
+    طبّاخ
 
 ---
 
-### 2. Das "Gurgel-R" — Das **غ** (Ghayn)
+### 2. Das "Gurgel-R" — Das **gh** (ghayn)
+
+غ
+
 * Das ist fast identisch mit dem normalen deutschen **'R'**, das man hinten im Hals spricht (wie in **'Regen'** oder **'Brot'**). Es klingt ein bisschen wie Gurgeln mit Wasser. Die Zunge vibriert ganz leicht am Gaumensegel.
 * **Beispiel aus eurem Vokabular:**
-  * غذّى füttern - 8azza
-  * غالي  teuer - 8ali
-  * لغة sprache - lu8at
+  * **ghaddhaa** — füttern, in Damaskus gesprochen „ghazzaa“
+
+    غذّى
+
+  * **ghaalii** — teuer
+
+    غالي
+
+  * **lughat** — Sprache
+
+    لغة
 
 ---
 
-### 3. Das sanfte Hauch-H — Das **هـ** (Haa)
+### 3. Das sanfte Hauch-H — Das **h** (haa2)
+
+هـ
+
 * Das ist das einfachste Zeichen. Es ist genau wie das deutsche **'H'** in **'Hund'**, **'haben'** oder **'Hallo'**. Der Hals ist völlig entspannt, die Luft fließt einfach ohne Reibung nach draußen.
 * **Beispiel aus eurem Vokabular:**
-  * **أهلين** (Ahleen — Hallo!)
-  * **مهمّ** (mohemm — wichtig )
-  * **مهندس** (muhandes — Ingenieur)
+  * **2ahleen** — Hallo!
+
+    أهلين
+
+  * **muhemm** — wichtig
+
+    مهمّ
+
+  * **muhandes** — Ingenieur
+
+    مهندس
 
 ---
 
 
-### 4. Der "Knacklaut" — Das **ء** (Hamza)
-* Im Deutschen macht ihr diesen Laut ständig, ohne es zu wissen! Es ist der **Glottisschlag** (Knacklaut). Wenn ihr ein deutsches Wort mit einem Vokal am Anfang sprecht (wie **'Apfel'**, **'ich'** oder **'Uhr'**), stoppt ihr kurz die Luft im Hals, bevor der Vokal kommt. Genau das ist das Hamza.
+### 4. Der "Knacklaut" — Das **2** (hamzet)
+
+ء
+
+* Im Deutschen macht ihr diesen Laut ständig, ohne es zu wissen! Es ist der **Glottisschlag** (Knacklaut). Wenn ihr ein deutsches Wort mit einem Vokal am Anfang sprecht (wie **'Apfel'**, **'ich'** oder **'Uhr'**), stoppt ihr kurz die Luft im Hals, bevor der Vokal kommt. Genau das ist das hamzet. In unserer Umschrift schreiben wir es **immer** als 2, auch am Wortanfang.
 * **Beispiel aus eurem Vokabular:**
-  * **أنا** (Ana — ich)
-  * **أب** (2ab — Vater)
-  * **أم** (imm — Mutter)
-  * **أهلاً وسهلاً** (Ahlan w sahla)
+  * **2anaa** — ich
+
+    أنا
+
+  * **2ab** — Vater
+
+    أب
+
+  * **2umm** — Mutter
+
+    أم
+
+  * **2ahlaa w sahlaa** — Willkommen
+
+    أهلا وسهلا
 
 ---
 
 # Beispiele
-## 1. Der Laut **خ (Chā')**
+## 1. Der Laut **5** (5aa2)
 
 _Klingt wie das deutsche „ch“ in „Bach“._
 
-- **خفّف** (khaffaf) – erleichtern / reduzieren _(6. Lektion)_
+- **5affaf** – erleichtern / reduzieren _(6. Lektion)_
+
+  خفّف
     
-- **صباح الخير** (Sabah el-kheer!) – Guten Morgen! _(5. Lektion)_
+- **Sabaa7 el-5eer!** – Guten Morgen! _(5. Lektion)_
+
+  صباح الخير
     
-- **مسا الخير** (Masaa el-kheer!) – Guten Abend! _(5. Lektion)_
+- **masaa el-5eer!** – Guten Abend! _(5. Lektion)_
+
+  مسا الخير
     
-- **أخ** (2a5) – Bruder _(10. Lektion)_
+- **2a5** – Bruder _(10. Lektion)_
+
+  أخ
     
-- **أخت** (i5t) – Schwester _(10. Lektion)_
+- **2u5t** – Schwester _(10. Lektion)_
+
+  أخت
     
-- **إخوة** (i5wat) – Geschwister _(10. Lektion)_
+- **2i5waatt** – Geschwister _(10. Lektion)_
+
+  إخوات
     
-- **خال** (5al) – Onkel mütterlicherseits _(10. Lektion)_
+- **5aal** – Onkel mütterlicherseits _(10. Lektion)_
+
+  خال
     
-- **خالة** (5alet) – Tante mütterlicherseits _(10. Lektion)_
+- **5aalet** – Tante mütterlicherseits _(10. Lektion)_
+
+  خالة
     
-- **خيّاط** (5ayyaT) – Schneider _(11. Lektion)_
+- **5ayyaaT** – Schneider _(11. Lektion)_
+
+  خيّاط
     
-- **طبّاخ** (Tabba5) – Koch _(11. Lektion)_
+- **Tabbaa5** – Koch _(11. Lektion)_
+
+  طبّاخ
     
 
 ---
 
-## 2. Der Laut **غ (Ghain)**
+## 2. Der Laut **gh** (ghayn)
 
 _Ein reibendes, geformtes „r“ im Rachen – ähnlich wie das französische oder deutsche Zäpfchen-R._
 
-- **غذّى** (ghazzā) – füttern _(6. Lektion)_
+- **ghaddhaa** – füttern _(6. Lektion)_
+
+  غذّى
     
 
 ---
 
 
-## 3. Der Laut **هـ (Hā')**
+## 3. Der Laut **h** (haa2)
 
-_Ein geauchtes, tiefes „h“ – genau wie das deutsche „h“ in „Hund“._
+_Ein gehauchtes „h“ – genau wie das deutsche „h“ in „Hund“._
 
-- **أهل** (AhI) – Eltern _(10. Lektion)_
+- **2ahl** – Eltern _(10. Lektion)_
+
+  أهل
     
-- **أهلاً وسهلاً** (Ahla w sahla!) – Willkommen! _(5. Lektion)_
+- **2ahlaa w sahlaa!** – Willkommen! _(5. Lektion)_
+
+  أهلا وسهلا
     
-- **أهلين** (Ahleen!) – Hallo! _(5. Lektion)_
+- **2ahleen!** – Hallo! _(5. Lektion)_
+
+  أهلين
     
 
 ---
 
-## 4. Der Laut **ء (Hamza / Glottal Stop)**
+## 4. Der Laut **2** (hamzet / Glottal Stop)
 
-_Der Knacklaut vor Vokalen, wie im Deutschen zwischen „Spie-gelei“ (Spiegel-ei)._ _Hinweis: Im syrischen Dialekt wird das klassische **ق (Qāf)** fast immer als **Hamza (ء)** gesprochen! Ich habe diese Wörter direkt mit aufgenommen, da sie in der Praxis genau so ausgesprochen werden._
+_Der Knacklaut vor Vokalen, wie im Deutschen zwischen „Spie-gelei“ (Spiegel-ei)._ _Hinweis: Im Damaszener Dialekt wird das qaaf fast immer wie 2 gesprochen! Wir schreiben diese Wörter aber mit **q**, so wie man sie auf Arabisch schreibt._
 
-**Klassisches Hamza (ء):**
+**Klassisches hamzet:**
 
-- **أنا** (Ana) – Ich _(5. Lektion)_
+- **2anaa** – Ich _(5. Lektion)_
+
+  أنا
     
-- **أنتِ / أنتَ** (Ente / Inti) – Du _(5. Lektion)_
+- **2inte / 2intii** – Du _(5. Lektion)_
+
+  إنت / إنتي
     
-- **أب** (2ab) – Vater _(10. Lektion)_
+- **2ab** – Vater _(10. Lektion)_
+
+  أب
     
-- **أهل** (AhI) – Eltern _(10. Lektion)_
+- **2ahl** – Eltern _(10. Lektion)_
+
+  أهل
     
-- **أخ / أخت** (2a5 / i5t) – Bruder / Schwester _(10. Lektion)_
+- **2a5 / 2u5t** – Bruder / Schwester _(10. Lektion)_
+
+  أخ / أخت
     
-- **أنسة** (2anset) – Lehrerin _(11. Lektion)_
+- **2aanset** – Lehrerin _(11. Lektion)_
+
+  آنسة
     
 
-**Als Hamza gesprochenes Qāf (ق $\rightarrow$ ء):**
+**Als 2 gesprochenes qaaf (q → 2):**
 
-- **قرّر** ('arrar) – entscheiden _(6. Lektion)_
+- **rfiiq** – Freund, gesprochen „rfii2“ _(10. Lektion)_
+
+  رفيق
     
-- **رفيق** (Rfi2) – Freund _(10. Lektion)_
+- **7allaaq** – Friseur, gesprochen „7allaa2“ _(11. Lektion)_
+
+  حلاق
     
-- **حلاق** (7alla2) – Friseur _(11. Lektion)_
-    
-- **سواق** (sawwa2) – Fahrer _(11. Lektion)_
+- **sawwaaq** – Fahrer, gesprochen „sawwaa2“ _(11. Lektion)_
+
+  سواق
 
 ---
 
-# Das kulturelle Highlight – Das **ق** (Qaaf)
+# Das kulturelle Highlight – Das **q** (qaaf)
 
-Jetzt kommen wir zu einem ganz besonderen Buchstaben: dem **ق**. Im Internet schreibt man ihn oft mit dem Buchstaben **Q** oder der Zahl **9**. 
+ق
 
-Man kann sich das **ق** wie ein „kehlkopf-basiertes K“ (guttural K) vorstellen. 
+Jetzt kommen wir zu einem ganz besonderen Buchstaben: dem qaaf. Im Internet schreibt man ihn oft mit dem Buchstaben **Q** oder der Zahl **9**. In unserem Kurs schreiben wir ihn **immer als q**, auch wenn man ihn in Damaskus wie 2 spricht.
+
+Man kann sich das qaaf wie ein „kehlkopf-basiertes K“ (guttural K) vorstellen. 
 
 ### Regionale Unterschiede in Syrien und Libanon
-Dieser Buchstabe ist extrem wichtig, weil er in der Levante wie eine Visitenkarte funktioniert. Wie man das **ق** ausspricht, verrät sofort, woher man kommt!
-* **Die Küste, Sweida und die Al-Jazira-Region (Osten):** Hier sprechen die Menschen das **ق** sehr hart, klar und klassisch aus.
-* **Die westlichen Regionen (Damaskus, Homs, Hama, Aleppo):** In diesen großen Städten wird das echte Q meistens komplett weggelassen. Die Menschen ersetzen es durch das viel einfachere **Hamza** (den Knacklaut / 2). Aus *Qalb* wird dann *2alb*.
+Dieser Buchstabe ist extrem wichtig, weil er in der Levante wie eine Visitenkarte funktioniert. Wie man das qaaf ausspricht, verrät sofort, woher man kommt!
+* **Die Küste, Sweida und die Al-Jazira-Region (Osten):** Hier sprechen die Menschen das qaaf sehr hart, klar und klassisch aus.
+* **Die westlichen Regionen (Damaskus, Homs, Hama, Aleppo):** In diesen großen Städten wird das echte q meistens komplett weggelassen. Die Menschen ersetzen es durch das viel einfachere **hamzet** (den Knacklaut / 2). Aus qalb wird dann „2alb“.
 * **Im Libanon:** Hier wird der Laut im Alltag fast überall komplett fallengelassen.
-**Warum lernen wir das echte Q trotzdem?**
-Selbst in den Städten, wo das Q im Alltag zu einem Hamza wird, ist der Buchstabe nicht komplett weg! Wenn ein Wort aus dem modernen Hocharabisch kommt – wie zum Beispiel **Iqtisad** (اقتصاد — Wirtschaft) –, dann sprechen auch die Menschen in Damaskus oder Aleppo ein echtes, hartes **ق**.
-Wir lernen heute also das echte **ق**, damit ihr die volle Kontrolle habt und in jeder Region richtig sprechen und verstehen könnt!
+**Warum lernen wir das echte q trotzdem?**
+Selbst in den Städten, wo das q im Alltag zu einem hamzet wird, ist der Buchstabe nicht komplett weg! Wenn ein Wort aus dem modernen Hocharabisch kommt – wie zum Beispiel **2iqtiSaad** (Wirtschaft) –, dann sprechen auch die Menschen in Damaskus oder Aleppo ein echtes, hartes q.
+
+اقتصاد
+
+Wir lernen heute also das echte q, damit ihr die volle Kontrolle habt und in jeder Region richtig sprechen und verstehen könnt! Und weil wir es immer als q schreiben, seht ihr bei jedem Wort, wo ein qaaf steckt.
 
 ### Was ist der Unterschied zum normalen K?
 
 Der „k“-Laut wird gebildet, indem man die Mitte der Zunge an den harten Gaumen legt.
-Das Qaf wird gebildet, indem man den hinteren Teil der Zunge an die Stelle legt, an der der harte Gaumen in den weichen Gaumen übergeht.
+Das qaaf wird gebildet, indem man den hinteren Teil der Zunge an die Stelle legt, an der der harte Gaumen in den weichen Gaumen übergeht.
 
 ### Eine Übung für euch zu Hause
 
 Damit ihr spürt, wie das funktioniert, machen wir eine kleine Übung:
 * Nehmt einen sauberen Finger und drückt eure Zunge im Mund nach unten. 
 * Versucht jetzt, ein normales deutsches „K“ zu sprechen. 
-* Eure Zunge will sich automatisch bewegen und gegen euren Finger kämpfen! Wenn ihr sie aber erfolgreich unten haltet, blockiert ihr die Zunge. Das Geräusch, das jetzt entsteht, kommt automatisch aus dem Hals – und das ist die richtige Richtung für das **ق**.
+* Eure Zunge will sich automatisch bewegen und gegen euren Finger kämpfen! Wenn ihr sie aber erfolgreich unten haltet, blockiert ihr die Zunge. Das Geräusch, das jetzt entsteht, kommt automatisch aus dem Hals – und das ist die richtige Richtung für das qaaf.
 * Ihr könnt auch einfach versuchen, ein ganz normales K auszusprechen, während ihr den Mund offen haltet und die Zunge nicht bewegt.
 
 ### Beispiele
 
 Wir hören uns diesen Laut in ein paar Beispielen an:
-* **Qalam** (قلم — Stift)
-	* oder **2alam** – (*Das **2** am Ende ersetzt das ursprüngliche Qaf (رفيق - rafiq).*)
-* **Waraq** (ورق — Papier)
-	* oder **Wara2**
-* **Qalaq** (قلق — Angst / Unruhe — hier haben wir das Q gleich zweimal!)
-	* oder **2ala2**
-* **Qalb** (قلب — Herz)
-	* oder **2alb**
-  * *Wichtiger Unterschied:* Wenn ihr **Kalb** mit einem normalen K sprecht, bedeutet es *Hund*. Wenn ihr **Qalb** mit dem tiefen Q sprecht, bedeutet es *Herz*!
-* Qaddesh (قديش - Wie Viel?)
-	* oder 2addesh
-- Qarrar (قرر - entscheiden)
-	- ~~oder 2arrar~~ nicht! (Eine Ausnahme)
-- Rfiq (Freund)
-	- oder Rfi2
-- **Rfiqat** (Freunde)
-	- oder Rfi2at
-- **sawwaq** (Fahrer)
-	- oder **sawwa2**
-- **sawwaqat** (Fahrerin)
-	- oder **sawwa2at**
-- **7allaq** (Friseur) – *Das **2** am Ende ersetzt das ursprüngliche Qaf (حلاق - hallaq).*
-	- oder **7alla2**
+* **qalam** – Stift, in Damaskus gesprochen „2alam“
+
+  قلم
+
+* **waraq** – Papier, in Damaskus gesprochen „wara2“
+
+  ورق
+
+* **qalaq** – Angst / Unruhe, in Damaskus gesprochen „2ala2“ (hier haben wir das q gleich zweimal!)
+
+  قلق
+
+* **qalb** – Herz, in Damaskus gesprochen „2alb“
+
+  قلب
+
+  * *Wichtiger Unterschied:* Wenn ihr **kalb** mit einem normalen k sprecht, bedeutet es *Hund*. Wenn ihr **qalb** mit dem tiefen q sprecht, bedeutet es *Herz*!
+* **qaddeesh** – Wie viel?, in Damaskus gesprochen „2addeesh“
+
+  قديش
+
+- **qarrar** – entscheiden
+
+  قرر
+
+	- **nicht** „2arrar“! (Eine Ausnahme: immer mit echtem q)
+- **rfiiq** – Freund, in Damaskus gesprochen „rfii2“
+- **rfiiqat** – Freundin, in Damaskus gesprochen „rfii2at“
+- **sawwaaq** – Fahrer, in Damaskus gesprochen „sawwaa2“
+- **sawwaaqat** – Fahrerin, in Damaskus gesprochen „sawwaa2at“
+- **7allaaq** – Friseur, in Damaskus gesprochen „7allaa2“
 
 ---
 
-# Das tiefe Reibe-H — Das **ح**
+# Das tiefe Reibe-H — Das **7** (7aa2)
 
-Jetzt kommen wir zu einem neuen Buchstaben, den wir im Deutschen so nicht benutzen. Es ist das **ح**. Im Internet schreibt man es wegen seiner Form fast immer mit der Zahl **7**. 
+ح
+
+Jetzt kommen wir zu einem neuen Buchstaben, den wir im Deutschen so nicht benutzen: das 7aa2. Im Internet schreibt man es wegen seiner Form fast immer mit der Zahl **7**. 
 
 Man nennt diesen Laut einen stimmlosen pharyngalen Reibelaut. Das bedeutet einfach: Er wird in der Mitte vom Hals gemacht, ohne dass unsere Stimmbänder vibrieren.
 
 ### Was ist der Unterschied zum normalen H?
 
-Wir kennen alle das normale deutsche **H** wie im Wort „Hund“, „haben“ oder „Hallo“. Das haben wir im Arabischen auch, nämlich das **هـ**. Wenn ihr das deutsche H sagt, ist euer Hals völlig entspannt und weit offen. Die Luft fließt einfach ganz weich nach draußen.
+Wir kennen alle das normale deutsche **H** wie im Wort „Hund“, „haben“ oder „Hallo“. Das haben wir im Arabischen auch, nämlich das **h** (haa2). Wenn ihr das deutsche H sagt, ist euer Hals völlig entspannt und weit offen. Die Luft fließt einfach ganz weich nach draußen.
 
-Das arabische **ح** (7) ist anders. Es wohnt genau in der Mitte vom Hals. Hier müssen wir die Muskeln im Hals ein bisschen zusammenziehen, um den Weg für die Luft enger zu machen. Es entsteht ein starkes, warmes, reibendes Geräusch. Es hat keine Stimme – es ist reine Luft, aber mit viel Druck.
+Das arabische **7** ist anders. Es wohnt genau in der Mitte vom Hals. Hier müssen wir die Muskeln im Hals ein bisschen zusammenziehen, um den Weg für die Luft enger zu machen. Es entsteht ein starkes, warmes, reibendes Geräusch. Es hat keine Stimme – es ist reine Luft, aber mit viel Druck.
 
 ### Wie machen wir diesen Laut? Zwei Tricks für euch:
 
-* **Trick 1 (Die kalten Hände):** Stellt euch vor, es ist tiefer Winter. Ihr steht draußen an einer Haltestelle, eure Hände sind eiskalt und ihr habt eure Handschuhe vergessen. Was macht ihr automatisch, um eure Hände zu wärmen? Ihr haltet die Hände ganz nah vor den Mund und haucht sie mit viel warmer Luft aus der Tiefe an. Ihr macht: *„Hhhhhh“*. Genau dieses tiefe Hauchen ist unser **ح**!
+* **Trick 1 (Die kalten Hände):** Stellt euch vor, es ist tiefer Winter. Ihr steht draußen an einer Haltestelle, eure Hände sind eiskalt und ihr habt eure Handschuhe vergessen. Was macht ihr automatisch, um eure Hände zu wärmen? Ihr haltet die Hände ganz nah vor den Mund und haucht sie mit viel warmer Luft aus der Tiefe an. Ihr macht: *„Hhhhhh“*. Genau dieses tiefe Hauchen ist unser **7**!
 * **Trick 2 (Die Brille putzen):** Stellt euch vor, ihr wollt eure Brille oder ein Fenster putzen. Ihr haucht das Glas ganz gezielt an, damit es beschlägt, bevor ihr es abwischt. Dieses warme, etwas gepresste Hauchen kommt genau aus der richtigen Stelle im Hals.
 
 ### Wir vergleichen das in unserem Vokabular
 
-Ihr kennt diesen Buchstaben schon aus Wörtern, die wir ab der 2. Lektion gelernt haben. Wir sprechen jetzt ein paar bekannte Wörter zusammen, damit ihr den Unterschied zwischen dem entspannten H (**هـ**) und dem engen H (**ح**) spürt.
+Ihr kennt diesen Buchstaben schon aus Wörtern, die wir ab der 2. Lektion gelernt haben. Wir sprechen jetzt ein paar bekannte Wörter zusammen, damit ihr den Unterschied zwischen dem entspannten **h** und dem engen **7** spürt.
 
-Zuerst das entspannte, normale H:
-* **أهلين** — `Ahleen` (Hallo!)
-* **مهندس** — `muhandes` (Ingenieur)
+Zuerst das entspannte, normale h:
+* **2ahleen** (Hallo!)
 
-Und jetzt machen wir den Hals in der Mitte eng für das tiefe **ح**:
-* **مرحبا** — `Mar7aba` (Hallo!)
-* **حب** — `7ubb` (Liebe)
-* **حلاق** — `7alla2` (Friseur)
-* حياة - 7ayat (leben)
-* حبيب - 7abib (Liebling)
+  أهلين
 
-Achtet beim Üben darauf, dass es nicht wie das kratzige **خ** (5 / Ach-Laut) klingt. Das **خ** kratzt ganz oben am Gaumen. Unser **ح** kratzt nicht, sondern es ist ein tiefer, intensiver, warmer Windhauch mitten im Hals.
+* **muhandes** (Ingenieur)
+
+  مهندس
+
+Und jetzt machen wir den Hals in der Mitte eng für das tiefe **7**:
+* **mar7abaa** (Hallo!)
+
+  مرحبا
+
+* **7ubb** (Liebe)
+
+  حب
+
+* **7allaaq** (Friseur)
+
+  حلاق
+
+* **7ayaat** (Leben)
+
+  حياة
+
+* **7abiib** (Liebling)
+
+  حبيب
+
+Achtet beim Üben darauf, dass es nicht wie das kratzige **5** (Ach-Laut) klingt. Das **5** kratzt ganz oben am Gaumen. Unser **7** kratzt nicht, sondern es ist ein tiefer, intensiver, warmer Windhauch mitten im Hals.
 
 ---
 
 # 3ayn
-- Um es klar zu zeigen: Vergleiche das deutsche Wort "alle" mit dem arabischen "3ala" (auf).
+- Um es klar zu zeigen: Vergleiche das deutsche Wort "alle" mit dem arabischen "3alaa" (auf).
 
 # Übungen
 
@@ -325,16 +487,16 @@ Achtet beim Üben darauf, dass es nicht wie das kratzige **خ** (5 / Ach-Laut) k
 Stell dir vor, du beißt in einen alten, schlechten Apfel oder siehst etwas total Ekliges.
 - Mach das Geräusch: **"Iiiih!"** oder **"Bäh!"**
 - Mach dieses Geräusch jetzt tief im Hals. Mach die Muskeln im Hals ganz fest, so wie kurz vor dem Erbrechen.
-- Diese plötzliche Bewegung im Hals ist genau der Start für das **ع**.
+- Diese plötzliche Bewegung im Hals ist genau der Start für das **3**.
 
 ## Beim Arzt
 Wenn ein Arzt in deinen Hals schaut, sagt er: *„Machen Sie 'Ah'.“*
 - Die Schüler sollen ein langes **"Ah"** sagen.
 - Während sie "Ah" sagen, sollen sie sich vorstellen: Jemand drückt mit einem Löffel hinten auf die Zunge. Oder sie versuchen, das Ende der Zunge zu schlucken.
-- Der Ton klingt dann ein bisschen "gepresst" – und das ist der Sound von **ع**.
+- Der Ton klingt dann ein bisschen "gepresst" – und das ist der Sound von **3**.
 
-## Vom R zum ع
-Viele deutsche benutzen für das **ع** automatisch das deutsche **R** (wie im Wort *Mutter* oder *Krone*).
+## Vom R zum 3
+Viele deutsche benutzen für das **3** automatisch das deutsche **R** (wie im Wort *Mutter* oder *Krone*).
 - Mach ein langes deutsches **R** (wie in *Krone* oder *Sprechen*).
 - Schiebe den Ton im Hals langsam **weiter nach unten** – weg vom kleinen Zäpfchen (Uvula) und tiefer in den Hals hinein.
 
@@ -346,15 +508,14 @@ Schlucke einmal und stoppe mitten beim Schlucken.
 - Man braucht für das "3ayn" die gleichen Muskeln wie beim Schlucken.
 
 # Vokabeln mit "3ayn"
-- 3arabi = Arabisch
-- 3ammo = Onkel (höflich)
-- 3mr = Alter
-- 3Tr = Parfüm
-- 3seer = Saft
-- 3ilbe = Dose / Schachtel
-- 3a2l = Gehirn / Verstand
-	- 3a9l = Gehirn / Verstand
+- 3arabii = Arabisch
+- 3ammoo = Onkel (höflich)
+- 3umr = Alter, oft gesprochen „3umur“
+- 3iTr = Parfüm
+- 3aSiir = Saft
+- 3ilbet = Dose / Schachtel
+- 3aql = Gehirn / Verstand, in Damaskus gesprochen „3a2l“
 - ma3 = mit
 - ba3d = nach / danach
-- 3ayn = Auge
-- 3ala = auf (Vergleiche mit dem deutschen Wort "alle")
+- 3een = Auge
+- 3alaa = auf (Vergleiche mit dem deutschen Wort "alle")

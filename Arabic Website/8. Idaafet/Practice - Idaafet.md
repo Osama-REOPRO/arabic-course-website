@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Idaafet
+title: 2iDaafet
 category: exercises
 group:
   - Idaafet
@@ -8,31 +8,31 @@ order:
   - "10"
 lektion:
 ---
-| Arabisch               | Deutsch                     |
-| ---------------------- | --------------------------- |
-| Haada kitab 3arabi     | Das ist ein arabisches Buch |
-| Haada riff kutub       | Das ist ein Bücherregal     |
-| Haada BaS madraset     | Das ist ein Schulbus        |
-| Hay schantat madraset  | Das ist eine Schultasche    |
-| Haada kirsi maktab     | Das ist ein Bürostuhl       |
-| Hay NaDarat schamsiyet | Das ist eine Sonnenbrille   |
-| Hay Tawlet Akel        | Das ist ein Esstisch        |
-| Hay 3ilbet 7ummus      | Das ist eine Dose Hummus    |
-| Hay Anninet mayy       | Das ist eine Wasserflasche  |
-| Hadool kutub 3arabi    | Das sind arabische Bücher   |
-| Hadool tawlat akel     | Das sind Esstische          |
-| Hadool Annani mayy     | Das sind Wasserflaschen     |
+| Arabisch                         | Deutsch                     |
+| -------------------------------- | --------------------------- |
+| haadaa ktaab 3arabii             | Das ist ein arabisches Buch |
+| haadaa raff kutub                | Das ist ein Bücherregal     |
+| haadaa baaS madraset             | Das ist ein Schulbus        |
+| hay shantet madraset             | Das ist eine Schultasche    |
+| haadaa kursii maktab             | Das ist ein Bürostuhl       |
+| hay naDDHaarat shamsiyyet        | Das ist eine Sonnenbrille   |
+| hay Taawlet 2akl                 | Das ist ein Esstisch        |
+| hay 3ilbet 7ummuS                | Das ist eine Dose Hummus    |
+| hay qanniinet mayy               | Das ist eine Wasserflasche  |
+| hadool kutub 3arabii             | Das sind arabische Bücher   |
+| hadool Taawlaatt 2akl            | Das sind Esstische          |
+| hadool qanaanii mayy             | Das sind Wasserflaschen     |
 
 ### Übung mit Ja/Nein
 
-**S2ali/S2al mitil L masal:**
+**s2al / s2alii mithl el-mithaal:**
 
-> Su2al: Haada ktab 3arabi?
-> Jawab: Eh, haada ktab 3arabi. / La2, haada muu ktab 3arabi.
+> su2aal: haadaa ktaab 3arabii?
+> jawaab: 2ee, haadaa ktaab 3arabii. / la2, haadaa muu ktaab 3arabii.
 
-Übe mit: NaDarat schamsiye – Tawlet akel – Anninet mayy – Riff kutub
+Übe mit: naDDHaarat shamsiyyet – Taawlet 2akl – qanniinet mayy – raff kutub
 
 > 📝 **Merksatz:** Die feminine Endung **-t** bleibt auch in Kombinationen erhalten:
-> 3ilbet → 3ilbet schu? → 3ilbet 7ummus
+> 3ilbet → 3ilbet shuu? → 3ilbet 7ummuS
 
 ---

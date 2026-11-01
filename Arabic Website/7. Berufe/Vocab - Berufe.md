@@ -10,15 +10,15 @@ lektion:
 ---
 # Berufe
 
-2estaaz = Lehrer (m)
+2ustaadh = Lehrer (m), gesprochen „2ustaaz“
 2aanset = Lehrerin (f)
 
 ---
-dektoor = Arzt (m)
+doktoor = Arzt (m)
 
 ---
 
-dektoorat = Ärztin (f)
+doktoorat = Ärztin (f)
 (langes "o")
 
 ---
@@ -33,13 +33,13 @@ muhandiset = Ingenieurin (f)
 
 ---
 
-murabby = Erzieher
-murabbyet = erzieherin
+murabbii = Erzieher
+murabbiyet = Erzieherin
 
 ---
 
-mumarrid = Krankenpfleger (m)
-mumarridat = Krankenschwester (f)
+mumarreD = Krankenpfleger (m)
+mumarreDat = Krankenschwester (f)
 
 ---
 
@@ -48,8 +48,8 @@ bayyaa3at = Verkäuferin
 
 ---
 
-7allaa2 = Friseur (m)
-kuaafeerat = Friseurin (f)
+7allaaq = Friseur (m), gesprochen „7allaa2“
+kwaafeerat = Friseurin (f)
 
 ---
 
@@ -58,8 +58,8 @@ kuaafeerat = Friseurin (f)
 
 ---
 
-sawwaa2 = Fahrer
-sawwaa2at = Fahrerin
+sawwaaq = Fahrer, gesprochen „sawwaa2“
+sawwaaqat = Fahrerin, gesprochen „sawwaa2at“
 
 ---
 
@@ -68,8 +68,8 @@ Tabbaa5at = Köchin (f)
 
 ---
 
-mudeer = Manager (m)
-mudeerat = Managerin (f)
+mudiir = Manager (m)
+mudiirat = Managerin (f)
 
 ---
 
@@ -78,8 +78,8 @@ sekerteerat = Sekretärin (f)
 
 ---
 
-Seedaly = Apotheker (m)
-Seedalyyet = Apothekerin (f)
+Seedalii = Apotheker (m)
+Seedalaaniyyet = Apothekerin (f)
 
 ---
 
@@ -88,8 +88,8 @@ muDiifet = Kellnerin (f)
 
 ---
 
-mwazzaf = Angestellter (m)
-mwazzafet = Angestellte (f)
+mwaDDHaf = Angestellter (m), gesprochen „mwazzaf“
+mwaDDHafet = Angestellte (f), gesprochen „mwazzafet“
 
 ---
 
@@ -102,14 +102,14 @@ wlaad = Jungen (Kinder, umgangssprachlich)
 
 ---
 
-bent = Mädchen
-banaat = Mädchen (Plural)
+bint = Mädchen
+banaatt = Mädchen (Plural)
 
 ---
 
-Tefl = Kind (m)
-Teflet = Kind (f)
-aTfaal = Kinder
+Tifl = Kind (m)
+Tiflet = Kind (f)
+2aTfaal = Kinder
 (Hocharabisch, offiziell)
 
 ---

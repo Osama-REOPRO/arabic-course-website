@@ -423,6 +423,18 @@ lektion: 24
    **Antwort:** ___ (2a7mad)
 4. **Frage:** la-miin el-banTaloon el-Tawiil yallii janb el-ghassaalet?
    **Antwort:** ___ (huwwe)
+5. **Frage:** la-miin el-2a7dhiyet yallii ta7t el-ta5t?
+   **Antwort:** ___ (2intii)
+6. **Frage:** la-miin el-kanzet el-jdiidet yallii 3alaa el-kursii?
+   **Antwort:** ___ (el-bint)
+7. **Frage:** la-miin el-fasaatiin yallii bil-5zaanet el-kbiiret?
+   **Antwort:** ___ (hiyye)
+8. **Frage:** la-miin el-SabbaaT yallii quddaam el-baab?
+   **Antwort:** ___ (2a5ii)
+9. **Frage:** la-miin el-bijaamat yallii fooq el-ghassaalet?
+   **Antwort:** ___ (ni7naa)
+10. **Frage:** la-miin el-tannuurat el-qaSiirat yallii bi-ghurft el-noom?
+   **Antwort:** ___ (hinnen)
 
 ##### Lösung
 1. el-bluuzet el-7ulwet yallii 3alaa el-ta5t 2ilii.
@@ -433,6 +445,18 @@ lektion: 24
 	- القمصان يلي بالشنتة لأحمد.
 4. el-banTaloon el-Tawiil yallii janb el-ghassaalet 2iloh.
 	- البنطلون الطويل يلي جنب الغسالة إله.
+5. el-2a7dhiyet yallii ta7t el-ta5t 2ilek.
+	- الأحذية يلي تحت التخت إلك.
+6. el-kanzet el-jdiidet yallii 3alaa el-kursii lal-bint.
+	- الكنزة الجديدة يلي على الكرسي للبنت.
+7. el-fasaatiin yallii bil-5zaanet el-kbiiret 2ilhaa.
+	- الفساتين يلي بالخزانة الكبيرة إلها.
+8. el-SabbaaT yallii quddaam el-baab la-2a5ii.
+	- الصباط يلي قدام الباب لأخي.
+9. el-bijaamat yallii fooq el-ghassaalet 2ilnaa.
+	- البجامة يلي فوق الغسالة إلنا.
+10. el-tannuurat el-qaSiirat yallii bi-ghurft el-noom 2ilhon.
+	- التنورة القصيرة يلي بغرفة النوم إلهن.
 
 # 23. Adjektiv oder Aussage? (Sifat w 5abar)
 ## Unterstreiche das Adjektiv (Sifat) mit einem Strich und die Aussage (5abar) mit zwei Strichen

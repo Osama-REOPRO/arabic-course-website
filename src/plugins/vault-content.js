@@ -20,12 +20,13 @@ import { createMd, applyDirectives, expandEmbeds } from './obsidian.js';
 const VIRTUAL_ID = 'virtual:content';
 const RESOLVED_ID = '\0' + VIRTUAL_ID;
 
-const CATEGORIES = ['grammar', 'explanations', 'vocabulary', 'exercises'];
+const CATEGORIES = ['grammar', 'explanations', 'vocabulary', 'exercises', 'other'];
 const CATEGORY_ALIASES = {
   grammar: 'grammar', grammatik: 'grammar',
   explanation: 'explanations', explanations: 'explanations', erklärung: 'explanations', erklärungen: 'explanations',
   vocab: 'vocabulary', vocabulary: 'vocabulary', wortschatz: 'vocabulary', vokabeln: 'vocabulary',
   exercise: 'exercises', exercises: 'exercises', übung: 'exercises', übungen: 'exercises', hausaufgabe: 'exercises',
+  other: 'other', sonstiges: 'other', misc: 'other',
 };
 const IMAGE_RE = /\.(png|jpe?g|gif|svg|webp|avif|bmp)$/i;
 

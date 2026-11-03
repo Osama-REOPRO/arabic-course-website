@@ -16,12 +16,12 @@ reaches students.
 | --- | --- | --- | --- |
 | `publish` | **yes** | `true` | Publishes the note. Omit it (or set `false`) to keep a note private. |
 | `title` | recommended | text | Shown in the category list and the browser tab. If it contains a colon `:`, a dash at the start, or other punctuation, **wrap it in double quotes**. When in doubt, always quote. |
-| `category` | **yes** | `explanations` \| `vocabulary` \| `exercises` \| `grammar` | Which of the four sections the note lands in. German words also work: `Erklärungen`, `Vokabeln`/`Wortschatz`, `Übungen`/`Hausaufgabe`, `Grammatik`. |
+| `category` | **yes** | `explanations` \| `vocabulary` \| `exercises` \| `grammar` \| `other` | Which section the note lands in. German words also work: `Erklärungen`, `Vokabeln`/`Wortschatz`, `Übungen`/`Hausaufgabe`, `Grammatik`, `Sonstiges`. |
 | `group` | optional | any short id | Free-form tag to relate notes that belong together (e.g. all notes of one topic). Not shown to students and currently unused by the site — reserved for future features. |
 | `order` | optional | number | **Sort position** inside the category (top → bottom). Notes without it sort last. |
 | `lektion` | optional | number | The **lesson number shown** as a small "Lektion N" label. This is display only — it does *not* affect sorting, and it is independent of the folder name. Leave it out to show no label. |
 
-### The four sections (in nav order)
+### The sections (in nav order)
 
 - **Erklärungen** (`explanations`) — the full explanation of a grammar topic, with examples
   and reasoning. **This is the landing page.**
@@ -29,6 +29,8 @@ reaches students.
 - **Übungen** (`exercises`) — practice tasks and homework.
 - **Grammatik-Referenz** (`grammar`) — the bare, condensed rules only: a printable reference
   sheet. No long prose; tables and short rule statements.
+- **Sonstiges** (`other`) — everything that is not lesson material, e.g. the list of
+  useful resources (books, videos, podcasts).
 
 ### Templates — copy the one you need
 

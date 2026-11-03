@@ -3,7 +3,7 @@ import 'katex/dist/katex.min.css';
 import { categories, pages } from 'virtual:content';
 
 // Nav order, left to right. The first entry is also the landing page.
-const CATEGORIES = ['explanations', 'vocabulary', 'exercises', 'grammar'];
+const CATEGORIES = ['explanations', 'vocabulary', 'exercises', 'grammar', 'other'];
 const HOME_CATEGORY = 'explanations';
 
 const CATEGORY_LABELS = {
@@ -11,6 +11,7 @@ const CATEGORY_LABELS = {
   vocabulary: 'Vokabeln',
   exercises: 'Übungen',
   grammar: 'Grammatik-Referenz',
+  other: 'Sonstiges',
 };
 
 // Optional intro text shown under a category's list title.

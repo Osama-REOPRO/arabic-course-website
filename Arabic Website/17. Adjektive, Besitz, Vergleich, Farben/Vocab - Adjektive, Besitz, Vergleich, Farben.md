@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Adjektive, Besitz, Vergleich, Farben"
 category: vocabulary
 group:

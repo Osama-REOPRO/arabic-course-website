@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "2iDaafet"
 category: vocabulary
 group: Idaafet

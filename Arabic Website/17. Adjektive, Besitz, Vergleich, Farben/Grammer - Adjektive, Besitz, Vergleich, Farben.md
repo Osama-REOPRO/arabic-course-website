@@ -6,7 +6,7 @@ group:
 order: 22
 lektion: 24
 ---
-Ausführlich: [[Explanation - Adjektive, Besitz, Vergleich, Farben|Erklärung]] · [[Practice - Adjektive, Besitz, Vergleich, Farben|Übungen]] · [[Vocab - Adjektive, Besitz, Vergleich, Farben|Vokabeln]]
+Ausführlich: [[Explanation - Adjektive, Besitz, Vergleich, Farben|Erklärung]] · [[Practice - Adjektive, Besitz, Vergleich, Farben|Übungen]] · [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Farben|Farben]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]]
 
 # Adjektive
 - das Adjektiv steht **nach** dem Nomen und passt sich an (m. / f. / Pl.): fusTaan Tawiil, tannuurat Tawiilet, fasaatiin Twaal

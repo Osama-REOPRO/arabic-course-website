@@ -6,7 +6,7 @@ group:
 order: 22
 lektion: 24
 ---
-Übungen zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich, Farben|Erklärung]] · Vokabeln zum Wiederholen: [[Vocab - Adjektive, Besitz, Vergleich, Farben|Vokabeln]]
+Übungen zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich, Farben|Erklärung]] · Vokabeln zum Wiederholen: [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Farben|Farben]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]]
 
 # 13. Übung
 - Ein weites Kleid

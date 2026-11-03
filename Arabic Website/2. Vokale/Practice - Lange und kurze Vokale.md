@@ -6,7 +6,7 @@ lang: de
 group: vokale
 order: 2
 ---
-Erklärung: [[Explanation - Lange und kurze Vokale|Lange und kurze Vokale]] · Vokabeln: [[Vocab - Lange und kurze Vokale|Beispielwörter]]
+Erklärung: [[Explanation - Lange und kurze Vokale|Lange und kurze Vokale]] · Vokabeln: [[Explanation - Lange und kurze Vokale|Beispielwörter]]
 
 # Übung 1: Lang oder kurz?
 Lies die Wörter laut und klatsche dabei: ein **kurzer** Vokal = **ein** Schlag, ein **langer** Vokal = **zwei** Schläge.

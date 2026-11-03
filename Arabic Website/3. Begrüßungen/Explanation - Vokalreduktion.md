@@ -6,7 +6,7 @@ lang: de
 group: Vokalreduktion
 order: 3
 ---
-Vokabeln: [[Vocab - Begrüßungen|Begrüßungen]]
+Vokabeln zu dieser Lektion: [[Vokabeln - Begrüßungen und Höflichkeit|Begrüßungen und Höflichkeit]]
 
 # Von jetzt an: immer auf die Vokale achten!
 - Heute werden wir viele neue Vokabeln lernen und sogar ganze Sätze.

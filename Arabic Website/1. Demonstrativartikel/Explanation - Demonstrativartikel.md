@@ -7,6 +7,7 @@ group: demonstrativartikel
 order: 1
 ---
 # Demonstrativartikel
+Vokabeln zu dieser Lektion: [[Vokabeln - Pronomen und Demonstrativ|Pronomen und Demonstrativ]] · [[Vokabeln - Familie und Menschen|Familie und Menschen]] · [[Vokabeln - Tiere|Tiere]]
 
 أسماء الإشارة
 

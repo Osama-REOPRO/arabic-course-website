@@ -1,3 +1,5 @@
 - [ ] create truth source about the transliteration system I developed
 - [ ] instead of the tabs, which are limiting, we should have one continuous page with each element being tagged "grammer, pronunciation, vocab", and the explanations and practice are linked within each grammer page. when you open the grammer page you get the shortened snappy version, the reference sheet, below it you have links to the longer explanation and to the practice examples
 - [ ] the practice examples files at the beginning contain a link to the related vocabulary that is being used in these examples, they may go learn the vocab before they do those grammer practice examples.
+- [ ] vocab section: let students create flashcards from the vocab pages, practice them, and save their progress directly on the website
+- [ ] lesson pages: a side pane students can toggle on and off, showing the related vocab for that lesson for quick reference

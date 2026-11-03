@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: das Wurzelmuster-System
 category: vocabulary
 group:

@@ -6,6 +6,8 @@ group:
 order: 22
 lektion: 24
 ---
+Vokabeln zu dieser Lektion: [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Farben|Farben]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Pronomen und Demonstrativ|Pronomen und Demonstrativ]] · [[Vokabeln - Kleine Wörter|Kleine Wörter]]
+
 Fortsetzung von [[Explanation - Adjektive|Adjektive (Lektion 23)]]
 
 > [!NOTE] Erinnerung: Die Endung gehört zum Nomen
@@ -316,4 +318,4 @@ Die Wurzel bleibt gleich (k-b-r, S-gh-r, T-w-l), nur das **Muster** ändert sich
 | Farben | Nomen + Farbe (m. / f. / Pl.) | bluuzet 7amrat |
 
 ---
-Übungen und Lösungen: [[Practice - Adjektive, Besitz, Vergleich, Farben|Übungen]] · Vokabeln: [[Vocab - Adjektive, Besitz, Vergleich, Farben|Vokabeln]]
+Übungen und Lösungen: [[Practice - Adjektive, Besitz, Vergleich, Farben|Übungen]] · Vokabeln: [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Farben|Farben]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]]

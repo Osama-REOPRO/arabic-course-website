@@ -8,6 +8,8 @@ order:
 lektion:
   - "15"
 ---
+Vokabeln zu dieser Lektion: [[Vokabeln - Natur, Wetter und Zeit|Natur, Wetter und Zeit]] · [[Vokabeln - Essen und Trinken|Essen und Trinken]] · [[Vokabeln - Tiere|Tiere]] · [[Vokabeln - Schule und Lernen|Schule und Lernen]] · [[Vokabeln - Berufe und Arbeit|Berufe und Arbeit]] · [[Vokabeln - Körper|Körper]]
+
 In der letzten Lektion (der bestimmte Artikel) haben wir gelernt:
 
 - **Bestimmtheit** (definiteness): Der Unterschied zwischen *ein Haus* und *das Haus*

@@ -7,8 +7,8 @@ order: 16
 lektion:
   - "17"
 ---
-
 # Die Wurzel (el-jazr) — Ein Blick hinter die Kulissen
+Vokabeln zu dieser Lektion: [[Vokabeln - Verben|Verben]] · [[Vokabeln - Berufe und Arbeit|Berufe und Arbeit]] · [[Vokabeln - Stadt und Orte|Stadt und Orte]] · [[Vokabeln - Schule und Lernen|Schule und Lernen]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Adjektive|Adjektive]]
 
 Schauen wir uns gemeinsam eine Reihe neuer Wörter an:
 
@@ -386,3 +386,37 @@ Das ist das Gespür, das wir anstreben: Sobald Ihr Ohr die *Melodie* eines Muste
 > [!NOTE] Hinweis
 > Nicht jede Kombination aus Wurzel und Muster ergibt zwangsläufig ein echtes, gebräuchliches Wort. Manche Ergebnisse klingen vielleicht seltsam oder werden im echten Sprachgebrauch einfach nicht so verwendet — das ist völlig normal und Teil der Übung! Versuchen Sie trotzdem, jedes Wort zu bilden, und überlegen Sie gemeinsam, ob es Ihnen bekannt vorkommt oder plausibel klingt.
 > in diesen Übungen existieren **alle** angegebenen Wurzel-Muster-Kombinationen tatsächlich als echte, gebräuchliche Wörter. Sie müssen also nicht prüfen, ob das Ergebnis existiert — es existiert. Konzentrieren Sie sich einfach darauf, die Wurzel richtig in das Muster einzusetzen.
+
+---
+# Übersicht: Wurzeln und ihre Wörter
+
+| Wurzel | Arabisch | Grundidee | Wörter |
+| --- | --- | --- | --- |
+| k-t-b | ك-ت-ب | schreiben | katab (er schrieb), ktaab (Buch), maktab (Büro), maktuub (geschrieben, Brief), kaateb (Schriftsteller), maktabet (Bibliothek) |
+| T-b-5 | ط-ب-خ | kochen | Taba5 (er kochte), maTba5 (Küche), Tabbaa5 (Koch), maTbuu5 (gekocht) |
+| sh-gh-l | ش-غ-ل | arbeiten | 2ishtaghal (er arbeitete), shughl (Arbeit), mashghuul (beschäftigt), mashghal (Werkstatt), shagghaal (funktionierend) |
+| d-r-s | د-ر-س | lernen | daras (er lernte), dars (Lektion), madraset (Schule), darras (er unterrichtete), diraaset (Studium) |
+| f-t-7 | ف-ت-ح | öffnen | fata7 (er öffnete), maftuu7 (offen), miftaa7 (Schlüssel) |
+| gh-s-l | غ-س-ل | waschen | ghasal (er wusch), maghsal / maghsalet (Waschraum, Waschbecken), ghassaalet (Waschmaschine), maghsuul (gewaschen) |
+| q-r-2 | ق-ر-أ | lesen | qara2 (er las), qiraa2at (das Lesen), qaare2 (Leser), maqruu2 (gelesen) |
+| 3-l-m | ع-ل-م | wissen | ta3liim (Bildung), 3aalem (Gelehrter), ma3luumaatt (Informationen) |
+| l-3-b | ل-ع-ب | spielen | mal3ab (Spielplatz, Stadion), laa3eb (Spieler) |
+| s-b-7 | س-ب-ح | schwimmen | masba7 (Schwimmbad), sabbaa7 (Schwimmer) |
+| r-q-S | ر-ق-ص | tanzen | raqaS (er tanzte), marqaS (Tanzfläche), raqqaaS (Tänzer) |
+| 3-m-l | ع-م-ل | tun, arbeiten | ma3mal (Fabrik) |
+| 5-r-j | خ-ر-ج | hinausgehen | 5araj (er ging hinaus), ma5raj (Ausgang) |
+| w-q-f | و-ق-ف | anhalten | mawqef (Haltestelle, Parkplatz) |
+| 3-r-D | ع-ر-ض | zeigen | ma3raD (Ausstellung) |
+
+# Übersicht: Muster
+| Muster | Bedeutung | Beispiel |
+| --- | --- | --- |
+| fa3al | „er hat X getan“ | katab, Taba5, fata7 |
+| maf3al / maf3alet | ein Ort, an dem X passiert | maktab, maTba5, madraset |
+| fa33aal / fa33aalet | eine Person oder Maschine, die X tut | Tabbaa5, ghassaalet |
+| maf3uul | etwas, dem X angetan wurde | maktuub, maftuu7 |
+| faa3el | derjenige, der X tut | kaateb, laa3eb |
+| mif3aal | ein Werkzeug für X | miftaa7 |
+| fa33al | jemanden X lassen | darras |
+
+Aussprache in Damaskus: qara2 → „2ara“, mawqef → „maw2ef“

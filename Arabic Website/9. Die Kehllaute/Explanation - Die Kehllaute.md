@@ -7,6 +7,8 @@ order:
   - "11"
 lektion:
 ---
+Vokabeln zu dieser Lektion: [[Vokabeln - Familie und Menschen|Familie und Menschen]] · [[Vokabeln - Berufe und Arbeit|Berufe und Arbeit]] · [[Vokabeln - Begrüßungen und Höflichkeit|Begrüßungen und Höflichkeit]] · [[Vokabeln - Gefühle und Begriffe|Gefühle und Begriffe]] · [[Vokabeln - Essen und Trinken|Essen und Trinken]]
+
 Wenn Araber sich gegenseitig Textnachrichten unter Verwendung des lateinischen Alphabets schicken (was als **Arabic Chat English** oder **Franco-Arabic** bezeichnet wird), nutzen sie Zahlen, die optisch den entsprechenden arabischen Buchstaben ähneln, um diese einzigartigen Laute wiederzugeben.
 
 > [!NOTE] In unserem Kurs

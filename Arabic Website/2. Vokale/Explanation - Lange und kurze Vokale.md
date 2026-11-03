@@ -7,6 +7,8 @@ group: vokale
 order: 2
 ---
 # Lange und kurze Vokale
+Vokabeln zu dieser Lektion: [[Vokabeln - Natur, Wetter und Zeit|Natur, Wetter und Zeit]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Tiere|Tiere]]
+
 In dieser Lektion konzentrieren wir uns auf die **arabische Aussprache**. Wir lernen den wichtigsten Baustein der arabischen Aussprache kennen: **die Vokale**.
 Ich wollte dieses Konzept **früh im Kurs** einführen, damit wir es mit dem gesamten Wortschatz verwenden können, den wir im Laufe des Kurses lernen werden.
 
@@ -100,3 +102,27 @@ Wenn du jedoch den Unterschied zwischen **kurzen und langen Vokalen** sicher beh
 ---
 **Profi-Tipp:**  
 Auch wenn manche Lernende zu Beginn lieber **ohne arabische Schrift** arbeiten möchten, sind diese **Vokalzeichen der einfachste Weg**, um von Anfang an eine **korrekte Aussprache** zu entwickeln.
+
+---
+# Beispielwörter: lange und kurze Vokale
+Lange Vokale schreiben wir **doppelt** (aa, ii, ee, uu, oo), kurze Vokale **einfach** (a, i, e, u, o).
+
+| Umschrift | Arabisch | Deutsch | lange Vokale |
+| --- | --- | --- | --- |
+| baab | باب | die Tür | aa |
+| ktaab | كتاب | das Buch | aa |
+| kbiir | كبير | groß | ii |
+| beet | بيت | das Haus | ee |
+| nuur | نور | das Licht | uu |
+| yoom | يوم | der Tag | oo |
+| maktab | مكتب | das Büro | – |
+| kalb | كلب | der Hund | – |
+| bint | بنت | das Mädchen | – |
+| shams | شمس | die Sonne | – |
+| 7ubb | حب | die Liebe | – |
+| jamal | جمل | das Kamel | – |
+| jamaal | جمال | Jamal (Name) | aa |
+| mar7abaa | مرحبا | Hallo! | aa (am Ende) |
+
+> [!NOTE] jamal oder jamaal?
+> Nur die Länge des Vokals ist anders, und schon ist es ein anderes Wort: **jamal** (das Kamel), **jamaal** (der Name Jamal).

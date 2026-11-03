@@ -9,7 +9,7 @@ order:
   - "4"
 ---
 # shaddet (Verdopplung)
-Ausführlich: [[Pronunciation - Shaddet|shaddet]] · Vokabeln: [[Vocab - Vokabular mit Shadda|Vokabular mit shaddet]]
+Ausführlich: [[Pronunciation - Shaddet|shaddet]] · Vokabeln: [[Pronunciation - Shaddet|Vokabular mit shaddet]]
 
 - **shaddet** bedeutet: ein Buchstabe wird **verdoppelt** und länger / stärker gesprochen.
 - Ohne shaddet klingt das Wort falsch, oder es bekommt eine andere Bedeutung.

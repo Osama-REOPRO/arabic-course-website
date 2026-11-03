@@ -8,6 +8,7 @@ order:
   - "6"
 ---
 # Pronomen (Damaa2ir)
+Vokabeln zu dieser Lektion: [[Vokabeln - Familie und Menschen|Familie und Menschen]] · [[Vokabeln - Pronomen und Demonstrativ|Pronomen und Demonstrativ]]
 
 **2anaa** – ich
 

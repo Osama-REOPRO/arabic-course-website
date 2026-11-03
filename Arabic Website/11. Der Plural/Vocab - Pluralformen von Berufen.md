@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Pluralformen von Berufen
 category: vocabulary
 group:

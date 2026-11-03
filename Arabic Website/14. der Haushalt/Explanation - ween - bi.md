@@ -10,6 +10,8 @@ lektion:
   - "20"
 ---
 # ween / bi
+Vokabeln zu dieser Lektion: [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Fragewörter|Fragewörter]] · [[Vokabeln - Kleine Wörter|Kleine Wörter]]
+
 > ween: wo?
 > bi: in/an
 

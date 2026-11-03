@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: der haushalt
 category: vocabulary
 group:

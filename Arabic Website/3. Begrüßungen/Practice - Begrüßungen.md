@@ -6,7 +6,7 @@ lang: de
 group: Vokalreduktion
 order: 3
 ---
-Vokabeln: [[Vocab - Begrüßungen|Begrüßungen]]
+Vokabeln: [[Vokabeln - Begrüßungen und Höflichkeit|Begrüßungen und Höflichkeit]]
 
 # Übung 1: Karteikarten
 Schreibe jede Karte ab: die **Vorderseite** auf eine Seite, die **Rückseite** auf die andere. Übe dann mit einem Partner: Einer liest die Vorderseite, der andere antwortet mit der Rückseite.

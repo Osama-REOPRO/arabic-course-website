@@ -7,6 +7,7 @@ order:
   - "9"
 lektion:
 ---
+Vokabeln zu dieser Lektion: [[Vokabeln - Berufe und Arbeit|Berufe und Arbeit]] · [[Vokabeln - Familie und Menschen|Familie und Menschen]]
 
 Hinweis: Hier findest du eine sanfte Einführung in das Präsens (Gegenwart) im Arabischen. Dies ist eine erste, begrenzte Darstellung; wir werden dies später auf alle Pronomen und verschiedene Verben ausweiten.
 ## Was macht [Pronomen] beruflich? / Was arbeitet [Pronomen]? (Frage)

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Familienmitglieder
 category: vocabulary
 lang: de

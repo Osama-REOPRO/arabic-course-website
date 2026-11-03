@@ -8,6 +8,8 @@ order: 21
 lektion:
   - "23"
 ---
+Vokabeln zu dieser Lektion: [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Fragewörter|Fragewörter]]
+
 Kleidung, Adjektive, Besitz, Vergleich, Farben
 
 ---
@@ -133,6 +135,6 @@ Denke daran, dass die Definitheit nicht nur durch (el-) ausgedrückt wird. Es gi
 	- sayyaarat - el-sayyaarat
 
 ---
-Übungen: [[Practice - Adjektive|Übungen]] · Vokabeln: [[Vocab - Adjektive|Vokabeln]]
+Übungen: [[Practice - Adjektive|Übungen]] · Vokabeln: [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Fragewörter|Fragewörter]]
 
 Weiter geht es in [[Explanation - Adjektive, Besitz, Vergleich, Farben|Lektion 24: Adjektive, Besitz, Vergleich, Farben]].

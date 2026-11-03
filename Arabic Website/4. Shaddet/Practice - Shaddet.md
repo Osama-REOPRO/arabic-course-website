@@ -8,7 +8,7 @@ group:
 order:
   - "4"
 ---
-Erklärung: [[Pronunciation - Shaddet|shaddet]] · Vokabeln: [[Vocab - Vokabular mit Shadda|Vokabular mit shaddet]]
+Erklärung: [[Pronunciation - Shaddet|shaddet]] · Vokabeln: [[Pronunciation - Shaddet|Vokabular mit shaddet]]
 
 # Übung 1: Wo ist die shaddet?
 Welcher Buchstabe ist verdoppelt? Unterstreiche ihn und lies das Wort laut.

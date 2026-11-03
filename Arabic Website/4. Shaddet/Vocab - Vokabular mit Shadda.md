@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Vokabular mit shaddet
 category: vocabulary
 lang: de

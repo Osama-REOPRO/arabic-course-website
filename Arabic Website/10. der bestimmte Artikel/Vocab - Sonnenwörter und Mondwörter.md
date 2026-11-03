@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Sonnenwörter und Mondwörter
 category: vocabulary
 group:

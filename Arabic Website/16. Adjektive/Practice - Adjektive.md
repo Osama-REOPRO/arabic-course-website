@@ -6,7 +6,7 @@ group:
 order: 21
 lektion: 23
 ---
-Erklärung: [[Explanation - Adjektive|Adjektive]] · Vokabeln zum Wiederholen: [[Vocab - Adjektive|Vokabeln]]
+Erklärung: [[Explanation - Adjektive|Adjektive]] · Vokabeln zum Wiederholen: [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Fragewörter|Fragewörter]]
 
 # Übung 1: Lang und kurz
 Übersetze ins syrische Arabisch.

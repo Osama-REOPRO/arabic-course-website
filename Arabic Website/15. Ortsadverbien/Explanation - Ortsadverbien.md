@@ -8,8 +8,8 @@ order: 20
 lektion:
   - "22"
 ---
-
 # 1. DHarf el-makaan *(Ortsadverbien)*
+Vokabeln zu dieser Lektion: [[Vokabeln - Kleine Wörter|Kleine Wörter]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Stadt und Orte|Stadt und Orte]] · [[Vokabeln - Verkehr und Reisen|Verkehr und Reisen]] · [[Vokabeln - Adjektive|Adjektive]]
 
 | Arabisch                  | Deutsch           |
 | ------------------------- | ----------------- |

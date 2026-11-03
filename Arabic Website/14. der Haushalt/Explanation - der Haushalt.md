@@ -10,6 +10,8 @@ lektion:
   - "21"
 ---
 # shuu fii bi ghuraf el-beet? 🏠
+Vokabeln zu dieser Lektion: [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Adjektive|Adjektive]] · [[Vokabeln - Fragewörter|Fragewörter]] · [[Vokabeln - Pronomen und Demonstrativ|Pronomen und Demonstrativ]] · [[Vokabeln - Kleine Wörter|Kleine Wörter]]
+
 *(Was gibt es in den Zimmern des Hauses?)*
 fii = es gibt
 

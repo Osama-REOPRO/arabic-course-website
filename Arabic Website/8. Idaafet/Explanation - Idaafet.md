@@ -9,6 +9,8 @@ order:
 lektion:
 ---
 # 2iDaafet
+Vokabeln zu dieser Lektion: [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Essen und Trinken|Essen und Trinken]] · [[Vokabeln - Stadt und Orte|Stadt und Orte]] · [[Vokabeln - Berufe und Arbeit|Berufe und Arbeit]] · [[Vokabeln - Verkehr und Reisen|Verkehr und Reisen]]
+
 ### deutschen Komposita
 
 Bevor Sie sich dem Arabischen zuwenden, schauen Sie sich an, wie Sie im Deutschen denken. Sie sind Weltmeister darin, Wörter wie Legosteine zusammenzusetzen, um Dinge präzise zu benennen.

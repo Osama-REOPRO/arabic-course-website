@@ -8,8 +8,8 @@ group:
 order:
   - "5"
 ---
-
 # Frage: Was ist das? (männlich)
+Vokabeln zu dieser Lektion: [[Vokabeln - Fragewörter|Fragewörter]] · [[Vokabeln - Familie und Menschen|Familie und Menschen]] · [[Vokabeln - Essen und Trinken|Essen und Trinken]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Pronomen und Demonstrativ|Pronomen und Demonstrativ]]
 
 > Frage: shuu haadaa?
 > Antwort: haadaa beet.

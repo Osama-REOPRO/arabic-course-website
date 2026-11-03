@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Lange und kurze Vokale"
 category: vocabulary
 lang: de

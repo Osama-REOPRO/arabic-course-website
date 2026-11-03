@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Begrüßungen"
 category: vocabulary
 lang: de

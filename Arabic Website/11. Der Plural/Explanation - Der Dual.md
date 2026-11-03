@@ -8,6 +8,7 @@ lektion:
   - "17"
 ---
 # Der Dual (Zweizahl)
+Vokabeln zu dieser Lektion: [[Vokabeln - Berufe und Arbeit|Berufe und Arbeit]] · [[Vokabeln - Familie und Menschen|Familie und Menschen]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]]
 
 In den meisten Sprachen — auch im Deutschen und Englischen — gibt es nur zwei grammatische Numeri: **Singular** (eine Sache) und **Plural** (zwei oder mehr Sachen). Das Arabische hat zusätzlich eine dritte Kategorie dazwischen: den **Dual**, der speziell für genau zwei Dinge verwendet wird.
 

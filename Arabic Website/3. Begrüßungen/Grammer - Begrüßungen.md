@@ -7,7 +7,7 @@ group: Vokalreduktion
 order: 3
 ---
 # Begrüßungen und Antworten
-Ausführlich: [[Vocab - Begrüßungen|Begrüßungen mit Videos]]
+Ausführlich: [[Vokabeln - Begrüßungen und Höflichkeit|Begrüßungen mit Videos]]
 
 | Gruß | Arabisch | Antwort | Arabisch | Deutsch |
 | --- | --- | --- | --- | --- |

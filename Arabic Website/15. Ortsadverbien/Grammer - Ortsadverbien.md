@@ -7,7 +7,7 @@ order: 20
 lektion: 22
 ---
 # Ortsadverbien (DHarf el-makaan)
-Ausführlich: [[Explanation - Ortsadverbien|Ortsadverbien]] · Vokabeln: [[Vocab - Ortsadverbien|Vokabeln]]
+Ausführlich: [[Explanation - Ortsadverbien|Ortsadverbien]] · Vokabeln: [[Vokabeln - Kleine Wörter|Kleine Wörter]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Stadt und Orte|Stadt und Orte]]
 
 | Arabisch | Deutsch |
 | --- | --- |

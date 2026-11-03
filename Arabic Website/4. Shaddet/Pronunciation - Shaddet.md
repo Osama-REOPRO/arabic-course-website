@@ -8,6 +8,8 @@ group:
 order:
   - "4"
 ---
+Vokabeln zu dieser Lektion: [[Vokabeln - Verben|Verben]] · [[Vokabeln - Gefühle und Begriffe|Gefühle und Begriffe]] · [[Vokabeln - Essen und Trinken|Essen und Trinken]]
+
 - Heute werden wir etwas über die zweitwichtigste Komponente lernen, um im Arabischen natürlich zu klingen: die Betonung von Buchstaben, auch **shaddet** genannt.
 - Wir werden darüber sprechen, warum Lieder im Allgemeinen eine gute Übung beim Erlernen einer Sprache sind.
 - Anschließend werden wir außerdem das Lied „7abbeetak bi el-Seef“ lernen, das man nur mit der richtigen shaddet korrekt singen kann!
@@ -62,6 +64,70 @@ Auf Arabisch schreiben wir den Buchstaben nicht doppelt, um diesen Effekt zu erz
 
 ![[Screenshot 2026-03-24 at 8.01.14 PM.png]]
 
+
+# Vokabular mit shaddet
+Ein Video, in dem ich zeige, wie diese Wörter ausgesprochen werden
+https://youtu.be/3NszKWpOMF4
+
+**najjaar** – Tischler / carpenter
+
+نجّار
+
+**sayyaarat** – Auto / car
+
+سيّارة
+
+**tuffaa7at** – Apfel / apple, oft gesprochen „teffaa7at“
+
+تفّاحة
+
+**rummaan** – Granatapfel / pomegranate, oft gesprochen „remmaan“
+
+رمّان
+
+**Tayyeb** – gut, lecker / good, tasty
+
+طيّب
+
+**jannet** – Paradies, Garten / paradise, garden
+
+جنّة
+
+**m7ammad** – Muhammad
+
+محمّد
+
+**kaddhab** – lügen, leugnen / to lie, to deny, in Damaskus gesprochen „kazzab“
+
+كذّب
+
+**qarrar** – entscheiden / to decide, mit echtem q gesprochen
+
+قرّر
+
+**naDDHam** – organisieren / to organize, in Damaskus gesprochen „naZZam“
+
+نظّم
+
+**ghaddhaa** – füttern / to feed, in Damaskus gesprochen „ghazzaa“
+
+غذّى
+
+**5affaf** – erleichtern, reduzieren / to lighten, to reduce
+
+خفّف
+
+**fakkar** – denken / to think
+
+فكّر
+
+**zayyan** – dekorieren / to decorate
+
+زيّن
+
+**makket** – Mekka / Mecca
+
+مكّة
 
 # Lied
 ## 🎵 Warum wir durch arabische Lieder lernen

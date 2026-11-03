@@ -16,30 +16,6 @@ Hier sammle ich Material, das euch beim Lernen außerhalb des Unterrichts hilft:
 So fügst du einen Eintrag hinzu (dieser Kommentar ist auf der Website unsichtbar):
 
 - **[Name](https://link)** – kurze Beschreibung. *(Syrisch / Hocharabisch / anderer Dialekt · Niveau)*
-
-Wenn ein Abschnitt Einträge hat, lösche die Zeile "*Kommt bald.*" darunter.
 -->
 
-## 📚 Bücher
-
-*Kommt bald.*
-
-## 🎬 Videos und YouTube
-
-*Kommt bald.*
-
-## 🎧 Podcasts
-
-*Kommt bald.*
-
-## 🎵 Musik
-
-*Kommt bald.*
-
-## 📱 Apps und Websites
-
-*Kommt bald.*
-
-## 📖 Wörterbücher
-
-*Kommt bald.*
+- **[Levantine Arabic Diaries](https://resources.lingualism.com/tag/levantine-arabic-diaries/)** – kurze Geschichten aus dem Alltag, erzählt von Muttersprachlern aus der Levante (z. B. Syrien und Libanon). Arabischer Text mit englischer Übersetzung, zum Lesen und Hören. *(Levantinisch – nicht immer Damaszener Dialekt)*

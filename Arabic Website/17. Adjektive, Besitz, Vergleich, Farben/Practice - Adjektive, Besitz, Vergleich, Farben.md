@@ -300,6 +300,14 @@ lektion: 24
 6. haad el-beet ________. (gehört uns)
 7. hay el-shantaayet ________. (gehört euch)
 8. hadool el-fasaatiin ________. (gehören ihnen)
+9. el-fusTaan el-Tawiil ________. (gehört dir, f.)
+10. hadool el-2a7dhiyet el-jdaad ________. (gehören euch)
+11. la-miin haad el-qamiiS? – ________. (Ihm.)
+12. la-miin hay el-tannuurat el-qaSiirat? – ________. (Ihr.)
+13. el-kanzet el-waas3at ________. (gehört mir)
+14. hadool el-qumSaan el-bash3iin ________. (gehören ihnen)
+15. la-miin hadool el-kutub? – ________. (Uns.)
+16. haad el-banTaloon el-qadiim ________. (gehört dir, m.)
 
 ##### Lösung
 1. haad el-ktaab 2ilii.
@@ -318,6 +326,22 @@ lektion: 24
 	- هي الشنتاية إلكن.
 8. hadool el-fasaatiin 2ilhon.
 	- هدول الفساتين إلهن.
+9. el-fusTaan el-Tawiil 2ilek.
+	- الفستان الطويل إلك.
+10. hadool el-2a7dhiyet el-jdaad 2ilkon.
+	- هدول الأحذية الجداد إلكن.
+11. la-miin haad el-qamiiS? – 2iloh.
+	- لمين هاد القميص؟ – إله.
+12. la-miin hay el-tannuurat el-qaSiirat? – 2ilhaa.
+	- لمين هي التنورة القصيرة؟ – إلها.
+13. el-kanzet el-waas3at 2ilii.
+	- الكنزة الواسعة إلي.
+14. hadool el-qumSaan el-bash3iin 2ilhon.
+	- هدول القمصان البشعين إلهن.
+15. la-miin hadool el-kutub? – 2ilnaa.
+	- لمين هدول الكتب؟ – إلنا.
+16. haad el-banTaloon el-qadiim 2ilak.
+	- هاد البنطلون القديم إلك.
 
 # 19. Übung
 **Wortschatz:** [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Adjektive|Adjektive]]
@@ -329,6 +353,18 @@ lektion: 24
 2. **haad el-qamiiS el-jdiid 2ilak yaa kariim?** (Gehört dieses neue Hemd dir, Karim?)
    *Antwort (Ja):* ________________________________
    *Antwort (Nein, es gehört meinem Bruder):* ________________________________
+3. **hay el-bluuzet el-7ulwet 2ilek yaa liinaa?** (Gehört diese schöne Bluse dir, Lina?)
+   *Antwort (Ja):* ________________________________
+   *Antwort (Nein, sie gehört meiner Schwester):* ________________________________
+4. **hadool el-2a7dhiyet 2ilkon?** (Gehören diese Schuhe euch?)
+   *Antwort (Ja):* ________________________________
+   *Antwort (Nein, sie gehören den Kindern):* ________________________________
+5. **el-kanzet el-waas3at 2iloh?** (Gehört der weite Pullover ihm?)
+   *Antwort (Ja):* ________________________________
+   *Antwort (Nein, er gehört Sami):* ________________________________
+6. **haad el-banTaloon el-jdiid 2ilhaa?** (Gehört diese neue Hose ihr?)
+   *Antwort (Ja):* ________________________________
+   *Antwort (Nein, sie gehört dem Mann):* ________________________________
 
 ## Übung B: Frag und antworte wie im Beispiel
 **Beispiel:** sayyaarat – jdiidet – waliid *(Auto – neu – Walid)*
@@ -338,6 +374,9 @@ lektion: 24
 1. kutub – 3arabii – 2intuu *(Bücher – arabisch – ihr)*
 2. beet – kbiir – saamii w liinaa *(Haus – groß – Sami und Lina)*
 3. hadaayaa – rifqaatek *(Geschenke – deine Freunde)*: Sara, gehören diese Geschenke deinen Freunden? Antworte mit Ja.
+4. tannuurat – qaSiirat – 2intii *(Rock – kurz – du, f.)*
+5. fasaatiin – Twaal – hinnen *(Kleider – lang – sie, Pl.)*
+6. qamiiS – waase3 – huwwe *(Hemd – weit – er)*: Gehört es ihm? Antworte mit Nein: Es gehört Karim.
 
 ##### Lösung
 **Übung A**
@@ -345,6 +384,14 @@ lektion: 24
 	- إي، البجامات الواسعين للينا. / لأ، البجامات الواسعين مو للينا، لسارة.
 2. 2ee, haad el-qamiiS el-jdiid 2ilii. / la2, haad el-qamiiS el-jdiid muu 2ilii, la-2a5ii.
 	- إي، هاد القميص الجديد إلي. / لأ، هاد القميص الجديد مو إلي، لأخي.
+3. 2ee, hay el-bluuzet el-7ulwet 2ilii. / la2, hay el-bluuzet el-7ulwet muu 2ilii, la-2u5tii.
+	- إي، هي البلوزة الحلوة إلي. / لأ، هي البلوزة الحلوة مو إلي، لأختي.
+4. 2ee, hadool el-2a7dhiyet 2ilnaa. / la2, hadool el-2a7dhiyet muu 2ilnaa, lal-wlaad.
+	- إي، هدول الأحذية إلنا. / لأ، هدول الأحذية مو إلنا، للولاد.
+5. 2ee, el-kanzet el-waas3at 2iloh. / la2, el-kanzet el-waas3at muu 2iloh, la-saamii.
+	- إي، الكنزة الواسعة إله. / لأ، الكنزة الواسعة مو إله، لسامي.
+6. 2ee, haad el-banTaloon el-jdiid 2ilhaa. / la2, haad el-banTaloon el-jdiid muu 2ilhaa, lal-rijjaal.
+	- إي، هاد البنطلون الجديد إلها. / لأ، هاد البنطلون الجديد مو إلها، للرجال.
 
 **Übung B**
 1. la-miin hadool el-kutub el-3arabii? / hadool el-kutub el-3arabii 2ilkon.
@@ -353,6 +400,12 @@ lektion: 24
 	- لمين هاد البيت الكبير؟ / هاد البيت الكبير لسامي ولينا.
 3. hadool el-hadaayaa la-rifqaatek yaa saarat? / 2ee, hadool el-hadaayaa la-rifqaatii.
 	- هدول الهدايا لرفقاتك يا سارة؟ / إي، هدول الهدايا لرفقاتي.
+4. la-miin hay el-tannuurat el-qaSiirat? / hay el-tannuurat el-qaSiirat 2ilek.
+	- لمين هي التنورة القصيرة؟ / هي التنورة القصيرة إلك.
+5. la-miin hadool el-fasaatiin el-Twaal? / hadool el-fasaatiin el-Twaal 2ilhon.
+	- لمين هدول الفساتين الطوال؟ / هدول الفساتين الطوال إلهن.
+6. haad el-qamiiS el-waase3 2iloh? / la2, haad el-qamiiS el-waase3 muu 2iloh, la-kariim.
+	- هاد القميص الواسع إله؟ / لأ، هاد القميص الواسع مو إله، لكريم.
 
 # 22. Übung
 **Wortschatz:** [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Haus und Wohnung|Haus und Wohnung]]

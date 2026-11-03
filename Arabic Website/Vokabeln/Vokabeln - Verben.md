@@ -2,7 +2,7 @@
 publish: true
 title: "Verben"
 category: vocabulary
-order: 17
+order: 13
 ---
 # Verben
 

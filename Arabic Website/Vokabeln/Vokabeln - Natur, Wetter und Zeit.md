@@ -2,7 +2,7 @@
 publish: true
 title: "Natur, Wetter und Zeit"
 category: vocabulary
-order: 12
+order: 7
 ---
 # Natur, Wetter und Zeit
 

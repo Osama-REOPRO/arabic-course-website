@@ -2,7 +2,7 @@
 publish: true
 title: "Adjektive"
 category: vocabulary
-order: 8
+order: 9
 ---
 # Adjektive
 

@@ -2,7 +2,7 @@
 publish: true
 title: "Familie und Menschen"
 category: vocabulary
-order: 2
+order: 1
 ---
 # Familie und Menschen
 

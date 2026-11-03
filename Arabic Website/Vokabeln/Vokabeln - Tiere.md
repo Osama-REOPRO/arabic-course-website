@@ -2,7 +2,7 @@
 publish: true
 title: "Tiere"
 category: vocabulary
-order: 13
+order: 3
 ---
 # Tiere
 

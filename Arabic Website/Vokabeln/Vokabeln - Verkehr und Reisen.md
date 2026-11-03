@@ -2,7 +2,7 @@
 publish: true
 title: "Verkehr und Reisen"
 category: vocabulary
-order: 10
+order: 15
 ---
 # Verkehr und Reisen
 

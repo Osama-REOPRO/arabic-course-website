@@ -2,7 +2,7 @@
 publish: true
 title: "Kleine Wörter"
 category: vocabulary
-order: 20
+order: 12
 ---
 # Kleine Wörter
 

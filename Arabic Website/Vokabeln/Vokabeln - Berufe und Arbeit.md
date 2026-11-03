@@ -2,7 +2,7 @@
 publish: true
 title: "Berufe und Arbeit"
 category: vocabulary
-order: 3
+order: 14
 ---
 # Berufe und Arbeit
 

@@ -2,7 +2,7 @@
 publish: true
 title: "Pronomen und Demonstrativ"
 category: vocabulary
-order: 19
+order: 2
 ---
 # Pronomen und Demonstrativ
 

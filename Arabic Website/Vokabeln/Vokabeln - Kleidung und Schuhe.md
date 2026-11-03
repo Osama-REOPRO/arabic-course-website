@@ -2,7 +2,7 @@
 publish: true
 title: "Kleidung und Schuhe"
 category: vocabulary
-order: 6
+order: 17
 ---
 # Kleidung und Schuhe
 

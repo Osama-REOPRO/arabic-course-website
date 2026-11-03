@@ -2,7 +2,7 @@
 publish: true
 title: "Fragewörter"
 category: vocabulary
-order: 18
+order: 19
 ---
 # Fragewörter
 

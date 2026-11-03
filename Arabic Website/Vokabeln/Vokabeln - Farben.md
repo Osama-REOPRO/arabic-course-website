@@ -2,7 +2,7 @@
 publish: true
 title: "Farben"
 category: vocabulary
-order: 7
+order: 20
 ---
 # Farben
 

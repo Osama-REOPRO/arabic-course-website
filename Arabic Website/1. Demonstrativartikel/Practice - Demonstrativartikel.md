@@ -53,11 +53,11 @@ Arabic: haad kalb
 German: Das ist ein Hund.
 English: This is a dog.
 
-5) 3ilbet (box, feminine)
+5) 3elbet (box, feminine)
 
 علبة
 
-Arabic: hay 3ilbet
+Arabic: hay 3elbet
 
 هي علبة
 

@@ -28,7 +28,7 @@ lektion:
    **Partner B (AR):** shuu btishtighel yaa m7ammad?
 
 4. **Partner A (DE):** Ich bin Lehrer.
-   **Partner B (AR):** 2anaa 2ustaadh.
+   **Partner B (AR):** 2anaa 2estaadh.
 
 5. **Partner A (DE):** Was arbeitest du, mein Freund?
    **Partner B (AR):** shuu btishtighel yaa rfiiqii?
@@ -76,13 +76,13 @@ lektion:
     **Partner B (AR):** shuu byishtighel 2a5uuk?
 
 18. **Partner A (DE):** Mein Bruder ist Arzt.
-    **Partner B (AR):** 2a5ii doktoor.
+    **Partner B (AR):** 2a5ii dektoor.
 
 19. **Partner A (DE):** Was arbeitet deine Schwester?
     **Partner B (AR):** shuu btishtighel 2u5tak?
 
 20. **Partner A (DE):** Meine Schwester ist Ärztin.
-    **Partner B (AR):** 2u5tii doktoorat.
+    **Partner B (AR):** 2u5tii dektoorat.
 
 21. **Partner A (DE):** Was arbeitet dein Onkel (väterlicherseits)?
     **Partner B (AR):** shuu byishtighel 3ammak?

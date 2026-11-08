@@ -125,7 +125,7 @@ Hier siehst du fünf weitere Wurzeln, die jeweilige Grundidee, und drei daraus a
 **f-t-7 — die Idee von "Öffnen"**
 - fata7 — er öffnete
 - maftuu7 — offen / geöffnet
-- miftaa7 — Schlüssel
+- meftaa7 — Schlüssel
 
 **gh-s-l — die Idee von "Waschen"**
 - ghasal — er wusch
@@ -353,7 +353,7 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 |---|---|---|---|
 | fa3al | "er hat X getan" (Vergangenheit) | fata7 | er öffnete |
 | maf3uul | "etwas, dem X angetan wurde" | maftuu7 | offen / geöffnet |
-| mif3aal | "ein Werkzeug, mit dem man X tut" | miftaa7 | Schlüssel |
+| mif3aal | "ein Werkzeug, mit dem man X tut" | meftaa7 | Schlüssel |
 
 
 
@@ -396,7 +396,7 @@ Das ist das Gespür, das wir anstreben: Sobald Ihr Ohr die *Melodie* eines Muste
 | T-b-5 | ط-ب-خ | kochen | Taba5 (er kochte), maTba5 (Küche), Tabbaa5 (Koch), maTbuu5 (gekocht) |
 | sh-gh-l | ش-غ-ل | arbeiten | 2ishtaghal (er arbeitete), shughl (Arbeit), mashghuul (beschäftigt), mashghal (Werkstatt), shagghaal (funktionierend) |
 | d-r-s | د-ر-س | lernen | daras (er lernte), dars (Lektion), madraset (Schule), darras (er unterrichtete), diraaset (Studium) |
-| f-t-7 | ف-ت-ح | öffnen | fata7 (er öffnete), maftuu7 (offen), miftaa7 (Schlüssel) |
+| f-t-7 | ف-ت-ح | öffnen | fata7 (er öffnete), maftuu7 (offen), meftaa7 (Schlüssel) |
 | gh-s-l | غ-س-ل | waschen | ghasal (er wusch), maghsal / maghsalet (Waschraum, Waschbecken), ghassaalet (Waschmaschine), maghsuul (gewaschen) |
 | q-r-2 | ق-ر-أ | lesen | qara2 (er las), qiraa2at (das Lesen), qaare2 (Leser), maqruu2 (gelesen) |
 | 3-l-m | ع-ل-م | wissen | ta3liim (Bildung), 3aalem (Gelehrter), ma3luumaatt (Informationen) |
@@ -416,7 +416,7 @@ Das ist das Gespür, das wir anstreben: Sobald Ihr Ohr die *Melodie* eines Muste
 | fa33aal / fa33aalet | eine Person oder Maschine, die X tut | Tabbaa5, ghassaalet |
 | maf3uul | etwas, dem X angetan wurde | maktuub, maftuu7 |
 | faa3el | derjenige, der X tut | kaateb, laa3eb |
-| mif3aal | ein Werkzeug für X | miftaa7 |
+| mif3aal | ein Werkzeug für X | meftaa7 |
 | fa33al | jemanden X lassen | darras |
 
 Aussprache in Damaskus: qara2 → „2ara“, mawqef → „maw2ef“

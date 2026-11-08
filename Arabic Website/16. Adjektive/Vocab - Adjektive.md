@@ -23,14 +23,14 @@ Erklärung: [[Explanation - Adjektive|Adjektive]] · weiter: [[Vocab - Adjektive
 ## Kleidung
 | Umschrift | Plural | Arabisch | Deutsch |
 | --- | --- | --- | --- |
-| fusTaan | fasaatiin | فستان | das Kleid |
+| fesTaan | fasaatiin | فستان | das Kleid |
 | tannuurat | tanaaniir | تنورة | der Rock |
-| qamiiS | qumSaan | قميص | das Hemd |
+| qamiiS | qemSaan | قميص | das Hemd |
 | bluuzet | bluuzaatt / bluwaz | بلوزة | die Bluse |
 | kanzet | kanzaatt | كنزة | der Pullover |
 | 5zaanet | 5zaanaatt | خزانة | der Schrank |
 
-(qamiiS → „2amiiS“, qumSaan → „2emSaan“)
+(qamiiS → „2amiiS“, qemSaan → „2emSaan“)
 
 ## Fragewörter und kleine Wörter
 | Umschrift | Arabisch | Deutsch |

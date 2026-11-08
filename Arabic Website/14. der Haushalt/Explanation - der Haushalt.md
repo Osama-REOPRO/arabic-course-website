@@ -74,20 +74,20 @@ el-raff - das Regal
 ## 🛋️ fii: (fi3l Da3iif) — „Es gibt" (schwaches Verb)
 
 ### Möbel:
-| kanabaayet | Taawlet | maktabet | talfizyoon | shibbaak |
+| kanabaayet | Taawlet | maktabet | talfizyoon | shebbaak |
 |---|---|---|---|---|
 | Sofa | Tisch | Schreibtisch/Bücherregal | Fernseher | Fenster |
 
 **shuu fii bi ghurft el-qa3det?** *(Was gibt es im Wohnzimmer?)*
-➢ **bi ghurft el-qa3det fii kanabaayet, w Taawlet, w maktabet, w talfizyoon, w shibbaak.**
+➢ **bi ghurft el-qa3det fii kanabaayet, w Taawlet, w maktabet, w talfizyoon, w shebbaak.**
 
 ---
 
 ### ❓ su2aal byballesh bi "fii" — Ja/Nein-Fragen mit "fii"
 
 > **mithaal:**
-> - **fii shibbaak bi ghurft el-qa3det?**
-> - ➢ **2ee, fii shibbaak bi ghurft el-qa3det.**
+> - **fii shebbaak bi ghurft el-qa3det?**
+> - ➢ **2ee, fii shebbaak bi ghurft el-qa3det.**
 >
 > - **fii lambat bi ghurft el-qa3det?**
 > - ➢ **la2, maa fii lambat bi ghurft el-qa3det.** *(lambat = Lampe)*
@@ -113,7 +113,7 @@ el-raff - das Regal
 ---
 
 ### 🧸 shuu fii bi ghurft el-wlaad? *(Möbel im Kinderzimmer)*
-| ta5t wlaad | raff 2al3aab   | sajjaadet | birdaayet |
+| ta5t wlaad | raff 2al3aab   | sajjaadet | berdaayet |
 | ---------- | -------------- | --------- | --------- |
 | Kinderbett | Spielzeugregal | Teppich   | Vorhang   |
 
@@ -121,9 +121,9 @@ el-raff - das Regal
 - **fii komadiinat bi ghurft el-wlaad?**
 	  - 2ee, fii komadiinat bi ghurft el-wlaad
 	  - la2, maa fii komadiinat bi ghurft el-wlaad
-- **fii birdaayet bi ghurft el-wlaad?**
-	- 2ee, fii birdaayet bi ghurft el-wlaad
-	- la2, maa fii birdaayet bi ghurft el-wlaad
+- **fii berdaayet bi ghurft el-wlaad?**
+	- 2ee, fii berdaayet bi ghurft el-wlaad
+	- la2, maa fii berdaayet bi ghurft el-wlaad
 
 ---
 
@@ -148,15 +148,15 @@ el-raff - das Regal
 > **jooz liinaa:** beddnaa jallaayet?
 > **liinaa:** la2, maa beddnaa jallaayet; jallaaytnaa jdiidet.
 >
-> **jooz liinaa:** beddnaa lissaa shii la el-maTba5?
-> **liinaa:** 2ee, 2akiid, beddnaa lissaa kaasaatt.
+> **jooz liinaa:** beddnaa lessaa shii la el-maTba5?
+> **liinaa:** 2ee, 2akiid, beddnaa lessaa kaasaatt.
 
 ### Geräte / Küchenvokabular:
 | barraad | ghassaalet | ghaaz | jallaayet |
 |---|---|---|---|
 | Kühlschrank | Waschmaschine | Herd | Geschirrspüler |
 
-| Sa7n   | kaasaatt | kaaset | finjaan | fanaajiin       | shuwak | ma3aaliq | sakaakiin |
+| Sa7n   | kaasaatt | kaaset | fenjaan | fanaajiin       | shuwak | ma3aaliq | sakaakiin |
 | ------ | -------- | ------ | ------- | --------------- | ------ | -------- | --------- |
 | Teller | Gläser   | Glas   | Tasse   | Tassen (plural) | Gabeln | Löffel   | Messer    |
 
@@ -194,7 +194,7 @@ la2, maa bedd'haa liinaa S7uun w kaasaatt
 | ----------- | --------- | --------- |
 | Waschbecken | Toilette  | Badewanne |
 
-| 5zaanet 7ammaam ma3 mraayet | 7anafiyyet la el-maghsalet | birdaayet la el-baanyoo |
+| 5zaanet 7ammaam ma3 mraayet | 7anafiyyet la el-maghsalet | berdaayet la el-baanyoo |
 |---|---|---|
 | Badezimmerschrank mit Spiegel | Wasserhahn für das Waschbecken | Duschvorhang für die Badewanne |
 
@@ -252,8 +252,8 @@ la2, maa bedd'haa liinaa S7uun w kaasaatt
 	- bi el-maTba5 maa fii Taawlaatt w karaasii
 - beddii - ghraaD - kthiir - 2anaa - el- - beet - la.
 	- 2anaa beddii ghraaD kthiir la el-beet
-- kutub - madraset - el- - Tullaab - bedd'hon - dafaater - w - la - el-.
-	- el-Tullaab bedd'hon kutub w dafaater la el-madraset
+- ketob - madraset - el- - Tullaab - bedd'hon - dafaater - w - la - el-.
+	- el-Tullaab bedd'hon ketob w dafaater la el-madraset
 - el- - 2ummhon - w - wlaad - mal3ab - bi - el-.
 	- el-wlaad w 2ummhon bi el-mal3ab
 
@@ -270,6 +270,6 @@ la2, maa bedd'haa liinaa S7uun w kaasaatt
 | 5   | ween el-maktabet? / bi 2ayyaa ghurfet el-maktabet?  | el-maktabet bi ghurft el-qa3det.             |
 | 6   | 2ahlek bi el-beet?                                  | la2, 2ahlii muu bi el-beet.                  |
 | 7   | weenhon 5aaled w 7alaa?                             | 5aaled w 7alaa bi beet'hon.                  |
-| 8   | shuu hadool?                                        | hadool rfuuf kutub.                          |
+| 8   | shuu hadool?                                        | hadool rfuuf ketob.                          |
 | 9   | hay ghurftek / ghurftak?                            | 2ee, hay ghurftii.                           |
 | 10  | hay 5zaanet miin? / la miin el-5zaanet?             | hay 5zaanet 2u5tii.                          |

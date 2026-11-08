@@ -19,15 +19,15 @@ lektion:
 ت ث د ذ ر ز
 
 - **taaj** :: Krone
-- **tuffaa7** :: Äpfel (Sammelbegriff), oft gesprochen „teffaa7“
+- **teffaa7** :: Äpfel (Sammelbegriff), oft gesprochen „teffaa7“
 - **thoob** :: Gewand / Kleidung, gesprochen „toob“
 - **thalj** :: Schnee / Eis, gesprochen „talj“
 - **daftar** :: Notizbuch / Heft
 - **dars** :: Lektion / Unterricht
 - **dhahab** :: Gold, gesprochen „dahab“
 - **dhiib** :: Wolf, gesprochen „diib“
-- **rijjaal** :: Mann
-- **rummaan** :: Granatapfel, oft gesprochen „remmaan“
+- **rejjaal** :: Mann
+- **remmaan** :: Granatapfel, oft gesprochen „remmaan“
 - **zeet** :: Öl
 - **zahrat** :: Blume
 

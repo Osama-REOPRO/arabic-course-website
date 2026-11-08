@@ -80,14 +80,14 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 		- أَبعَد
 	- Hinweis: b3iid 3an = weit weg von. b3iid bei maskulinen Wörtern, b3iidet bei femininen Wörtern
 
-- **7uluu / 7ulwet** (Adj.) – schön, hübsch; süß
+- **7eluu / 7elwet** (Adj.) – schön, hübsch; süß
 	- حلو / حلوة
-	- حُلو / حُلوِة
-	- Plural: 7ulwiin, 7ulwaatt
+	- حِلو / حِلوِة
+	- Plural: 7elwiin, 7elwaatt
 	- Komparativ: 2a7laa
 		- أحلى
 		- أَحلى
-	- Hinweis: 7uluu bei maskulinen Wörtern, 7ulwet bei femininen Wörtern. Bei Wörtern im Plural kann man auch die feminine Form benutzen
+	- Hinweis: 7eluu bei maskulinen Wörtern, 7elwet bei femininen Wörtern. Bei Wörtern im Plural kann man auch die feminine Form benutzen
 
 - **bashe3 / bash3at** (Adj.) – hässlich
 	- بشع / بشعة

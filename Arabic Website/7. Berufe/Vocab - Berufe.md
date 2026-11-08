@@ -10,15 +10,15 @@ lektion:
 ---
 # Berufe
 
-2ustaadh = Lehrer (m), gesprochen „2ustaaz“
+2estaadh = Lehrer (m), gesprochen „2ustaaz“
 2aanset = Lehrerin (f)
 
 ---
-doktoor = Arzt (m)
+dektoor = Arzt (m)
 
 ---
 
-doktoorat = Ärztin (f)
+dektoorat = Ärztin (f)
 (langes "o")
 
 ---
@@ -108,7 +108,7 @@ banaatt = Mädchen (Plural)
 ---
 
 Tifl = Kind (m)
-Tiflet = Kind (f)
+Teflet = Kind (f)
 2aTfaal = Kinder
 (Hocharabisch, offiziell)
 

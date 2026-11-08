@@ -54,7 +54,7 @@ Erklärung: [[Explanation - Adjektive|Adjektive]] · Vokabeln zum Wiederholen: [
 
 ## Übung 1
 - Das ist ein langes Kleid.
-	- haadaa fusTaan Tawiil
+	- haadaa fesTaan Tawiil
 - Ein langer Rock.
 	- tannuurat Tawiilet
 - Ein kurzer Rock.
@@ -64,11 +64,11 @@ Erklärung: [[Explanation - Adjektive|Adjektive]] · Vokabeln zum Wiederholen: [
 - Die langen Kleider
 	- el-fasaatiin el-Twaal
 - Wo ist das Kleid?
-	- ween el-fusTaan
+	- ween el-fesTaan
 - Welches Kleid?
-	- 2ayyaa fusTaan
+	- 2ayyaa fesTaan
 - Das lange Kleid ist im Schrank.
-	- el-fusTaan el-Tawiil bi el-5zaanet
+	- el-fesTaan el-Tawiil bi el-5zaanet
 - Die kurzen Röcke sind im Schrank.
 	- el-tanaaniir el-qSaar bi el-5zaanet
 	- el-tanaaniir el-qSaar bi 5zaantii

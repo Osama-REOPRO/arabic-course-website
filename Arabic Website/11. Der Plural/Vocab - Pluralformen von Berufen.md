@@ -21,7 +21,7 @@ lektion:
 | Tabbaa5       | Tabbaa5iin             | Tabbaa5at     | Tabbaa5aatt     | Koch/Köchin        |
 | sekerteer     | sekerteeriin           | sekerteerat   | sekerteeraatt   | Sekretär(in)       |
 | muDiif        | muDiifiin              | muDiifet      | muDiifaatt      | Kellner(in)        |
-| doktoor       | dakaatrat (gebrochen)  | doktoorat     | doktooraatt     | Arzt / Ärztin      |
+| dektoor       | dakaatrat (gebrochen)  | dektoorat     | dektooraatt     | Arzt / Ärztin      |
 
 ---
 
@@ -30,14 +30,14 @@ lektion:
 | Singular | Plural | Deutsch |
 |---|---|---|
 | beet | byuut | Haus → Häuser |
-| ktaab | kutub | Buch → Bücher |
+| ktaab | ketob | Buch → Bücher |
 | walad | wlaad | Junge → Jungen |
 | bint | banaatt | Mädchen → Mädchen (pl.) |
 | Tifl | 2aTfaal | Kind → Kinder |
 | kalb | klaab | Hund → Hunde |
 | kalbet | kalbaatt (gesunde feminin, nicht gebrochen) | Hündin → Hündinnen |
-| miftaa7 | mafaatii7 | Schlüssel → Schlüssel (pl.) |
-| doktoor | dakaatrat  | Arzt → Ärzte |
+| meftaa7 | mafaatii7 | Schlüssel → Schlüssel (pl.) |
+| dektoor | dakaatrat  | Arzt → Ärzte |
 
 ---
 

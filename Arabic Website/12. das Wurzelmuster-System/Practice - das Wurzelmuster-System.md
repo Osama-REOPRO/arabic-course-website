@@ -72,7 +72,7 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 |---|---|---|---|
 | fa3al | "er hat X getan" (Vergangenheit) | fata7 | er öffnete |
 | maf3uul | "etwas, dem X angetan wurde" | maftuu7 | offen / geöffnet |
-| mif3aal | "ein Werkzeug, mit dem man X tut" | miftaa7 | Schlüssel |
+| mif3aal | "ein Werkzeug, mit dem man X tut" | meftaa7 | Schlüssel |
 
 
 
@@ -136,7 +136,7 @@ diese muster haben wir in dieser lektion kennengelernt (platzhalter f-3-l):
 12. d-r-s → fa33al → darras (er unterrichtete)
 13. f-t-7 → fa3al → fata7 (er öffnete)
 14. f-t-7 → maf3uul → maftuu7 (offen / geöffnet)
-15. f-t-7 → mif3aal → miftaa7 (Schlüssel)
+15. f-t-7 → mif3aal → meftaa7 (Schlüssel)
 16. gh-s-l → fa3al → ghasal (er wusch)
 17. gh-s-l → maf3al → maghsal (Waschraum / Spüle)
 18. gh-s-l → fa33aalet → ghassaalet (Waschmaschine)
@@ -292,7 +292,7 @@ maftuu7
 <br>
 15. f-t-7 → **mif3aal** → ? *(Schlüssel)*
 <br>
-miftaa7
+meftaa7
 <br>
 <br>
 

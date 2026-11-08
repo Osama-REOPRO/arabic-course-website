@@ -42,7 +42,7 @@ Die zweite Möglichkeit ist einfacher anzuwenden. Es lohnt sich jedoch, auch die
 
 | Arabisch                          | Deutsch                    |
 | --------------------------------- | -------------------------- |
-| **fusTaan** (Pl. **fasaatiin**)   | Kleid (Kleider)            |
+| **fesTaan** (Pl. **fasaatiin**)   | Kleid (Kleider)            |
 | **tannuurat** (Pl. tanaaniir)     | Rock                       |
 | **5zaanet** (Pl. 5zaanaatt)       | Schrank                    |
 | **ween**                          | wo                         |
@@ -56,8 +56,8 @@ Die Regel lautet:
 > Das Adjektiv stimmt mit dem Substantiv in **Genus**, **Numerus** und **Definitheit** überein.
 
 #### Zum Beispiel:
-- fusTaan Tawiil – ein langes Kleid
-- el-fusTaan el-Tawiil – das lange Kleid
+- fesTaan Tawiil – ein langes Kleid
+- el-fesTaan el-Tawiil – das lange Kleid
 - tannuurat qaSiirat – ein kurzer Rock
 - el-tannuurat el-qaSiirat – der kurze Rock
 - kanzet jdiidet – ein neuer Pullover
@@ -90,10 +90,10 @@ Beide Formen bedeuten dasselbe und können immer austauschbar verwendet werden.
 
 | Frage | Antwort | Deutsch |
 |---|---|---|
-| shuu haad? — Was ist das? | fusTaan Tawiil | ein langes Kleid |
-| 2ayyaa fusTaan? — Welches Kleid? | el-fusTaan el-Tawiil | das lange Kleid |
-| kiif el-fusTaan? — Wie ist das Kleid? | el-fusTaan Tawiil | Das Kleid ist lang. |
-| fusTaan miin? — Wessen Kleid? | fusTaan el-Tawiil | das Kleid von Taweel |
+| shuu haad? — Was ist das? | fesTaan Tawiil | ein langes Kleid |
+| 2ayyaa fesTaan? — Welches Kleid? | el-fesTaan el-Tawiil | das lange Kleid |
+| kiif el-fesTaan? — Wie ist das Kleid? | el-fesTaan Tawiil | Das Kleid ist lang. |
+| fesTaan miin? — Wessen Kleid? | fesTaan el-Tawiil | das Kleid von Taweel |
 
 
 # 6. Wortschatz
@@ -102,7 +102,7 @@ Beide Formen bedeuten dasselbe und können immer austauschbar verwendet werden.
 - 2ayyaa — welche/r/s
 - kiif — wie
 - miin — wer / wessen
-- fusTaan — Kleid
+- fesTaan — Kleid
 
 
 # 7. Neu und Alt
@@ -116,7 +116,7 @@ Beide Formen bedeuten dasselbe und können immer austauschbar verwendet werden.
 # 8. Vokab
 | Arabisch                              | Deutsch        |
 | ------------------------------------- | -------------- |
-| **qamiiS** (Pl. **qumSaan**)          | Hemd (Hemden)  |
+| **qamiiS** (Pl. **qemSaan**)          | Hemd (Hemden)  |
 | **bluuzet** (Pl. bluuzaatt / bluwaz)  | Bluse (Blusen) |
 | **kanzet** (Pl. kanzaatt)             | Pullover       |
 

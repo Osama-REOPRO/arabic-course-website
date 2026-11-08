@@ -11,9 +11,9 @@ lektion:
 Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonnenbuchstaben spricht.
 
 # el- in der 2iDaafet: Maskuline Berufe
-- doktoor + mashfaa *(Arzt + Krankenhaus)*
-  - **doktoor mashfaa** → *ein Krankenhausarzt*
-  - **doktoor el-mashfaa** → *der Arzt des Krankenhauses*
+- dektoor + mashfaa *(Arzt + Krankenhaus)*
+  - **dektoor mashfaa** → *ein Krankenhausarzt*
+  - **dektoor el-mashfaa** → *der Arzt des Krankenhauses*
 
 ---
 
@@ -65,9 +65,9 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 
 ---
 
-- mudiir + shirket *(Manager + Firma)*
-  - **mudiir shirket** → *ein Firmenleiter*
-  - **mudiir el-shirket** („mudiir esh-shirket“) → *der Manager der Firma*
+- mudiir + sherket *(Manager + Firma)*
+  - **mudiir sherket** → *ein Firmenleiter*
+  - **mudiir el-sherket** („mudiir esh-sherket“) → *der Manager der Firma*
 
 ---
 
@@ -89,9 +89,9 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 
 ---
 
-- mwaDDHaf + shirket *(Angestellter + Firma)*
-  - **mwaDDHaf shirket** → *ein Firmenangestellter*
-  - **mwaDDHaf el-shirket** („mwazzaf esh-shirket“) → *der Angestellte der Firma*
+- mwaDDHaf + sherket *(Angestellter + Firma)*
+  - **mwaDDHaf sherket** → *ein Firmenangestellter*
+  - **mwaDDHaf el-sherket** („mwazzaf esh-sherket“) → *der Angestellte der Firma*
 
 ---
 # el- in der 2iDaafet: Feminine Berufe
@@ -110,9 +110,9 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 
 ---
 
-- doktoorat *(Ärztin)*
-  - **doktooret 2aTfaal** → *eine Kinderärztin*
-  - **doktoort el-2aTfaal** → *die Kinderärztin*
+- dektoorat *(Ärztin)*
+  - **dektooret 2aTfaal** → *eine Kinderärztin*
+  - **dektoort el-2aTfaal** → *die Kinderärztin*
 
 ---
 
@@ -135,8 +135,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 ---
 
 - kwaafeerat *(Damenfriseurin)*
-  - **kwaafeeret niswaan** → *eine Damenfriseurin*
-  - **kwaafeert el-niswaan** („kwaafeert en-niswaan“) → *die Damenfriseurin*
+  - **kwaafeeret neswaan** → *eine Damenfriseurin*
+  - **kwaafeert el-neswaan** („kwaafeert en-neswaan“) → *die Damenfriseurin*
 
 ---
 
@@ -160,8 +160,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 ---
 
 - mudiirat *(Direktorin)*
-  - **mudiiret shirket** → *eine Firmenleiterin*
-  - **mudiirt el-shirket** („mudiirt esh-shirket“) → *die Direktorin der Firma*
+  - **mudiiret sherket** → *eine Firmenleiterin*
+  - **mudiirt el-sherket** („mudiirt esh-sherket“) → *die Direktorin der Firma*
 
 ---
 
@@ -172,8 +172,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 ---
 
 - mwaDDHafet *(Angestellte)*
-  - **mwaDDHafet shirket** → *eine Firmenangestellte*
-  - **mwaDDHaft el-shirket** („mwazzaft esh-shirket“) → *die Angestellte der Firma*
+  - **mwaDDHafet sherket** → *eine Firmenangestellte*
+  - **mwaDDHaft el-sherket** („mwazzaft esh-sherket“) → *die Angestellte der Firma*
 
 ---
 
@@ -181,8 +181,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 
 ---
 
-- haad beet doktoor → *Das ist das Haus eines Arztes*
-- haad beet el-doktoor („ed-doktoor“) → *Das ist das Haus des Arztes*
+- haad beet dektoor → *Das ist das Haus eines Arztes*
+- haad beet el-dektoor („ed-dektoor“) → *Das ist das Haus des Arztes*
 
 ---
 
@@ -191,7 +191,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 
 ---
 
-- hay 3ilbet tuunat → *Das ist eine Dose Thunfisch*
+- hay 3elbet tuunat → *Das ist eine Dose Thunfisch*
 - hay 3ilbt el-tuunat („et-tuunat“) → *Das ist die Thunfischdose*
 
 ---
@@ -206,13 +206,13 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 
 ---
 
-- miftaa7 sayyaarat → *ein Autoschlüssel*
-- miftaa7 el-sayyaarat („es-sayyaarat“) → *der Autoschlüssel*
+- meftaa7 sayyaarat → *ein Autoschlüssel*
+- meftaa7 el-sayyaarat („es-sayyaarat“) → *der Autoschlüssel*
 
 ---
 
-- miftaa7 beet → *ein Hausschlüssel*
-- miftaa7 el-beet → *der Hausschlüssel*
+- meftaa7 beet → *ein Hausschlüssel*
+- meftaa7 el-beet → *der Hausschlüssel*
 
 ---
 
@@ -286,7 +286,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
    **B (AR):** 7allaaq rjaal / 7allaaq el-rjaal
 
 7. **A (DE):** ein Firmenleiter / der Manager der Firma
-   **B (AR):** mudiir shirket / mudiir el-shirket
+   **B (AR):** mudiir sherket / mudiir el-sherket
 
 8. **A (DE):** ein Krankenpfleger in einem Krankenhaus / der Krankenpfleger des Krankenhauses
    **B (AR):** mumarreD mashfaa / mumarreD el-mashfaa
@@ -299,7 +299,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
    **B (AR):** Tabbaa5et maT3am / Tabbaa5t el-maT3am
 
 10. **A (DE):** eine Firmenleiterin / die Direktorin der Firma
-    **B (AR):** mudiiret shirket / mudiirt el-shirket
+    **B (AR):** mudiiret sherket / mudiirt el-sherket
 
 11. **A (DE):** eine Busfahrerin / die Busfahrerin
     **B (AR):** sawwaaqet baaS / sawwaaqt el-baaS
@@ -308,7 +308,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
     **B (AR):** Taalbet jaam3at / Taalbt el-jaam3at
 
 13. **A (DE):** eine Kinderärztin / die Kinderärztin
-    **B (AR):** doktooret 2aTfaal / doktoort el-2aTfaal
+    **B (AR):** dektooret 2aTfaal / dektoort el-2aTfaal
 
 14. **A (DE):** eine Kellnerin in einem Restaurant / die Kellnerin des Restaurants
     **B (AR):** muDiifet maT3am / muDiift el-maT3am
@@ -321,7 +321,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
     **B (AR):** baab beet / baab el-beet
 
 16. **A (DE):** ein Autoschlüssel / der Autoschlüssel
-    **B (AR):** miftaa7 sayyaarat / miftaa7 el-sayyaarat
+    **B (AR):** meftaa7 sayyaarat / meftaa7 el-sayyaarat
 
 17. **A (DE):** ein Schlafzimmer / das Schlafzimmer
     **B (AR):** ghurfet noom / ghurft el-noom
@@ -342,8 +342,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 **Erinnerung:** In einer 2iDaafet (Genitivverbindung) bekommt nur das **zweite Wort** den Artikel **el-**, wenn die Verbindung bestimmt ist. Achte beim Sprechen auch auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
-- doktoor + mashfaa (Arzt + Krankenhaus) → **doktoor el-mashfaa** (der Arzt des Krankenhauses)
-- mudiir + shirket (Manager + Firma) → **mudiir el-shirket** („mudiir esh-shirket“) (der Manager der Firma) ☀️
+- dektoor + mashfaa (Arzt + Krankenhaus) → **dektoor el-mashfaa** (der Arzt des Krankenhauses)
+- mudiir + sherket (Manager + Firma) → **mudiir el-sherket** („mudiir esh-sherket“) (der Manager der Firma) ☀️
 
 ---
 
@@ -382,7 +382,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 11. muDiif + maT3am (Kellner + Restaurant) → _______________
 <br>
 <br>
-12. mwaDDHaf + shirket (Angestellter + Firma) → _______________
+12. mwaDDHaf + sherket (Angestellter + Firma) → _______________
 <br>
 <br>
 
@@ -401,7 +401,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 9. 5ayyaaT + badlaatt → **5ayyaaT el-badlaatt** (der Schneider der Anzüge) ☽
 10. Seedalii + qaryet → **Seedalii el-qaryet** (der Apotheker des Dorfes) ☽
 11. muDiif + maT3am → **muDiif el-maT3am** (der Kellner des Restaurants) ☽
-12. mwaDDHaf + shirket → **mwaDDHaf el-shirket** („mwazzaf esh-shirket“) (der Angestellte der Firma) ☀️
+12. mwaDDHaf + sherket → **mwaDDHaf el-sherket** („mwazzaf esh-sherket“) (der Angestellte der Firma) ☀️
 
 ---
 <br>
@@ -411,8 +411,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 **Erinnerung:** Bei einer 2iDaafet mit einem femininen ersten Wort (das auf -et/-at endet) verändert sich die Endung leicht, wenn der Artikel **el-** vor das zweite Wort kommt: die Endung wird zu **-t** vor dem Artikel. Achte beim Sprechen auch hier auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
-- doktoor**e**t 2aTfaal (eine Kinderärztin) → doktoor**t** el-2aTfaal (die Kinderärztin)
-- mudiir**e**t shirket (eine Firmenleiterin) → mudiir**t** el-shirket („mudiirt esh-shirket“) (die Managerin der Firma) ☀️
+- dektoor**e**t 2aTfaal (eine Kinderärztin) → dektoor**t** el-2aTfaal (die Kinderärztin)
+- mudiir**e**t sherket (eine Firmenleiterin) → mudiir**t** el-sherket („mudiirt esh-sherket“) (die Managerin der Firma) ☀️
 
 ---
 
@@ -433,7 +433,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 5. bayyaa3et ma7all (eine Ladenverkäuferin) → _______________
 <br>
 <br>
-6. kwaafeeret niswaan (eine Damenfriseurin) → _______________
+6. kwaafeeret neswaan (eine Damenfriseurin) → _______________
 <br>
 <br>
 7. sekerteeret maktab (eine Bürosekretärin) → _______________
@@ -451,7 +451,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 11. muDiifet maT3am (eine Restaurantkellnerin) → _______________
 <br>
 <br>
-12. mwaDDHafet shirket (eine Firmenangestellte) → _______________
+12. mwaDDHafet sherket (eine Firmenangestellte) → _______________
 <br>
 <br>
 ---
@@ -463,13 +463,13 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 3. mumarreDet mashfaa → **mumarreDt el-mashfaa** (die Krankenschwester des Krankenhauses) ☽
 4. Tabbaa5et maT3am → **Tabbaa5t el-maT3am** (die Köchin des Restaurants) ☽
 5. bayyaa3et ma7all → **bayyaa3t el-ma7all** (die Verkäuferin des Ladens) ☽
-6. kwaafeeret niswaan → **kwaafeert el-niswaan** („kwaafeert en-niswaan“) (die Damenfriseurin) ☀️
+6. kwaafeeret neswaan → **kwaafeert el-neswaan** („kwaafeert en-neswaan“) (die Damenfriseurin) ☀️
 7. sekerteeret maktab → **sekerteert el-maktab** (die Sekretärin des Büros) ☽
 8. muhandiset 3amaarat → **muhandist el-3amaarat** (die Ingenieurin des Gebäudes) ☽
 9. 5ayyaaTet fasaatiin → **5ayyaaTt el-fasaatiin** (die Kleiderschneiderin) ☽
 10. Seedalaaniyyet qaryet → **Seedalaaniyyt el-qaryet** (die Apothekerin des Dorfes) ☽
 11. muDiifet maT3am → **muDiift el-maT3am** (die Kellnerin des Restaurants) ☽
-12. mwaDDHafet shirket → **mwaDDHaft el-shirket** („mwazzaft esh-shirket“) (die Angestellte der Firma) ☀️
+12. mwaDDHafet sherket → **mwaDDHaft el-sherket** („mwazzaft esh-sherket“) (die Angestellte der Firma) ☀️
 
 ---
 <br>
@@ -490,7 +490,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 1. saa3at (Uhr) → _______________
 <br>
 <br>
-2. mudiir + shirket (Manager + Firma) → _______________
+2. mudiir + sherket (Manager + Firma) → _______________
 <br>
 <br>
 3. qamar (Mond) → _______________
@@ -499,13 +499,13 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 4. Taalbet + jaam3at (Studentin + Universität) → _______________
 <br>
 <br>
-5. funduq (Hotel) → _______________
+5. fenduq (Hotel) → _______________
 <br>
 <br>
 6. sawwaaq + taaksii (Fahrer + Taxi) → _______________
 <br>
 <br>
-7. doktooret + 2aTfaal (Ärztin + Kinder) → _______________
+7. dektooret + 2aTfaal (Ärztin + Kinder) → _______________
 <br>
 <br>
 8. shaay (Tee) → _______________
@@ -514,7 +514,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 9. Seedalii + qaryet (Apotheker + Dorf) → _______________
 <br>
 <br>
-10. kwaafeeret + niswaan (Damenfriseurin + Frauen) → _______________
+10. kwaafeeret + neswaan (Damenfriseurin + Frauen) → _______________
 <br>
 <br>
 11. maSraf (Bank) → _______________
@@ -523,10 +523,10 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 12. 5ayyaaT + badlaatt (Schneider + Anzüge) → _______________
 <br>
 <br>
-13. mwaDDHafet + shirket (Angestellte + Firma) → _______________
+13. mwaDDHafet + sherket (Angestellte + Firma) → _______________
 <br>
 <br>
-14. doktoor + mashfaa (Arzt + Krankenhaus) → _______________
+14. dektoor + mashfaa (Arzt + Krankenhaus) → _______________
 <br>
 <br>
 15. mumarreDet + mashfaa (Krankenschwester + Krankenhaus) → _______________
@@ -537,17 +537,17 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es bei Sonn
 ## Lösungen
 
 1. saa3at → **el-saa3at** („es-saa3at“) (die Uhr) ☀️
-2. mudiir + shirket → **mudiir el-shirket** („mudiir esh-shirket“) (der Manager der Firma) ☀️
+2. mudiir + sherket → **mudiir el-sherket** („mudiir esh-sherket“) (der Manager der Firma) ☀️
 3. qamar → **el-qamar** („el-2amar“) (der Mond) ☽
 4. Taalbet + jaam3at → **Taalbt el-jaam3at** („Taalbt ej-jaam3at“) (die Studentin der Universität) ☀️
-5. funduq → **el-funduq** („el-fendo2“) (das Hotel) ☽
+5. fenduq → **el-fenduq** („el-fendo2“) (das Hotel) ☽
 6. sawwaaq + taaksii → **sawwaaq el-taaksii** („sawwaa2 et-taaksii“) (der Taxifahrer) ☀️
-7. doktooret + 2aTfaal → **doktoort el-2aTfaal** (die Kinderärztin) ☽
+7. dektooret + 2aTfaal → **dektoort el-2aTfaal** (die Kinderärztin) ☽
 8. shaay → **el-shaay** („esh-shaay“) (der Tee) ☀️
 9. Seedalii + qaryet → **Seedalii el-qaryet** („Seedalii el-2aryet“) (der Apotheker des Dorfes) ☽
-10. kwaafeeret + niswaan → **kwaafeert el-niswaan** („kwaafeert en-niswaan“) (die Damenfriseurin) ☀️
+10. kwaafeeret + neswaan → **kwaafeert el-neswaan** („kwaafeert en-neswaan“) (die Damenfriseurin) ☀️
 11. maSraf → **el-maSraf** (die Bank) ☽
 12. 5ayyaaT + badlaatt → **5ayyaaT el-badlaatt** (der Schneider der Anzüge) ☽
-13. mwaDDHafet + shirket → **mwaDDHaft el-shirket** („mwazzaft esh-shirket“) (die Angestellte der Firma) ☀️
-14. doktoor + mashfaa → **doktoor el-mashfaa** (der Arzt des Krankenhauses) ☽
+13. mwaDDHafet + sherket → **mwaDDHaft el-sherket** („mwazzaft esh-sherket“) (die Angestellte der Firma) ☀️
+14. dektoor + mashfaa → **dektoor el-mashfaa** (der Arzt des Krankenhauses) ☽
 15. mumarreDet + mashfaa → **mumarreDt el-mashfaa** (die Krankenschwester des Krankenhauses) ☽

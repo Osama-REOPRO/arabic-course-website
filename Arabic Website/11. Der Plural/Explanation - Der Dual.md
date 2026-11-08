@@ -27,7 +27,7 @@ Die Regel zur Bildung des Duals ist einfach:
 
 | Singular | Dual | Plural | Deutsch |
 |---|---|---|---|
-| ktaab | ktaabeen | kutub | Buch |
+| ktaab | ktaabeen | ketob | Buch |
 | beet | beeteen | byuut | Haus |
 | ghurfet | ghurfteen | ghuraf / ghurfaatt | Zimmer |
 | sayyaarat | sayyaarteen | sayyaaraatt | Auto |

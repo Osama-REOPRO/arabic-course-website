@@ -68,8 +68,8 @@ Aber im Arabischen ist dies nicht optional, sondern der einzige Weg!
 | **Deutsches Kompositum** | **Die "arabische" Logik (wörtlich)** | **Syrisches Arabisch** | **Arabische Schrift** |
 | ------------------------ | ------------------------------------ | ---------------------- | --------------------- |
 | **Hand**tasche           | Tasche (der) Hand                    | **shantet 2iid**       | شنتة إيد |
-| **Schul**lehrer          | Lehrer (der) Schule                  | **2ustaadh madraset**  | أستاذ مدرسة |
-| **Firmen**leiter         | Leiter (der) Firma                   | **mudiir shirket**     | مدير شركة |
+| **Schul**lehrer          | Lehrer (der) Schule                  | **2estaadh madraset**  | أستاذ مدرسة |
+| **Firmen**leiter         | Leiter (der) Firma                   | **mudiir sherket**     | مدير شركة |
 
 Im Arabischen können wir keine Wörter physisch zusammenkleben wie im Deutschen. Stattdessen bilden wir eine "Kette" (chain).
 
@@ -115,12 +115,12 @@ Beispiele aus unserem Wortschatz:
 | ------------------------ | -------------------------------- | ------------------------- |
 | **Schul**buch            | Buch (der) Schule                | ktaab madraset            |
 | **Haus**tür              | Tür (des) Hauses                 | baab beet                 |
-| **Auto**schlüssel        | Schlüssel (des) Autos            | miftaa7 sayyaarat         |
+| **Auto**schlüssel        | Schlüssel (des) Autos            | meftaa7 sayyaarat         |
 | **Büro**leiter           | Leiter (des) Büros               | mudiir maktab             |
-| **Sprach**lehrer         | Lehrer (der) Sprache             | 2ustaadh lughat           |
-| **Kaffee**tasse          | Tasse (des) Kaffees              | finjaan qahwet            |
-| **Wasser**glas           | Glas (des) Wassers               | kubbaayet mayy            |
-| **Haus**schlüssel        | Schlüssel (des) Hauses           | miftaa7 beet              |
+| **Sprach**lehrer         | Lehrer (der) Sprache             | 2estaadh lughat           |
+| **Kaffee**tasse          | Tasse (des) Kaffees              | fenjaan qahwet            |
+| **Wasser**glas           | Glas (des) Wassers               | kebbaayet mayy            |
+| **Haus**schlüssel        | Schlüssel (des) Hauses           | meftaa7 beet              |
 | **Schul**tasche          | Tasche (der) Schule              | shantet madraset          |
 | **Hand**tasche           | Tasche (der) Hand                | shantet 2iid              |
 | **Reise**pass            | Pass (der) Reise                 | jawaaz safar              |
@@ -134,10 +134,10 @@ Beispiele aus unserem Wortschatz:
 | **Wohn**zimmer           | Zimmer (des) Sitzens             | ghurfet qa3det            |
 | **Blumen**garten         | Garten (der) Blumen              | jneenet ward              |
 | **Obst**markt            | Markt (des) Obstes               | suuq fawaakeh             |
-| **Gemüse**händler        | Händler (des) Gemüses            | bayyaa3 5uDrat            |
+| **Gemüse**händler        | Händler (des) Gemüses            | bayyaa3 5eDrat            |
 | **Auto**mechaniker       | Mechaniker (des) Autos           | mikaaniikii sayyaaraatt   |
 | **Bank**direktor         | Direktor (der) Bank              | mudiir bank               |
 | **Schul**direktor        | Direktor (der) Schule            | mudiir madraset           |
 
 > [!NOTE] Aussprache in Damaskus
-> qahwet → „2ahwet“, suuq → „suu2“, qa3det → „2a3det“, fawaakeh → „fwaake“, 2ustaadh → „2ustaaz“, tadhkaret → „tazkaret“, shughl → „sheghel“
+> qahwet → „2ahwet“, suuq → „suu2“, qa3det → „2a3det“, fawaakeh → „fwaake“, 2estaadh → „2ustaaz“, tadhkaret → „tazkaret“, shughl → „sheghel“

@@ -17,11 +17,11 @@ Ausführlich: [[Pronunciation - Shaddet|shaddet]] · Vokabeln: [[Pronunciation -
 
   ـّ
 
-- **Unsere Umschrift:** der Buchstabe wird **zweimal** geschrieben: rijjaal, 7ubb, najjaar, tfaDDal
+- **Unsere Umschrift:** der Buchstabe wird **zweimal** geschrieben: rejjaal, 7ubb, najjaar, tfaDDal
 - bei Zeichen aus zwei Buchstaben wird nur der **erste** verdoppelt: kaddhab (dh + dh), naDDHam (DH + DH), ghaddhaa
 - yaa2 und waaw mit shaddet: **yy** und **ww**: sayyaarat, Sabiyyet, huwwe, hiyye
 
 | ohne shaddet | mit shaddet |
 | --- | --- |
 | ein Schlag | zwei Schläge, der Buchstabe wird gehalten |
-| kalb | 7ubb, rijjaal |
+| kalb | 7ubb, rejjaal |

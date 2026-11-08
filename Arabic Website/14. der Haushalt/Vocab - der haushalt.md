@@ -25,7 +25,7 @@ lektion:
 - ghurft el-2akl: Esszimmer
 # Möbel
 - Taawlet: Tisch
-- shibbaak: Fenster
+- shebbaak: Fenster
 - ta5t: Bett
 - barraad: Kühlschrank
 - ghassaalet: Waschmaschine
@@ -38,13 +38,13 @@ lektion:
 - 5zaanet: Kleiderschrank
 - raff: Regal
 - sajjaadet: Teppich, oft gesprochen „sejjaadet“
-- birdaayet: Vorhang
+- berdaayet: Vorhang
 - ghaaz: Herd (Gasherd)
 - jallaayet: Spülmaschine
-- finjaan: Tasse
+- fenjaan: Tasse
 - shooket: Gabel
 - ma3laqat: Löffel, gesprochen „ma3la2at“
-- sikkiinet: Messer
+- sekkiinet: Messer
 - maghsalet: das Waschbecken
 - twaaleett: die Toilette
 - baanyoo: Badewanne

@@ -13,9 +13,9 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- ثياب
 	- Hinweis: in Damaskus gesprochen „tyaab“. ma7all thyaab = Kleidergeschäft
 
-- **fusTaan** (m.) – das Kleid
+- **fesTaan** (m.) – das Kleid
 	- فستان
-	- فُستان
+	- فِستان
 	- Plural: fasaatiin
 
 - **tannuurat** (f.) – der Rock
@@ -26,7 +26,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 - **qamiiS** (m.) – das Hemd
 	- قميص
 	- قَميص
-	- Plural: qumSaan
+	- Plural: qemSaan
 	- Hinweis: in Damaskus gesprochen „2amiiS“, Plural „2emSaan“
 
 - **bluuzet** (f.) – die Bluse
@@ -57,11 +57,11 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 - **SabbaaT** (m.) – der Schuh
 	- صباط
 	- صَبّاط
-	- Hinweis: allgemeines Wort für Schuh, oft für Halbschuhe benutzt. Auch kundarat heißt Schuh
+	- Hinweis: allgemeines Wort für Schuh, oft für Halbschuhe benutzt. Auch kendarat heißt Schuh
 
-- **kundarat** (f.) – der Schuh
+- **kendarat** (f.) – der Schuh
 	- كندرة
-	- كُندَرَة
+	- كِندَرَة
 	- Hinweis: allgemeines Wort für Schuh, oft für Absatzschuhe benutzt. Auch SabbaaT heißt Schuh
 
 - **booT** (m.) – der Stiefel

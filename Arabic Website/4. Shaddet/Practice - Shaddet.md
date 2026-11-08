@@ -20,7 +20,7 @@ Welcher Buchstabe ist verdoppelt? Unterstreiche ihn und lies das Wort laut.
 5. m7ammad
 6. fakkar
 7. zayyan
-8. rijjaal
+8. rejjaal
 9. 7ubb
 10. tfaDDal
 11. huwwe
@@ -32,8 +32,8 @@ Ein Partner liest die Wörter vor, der andere hört zu: Wird die shaddet lang ge
 ### Partner 1
 1. najjaar
 2. sayyaarat
-3. tuffaa7at („teffaa7at“)
-4. rummaan („remmaan“)
+3. teffaa7at („teffaa7at“)
+4. remmaan („remmaan“)
 5. Tayyeb
 6. jannet
 7. m7ammad
@@ -47,20 +47,20 @@ Ein Partner liest die Wörter vor, der andere hört zu: Wird die shaddet lang ge
 15. makket
 16. tfaDDal
 17. tfaDDalii
-18. rijjaal
+18. rejjaal
 
 ### Partner 2
-1. tuffaa7at („teffaa7at“)
+1. teffaa7at („teffaa7at“)
 2. Tayyeb
 3. naDDHam („naZZam“)
 4. fakkar
 5. m7ammad
-6. rummaan („remmaan“)
+6. remmaan („remmaan“)
 7. najjaar
 8. zayyan
 9. 5affaf
 10. sayyaarat
-11. rijjaal
+11. rejjaal
 12. jannet
 13. ghaddhaa („ghazzaa“)
 14. qarrar (mit echtem q)
@@ -74,7 +74,7 @@ Lies beide Wörter laut. In welchem Wort hörst du eine shaddet?
 
 1. kalb – 7ubb
 2. bint – jannet
-3. kbiir – rijjaal
+3. kbiir – rejjaal
 4. beet – Tayyeb
 5. shams – sayyaarat
 
@@ -97,4 +97,4 @@ Lies beide Wörter laut. In welchem Wort hörst du eine shaddet?
 12. hiy**y**e (y)
 
 ## Übung 3
-Die shaddet ist immer im zweiten Wort: 7ubb, jannet, rijjaal, Tayyeb, sayyaarat.
+Die shaddet ist immer im zweiten Wort: 7ubb, jannet, rejjaal, Tayyeb, sayyaarat.

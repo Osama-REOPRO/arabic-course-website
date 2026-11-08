@@ -37,11 +37,11 @@ lektion: 24
 	- الطاولة بالمطبخ.
 2. fii Taawlet bil-maTba5.
 	- في طاولة بالمطبخ.
-3. el-fusTaan bil-5zaanet.
+3. el-fesTaan bil-5zaanet.
 	- الفستان بالخزانة.
-4. fii fusTaan bil-5zaanet.
+4. fii fesTaan bil-5zaanet.
 	- في فستان بالخزانة.
-5. fii shibbaak bi-ghurft el-qa3det?
+5. fii shebbaak bi-ghurft el-qa3det?
 	- في شباك بغرفة القعدة؟
 6. saarat bi-ghurft el-noom.
 	- سارة بغرفة النوم.
@@ -49,7 +49,7 @@ lektion: 24
 	- ما في مي بالبراد.
 8. el-kalb bil-jneenet.
 	- الكلب بالجنينة.
-9. fii kutub kthiir bil-raff.
+9. fii ketob kthiir bil-raff.
 	- في كتب كثير بالرف.
 10. kanztii bil-shantat.
 	- كنزتي بالشنتة.
@@ -58,7 +58,7 @@ lektion: 24
 **Wortschatz:** [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Adjektive|Adjektive]]
 
 1. Ein weites Kleid
-	- fusTaan waase3
+	- fesTaan waase3
 2. Eine enge Bluse
 	- 
 3. Der weite Pullover
@@ -79,7 +79,7 @@ lektion: 24
 	- 
 
 ##### Lösung
-1. fusTaan waase3
+1. fesTaan waase3
 	- فستان واسع
 2. bluuzet Dayyqat
 	- بلوزة ضيقة
@@ -89,7 +89,7 @@ lektion: 24
 	- القميص ضيق.
 5. tannuurtii waas3at kthiir.
 	- تنورتي واسعة كثير.
-6. el-qumSaan el-Dayyqiin / el-qumSaan el-Dayyqat
+6. el-qemSaan el-Dayyqiin / el-qemSaan el-Dayyqat
 	- القمصان الضيقين / القمصان الضيقة
 7. bijaamtek muu Dayyqat.
 	- بجامتك مو ضيقة.
@@ -104,7 +104,7 @@ lektion: 24
 **Wortschatz:** [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Adjektive|Adjektive]]
 
 1. Eine schöne Hose
-	- banTaloon 7uluu
+	- banTaloon 7eluu
 2. Ein hässlicher Rock
 	- 
 3. Die schöne Bluse
@@ -125,25 +125,25 @@ lektion: 24
 	- 
 
 ##### Lösung
-1. banTaloon 7uluu
+1. banTaloon 7eluu
 	- بنطلون حلو
 2. tannuurat bash3at
 	- تنورة بشعة
-3. el-bluuzet el-7ulwet
+3. el-bluuzet el-7elwet
 	- البلوزة الحلوة
 4. el-kanzet bash3at.
 	- الكنزة بشعة.
-5. banTaloonii 7uluu kthiir.
+5. banTaloonii 7eluu kthiir.
 	- بنطلوني حلو كثير.
-6. el-qumSaan el-bash3iin / el-qumSaan el-bash3at
+6. el-qemSaan el-bash3iin / el-qemSaan el-bash3at
 	- القمصان البشعين / القمصان البشعة
-7. fusTaanek muu bashe3.
+7. fesTaanek muu bashe3.
 	- فستانك مو بشع.
-8. el-tannuuraatt el-7ulwet bil-5zaanet. / el-tannuuraatt el-7ulwaatt bil-5zaanet.
+8. el-tannuuraatt el-7elwet bil-5zaanet. / el-tannuuraatt el-7elwaatt bil-5zaanet.
 	- التنورات الحلوة بالخزانة. / التنورات الحلوات بالخزانة.
-9. el-fusTaan 7uluu? 2ee, el-fusTaan 7uluu kthiir.
+9. el-fesTaan 7eluu? 2ee, el-fesTaan 7eluu kthiir.
 	- الفستان حلو؟ إي، الفستان حلو كثير.
-10. beddii el-banTaloon el-7uluu, muu el-bashe3.
+10. beddii el-banTaloon el-7eluu, muu el-bashe3.
 	- بدي البنطلون الحلو، مو البشع.
 
 # 9. Übung
@@ -173,7 +173,7 @@ lektion: 24
 ##### Lösung
 1. el-ktaab la-saarat.
 	- الكتاب لسارة.
-2. haad el-fusTaan la-maayaa.
+2. haad el-fesTaan la-maayaa.
 	- هاد الفستان لمايا.
 3. el-bluuzet la-2u5tii.
 	- البلوزة لأختي.
@@ -196,10 +196,10 @@ lektion: 24
 **Wortschatz:** [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]] · [[Vokabeln - Familie und Menschen|Familie und Menschen]]
 
 > [!tip] Sprecht die Sätze laut
-> Bei Sonnenbuchstaben hört man das l von lal- nicht: lal-rijjaal → „lar-rijjaal“, lal-Sabii → „laS-Sabii“, lal-Tifl → „laT-Tifl“
+> Bei Sonnenbuchstaben hört man das l von lal- nicht: lal-rejjaal → „lar-rejjaal“, lal-Sabii → „laS-Sabii“, lal-Tifl → „laT-Tifl“
 
 1. Dieses Kleid gehört dem Mädchen.
-	- haad el-fusTaan lal-bint.
+	- haad el-fesTaan lal-bint.
 2. Der Pullover gehört dem Jungen.
 	- 
 3. Diese Hemden gehören dem Mann.
@@ -216,11 +216,11 @@ lektion: 24
 	- 
 
 ##### Lösung
-1. haad el-fusTaan lal-bint.
+1. haad el-fesTaan lal-bint.
 	- هاد الفستان للبنت.
 2. el-kanzet lal-walad.
 	- الكنزة للولد.
-3. hadool el-qumSaan lal-rijjaal.
+3. hadool el-qemSaan lal-rejjaal.
 	- هدول القمصان للرجال.
 4. el-bluuzet el-Tawiilet lal-marat.
 	- البلوزة الطويلة للمرة.
@@ -242,30 +242,30 @@ lektion: 24
 - hay el-bluuzet el-jdiidet la-maayaa.
 
 1. tannuurat – Tawiilet – bintii *(Rock – lang – meine Tochter)*
-2. fusTaan – qaSiir – el-bint *(Kleid – kurz – das Mädchen)*
+2. fesTaan – qaSiir – el-bint *(Kleid – kurz – das Mädchen)*
 3. bijaamat – waas3at – 2a7mad *(Schlafanzug – weit – Ahmad)*
-4. banTaloon – 7uluu – saarat *(Hose – schön – Sara)*
-5. qumSaan – jdaad – 2a5ii *(Hemden – neu – mein Bruder)*
-6. kanzet – el-rijjaal *(Pullover – der Mann)*
+4. banTaloon – 7eluu – saarat *(Hose – schön – Sara)*
+5. qemSaan – jdaad – 2a5ii *(Hemden – neu – mein Bruder)*
+6. kanzet – el-rejjaal *(Pullover – der Mann)*
 7. 2a7dhiyet – Sghaar – el-wlaad *(Schuhe – klein – die Kinder)*
-8. fasaatiin – 7ulwet – maayaa w liinaa *(Kleider – schön – Maya und Lina)*
+8. fasaatiin – 7elwet – maayaa w liinaa *(Kleider – schön – Maya und Lina)*
 
 ##### Lösung
 1. la-miin hay el-tannuurat el-Tawiilet? / hay el-tannuurat el-Tawiilet la-bintii.
 	- لمين هي التنورة الطويلة؟ / هي التنورة الطويلة لبنتي.
-2. la-miin haad el-fusTaan el-qaSiir? / haad el-fusTaan el-qaSiir lal-bint.
+2. la-miin haad el-fesTaan el-qaSiir? / haad el-fesTaan el-qaSiir lal-bint.
 	- لمين هاد الفستان القصير؟ / هاد الفستان القصير للبنت.
 3. la-miin hay el-bijaamat el-waas3at? / hay el-bijaamat el-waas3at la-2a7mad.
 	- لمين هي البجامة الواسعة؟ / هي البجامة الواسعة لأحمد.
-4. la-miin haad el-banTaloon el-7uluu? / haad el-banTaloon el-7uluu la-saarat.
+4. la-miin haad el-banTaloon el-7eluu? / haad el-banTaloon el-7eluu la-saarat.
 	- لمين هاد البنطلون الحلو؟ / هاد البنطلون الحلو لسارة.
-5. la-miin hadool el-qumSaan el-jdaad? / hadool el-qumSaan el-jdaad la-2a5ii.
+5. la-miin hadool el-qemSaan el-jdaad? / hadool el-qemSaan el-jdaad la-2a5ii.
 	- لمين هدول القمصان الجداد؟ / هدول القمصان الجداد لأخي.
-6. la-miin hay el-kanzet? / hay el-kanzet lal-rijjaal.
+6. la-miin hay el-kanzet? / hay el-kanzet lal-rejjaal.
 	- لمين هي الكنزة؟ / هي الكنزة للرجال.
 7. la-miin hadool el-2a7dhiyet el-Sghaar? / hadool el-2a7dhiyet el-Sghaar lal-wlaad.
 	- لمين هدول الأحذية الصغار؟ / هدول الأحذية الصغار للولاد.
-8. la-miin hadool el-fasaatiin el-7ulwet? / hadool el-fasaatiin el-7ulwet la-maayaa w liinaa.
+8. la-miin hadool el-fasaatiin el-7elwet? / hadool el-fasaatiin el-7elwet la-maayaa w liinaa.
 	- لمين هدول الفساتين الحلوة؟ / هدول الفساتين الحلوة لمايا ولينا.
 
 # 15. Übung
@@ -274,14 +274,14 @@ lektion: 24
 ## Stelle die Frage auf die andere Art
 **Beispiel:** la-miin haad el-ktaab? → haad el-ktaab la-miin?
 1. la-miin hay el-tannuurat?
-2. la-miin hadool el-kutub?
+2. la-miin hadool el-ketob?
 3. haad el-qamiiS la-miin?
 4. hay el-shantaayet la-miin?
 
 ##### Lösung
 1. hay el-tannuurat la-miin?
 	- هي التنورة لمين؟
-2. hadool el-kutub la-miin?
+2. hadool el-ketob la-miin?
 	- هدول الكتب لمين؟
 3. la-miin haad el-qamiiS?
 	- لمين هاد القميص؟
@@ -296,17 +296,17 @@ lektion: 24
 2. hay el-sayyaarat ________. (gehört dir, m.)
 3. hay el-bluuzet ________. (gehört dir, f.)
 4. haad el-qamiiS ________. (gehört ihm)
-5. hadool el-kutub ________. (gehören ihr)
+5. hadool el-ketob ________. (gehören ihr)
 6. haad el-beet ________. (gehört uns)
 7. hay el-shantaayet ________. (gehört euch)
 8. hadool el-fasaatiin ________. (gehören ihnen)
-9. el-fusTaan el-Tawiil ________. (gehört dir, f.)
+9. el-fesTaan el-Tawiil ________. (gehört dir, f.)
 10. hadool el-2a7dhiyet el-jdaad ________. (gehören euch)
 11. la-miin haad el-qamiiS? – ________. (Ihm.)
 12. la-miin hay el-tannuurat el-qaSiirat? – ________. (Ihr.)
 13. el-kanzet el-waas3at ________. (gehört mir)
-14. hadool el-qumSaan el-bash3iin ________. (gehören ihnen)
-15. la-miin hadool el-kutub? – ________. (Uns.)
+14. hadool el-qemSaan el-bash3iin ________. (gehören ihnen)
+15. la-miin hadool el-ketob? – ________. (Uns.)
 16. haad el-banTaloon el-qadiim ________. (gehört dir, m.)
 
 ##### Lösung
@@ -318,7 +318,7 @@ lektion: 24
 	- هي البلوزة إلك.
 4. haad el-qamiiS 2iloh.
 	- هاد القميص إله.
-5. hadool el-kutub 2ilhaa.
+5. hadool el-ketob 2ilhaa.
 	- هدول الكتب إلها.
 6. haad el-beet 2ilnaa.
 	- هاد البيت إلنا.
@@ -326,7 +326,7 @@ lektion: 24
 	- هي الشنتاية إلكن.
 8. hadool el-fasaatiin 2ilhon.
 	- هدول الفساتين إلهن.
-9. el-fusTaan el-Tawiil 2ilek.
+9. el-fesTaan el-Tawiil 2ilek.
 	- الفستان الطويل إلك.
 10. hadool el-2a7dhiyet el-jdaad 2ilkon.
 	- هدول الأحذية الجداد إلكن.
@@ -336,9 +336,9 @@ lektion: 24
 	- لمين هي التنورة القصيرة؟ – إلها.
 13. el-kanzet el-waas3at 2ilii.
 	- الكنزة الواسعة إلي.
-14. hadool el-qumSaan el-bash3iin 2ilhon.
+14. hadool el-qemSaan el-bash3iin 2ilhon.
 	- هدول القمصان البشعين إلهن.
-15. la-miin hadool el-kutub? – 2ilnaa.
+15. la-miin hadool el-ketob? – 2ilnaa.
 	- لمين هدول الكتب؟ – إلنا.
 16. haad el-banTaloon el-qadiim 2ilak.
 	- هاد البنطلون القديم إلك.
@@ -353,7 +353,7 @@ lektion: 24
 2. **haad el-qamiiS el-jdiid 2ilak yaa kariim?** (Gehört dieses neue Hemd dir, Karim?)
    *Antwort (Ja):* ________________________________
    *Antwort (Nein, es gehört meinem Bruder):* ________________________________
-3. **hay el-bluuzet el-7ulwet 2ilek yaa liinaa?** (Gehört diese schöne Bluse dir, Lina?)
+3. **hay el-bluuzet el-7elwet 2ilek yaa liinaa?** (Gehört diese schöne Bluse dir, Lina?)
    *Antwort (Ja):* ________________________________
    *Antwort (Nein, sie gehört meiner Schwester):* ________________________________
 4. **hadool el-2a7dhiyet 2ilkon?** (Gehören diese Schuhe euch?)
@@ -371,7 +371,7 @@ lektion: 24
 - la-miin hay el-sayyaarat el-jdiidet?
 - hay el-sayyaarat el-jdiidet la-waliid.
 
-1. kutub – 3arabii – 2intuu *(Bücher – arabisch – ihr)*
+1. ketob – 3arabii – 2intuu *(Bücher – arabisch – ihr)*
 2. beet – kbiir – saamii w liinaa *(Haus – groß – Sami und Lina)*
 3. hadaayaa – rifqaatek *(Geschenke – deine Freunde)*: Sara, gehören diese Geschenke deinen Freunden? Antworte mit Ja.
 4. tannuurat – qaSiirat – 2intii *(Rock – kurz – du, f.)*
@@ -384,17 +384,17 @@ lektion: 24
 	- إي، البجامات الواسعين للينا. / لأ، البجامات الواسعين مو للينا، لسارة.
 2. 2ee, haad el-qamiiS el-jdiid 2ilii. / la2, haad el-qamiiS el-jdiid muu 2ilii, la-2a5ii.
 	- إي، هاد القميص الجديد إلي. / لأ، هاد القميص الجديد مو إلي، لأخي.
-3. 2ee, hay el-bluuzet el-7ulwet 2ilii. / la2, hay el-bluuzet el-7ulwet muu 2ilii, la-2u5tii.
+3. 2ee, hay el-bluuzet el-7elwet 2ilii. / la2, hay el-bluuzet el-7elwet muu 2ilii, la-2u5tii.
 	- إي، هي البلوزة الحلوة إلي. / لأ، هي البلوزة الحلوة مو إلي، لأختي.
 4. 2ee, hadool el-2a7dhiyet 2ilnaa. / la2, hadool el-2a7dhiyet muu 2ilnaa, lal-wlaad.
 	- إي، هدول الأحذية إلنا. / لأ، هدول الأحذية مو إلنا، للولاد.
 5. 2ee, el-kanzet el-waas3at 2iloh. / la2, el-kanzet el-waas3at muu 2iloh, la-saamii.
 	- إي، الكنزة الواسعة إله. / لأ، الكنزة الواسعة مو إله، لسامي.
-6. 2ee, haad el-banTaloon el-jdiid 2ilhaa. / la2, haad el-banTaloon el-jdiid muu 2ilhaa, lal-rijjaal.
+6. 2ee, haad el-banTaloon el-jdiid 2ilhaa. / la2, haad el-banTaloon el-jdiid muu 2ilhaa, lal-rejjaal.
 	- إي، هاد البنطلون الجديد إلها. / لأ، هاد البنطلون الجديد مو إلها، للرجال.
 
 **Übung B**
-1. la-miin hadool el-kutub el-3arabii? / hadool el-kutub el-3arabii 2ilkon.
+1. la-miin hadool el-ketob el-3arabii? / hadool el-ketob el-3arabii 2ilkon.
 	- لمين هدول الكتب العربي؟ / هدول الكتب العربي إلكن.
 2. la-miin haad el-beet el-kbiir? / haad el-beet el-kbiir la-saamii w liinaa.
 	- لمين هاد البيت الكبير؟ / هاد البيت الكبير لسامي ولينا.
@@ -415,11 +415,11 @@ lektion: 24
 **Frage:** la-miin el-qamiiS el-jdiid yallii bil-5zaanet?
 **Antwort:** el-qamiiS el-jdiid yallii bil-5zaanet la-kariim. (kariim)
 
-1. **Frage:** la-miin el-bluuzet el-7ulwet yallii 3alaa el-ta5t?
+1. **Frage:** la-miin el-bluuzet el-7elwet yallii 3alaa el-ta5t?
    **Antwort:** ___ (2anaa)
 2. **Frage:** la-miin el-thyaab yallii bil-ghassaalet?
    **Antwort:** ___ (2intuu)
-3. **Frage:** la-miin el-qumSaan yallii bil-shantat?
+3. **Frage:** la-miin el-qemSaan yallii bil-shantat?
    **Antwort:** ___ (2a7mad)
 4. **Frage:** la-miin el-banTaloon el-Tawiil yallii janb el-ghassaalet?
    **Antwort:** ___ (huwwe)
@@ -429,7 +429,7 @@ lektion: 24
    **Antwort:** ___ (el-bint)
 7. **Frage:** la-miin el-fasaatiin yallii bil-5zaanet el-kbiiret?
    **Antwort:** ___ (hiyye)
-8. **Frage:** la-miin el-SabbaaT yallii quddaam el-baab?
+8. **Frage:** la-miin el-SabbaaT yallii qeddaam el-baab?
    **Antwort:** ___ (2a5ii)
 9. **Frage:** la-miin el-bijaamat yallii fooq el-ghassaalet?
    **Antwort:** ___ (ni7naa)
@@ -437,11 +437,11 @@ lektion: 24
    **Antwort:** ___ (hinnen)
 
 ##### Lösung
-1. el-bluuzet el-7ulwet yallii 3alaa el-ta5t 2ilii.
+1. el-bluuzet el-7elwet yallii 3alaa el-ta5t 2ilii.
 	- البلوزة الحلوة يلي على التخت إلي.
 2. el-thyaab yallii bil-ghassaalet 2ilkon.
 	- الثياب يلي بالغسالة إلكن.
-3. el-qumSaan yallii bil-shantat la-2a7mad.
+3. el-qemSaan yallii bil-shantat la-2a7mad.
 	- القمصان يلي بالشنتة لأحمد.
 4. el-banTaloon el-Tawiil yallii janb el-ghassaalet 2iloh.
 	- البنطلون الطويل يلي جنب الغسالة إله.
@@ -451,7 +451,7 @@ lektion: 24
 	- الكنزة الجديدة يلي على الكرسي للبنت.
 7. el-fasaatiin yallii bil-5zaanet el-kbiiret 2ilhaa.
 	- الفساتين يلي بالخزانة الكبيرة إلها.
-8. el-SabbaaT yallii quddaam el-baab la-2a5ii.
+8. el-SabbaaT yallii qeddaam el-baab la-2a5ii.
 	- الصباط يلي قدام الباب لأخي.
 9. el-bijaamat yallii fooq el-ghassaalet 2ilnaa.
 	- البجامة يلي فوق الغسالة إلنا.
@@ -464,13 +464,13 @@ lektion: 24
 
 **Beispiel:** el-tannuurat el-qaSiirat **jdiidet**.
 1. qamiiSii el-jdiid waase3.
-2. haad el-fusTaan el-Tawiil qadiim.
+2. haad el-fesTaan el-Tawiil qadiim.
 3. bijaamet raamii el-jdiidet bil-5zaanet.
 4. el-bluwaz el-qSaar jdaad.
 5. el-fasaatiin yallii 3alaa el-ta5t 2ilii.
 6. el-fasaatiin el-waas3iin muu jdaad.
 7. el-bluuzet el-Tawiilet bash3at.
-8. thyaabek el-jdaad 7ulwiin.
+8. thyaabek el-jdaad 7elwiin.
 9. thyaab el-wlaad bil-ghassaalet.
 
 ##### Lösung
@@ -488,7 +488,7 @@ lektion: 24
 	- الفساتين الواسعين مو جداد.
 7. Sifat: el-Tawiilet · 5abar: bash3at
 	- البلوزة الطويلة بشعة.
-8. Sifat: el-jdaad · 5abar: 7ulwiin
+8. Sifat: el-jdaad · 5abar: 7elwiin
 	- ثيابك الجداد حلوين.
 9. Sifat: – · 5abar: bil-ghassaalet
 	- ثياب الولاد بالغسالة.
@@ -502,9 +502,9 @@ lektion: 24
 | **ghurfet qa3det** | Wohnzimmer |
 | **ghurfet noom** | Schlafzimmer |
 | **ghurfet wlaad** | Kinderzimmer |
-| **shibbaak** | Fenster |
+| **shebbaak** | Fenster |
 | **talfizyoon** | Fernseher |
-| **birdaayet** | Vorhang |
+| **berdaayet** | Vorhang |
 | **raff** (Pl. **rfuuf**) | Regal (Regale) |
 
 > [!NOTE] Aussprache
@@ -514,22 +514,22 @@ lektion: 24
 **Wortschatz:** [[Vokabeln - Haus und Wohnung|Haus und Wohnung]] · [[Vokabeln - Verkehr und Reisen|Verkehr und Reisen]]
 
 1. beetii – qariib – min – ma7aTTat – el- – qiTaar – el- – jdiidet
-2. sayyaarat – 7ulwet – jdiidet – saamii – el-
-3. ghurfet – el- – shibbaak – kbiir – qa3det – fii – bi-
+2. sayyaarat – 7elwet – jdiidet – saamii – el-
+3. ghurfet – el- – shebbaak – kbiir – qa3det – fii – bi-
 4. saarat – el- – talfizyoon – bedd'haa – maa – el- – Sghiir
-5. ghurfet – Tawiilet – el- – birdaayet – bi- – kthiir – el- – noom
+5. ghurfet – Tawiilet – el- – berdaayet – bi- – kthiir – el- – noom
 6. bi- – el- – wlaad – rfuuf – yallii – jdaad – el- – ghurfet
 
 ##### Lösung
 1. beetii qariib min ma7aTTet el-qiTaar el-jdiidet.
 	- بيتي قريب من محطة القطار الجديدة.
-2. sayyaaret saamii el-jdiidet 7ulwet.
+2. sayyaaret saamii el-jdiidet 7elwet.
 	- سيارة سامي الجديدة حلوة.
-3. fii shibbaak kbiir bi-ghurft el-qa3det.
+3. fii shebbaak kbiir bi-ghurft el-qa3det.
 	- في شباك كبير بغرفة القعدة.
 4. saarat maa bedd'haa el-talfizyoon el-Sghiir.
 	- سارة ما بدها التلفزيون الصغير.
-5. el-birdaayet bi-ghurft el-noom Tawiilet kthiir.
+5. el-berdaayet bi-ghurft el-noom Tawiilet kthiir.
 	- البرداية بغرفة النوم طويلة كثير.
 6. el-rfuuf yallii bi-ghurft el-wlaad jdaad.
 	- الرفوف يلي بغرفة الولاد جداد.
@@ -548,7 +548,7 @@ lektion: 24
 | # | Frage | Antwort |
 | - | ----- | ------- |
 | 1 | ............................ | el-sayyaarat yallii bil-garaaj la-2abii. |
-| 2 | ............................ | fusTaan maayaa el-jdiid 7uluu. |
+| 2 | ............................ | fesTaan maayaa el-jdiid 7eluu. |
 | 3 | ............................ | bluuztek el-jdiidet bi-2ooDtek. |
 | 4 | ............................ | beddii el-banTaloon el-Tawiil. |
 | 5 | ............................ | bi-hay el-5zaanet fii thyaab joozii. |
@@ -556,7 +556,7 @@ lektion: 24
 ##### Lösung
 1. la-miin el-sayyaarat yallii bil-garaaj?
 	- لمين السيارة يلي بالكراج؟
-2. kiif fusTaan maayaa el-jdiid?
+2. kiif fesTaan maayaa el-jdiid?
 	- كيف فستان مايا الجديد؟
 3. ween bluuztii el-jdiidet?
 	- وين بلوزتي الجديدة؟
@@ -634,19 +634,19 @@ lektion: 24
 
 1. shuu bedd'haa liinaa?
 2. el-thyaab la-miin?
-3. kiif el-fusTaan?
+3. kiif el-fesTaan?
 4. kiif el-banTaloon?
 5. kiif el-bluuzet?
 6. w 2inte / 2intii, shuu ra2yak / ra2yek bi-thyaabak / thyaabek el-yoom?
 
 ##### Lösung
-1. bedd'haa fusTaan w banTaloon w bluuzet.
+1. bedd'haa fesTaan w banTaloon w bluuzet.
 	- بدها فستان وبنطلون وبلوزة.
 2. el-thyaab la-liinaa. / el-thyaab 2ilhaa.
 	- الثياب للينا. / الثياب إلها.
-3. el-fusTaan 7uluu bass qaSiir.
+3. el-fesTaan 7eluu bass qaSiir.
 	- الفستان حلو بس قصير.
-4. el-banTaloon 7uluu bass ghaalii.
+4. el-banTaloon 7eluu bass ghaalii.
 	- البنطلون حلو بس غالي.
 5. el-bluuzet r5iiSat bass Dayyqat.
 	- البلوزة رخيصة بس ضيقة.
@@ -668,7 +668,7 @@ lektion: 24
 # 31. Schuhe: shuu ra2yak / ra2yek bi-hadool el-2a7dhiyet?
 ## Partnerübung: Was hältst du von …?
 - **Partner A** zeigt auf ein Bild und fragt: shuu ra2yak / ra2yek bil-booT?
-- **Partner B** antwortet mit zwei Adjektiven und bass: el-booT 7uluu bass ghaalii.
+- **Partner B** antwortet mit zwei Adjektiven und bass: el-booT 7eluu bass ghaalii.
 - Tauscht die Rollen nach jedem Bild.
 - Für Fortgeschrittene: vergleicht zwei Schuhe: el-Sandal 2ar5aS min el-booT.
 
@@ -677,13 +677,13 @@ lektion: 24
 ## 33.1 Welche Farbe? Frag und antworte wie im Beispiel
 **Wortschatz:** [[Vokabeln - Farben|Farben]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]]
 
-**Beispiel:** kundarat – 2a7mar *(Schuh – rot)*
-- shuu loon el-kundarat?
-- loon el-kundarat 2a7mar. / el-kundarat 7amrat.
+**Beispiel:** kendarat – 2a7mar *(Schuh – rot)*
+- shuu loon el-kendarat?
+- loon el-kendarat 2a7mar. / el-kendarat 7amrat.
 
 > [!NOTE] Warum zwei verschiedene Formen?
 > - loon ist maskulin → 2a7mar
-> - kundarat ist feminin → 7amrat
+> - kendarat ist feminin → 7amrat
 
 **Weitere Wortpaare:**
 1. booT – 2aswad *(Stiefel – schwarz)*
@@ -707,9 +707,9 @@ lektion: 24
 ## 33.2 Fülle die Lücken aus
 **Wortschatz:** [[Vokabeln - Farben|Farben]] · [[Vokabeln - Kleidung und Schuhe|Kleidung und Schuhe]]
 
-1. el-kundarat el-________ ghaalyet. (2a7mar)
+1. el-kendarat el-________ ghaalyet. (2a7mar)
 2. el-SabbaaT el-________ jdiid. (bunnii)
-3. beddii booT ________ w kundarat ________. (2aswad)
+3. beddii booT ________ w kendarat ________. (2aswad)
 4. el-Sandal el-________ 2a7laa min el-Sandal el-________. (beej / 2a5Dar)
 5. liinaa maa bedd'haa kanabaayet ________. (bunnii)
 6. bil-maTba5 fii barraad ________ w jallaayet ________. (2a7mar)
@@ -726,11 +726,11 @@ lektion: 24
 | **jallaayet** | Spülmaschine |
 
 ##### Lösung
-1. el-kundarat el-7amrat ghaalyet.
+1. el-kendarat el-7amrat ghaalyet.
 	- الكندرة الحمرة غالية.
 2. el-SabbaaT el-bunnii jdiid.
 	- الصباط البني جديد.
-3. beddii booT 2aswad w kundarat sawdat.
+3. beddii booT 2aswad w kendarat sawdat.
 	- بدي بوط أسود وكندرة سودة.
 4. el-Sandal el-beej 2a7laa min el-Sandal el-2a5Dar.
 	- الصندل البيج أحلى من الصندل الأخضر.

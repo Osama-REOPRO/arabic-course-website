@@ -38,10 +38,10 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- بنك
 	- بَنك
 
-- **shirket** (f.) – die Firma
+- **sherket** (f.) – die Firma
 	- شركة
 	- شِركِة
-	- Plural: shirkaatt
+	- Plural: sherkaatt
 
 - **maktab** (m.) – der Schreibtisch, das Büro
 	- مكتب

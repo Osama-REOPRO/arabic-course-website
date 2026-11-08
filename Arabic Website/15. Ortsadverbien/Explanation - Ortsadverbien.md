@@ -14,14 +14,14 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Kleine Wörter|Kleine Wörter]] · [[Vo
 | Arabisch                  | Deutsch           |
 | ------------------------- | ----------------- |
 | **fooq # ta7t**           | oben # unten      |
-| **quddaam # waraa**       | vorne # hinten    |
+| **qeddaam # waraa**       | vorne # hinten    |
 | **juwwaatt # barraatt**   | drinnen # draußen |
 | **janb − 3alaa**          | neben − auf       |
 
 oder (juwwaa # barraa)
 
 > [!note] Aussprache in Damaskus
-> fooq → „foo2“, quddaam → „2iddaam“, DHarf → „Zarf“
+> fooq → „foo2“, qeddaam → „2iddaam“, DHarf → „Zarf“
 
 ---
 
@@ -37,8 +37,8 @@ oder (juwwaa # barraa)
 > **liinaa:** beetak Sghiir aw kbiir?
 > **kamaal:** beetii kbiir.
 >
-> **liinaa:** shuu fii **quddaam** beetak?
-> **kamaal:** quddaam beetii fii jneenet.
+> **liinaa:** shuu fii **qeddaam** beetak?
+> **kamaal:** qeddaam beetii fii jneenet.
 >
 > **liinaa:** shuu fii **waraa** beetak?
 > **kamaal:** waraa beetii fii garaaj.
@@ -63,8 +63,8 @@ oder (juwwaa # barraa)
 	- beetoh la kamaal bi shaare3 el-7amraa
 2. kiif huwwe beetoh?
 	- beetoh la kamaal kbiir
-3. fii jneenet quddaam beetoh?
-	- 2ee, fii jneenet quddaam beetoh
+3. fii jneenet qeddaam beetoh?
+	- 2ee, fii jneenet qeddaam beetoh
 4. shuu fii waraa el-beet?
 	- fii garaaj waraa el-beet / waraa el-beet fii garaaj
 5. shuu fii 3alaa (el-)SaT7?
@@ -78,14 +78,14 @@ oder (juwwaa # barraa)
 # 4. s2al / s2alii mithl el-mithaal: *(Frage/Antworte wie im Beispiel)*
 
 ![[15. Ortsadverbien/Pasted image 20260920182039.png]]
-- bint – waraa – birdaayet *(Mädchen – hinter – Vorhang)*
+- bint – waraa – berdaayet *(Mädchen – hinter – Vorhang)*
 	- weenhaa el-bint?
-	- el-bint waraa el-birdaayet
+	- el-bint waraa el-berdaayet
 
 ![[15. Ortsadverbien/Pasted image 20260920182110.png]]
-- sayyaarat – quddaam – beet *(Auto – vor – Haus)*
+- sayyaarat – qeddaam – beet *(Auto – vor – Haus)*
 	- weenhaa el-sayyaarat?
-	- el-sayyaarat quddaam el-beet
+	- el-sayyaarat qeddaam el-beet
 
 ![[15. Ortsadverbien/Pasted image 20260920182155.png]]
 - raff – fooq – kanabaayet *(Regal – über – Sofa)*
@@ -108,14 +108,14 @@ oder (juwwaa # barraa)
 	- el-talfizyoon janb el-maktabet
 
 **Weitere Wortpaare:**
-- birdaayet – shibbaak *(Vorhang – Fenster)*
-	- el-birdaayet quddaam el-shibbaak?
-		- 2ee, el-birdaayet quddaam el-shibbaak.
-	- ween el-birdaayet?
-		- el-birdaayet quddaam el-shibbaak
-- kanabaayet – shibbaak *(Sofa – Fenster)*
-	- ween el-shibbaak?
-		- el-shibbaak waraa el-kanabaayet
+- berdaayet – shebbaak *(Vorhang – Fenster)*
+	- el-berdaayet qeddaam el-shebbaak?
+		- 2ee, el-berdaayet qeddaam el-shebbaak.
+	- ween el-berdaayet?
+		- el-berdaayet qeddaam el-shebbaak
+- kanabaayet – shebbaak *(Sofa – Fenster)*
+	- ween el-shebbaak?
+		- el-shebbaak waraa el-kanabaayet
 - law7at – 7eeT *(Bild/Gemälde – Wand)*
 	- weenhaa el-law7at?
 		- el-law7at 3alaa el-7eeT
@@ -134,8 +134,8 @@ Man verwendet ein Pronomen (auf Arabisch: „Damiir“), um **Wiederholungen zu 
 > Das Fenster ist offen, die Vase steht **davor**.
 
 
-> el-shibbaak maftuu7, el-mazhariyyet quddaam el-shibbaak
-> el-shibbaak maftuu7, el-mazhariyyet quddaamoh
+> el-shebbaak maftuu7, el-mazhariyyet qeddaam el-shebbaak
+> el-shebbaak maftuu7, el-mazhariyyet qeddaamoh
 
 Im Arabischen ist das ein angehängtes Pronomen (ein Suffix).
 
@@ -145,22 +145,22 @@ Im Arabischen ist das ein angehängtes Pronomen (ein Suffix).
 | ----------- | ------------ | ------------ | ------------ | ------------ | -------------- | ------------ | ------------ | -------------- |
 | **fooq**    | fooq**ii**   | fooq**ak**   | fooq**ek**   | fooq**oh**   | fooq**haa**    | fooq**naa**  | fooq**kon**  | fooq**hon**    |
 | **ta7t**    | ta7t**ii**   | ta7tak       | ta7tek       | ta7toh       | ta7t'haa       | ta7tnaa      | ta7tkon      | ta7t'hon       |
-| **quddaam** | quddaam**ii** | quddaamak   | quddaamek    | quddaamoh    | quddaamhaa     | quddaamnaa   | quddaamkon   | quddaamhon     |
+| **qeddaam** | qeddaam**ii** | qeddaamak   | qeddaamek    | qeddaamoh    | qeddaamhaa     | qeddaamnaa   | qeddaamkon   | qeddaamhon     |
 | **janb**    | janb**ii**   | janbak       | janbek       | janboh       | janbhaa        | janbnaa      | janbkon      | janbhon        |
 
-Aussprache: fooqoh → „foo2o“, quddaamhaa → „2iddaama“, ta7t'haa → „ta7ta“
+Aussprache: fooqoh → „foo2o“, qeddaamhaa → „2iddaama“, ta7t'haa → „ta7ta“
 
 # 7. ktub / ktibii Damiir muttaSil ma7all el-kilmet yallii ta7t'hon 5aTT:
 *(Schreibe das angehängte Pronomen anstelle des bold Wortes)*
 
-1. bi ghurftii fii shibbaak, ta7t **(el-)shibbaak** fii ta5t: 
-	- bi ghurftii fii shibbaak, ta7toh fii ta5t
+1. bi ghurftii fii shebbaak, ta7t **(el-)shebbaak** fii ta5t: 
+	- bi ghurftii fii shebbaak, ta7toh fii ta5t
 2. bi ghurft el-2akl fii Taawlet, fooq **(el-)Taawlet** fii lambat: 
 	- bi ghurft el-2akl fii Taawlet, fooqhaa fii lambat
-3. 3alaa (el-)raff fii kutub, janb **el-kutub** fii mazhariyyet: 
-	- 3alaa el-raff fii kutub, janbhon fii mazhariyyet
-4. bi ghurft el-qa3det fii kanabaayet, quddaam **el-kanabaayet** fii Taawlet: 
-	- bi ghurft el-qa3det fii kanabaayet, quddaamhaa fii Taawlet
+3. 3alaa (el-)raff fii ketob, janb **el-ketob** fii mazhariyyet: 
+	- 3alaa el-raff fii ketob, janbhon fii mazhariyyet
+4. bi ghurft el-qa3det fii kanabaayet, qeddaam **el-kanabaayet** fii Taawlet: 
+	- bi ghurft el-qa3det fii kanabaayet, qeddaamhaa fii Taawlet
 
 ---
 
@@ -181,12 +181,12 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 ![[15. Ortsadverbien/Pasted image 20260920185134.png]]
 - Sabii – bint *(Junge – Mädchen)*
 	- ween el-Sabii? / ween el-bint?
-	- el-Sabii quddaam el-birdaayet / el-bint waraa el-birdaayet
+	- el-Sabii qeddaam el-berdaayet / el-bint waraa el-berdaayet
 
 ![[15. Ortsadverbien/Pasted image 20260920185224.png]]
 - hadiyyet – ziinet *(Geschenk – Weihnachtsbaum/Schmuck)*
 	- ween el-hadiyyet? / ween el-ziinet?
-	- el-hadiyyet quddaam / ta7t el-ziinet
+	- el-hadiyyet qeddaam / ta7t el-ziinet
 	- el-ziinet waraa el-hadiyyet
 
 ![[15. Ortsadverbien/Pasted image 20260920185244.png]]
@@ -194,7 +194,7 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 	- ween raamii?
 	- raamii janb liinaa w kariim
 	- ween liinaa?
-	- liinaa quddaam raamii, w waraa kariim
+	- liinaa qeddaam raamii, w waraa kariim
 
 ![[15. Ortsadverbien/Pasted image 20260920185259.png]]
 - kalb – qiTTat *(Hund – Katze)*
@@ -210,19 +210,19 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 	- ween el-5zaanet
 		- el-5zaanet waraa el-kanabaayet
 	- Tab ween el-zrii3at?
-		- el-zrii3at 3alaa el-shibbaak
+		- el-zrii3at 3alaa el-shebbaak
 - law7at – 7eeT – baab *(Bild – Wand – Tür)*
 	- ween el-law7at?
 		- el-law7at 3alaa el-7eeT
 	- Tab ween el-baab?
 		- el-baab janb el-law7at
-- rfuuf – kanabaayet – kutub *(Regale – Sofa – Bücher)*
+- rfuuf – kanabaayet – ketob *(Regale – Sofa – Bücher)*
 	- ween el-rfuuf?
 		- el-rfuuf waraa el-kanabaayet
 	- shuu 3aleehon?
-		- 3aleehon kutub
-	- ween el-kutub?
-		- el-kutub 3alaa el-rfuuf
+		- 3aleehon ketob
+	- ween el-ketob?
+		- el-ketob 3alaa el-rfuuf
 
 
 ---
@@ -230,14 +230,14 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 [[15. Ortsadverbien/Verben des Sehens — Deutsch und Arabisch]]
 *(„hier ist es für dich" / „dort ist es für dich" — Präsentativ-Ausdrücke)*
 
-> - **ween el-miftaa7 yaa maayat?**
-> - ➢ **el-miftaa7 hoon 3alaa (el-)Taawlet.**
-> - ➢ **el-miftaa7 leekoh hoon 3alaa (el-)Taawlet.**
+> - **ween el-meftaa7 yaa maayat?**
+> - ➢ **el-meftaa7 hoon 3alaa (el-)Taawlet.**
+> - ➢ **el-meftaa7 leekoh hoon 3alaa (el-)Taawlet.**
 > - ➢ **leekoh hoon 3alaa (el-)Taawlet.**
 
-> - **ween el-kutub?**
-> - ➢ **el-kutub huniik 3alaa (el-)raff.**
-> - ➢ **el-kutub leek'hon huniik 3alaa (el-)raff.**
+> - **ween el-ketob?**
+> - ➢ **el-ketob huniik 3alaa (el-)raff.**
+> - ➢ **el-ketob leek'hon huniik 3alaa (el-)raff.**
 > - ➢ **leek'hon huniik 3alaa (el-)raff.**
 
 > - **weenkon yaa saamii w jaad?**
@@ -259,7 +259,7 @@ Wenn ein Wort auf einen Vokal endet und man ein Suffix anhängen möchte, das nu
 # 13. Bildbeispiele
 ![[15. Ortsadverbien/Pasted image 20260922162810.png]]
 ween kariim yaa saarat?
-leekoh hoon, quddaam el-shajarat
+leekoh hoon, qeddaam el-shajarat
 leekoh huniik, janb saarat
 
 ![[15. Ortsadverbien/Pasted image 20260922162842.png]]
@@ -286,7 +286,7 @@ leekoh hoon
 > (2ee, leekoh bi hay el-binaayet)
 >
 > **miiraa:** shuu fii janb el-binaayet?
-> **2a7mad:** janbhaa fii m7aTTet baanziin, w quddaamhaa fii supermarket.
+> **2a7mad:** janbhaa fii m7aTTet baanziin, w qeddaamhaa fii supermarket.
 >
 > **miiraa:** w shuu fii waraahaa?
 > **2a7mad:** waraahaa fii jneenet, w fii kamaan mal3ab wlaad.
@@ -311,7 +311,7 @@ leekoh hoon
 	- beet 2a7mad bi haadaa el-shaare3
 2. beetoh bi binaayet?
 3. shuu fii janb el-binaayet?
-4. shuu fii quddaamhaa?
+4. shuu fii qeddaamhaa?
 5. fii waraahaa jneenet?
 6. fii waraa el-beet m7aTTet qiTaar?
 7. w 2inte, bi 2ayyaa shaare3 beetak? w 2intii, bi 2ayyaa shaare3 beetek?
@@ -381,7 +381,7 @@ leekoh hoon
 	- bi haadaa el-shaare3 fii m7aTTet baanziin
 	- fii bi haadaa el-shaare3 m7aTTet baanziin
 	- fii banadoorat?
-	- fii banadoorat bi hay el-3ilbet
+	- fii banadoorat bi hay el-3elbet
 
 # 20. Bilde Sätze mit diesen Wörtern
 - binaayet: ————————————————————————————————————————

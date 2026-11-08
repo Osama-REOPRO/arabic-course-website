@@ -20,7 +20,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 - **ktaab** (m.) – das Buch
 	- كتاب
 	- كتاب
-	- Plural: kutub
+	- Plural: ketob
 	- Wurzel: k-t-b
 
 - **daftar** (m.) – das Heft, das Notizbuch

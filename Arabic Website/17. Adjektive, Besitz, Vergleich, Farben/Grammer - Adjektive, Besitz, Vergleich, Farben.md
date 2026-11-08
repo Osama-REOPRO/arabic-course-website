@@ -15,15 +15,15 @@ Ausführlich: [[Explanation - Adjektive, Besitz, Vergleich, Farben|Erklärung]] 
 - im fuS7aa heißt fii auch „in“ (fii el-beet), im Damaszener Dialekt: bil-beet
 
 # Adjektive
-- das Adjektiv steht **nach** dem Nomen und passt sich an (m. / f. / Pl.): fusTaan Tawiil, tannuurat Tawiilet, fasaatiin Twaal
-- bestimmtes Nomen → das Adjektiv bekommt auch el-: el-fusTaan el-Tawiil
+- das Adjektiv steht **nach** dem Nomen und passt sich an (m. / f. / Pl.): fesTaan Tawiil, tannuurat Tawiilet, fasaatiin Twaal
+- bestimmtes Nomen → das Adjektiv bekommt auch el-: el-fesTaan el-Tawiil
 - Nomen mit Endung ist bestimmt → Adjektiv mit el-: qamiiSii el-jdiid (nicht: el-qamiiS el-jdiidii ✗)
-- **Sifat** (beschreibt, gleiche Bestimmtheit): el-fusTaan el-Tawiil (das lange Kleid)
-- **5abar** (Aussage, ohne el-): el-fusTaan Tawiil. (Das Kleid ist lang.) / el-fusTaan bil-5zaanet. / el-fusTaan 2ilii.
+- **Sifat** (beschreibt, gleiche Bestimmtheit): el-fesTaan el-Tawiil (das lange Kleid)
+- **5abar** (Aussage, ohne el-): el-fesTaan Tawiil. (Das Kleid ist lang.) / el-fesTaan bil-5zaanet. / el-fesTaan 2ilii.
 
 # dieser / diese / dieses
-- haad / hay / hadool + Nomen **mit el-**: haad el-fusTaan (dieses Kleid), hay el-bluuzet, hadool el-banTaloonaatt
-- ohne el- ist es ein ganzer Satz: haadaa fusTaan. (Das ist ein Kleid.)
+- haad / hay / hadool + Nomen **mit el-**: haad el-fesTaan (dieses Kleid), hay el-bluuzet, hadool el-banTaloonaatt
+- ohne el- ist es ein ganzer Satz: haadaa fesTaan. (Das ist ein Kleid.)
 
 # Wem gehört das? – la
 - **la** = für: **X la- Y** = X gehört Y: el-ktaab la-saarat. (Das Buch gehört Sara.)
@@ -62,7 +62,7 @@ Mit Pronomen: **2il- + Endung** (nicht „la-2anaa“):
 
 # Meinung
 - shuu ra2yak / ra2yek bi-…? (Was hältst du von …? m. / f.)
-- Antwort mit zwei Adjektiven und **bass** (aber): haad el-fusTaan 7uluu bass qaSiir.
+- Antwort mit zwei Adjektiven und **bass** (aber): haad el-fesTaan 7eluu bass qaSiir.
 
 # Farben
 - Farben sind Adjektive und stehen nach dem Nomen: bluuzet 7amrat

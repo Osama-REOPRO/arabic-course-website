@@ -20,7 +20,7 @@ Ordne jedes Wort der richtigen Kategorie zu (gesund maskulin / gesund feminin / 
 5. sawwaaqat (f.) → sawwaaqaatt
 6. Tifl → 2aTfaal
 7. Tabbaa5 (m.) → Tabbaa5iin
-8. ktaab → kutub
+8. ktaab → ketob
 9. sayyaarat → sayyaaraatt
 10. mwaDDHafet (f.) → mwaDDHafaatt
 
@@ -33,9 +33,9 @@ Ordne jedes Wort der richtigen Kategorie zu (gesund maskulin / gesund feminin / 
 1. Das sind meine Geschwister
 	- hadool 2i5waatii
 2. Die Ingenieure arbeiten in der Firma.
-	- el-muhandesiin byishtighluu bi el-shirket („bish-shirket“)
+	- el-muhandesiin byishtighluu bi el-sherket („bish-sherket“)
 3. Das sind meine Bücher.
-	- hadool kutubii
+	- hadool ketobii
 4. Wo sind die Autos? *(ween — kennen wir schon)*
 	- ween el-sayyaaraatt? („ween es-sayyaaraatt“)
 5. Meine Freunde sind Ärzte. 
@@ -77,7 +77,7 @@ Bilde den Plural und schreib dazu, welche Regel du benutzt hast:
 | 3   | muhandes    | muhandesiin          | C (mu-)     |
 | 4   | talifoon    | talifoonaatt         | B           |
 | 5   | sawwaaq     | sawwaaqiin           | C (fa33aal) |
-| 6   | ktaab       | kutub                | D           |
+| 6   | ktaab       | ketob                | D           |
 | 7   | mumarreDat  | mumarreDaatt         | A           |
 | 8   | suurii      | suuriyyiin           | C           |
 | 9   | kalb        | klaab                | D           |
@@ -103,7 +103,7 @@ Bilde den Plural und schreib dazu, welche Regel du benutzt hast:
 
 ### Lösungsschlüssel
 
-1. hadool mwaDDHafiin el-shirket. („mwazzafiin esh-shirket“)
+1. hadool mwaDDHafiin el-sherket. („mwazzafiin esh-sherket“)
 2. hadool rifqaatii.
 3. hadool el-sayyaaraatt? („es-sayyaaraatt“)
 4. hadool mumarreDiin el-mashfaa.

@@ -61,7 +61,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- باب
 	- Plural: bwaab
 
-- **shibbaak** (m.) – das Fenster
+- **shebbaak** (m.) – das Fenster
 	- شباك
 	- شِبّاك
 
@@ -87,7 +87,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- جنينة
 	- جنينِة
 
-- **miftaa7** (m.) – der Schlüssel
+- **meftaa7** (m.) – der Schlüssel
 	- مفتاح
 	- مِفتاح
 	- Plural: mafaatii7
@@ -135,7 +135,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- سَجّادِة
 	- Hinweis: oft gesprochen „sejjaadet“
 
-- **birdaayet** (f.) – der Vorhang
+- **berdaayet** (f.) – der Vorhang
 	- برداية
 	- بِردايِة
 
@@ -204,11 +204,11 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- كاسِة
 	- Plural: kaasaatt
 
-- **kubbaayet** (f.) – das Glas
+- **kebbaayet** (f.) – das Glas
 	- كباية
-	- كُبّايِة
+	- كِبّايِة
 
-- **finjaan** (m.) – die Tasse
+- **fenjaan** (m.) – die Tasse
 	- فنجان
 	- فِنجان
 	- Plural: fanaajiin
@@ -224,7 +224,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- Plural: ma3aaliq
 	- Hinweis: in Damaskus gesprochen „ma3la2at“
 
-- **sikkiinet** (f.) – das Messer
+- **sekkiinet** (f.) – das Messer
 	- سكينة
 	- سِكّينِة
 	- Plural: sakaakiin

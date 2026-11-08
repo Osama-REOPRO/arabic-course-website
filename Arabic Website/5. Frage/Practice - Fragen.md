@@ -17,9 +17,9 @@ order:
 - baaS → shuu haadaa? → haadaa baaS.
 - qanniinet → shuu hay? → hay qanniinet.
 - raff → shuu haadaa? → haadaa raff.
-- 7ummuS → shuu haadaa? → haadaa 7ummuS.
+- 7emmuS → shuu haadaa? → haadaa 7emmuS.
 - 2akl → shuu haadaa? → haadaa 2akl.
-- kutub → shuu hadool? → hadool kutub.
+- ketob → shuu hadool? → hadool ketob.
 - baaSaatt → shuu hadool? → hadool baaSaatt.
 - qanaanii → shuu hadool? → hadool qanaanii.
 - madraset → shuu hay? → hay madraset.

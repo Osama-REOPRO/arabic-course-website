@@ -8,9 +8,9 @@ order: 14
 
 Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schrift ohne und mit 7arakaatt.
 
-- **2ustaadh** (m.) – der Lehrer
+- **2estaadh** (m.) – der Lehrer
 	- أستاذ
-	- أُستاذ
+	- إِستاذ
 	- Plural: 2asaatdhet
 	- Hinweis: in Damaskus gesprochen „2ustaaz“, Plural „2asaatze“
 
@@ -19,11 +19,11 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- آنسِة
 	- Plural: 2aansaatt
 
-- **doktoor / doktoorat** (m. / f.) – der Arzt / die Ärztin
+- **dektoor / dektoorat** (m. / f.) – der Arzt / die Ärztin
 	- دكتور / دكتورة
-	- دُكتور / دُكتورَة
-	- Plural: dakaatrat (m.), doktooraatt (f.)
-	- Hinweis: doktoor für einen Mann, doktoorat für eine Frau
+	- دِكتور / دِكتورَة
+	- Plural: dakaatrat (m.), dektooraatt (f.)
+	- Hinweis: dektoor für einen Mann, dektoorat für eine Frau
 
 - **Taaleb / Taalbet** (m. / f.) – der Student / die Studentin, der Schüler / die Schülerin
 	- طالب / طالبة

@@ -57,7 +57,7 @@ Erklärung: [[Explanation - Die Kehllaute|Die Kehllaute]]
 | 3umr | عمر | das Alter, das Leben |
 | 3iTr | عطر | das Parfüm |
 | 3aSiir | عصير | der Saft |
-| 3ilbet | علبة | die Dose |
+| 3elbet | علبة | die Dose |
 | 3aql | عقل | das Gehirn, der Verstand |
 | ma3 | مع | mit |
 | ba3d | بعد | nach |

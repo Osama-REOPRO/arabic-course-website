@@ -25,14 +25,14 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Pronomen und Demonstrativ|Pronomen und 
 | beet                       | das Haus  |
 | Sabii / walad              | der Junge |
 | kalb                       | der Hund  |
-| rijjaal                    | der Mann  |
+| rejjaal                    | der Mann  |
 
 ### Beispiele
 
 - haadaa beet → Das ist ein Haus.
 - haadaa Sabii → Das ist ein Junge.
 - haadaa kalb → Das ist ein Hund.
-- haadaa rijjaal → Das ist ein Mann.
+- haadaa rejjaal → Das ist ein Mann.
 
 
 # Weibliche Nomen
@@ -43,12 +43,12 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Pronomen und Demonstrativ|Pronomen und 
 
 | Arabisch (Transliteration) | Deutsch |
 |---|---|
-| 3ilbet | die Dose |
+| 3elbet | die Dose |
 | Sabiyyet | das (junge) Mädchen / die junge Frau |
 | kalbet | die Hündin |
 
 **Beispiele:**
-- hay 3ilbet
+- hay 3elbet
 - hay Sabiyyet
 - hay kalbet
 
@@ -95,7 +95,7 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Pronomen und Demonstrativ|Pronomen und 
 | byuut | die Häuser |
 | klaab | die Hunde |
 | shanaatii | die Taschen |
-| 3ilab | die Dosen |
+| 3elab | die Dosen |
 | baTTaatt / baTT | die Enten |
 
 **Beispiele:**
@@ -103,7 +103,7 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Pronomen und Demonstrativ|Pronomen und 
 - hadool byuut
 - hadool baTTaatt
 
-**Übe mit:** klaab, 3ilab und shanaatii
+**Übe mit:** klaab, 3elab und shanaatii
 
 ## Aussprachebeispiel
 instagram link https://www.instagram.com/reel/DUttshtgOWW/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ%3D%3D

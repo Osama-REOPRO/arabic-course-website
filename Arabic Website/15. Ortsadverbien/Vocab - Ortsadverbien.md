@@ -14,7 +14,7 @@ Erklärung: [[Explanation - Ortsadverbien|Ortsadverbien]]
 | --- | --- | --- |
 | fooq | فوق | oben, über |
 | ta7t | تحت | unten, unter |
-| quddaam | قدام | vorne, vor |
+| qeddaam | قدام | vorne, vor |
 | waraa | ورا | hinten, hinter |
 | juwwaa | جوا / جوات | drinnen |
 | barraa | برا / برات | draußen |
@@ -28,7 +28,7 @@ Erklärung: [[Explanation - Ortsadverbien|Ortsadverbien]]
 | ween | وين | wo? |
 
 > [!NOTE] Aussprache
-> fooq → „foo2“, quddaam → „2iddaam“, qariib → „2ariib“
+> fooq → „foo2“, qeddaam → „2iddaam“, qariib → „2ariib“
 
 ## Im Haus und draußen
 | Umschrift | Arabisch | Deutsch |
@@ -41,8 +41,8 @@ Erklärung: [[Explanation - Ortsadverbien|Ortsadverbien]]
 | qarmiid | قرميد | die Dachziegel |
 | SaT7 | سطح | das Dach |
 | binaayet | بناية | das Gebäude |
-| shibbaak | شباك | das Fenster |
-| birdaayet | برداية | der Vorhang |
+| shebbaak | شباك | das Fenster |
+| berdaayet | برداية | der Vorhang |
 | law7at | لوحة | das Bild, das Gemälde |
 | 7eeT | حيط | die Wand |
 | zrii3at | زريعة | die Pflanze |

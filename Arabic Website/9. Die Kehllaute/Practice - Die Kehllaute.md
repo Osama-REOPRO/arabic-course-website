@@ -133,8 +133,8 @@ lektion:
     **Partner B (AR):** shuu 2ismoh?
 
 30. **Partner A (DE):** Er heißt Karim. Er ist Universitätsdozent.
-    **Partner B (AR):** huwwe 2ismoh kariim. huwwe 2ustaadh jaam3at.
-    *(Aussprache-Tipp: Knacklaut am Anfang von **2ustaadh** + 2iDaafet!)*
+    **Partner B (AR):** huwwe 2ismoh kariim. huwwe 2estaadh jaam3at.
+    *(Aussprache-Tipp: Knacklaut am Anfang von **2estaadh** + 2iDaafet!)*
 
 ---
 
@@ -273,8 +273,8 @@ lektion:
 *Wir verknüpfen den Laut mit den Familien-Formeln und Pronomen.*
 
 4. **Partner A (DE):** Wer ist dieser Mann?
-   **Partner B (AR):** miin haad el-rijjaal?
-   *(gesprochen „er-rijjaal“)*
+   **Partner B (AR):** miin haad el-rejjaal?
+   *(gesprochen „er-rejjaal“)*
 
 5. **Partner A (DE):** Das ist mein Friseur.
    **Partner B (AR):** haad **7**allaaqii.
@@ -321,7 +321,7 @@ lektion:
     **Partner B (AR):** huwwe **7**allaaq?
 
 15. **Partner A (DE):** Nein, er ist kein Friseur, er ist Lehrer.
-    **Partner B (AR):** la2, huwwe muu **7**allaaq, huwwe 2ustaadh.
+    **Partner B (AR):** la2, huwwe muu **7**allaaq, huwwe 2estaadh.
 
 ---
 ## Runde 5: ein natürlicheres Gespräch
@@ -391,11 +391,11 @@ lektion:
 ## Runde 4: Ja/Nein-Check (Formel: 2inte / hiyye ... ?)
 *Schnelle Fragen und Antworten zur Festigung der Strukturen.*
 
-10. **Partner A (schaut hin):** 2inte 2ustaadh yaa m7ammad? *(Bist du Lehrer, Muhammad?)*
-    **Partner B (frei):** 2ee, 2anaa 2ustaadh. *(Ja, ich bin Lehrer.)*
+10. **Partner A (schaut hin):** 2inte 2estaadh yaa m7ammad? *(Bist du Lehrer, Muhammad?)*
+    **Partner B (frei):** 2ee, 2anaa 2estaadh. *(Ja, ich bin Lehrer.)*
 
 11. **Partner A (schaut hin):** hiyye murabbiyet yaa salmaa? *(Ist sie Erzieherin, Salma?)*
-    **Partner B (frei):** la2, hiyye muu murabbiyet, hiyye doktoorat. *(Nein, sie ist keine Erzieherin, sie ist Ärztin.)*
+    **Partner B (frei):** la2, hiyye muu murabbiyet, hiyye dektoorat. *(Nein, sie ist keine Erzieherin, sie ist Ärztin.)*
 
 12. **Partner A (schaut hin):** kamaal mudiir maktab? *(Ist Kamal Büroleiter?)*
     **Partner B (frei):** 2ee, kamaal mudiir maktab. *(Ja, Kamal ist Büroleiter.)*
@@ -432,8 +432,8 @@ lektion:
 *Wir verknüpfen den Laut mit den Familien-Formeln und Pronomen.*
 
 4. **Partner A (DE):** Wer ist dieser Mann?
-   **Partner B (AR):** miin haad el-rijjaal?
-   *(gesprochen „er-rijjaal“)*
+   **Partner B (AR):** miin haad el-rejjaal?
+   *(gesprochen „er-rejjaal“)*
 
 5. **Partner A (DE):** Das ist mein Friseur.
    **Partner B (AR):** haad **7**allaaqii.
@@ -480,7 +480,7 @@ lektion:
     **Partner B (AR):** huwwe **7**allaaq?
 
 15. **Partner A (DE):** Nein, er ist kein Friseur, er ist Lehrer.
-    **Partner B (AR):** la2, huwwe muu **7**allaaq, huwwe 2ustaadh.
+    **Partner B (AR):** la2, huwwe muu **7**allaaq, huwwe 2estaadh.
 
 ---
 ## Runde 5: ein natürlicheres Gespräch

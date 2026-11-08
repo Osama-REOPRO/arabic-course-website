@@ -31,8 +31,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-hawiyyet (*die Identität / der Ausweis*)
 - maSraf (*Bank / Geldinstitut*)
 	- el-maSraf (*die Bank*)
-- funduq (*Hotel*), gesprochen „fendo2“
-	- el-funduq („el-fendo2“) (*das Hotel*)
+- fenduq (*Hotel*), gesprochen „fendo2“
+	- el-fenduq („el-fendo2“) (*das Hotel*)
 - mayy (*Wasser*)
 	- el-mayy (*das Wasser*)
 - qahwet (*Kaffee / Café*), gesprochen „2ahwet“
@@ -72,8 +72,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-sayyaarat („es-sayyaarat“)
 - **2iid** :: Hand
 	- el-2iid
-- **rijjaal** :: Mann
-	- el-rijjaal („er-rijjaal“)
+- **rejjaal** :: Mann
+	- el-rejjaal („er-rejjaal“)
 - **jabal** :: Berg
 	- el-jabal („ej-jabal“)
 - **Tariiq** :: Weg / Straße
@@ -116,8 +116,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-laban
 - **fajr** :: Morgendämmerung
 	- el-fajr
-- **tuffaa7** :: Äpfel (Sammelbegriff)
-	- el-tuffaa7 („et-teffaa7“)
+- **teffaa7** :: Äpfel (Sammelbegriff)
+	- el-teffaa7 („et-teffaa7“)
 - **walad** :: Junge
 	- el-walad
 - **zahrat** :: Blume
@@ -156,8 +156,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-najmet („en-najmet“)
 - **yaasmiin** :: Jasmin
 	- el-yaasmiin
-- **rummaan** :: Granatapfel
-	- el-rummaan („er-remmaan“)
+- **remmaan** :: Granatapfel
+	- el-remmaan („er-remmaan“)
 ---
 # Hausaufgabe
 
@@ -169,7 +169,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 
 **Beispiel:**
 - shams (Sonne) → **el-shams** („esh-shams“)
-- funduq (Hotel) → **el-funduq** („el-fendo2“)
+- fenduq (Hotel) → **el-fenduq** („el-fendo2“)
 
 ---
 
@@ -185,7 +185,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 4. shams (Sonne) → _______________
 <br>
 <br>
-5. funduq (Hotel) → _______________
+5. fenduq (Hotel) → _______________
 <br>
 <br>
 6. saa3at (Uhr) → _______________
@@ -217,7 +217,7 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 2. daftar → **el-daftar** („ed-daftar“) ☀️
 3. mayy → **el-mayy** ☽
 4. shams → **el-shams** („esh-shams“) ☀️
-5. funduq → **el-funduq** („el-fendo2“) ☽
+5. fenduq → **el-fenduq** („el-fendo2“) ☽
 6. saa3at → **el-saa3at** („es-saa3at“) ☀️
 7. hawiyyet → **el-hawiyyet** ☽
 8. shaay → **el-shaay** („esh-shaay“) ☀️

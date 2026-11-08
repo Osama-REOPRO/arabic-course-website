@@ -25,9 +25,9 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- تحت
 	- تَحت
 
-- **quddaam** (Präp.) – vorne, vor
+- **qeddaam** (Präp.) – vorne, vor
 	- قدام
-	- قُدّام
+	- قِدّام
 	- Hinweis: in Damaskus gesprochen „2iddaam“
 
 - **waraa** (Präp.) – hinten, hinter
@@ -96,7 +96,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 - **bass** (Konj.) – aber; nur; genug
 	- بس
 	- بَسّ
-	- Hinweis: haad el-fusTaan 7uluu bass qaSiir = dieses Kleid ist schön, aber kurz. bass! = genug!
+	- Hinweis: haad el-fesTaan 7eluu bass qaSiir = dieses Kleid ist schön, aber kurz. bass! = genug!
 
 - **yaa** (Partikel) – oh (beim Rufen oder Anreden: yaa 7abiibii)
 	- يا

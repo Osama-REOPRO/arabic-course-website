@@ -80,7 +80,7 @@ Im Internet wird er häufig als gh geschrieben, manchmal aber auch als 4 oder 8.
 
 * **Der Laut:** Ein anhaltendes, tiefes Zusammenpressen der Muskeln im mittleren Rachenbereich. *Hinweis: Wir werden diesen Buchstaben in einer zukünftigen Lektion ausführlich behandeln!*
 * **Warum die Zahl 3?** Der Buchstabe 3ayn sieht aus wie eine gespiegelte 3.
-* **Vokabelbeispiel:** 3ilbet (Dose) oder bayyaa3 (Verkäufer).
+* **Vokabelbeispiel:** 3elbet (Dose) oder bayyaa3 (Verkäufer).
 
 ---
 
@@ -515,7 +515,7 @@ Schlucke einmal und stoppe mitten beim Schlucken.
 - 3umr = Alter, oft gesprochen „3umur“
 - 3iTr = Parfüm
 - 3aSiir = Saft
-- 3ilbet = Dose / Schachtel
+- 3elbet = Dose / Schachtel
 - 3aql = Gehirn / Verstand, in Damaskus gesprochen „3a2l“
 - ma3 = mit
 - ba3d = nach / danach

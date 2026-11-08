@@ -38,7 +38,7 @@ Fortsetzung von [[Explanation - Adjektive|Adjektive (Lektion 23)]] · Vorher: [[
 
 | Deutsch | maskulin | feminin | Plural |
 |---|---|---|---|
-| schön | 7uluu | 7ulwet | 7ulwet / 7ulwiin / 7ulwaatt |
+| schön | 7eluu | 7elwet | 7elwet / 7elwiin / 7elwaatt |
 | hässlich | bashe3 | bash3at | bash3at / bash3iin / bash3aatt |
 
 # 5. Vokab
@@ -57,8 +57,8 @@ Jetzt lernen wir den Satz: **Das Buch gehört Sara.**
 > - el-ktaab la-saarat. (Das Buch gehört Sara.)
 
 > [!NOTE] Neu: haad el- … = dieser / diese / dieses
-> - haadaa fusTaan. (Das ist ein Kleid.) → ein ganzer Satz
-> - haad el-fusTaan (dieses Kleid) → nur ein Teil von einem Satz
+> - haadaa fesTaan. (Das ist ein Kleid.) → ein ganzer Satz
+> - haad el-fesTaan (dieses Kleid) → nur ein Teil von einem Satz
 >
 > Wenn nach haad / hay / hadool ein Nomen **mit el-** kommt, heißt es „dieser / diese / dieses“:
 > - hay el-bluuzet (diese Bluse)
@@ -66,7 +66,7 @@ Jetzt lernen wir den Satz: **Das Buch gehört Sara.**
 
 ##### Beispiele
 - el-ktaab la-saarat. (Das Buch gehört Sara.)
-- haad el-fusTaan la-maayaa. (Dieses Kleid gehört Maya.)
+- haad el-fesTaan la-maayaa. (Dieses Kleid gehört Maya.)
 - hay el-sayyaarat la-2a7mad. (Dieses Auto gehört Ahmad.)
 
 # 8. Vokab
@@ -89,7 +89,7 @@ Wenn nach la ein Nomen mit el- kommt, werden beide zu einem: **lal-**
 
 ##### Beispiele
 - haad el-ktaab lal-bint. (Dieses Buch gehört dem Mädchen.)
-- haad el-miftaa7 lal-sayyaarat. (Dieser Schlüssel gehört zum Auto.)
+- haad el-meftaa7 lal-sayyaarat. (Dieser Schlüssel gehört zum Auto.)
 
 # 12. Die Frage: la-miin?
 
@@ -164,7 +164,7 @@ Man kann auch direkt fragen: „Gehört das dir?“ Die Antwort ist dann 2ee ode
 
 ##### Beispiele
 - el-qamiiS el-jdiid yallii bil-5zaanet (das neue Hemd, das im Schrank ist)
-- el-sayyaarat yallii quddaam el-beet (das Auto, das vor dem Haus steht)
+- el-sayyaarat yallii qeddaam el-beet (das Auto, das vor dem Haus steht)
 - el-kalb yallii ta7t el-Taawlet (der Hund, der unter dem Tisch ist)
 
 ##### In einer Frage
@@ -183,10 +183,10 @@ Man kann auch direkt fragen: „Gehört das dir?“ Die Antwort ist dann 2ee ode
 | **thyaab** | Kleidung |
 | **shantat** | Tasche |
 | **3alaa** | auf |
-| **qamiiS** (Pl. **qumSaan**) | Hemd (Hemden) |
+| **qamiiS** (Pl. **qemSaan**) | Hemd (Hemden) |
 
 > [!NOTE] Aussprache
-> qamiiS → „2amiiS“, qumSaan → „2emSaan“
+> qamiiS → „2amiiS“, qemSaan → „2emSaan“
 > thyaab → „tyaab“
 
 # 23. Adjektiv oder Aussage? (Sifat w 5abar)
@@ -194,12 +194,12 @@ Man kann auch direkt fragen: „Gehört das dir?“ Die Antwort ist dann 2ee ode
 Erinnert euch an Lektion 23, Abschnitt 5: Es kommt darauf an, ob das Adjektiv **beschreibt** oder **etwas aussagt**.
 
 - **Sifat** (Adjektiv) beschreibt das Nomen. Es hat dieselbe Bestimmtheit wie das Nomen:
-	- el-fusTaan el-Tawiil (das lange Kleid)
+	- el-fesTaan el-Tawiil (das lange Kleid)
 - **5abar** (Aussage) sagt etwas über das Nomen. Es bekommt **kein** el-:
-	- el-fusTaan Tawiil. (Das Kleid ist lang.)
+	- el-fesTaan Tawiil. (Das Kleid ist lang.)
 - Die Aussage kann auch ein Ort oder 2ilii sein:
-	- el-fusTaan bil-5zaanet. (Das Kleid ist im Schrank.)
-	- el-fusTaan 2ilii. (Das Kleid gehört mir.)
+	- el-fesTaan bil-5zaanet. (Das Kleid ist im Schrank.)
+	- el-fesTaan 2ilii. (Das Kleid gehört mir.)
 
 # 26. Komparativ und Superlativ
 
@@ -230,7 +230,7 @@ Die Wurzel bleibt gleich (k-b-r, S-gh-r, T-w-l), nur das **Muster** ändert sich
 | alt | qadiim | qadiimet | qdaam | 2aqdam |
 | nah | qariib | qariibet | qraab | 2aqrab |
 | weit weg | b3iid | b3iidet | b3aad | 2ab3ad |
-| schön | 7uluu | 7ulwet | 7ulwiin | 2a7laa |
+| schön | 7eluu | 7elwet | 7elwiin | 2a7laa |
 | hässlich | bashe3 | bash3at | bash3iin | 2absha3 |
 | weit | waase3 | waas3at | waas3iin | 2awsa3 |
 | eng | Dayyeq | Dayyqat | Dayyqiin | 2aDyaq |
@@ -239,8 +239,8 @@ Die Wurzel bleibt gleich (k-b-r, S-gh-r, T-w-l), nur das **Muster** ändert sich
 > - Sghiir → „zghiir“, 2aSghar → „2azghar“
 > - q wird in Damaskus zu 2: 2aqSar → „2a2Sar“, 2aqdam → „2a2dam“, 2aqrab → „2a2rab“, 2aDyaq → „2aDya2“
 
-> [!tip] 7uluu → 2a7laa
-> Bei 7uluu ist der letzte Wurzelbuchstabe ein w (7-l-w). Im Komparativ wird daraus ein langes aa: 2a7laa
+> [!tip] 7eluu → 2a7laa
+> Bei 7eluu ist der letzte Wurzelbuchstabe ein w (7-l-w). Im Komparativ wird daraus ein langes aa: 2a7laa
 
 # 28. Meinung: shuu ra2yak bi-…? – Was hältst du von …?
 
@@ -250,19 +250,19 @@ Die Wurzel bleibt gleich (k-b-r, S-gh-r, T-w-l), nur das **Muster** ändert sich
 
 > **el-bayyaa3at:** tfaDDalii, shuu beddek?
 > (Bitte schön, was möchten Sie?)
-> **liinaa:** beddii fusTaan w banTaloon w bluuzet.
+> **liinaa:** beddii fesTaan w banTaloon w bluuzet.
 > (Ich möchte ein Kleid, eine Hose und eine Bluse.)
 > **el-bayyaa3at:** beddek el-thyaab 2ilek wallaa lal-Sghiiret?
 > (Möchten Sie die Kleidung für sich oder für die Kleine?)
 > **liinaa:** 2ilii.
 > (Für mich.)
-> **el-bayyaa3at:** shuu ra2yek bi-haad el-fusTaan?
+> **el-bayyaa3at:** shuu ra2yek bi-haad el-fesTaan?
 > (Was halten Sie von diesem Kleid?)
-> **liinaa:** haad el-fusTaan 7uluu bass qaSiir.
+> **liinaa:** haad el-fesTaan 7eluu bass qaSiir.
 > (Dieses Kleid ist schön, aber kurz.)
 > **el-bayyaa3at:** shuu ra2yek bi-haad el-banTaloon?
 > (Was halten Sie von dieser Hose?)
-> **liinaa:** haad el-banTaloon 7uluu bass ghaalii.
+> **liinaa:** haad el-banTaloon 7eluu bass ghaalii.
 > (Diese Hose ist schön, aber teuer.)
 > **el-bayyaa3at:** shuu ra2yek bi-hay el-bluuzet?
 > (Was halten Sie von dieser Bluse?)
@@ -299,14 +299,14 @@ Die Wurzel bleibt gleich (k-b-r, S-gh-r, T-w-l), nur das **Muster** ändert sich
 | **SabbaaT** | Schuh (oft: Halbschuh) |
 | **Sandal** | Sandalen |
 | **sniikarz** | Turnschuhe |
-| **kundarat** | Schuh (oft: Absatzschuh) |
+| **kendarat** | Schuh (oft: Absatzschuh) |
 | **sha77aaTat** | Flip-Flops |
 
 > [!NOTE] Aussprache
 > 2a7dhiyet → „2a7diyet“
 
-> [!NOTE] SabbaaT und kundarat
-> Beide Wörter bedeuten in Damaskus einfach „Schuh“. Manchmal werden sie genauer benutzt: SabbaaT für Halbschuhe, kundarat für Schuhe mit Absatz.
+> [!NOTE] SabbaaT und kendarat
+> Beide Wörter bedeuten in Damaskus einfach „Schuh“. Manchmal werden sie genauer benutzt: SabbaaT für Halbschuhe, kendarat für Schuhe mit Absatz.
 
 # 32. Farben – el-2alwaan
 
@@ -343,14 +343,14 @@ Die Wurzel bleibt gleich (k-b-r, S-gh-r, T-w-l), nur das **Muster** ändert sich
 
 | Thema | Struktur | Beispiel |
 |---|---|---|
-| Adjektiv nach dem Nomen | Nomen + Adjektiv (m. / f. / Pl.) | fusTaan Tawiil, tannuurat Tawiilet, fasaatiin Twaal |
-| Bestimmtes Nomen + Adjektiv | el- + Nomen + el- + Adjektiv | el-fusTaan el-Tawiil |
+| Adjektiv nach dem Nomen | Nomen + Adjektiv (m. / f. / Pl.) | fesTaan Tawiil, tannuurat Tawiilet, fasaatiin Twaal |
+| Bestimmtes Nomen + Adjektiv | el- + Nomen + el- + Adjektiv | el-fesTaan el-Tawiil |
 | Endung + Adjektiv | Nomen mit Endung + el- + Adjektiv | qamiiSii el-jdiid |
-| dieser / diese / dieses | haad / hay / hadool + el- + Nomen | haad el-fusTaan |
+| dieser / diese / dieses | haad / hay / hadool + el- + Nomen | haad el-fesTaan |
 | Wem gehört das? (Name) | la-miin …? → la + Name | la-maayaa |
 | Wem gehört das? (Pronomen) | 2ilii, 2ilak, 2ilek … | hadool el-banTaloonaatt 2ilii |
 | yallii | bestimmtes Nomen + yallii + Ort | el-qamiiS yallii bil-5zaanet |
 | Komparativ | 2akbar + **min** | beet saarat 2akbar min beet liinaa |
 | Superlativ | 2akbar + **shii** | beet laylaa 2akbar shii |
-| Meinung | shuu ra2yak / ra2yek bi-…? | shuu ra2yek bi-haad el-fusTaan? |
+| Meinung | shuu ra2yak / ra2yek bi-…? | shuu ra2yek bi-haad el-fesTaan? |
 | Farben | Nomen + Farbe (m. / f. / Pl.) | bluuzet 7amrat |

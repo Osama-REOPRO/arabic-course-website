@@ -79,7 +79,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- اِبن خال / بِنت خال
 	- Hinweis: 2ibn 5aal für einen Cousin, bint 5aal für eine Cousine. Bei der Tante: 2ibn 5aalet / bint 5aalet. wlaad 5aalii = meine Cousins (mütterlicherseits)
 
-- **rijjaal** (m.) – der Mann
+- **rejjaal** (m.) – der Mann
 	- رجال
 	- رِجّال
 	- Plural: rjaal
@@ -109,11 +109,11 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- Plural: wlaad
 	- Hinweis: wlaad heißt auch „Kinder“
 
-- **Tifl / Tiflet** (m. / f.) – das Kind
+- **Tifl / Teflet** (m. / f.) – das Kind
 	- طفل / طفلة
 	- طِفل / طِفلِة
 	- Plural: 2aTfaal
-	- Hinweis: Tifl für einen Jungen, Tiflet für ein Mädchen. Eher förmlich, im Alltag sagt man wlaad für Kinder
+	- Hinweis: Tifl für einen Jungen, Teflet für ein Mädchen. Eher förmlich, im Alltag sagt man wlaad für Kinder
 
 - **rfiiq / rfiiqat** (m. / f.) – der Freund / die Freundin
 	- رفيق / رفيقة

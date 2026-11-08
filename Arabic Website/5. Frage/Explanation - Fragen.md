@@ -18,7 +18,7 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Fragewörter|Fragewörter]] · [[Vokabe
 > Antwort: haad kalb
 
 > Frage: shuu haadaa?
-> Antwort: haad rijjaal
+> Antwort: haad rejjaal
 
 ---
 
@@ -32,13 +32,13 @@ Vokabeln zu dieser Lektion: [[Vokabeln - Fragewörter|Fragewörter]] · [[Vokabe
 - haadaa beet? → la2, haadaa muu beet. *(Ist das ein Haus? – Nein, das ist kein Haus.)*
 - shuu haadaa? → haadaa kalb.
 
-**Übe mit:** Sabii – rijjaal
+**Übe mit:** Sabii – rejjaal
 
 ---
 
 # Frage: Was ist das? (weiblich)
 
-- shuu hay? → hay 3ilbet.
+- shuu hay? → hay 3elbet.
 - shuu hay? → hay shantat.
 - shuu hay? → hay mayy.
 - shuu hay? → hay naar.
@@ -98,7 +98,7 @@ Weitere Beispiele:
 | Arabisch (Transliteration) | Deutsch |
 |---|---|
 | hay naDDHaaret miin? → hay naDDHaaret liinaa | Wessen Sonnenbrille ist das? → Das ist Linas Sonnenbrille |
-| hadool kutub miin? → hadool kutub Tim | Wessen Bücher sind das? → Das sind Tims Bücher |
+| hadool ketob miin? → hadool ketob Tim | Wessen Bücher sind das? → Das sind Tims Bücher |
 | hay bint miin? → hay bint liinaa | Wessen Mädchen (Tochter) ist das? → Das ist Linas Tochter |
 | haadaa beet miin? → haadaa beet Tim | Wessen Haus ist das? → Das ist Tims Haus |
 

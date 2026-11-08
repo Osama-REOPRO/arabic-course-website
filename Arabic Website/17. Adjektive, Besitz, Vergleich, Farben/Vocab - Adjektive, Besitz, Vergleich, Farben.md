@@ -16,7 +16,7 @@ Vokabeln zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich
 
 | Deutsch | maskulin | feminin | Plural |
 |---|---|---|---|
-| schön | 7uluu | 7ulwet | 7ulwet / 7ulwiin / 7ulwaatt |
+| schön | 7eluu | 7elwet | 7elwet / 7elwiin / 7elwaatt |
 | hässlich | bashe3 | bash3at | bash3at / bash3iin / bash3aatt |
 
 | Deutsch | maskulin | feminin | Plural | Komparativ / Superlativ |
@@ -29,7 +29,7 @@ Vokabeln zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich
 | alt | qadiim | qadiimet | qdaam | 2aqdam |
 | nah | qariib | qariibet | qraab | 2aqrab |
 | weit weg | b3iid | b3iidet | b3aad | 2ab3ad |
-| schön | 7uluu | 7ulwet | 7ulwiin | 2a7laa |
+| schön | 7eluu | 7elwet | 7elwiin | 2a7laa |
 | hässlich | bashe3 | bash3at | bash3iin | 2absha3 |
 | weit | waase3 | waas3at | waas3iin | 2awsa3 |
 | eng | Dayyeq | Dayyqat | Dayyqiin | 2aDyaq |
@@ -54,7 +54,7 @@ Vokabeln zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich
 | **thyaab** | Kleidung |
 | **shantat** | Tasche |
 | **3alaa** | auf |
-| **qamiiS** (Pl. **qumSaan**) | Hemd (Hemden) |
+| **qamiiS** (Pl. **qemSaan**) | Hemd (Hemden) |
 
 | Arabisch | Deutsch |
 |---|---|
@@ -63,7 +63,7 @@ Vokabeln zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich
 | **SabbaaT** | Schuh (oft: Halbschuh) |
 | **Sandal** | Sandalen |
 | **sniikarz** | Turnschuhe |
-| **kundarat** | Schuh (oft: Absatzschuh) |
+| **kendarat** | Schuh (oft: Absatzschuh) |
 | **sha77aaTat** | Flip-Flops |
 
 # Farben
@@ -118,9 +118,9 @@ Vokabeln zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich
 | **ghurfet qa3det** | Wohnzimmer |
 | **ghurfet noom** | Schlafzimmer |
 | **ghurfet wlaad** | Kinderzimmer |
-| **shibbaak** | Fenster |
+| **shebbaak** | Fenster |
 | **talfizyoon** | Fernseher |
-| **birdaayet** | Vorhang |
+| **berdaayet** | Vorhang |
 | **raff** (Pl. **rfuuf**) | Regal (Regale) |
 
 | Arabisch | Deutsch |

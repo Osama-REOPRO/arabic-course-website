@@ -17,40 +17,6 @@ lektion: 24
 # Das Wichtigste: geschrieben, aber anders gesprochen
 Hier **lest ihr das eine und sagt in Damaskus das andere**.
 
-## Der erste Vokal eines Wortes → oft schwächer gesprochen
-In Damaskus wird der **erste Vokal** eines Wortes oft reduziert: Man spricht ihn kürzer und schwächer, als einfacheren Laut. Meistens wird daraus ein kurzes **e**, manchmal ein **i**.
-
-### u → e (oder i)
-- tuffaa7at → „teffaa7at“
-- rummaan → „remmaan“
-- qumSaan → „2emSaan“
-- funduq → „fendo2“
-- quddaam → „2iddaam“
-- 2u5t → „2e5t“
-- kubbaayet → „kebbaayet“
-- kursii → „kersii“
-
-### i → e
-- 2inte → „2ente“
-- 2intii → „2entii“
-- 2intuu → „2entuu“
-- 2ism → „2esm“
-- 2ibn → „2ebn“
-- miftaa7 → „meftaa7“
-- sikkiinet → „sekkiinet“
-- birdaayet → „berdaayet“
-
-### Manchmal verschwindet er fast ganz
-- muhandes → „mhandes“
-
-### a bleibt a
-- **a** wird nicht reduziert: sayyaarat, maktab, madraset
-
-### Warum schreiben wir trotzdem den vollen Vokal?
-- Damit **keine Information verloren geht**. In anderen Teilen Syriens, in anderen arabischen Ländern und im fuS7aa (Hocharabisch) werden diese Vokale deutlich ausgesprochen: tuffaa7at, rummaan, 2inte.
-- Wenn ihr den vollen Vokal kennt, versteht ihr alle. Und wenn ihr Damaszenisch sprecht, sagt ihr ihn einfach schwächer.
-- Also: Ihr lest u oder i, aber in Damaskus hört ihr oft e.
-
 ## q → man sagt 2
 - qahwet → „2ahwet“
 - qalam → „2alam“
@@ -87,6 +53,14 @@ Die Endungen für **sein**, **ihr** und **ihr (Plural)** werden jetzt mit **h** 
 - shuu, muu, 2intii: genauso
 
 # Auch gut zu wissen
+
+## Das schwache e am Wortanfang
+In Damaskus wird der erste Vokal eines Wortes oft kurz und schwach gesprochen. Wir schreiben ihn jetzt als **e**, also lest ihr ihn so, wie ihr ihn sagt:
+- teffaa7at, remmaan, sekkiinet, berdaayet, kebbaayet, dektoor
+- dieses e ist kurz und leicht, wie das e in „bitte“
+- **a** wird nie schwach: sayyaarat, maktab, madraset
+- im alten Material steht hier manchmal noch u oder i: tuffaa7at heißt jetzt teffaa7at
+
 
 ## Der Apostroph: zwei getrennte Buchstaben
 Manche Buchstaben schreiben wir mit zwei Zeichen: **sh**, **th**, **dh**, **DH**. Aber manchmal kommt nach t, d, D oder s ein echtes h. Dann zeigt ein Apostroph, dass es zwei getrennte Buchstaben sind:

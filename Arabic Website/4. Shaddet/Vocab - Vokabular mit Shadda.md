@@ -20,11 +20,11 @@ https://youtu.be/3NszKWpOMF4
 
 سيّارة
 
-**tuffaa7at** – Apfel / apple, oft gesprochen „teffaa7at“
+**teffaa7at** – Apfel / apple, oft gesprochen „teffaa7at“
 
 تفّاحة
 
-**rummaan** – Granatapfel / pomegranate, oft gesprochen „remmaan“
+**remmaan** – Granatapfel / pomegranate, oft gesprochen „remmaan“
 
 رمّان
 

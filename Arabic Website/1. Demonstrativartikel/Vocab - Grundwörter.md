@@ -17,7 +17,7 @@ Haus/House
 
 auch (walad)
 Junge/Boy
-## rijjaal
+## rejjaal
 
 رجال
 
@@ -34,7 +34,7 @@ Hund (maskulin)/Dog (masculine)
 Liebe / Love
 
 ---
-## 3ilbet
+## 3elbet
 
 علبة
 

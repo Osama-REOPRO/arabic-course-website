@@ -38,14 +38,14 @@ All diese "verdoppelten" Buchstaben sind Beispiele für diese Art der Stärkung/
 ## Arabisch
 Im Arabischen bedeutet **shaddet**, dass ein Buchstabe **stärker / verdoppelt** wird. Wenn man ihn nicht betont, kann das Wort falsch klingen oder sogar die Bedeutung verändern.
 
-In unserer Umschrift schreiben wir einen Buchstaben mit shaddet einfach **doppelt**: rijjaal, 7ubb.
+In unserer Umschrift schreiben wir einen Buchstaben mit shaddet einfach **doppelt**: rejjaal, 7ubb.
 
 Schauen wir uns ein paar Beispiele von Wörtern an, die wir bereits gelernt haben:
 - **tfaDDal (m) / tfaDDalii (w)**
 
   تفضّل / تفضّلي
 
-- **rijjaal**
+- **rejjaal**
 
   رجّال
 
@@ -77,11 +77,11 @@ https://youtu.be/3NszKWpOMF4
 
 سيّارة
 
-**tuffaa7at** – Apfel / apple, oft gesprochen „teffaa7at“
+**teffaa7at** – Apfel / apple, oft gesprochen „teffaa7at“
 
 تفّاحة
 
-**rummaan** – Granatapfel / pomegranate, oft gesprochen „remmaan“
+**remmaan** – Granatapfel / pomegranate, oft gesprochen „remmaan“
 
 رمّان
 

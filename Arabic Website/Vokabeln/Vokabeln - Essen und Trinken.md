@@ -23,9 +23,9 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- خُبز
 	- Hinweis: oft gesprochen „5ubuz“
 
-- **7ummuS** (m.) – der Hummus, die Kichererbsen
+- **7emmuS** (m.) – der Hummus, die Kichererbsen
 	- حمص
-	- حُمُّص
+	- حِمُّص
 
 - **laban** (m.) – der Joghurt
 	- لبن
@@ -44,20 +44,20 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- فَواكِه
 	- Hinweis: in Damaskus gesprochen „fwaake“
 
-- **tuffaa7at** (f.) – der Apfel
+- **teffaa7at** (f.) – der Apfel
 	- تفاحة
-	- تُفّاحَة
-	- Plural: tuffaa7
-	- Hinweis: tuffaa7 ist die Sammelform (Äpfel allgemein). Oft gesprochen „teffaa7at“
+	- تِفّاحَة
+	- Plural: teffaa7
+	- Hinweis: teffaa7 ist die Sammelform (Äpfel allgemein). Oft gesprochen „teffaa7at“
 
-- **rummaan** (m.) – der Granatapfel
+- **remmaan** (m.) – der Granatapfel
 	- رمان
-	- رُمّان
+	- رِمّان
 	- Hinweis: oft gesprochen „remmaan“
 
-- **5uDrat** (f.) – das Gemüse
+- **5eDrat** (f.) – das Gemüse
 	- خضرة
-	- خُضرَة
+	- خِضرَة
 
 - **qahwet** (f.) – der Kaffee, das Café
 	- قهوة
@@ -79,7 +79,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- Plural: qanaanii
 	- Hinweis: in Damaskus gesprochen „2anniinet“
 
-- **3ilbet** (f.) – die Dose
+- **3elbet** (f.) – die Dose
 	- علبة
 	- عِلبِة
-	- Plural: 3ilab, 3ilbaatt
+	- Plural: 3elab, 3elbaatt

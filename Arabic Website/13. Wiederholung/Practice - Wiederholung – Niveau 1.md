@@ -12,13 +12,13 @@ Fülle die Lücken mit (haad, hay, hadool) aus.
 
 1. \_\_\_\_\_ marat
 2. \_\_\_\_\_ 7ubb
-3. \_\_\_\_\_ 3ilbet
+3. \_\_\_\_\_ 3elbet
 4. \_\_\_\_\_ Sabiyyet
-5. \_\_\_\_\_ 3ilbaatt
+5. \_\_\_\_\_ 3elbaatt
 6. \_\_\_\_\_ kalbet
-7. \_\_\_\_\_ niswaan
+7. \_\_\_\_\_ neswaan
 8. \_\_\_\_\_ kalbaatt
-9. \_\_\_\_\_ rijjaal
+9. \_\_\_\_\_ rejjaal
 10. \_\_\_\_\_ rjaal
 11. \_\_\_\_\_ klaab
 12. \_\_\_\_\_ kalb
@@ -44,17 +44,17 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurze
 11. 2anaa mnii7
 12. kalbaatt
 13. tfaDDal / tfaDDalii
-14. rijjaal
+14. rejjaal
 15. 2ahleen!
 16. kalbet
-17. 3ilbet
+17. 3elbet
 18. shukran!
-19. niswaan
+19. neswaan
 20. 2anaa kamaan mnii7at
 21. masaa el-5eer!
 22. 2anaa kamaan mnii7
 23. Sabaa7 el-nuur!
-24. 3ilbaatt
+24. 3elbaatt
 25. Sabii
 26. Sabaa7 el-5eer!
 27. 7ubb
@@ -86,7 +86,7 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurze
 12. 2anaa mnii7
 13. 2inte kiifak?
 14. byuut
-15. 3ilbaatt
+15. 3elbaatt
 16. Sabaayaa
 17. Sabiyyet
 18. beet
@@ -94,7 +94,7 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurze
 20. 2anaa kamaan mnii7
 21. masaa el-nuur!
 22. 2anaa kamaan mnii7at
-23. rijjaal
+23. rejjaal
 24. Sabaa7 el-nuur!
 25. kalbet
 26. klaab
@@ -103,10 +103,10 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die kurze
 29. 2anaa mnii7at
 30. marat
 31. 2ahleen!
-32. niswaan
+32. neswaan
 33. kalbaatt
 34. 3afwan!
-35. 3ilbet
+35. 3elbet
 36. 3yuun
 37. 7abiibii
 38. 5alf
@@ -117,8 +117,8 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die shadd
 ### Partner 1
 1. najjaar
 2. sayyaarat
-3. tuffaa7at („teffaa7at“)
-4. rummaan („remmaan“)
+3. teffaa7at („teffaa7at“)
+4. remmaan („remmaan“)
 5. Tayyeb
 6. jannet
 7. m7ammad
@@ -134,19 +134,19 @@ Ein Partner liest die Wörter vor, während der andere überprüft, ob die shadd
 16. makket
 17. tfaDDal
 18. tfaDDalii
-19. rijjaal
+19. rejjaal
 ### Partner 2
-1. tuffaa7at („teffaa7at“)
+1. teffaa7at („teffaa7at“)
 2. Tayyeb
 3. naDDHam („naZZam“)
 4. fakkar
 5. m7ammad
-6. rummaan („remmaan“)
+6. remmaan („remmaan“)
 7. najjaar
 8. zayyan
 9. 5affaf
 10. sayyaarat
-11. rijjaal
+11. rejjaal
 12. jannet
 13. ghaddhaa („ghazzaa“)
 14. qarrar (mit echtem q)
@@ -169,14 +169,14 @@ Ein Partner fragt, was/wer das ist, der andere antwortet.
 ### Partner 1
 1. rfiiq
 2. Taawlet
-3. 7ummuS
+3. 7emmuS
 4. sitt
 5. qanniinet
 6. ktaab
 7. maktab
 8. baaSaatt
 9. kursii
-10. kutub
+10. ketob
 11. 2a5
 12. 2u5t
 13. madraset
@@ -198,8 +198,8 @@ Ein Partner fragt, was/wer das ist, der andere antwortet.
 
 ### Partner 2
 1. ktaab
-2. kutub
-3. 7ummuS
+2. ketob
+3. 7emmuS
 4. 5aalet
 5. karaasii
 6. maktab

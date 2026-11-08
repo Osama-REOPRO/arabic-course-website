@@ -305,12 +305,12 @@ Zum Beispiel:
 
 | Arabisch (Transliteration) | Deutsch     |
 | -------------------------- | ----------- |
-| **funduq**                 | *ein Hotel* |
-| **el-funduq**              | *das Hotel* |
+| **fenduq**                 | *ein Hotel* |
+| **el-fenduq**              | *das Hotel* |
 | **beet**                   | *ein Haus*  |
 | **el-beet**                | *das Haus*  |
 
-(funduq wird in Damaskus „fendo2“ gesprochen.)
+(fenduq wird in Damaskus „fendo2“ gesprochen.)
 
 Das heißt: Wenn ein normales Nomen **ohne** **el-** dasteht, übersetzt man es im Deutschen meistens mit **ein** oder **eine**.
 
@@ -367,8 +367,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-sayyaarat („es-sayyaarat“)
 - **2iid** :: Hand
 	- el-2iid
-- **rijjaal** :: Mann
-	- el-rijjaal („er-rijjaal“)
+- **rejjaal** :: Mann
+	- el-rejjaal („er-rejjaal“)
 - **jabal** :: Berg
 	- el-jabal („ej-jabal“)
 - **Tariiq** :: Weg / Straße
@@ -411,8 +411,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-laban
 - **fajr** :: Morgendämmerung
 	- el-fajr
-- **tuffaa7** :: Äpfel (Sammelbegriff)
-	- el-tuffaa7 („et-teffaa7“)
+- **teffaa7** :: Äpfel (Sammelbegriff)
+	- el-teffaa7 („et-teffaa7“)
 - **walad** :: Junge
 	- el-walad
 - **zahrat** :: Blume
@@ -451,8 +451,8 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 	- el-najmet („en-najmet“)
 - **yaasmiin** :: Jasmin
 	- el-yaasmiin
-- **rummaan** :: Granatapfel
-	- el-rummaan („er-remmaan“)
+- **remmaan** :: Granatapfel
+	- el-remmaan („er-remmaan“)
 
 ---
 # ☀️ Arabische Sonnenbuchstaben Vokabeln
@@ -466,15 +466,15 @@ Geschrieben wird immer **el-**. In Anführungszeichen steht, wie man es spricht.
 ت ث د ذ ر ز
 
 - **taaj** :: Krone
-- **tuffaa7** :: Äpfel (Sammelbegriff), oft gesprochen „teffaa7“
+- **teffaa7** :: Äpfel (Sammelbegriff), oft gesprochen „teffaa7“
 - **thoob** :: Gewand / Kleidung, gesprochen „toob“
 - **thalj** :: Schnee / Eis, gesprochen „talj“
 - **daftar** :: Notizbuch / Heft
 - **dars** :: Lektion / Unterricht
 - **dhahab** :: Gold, gesprochen „dahab“
 - **dhiib** :: Wolf, gesprochen „diib“
-- **rijjaal** :: Mann
-- **rummaan** :: Granatapfel, oft gesprochen „remmaan“
+- **rejjaal** :: Mann
+- **remmaan** :: Granatapfel, oft gesprochen „remmaan“
 - **zeet** :: Öl
 - **zahrat** :: Blume
 

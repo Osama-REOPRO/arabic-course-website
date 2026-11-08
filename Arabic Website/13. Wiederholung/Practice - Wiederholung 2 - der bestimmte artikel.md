@@ -23,7 +23,7 @@ lektion: 20
 	- el + qamar = el-qamar („el-2amar“) (*der Mond*)
 8. hawiyyet (*Identität / Ausweis*)
 9. maSraf (*Bank / Geldinstitut*)
-10. funduq (*Hotel*), gesprochen „fendo2“
+10. fenduq (*Hotel*), gesprochen „fendo2“
 11. mayy (*Wasser*)
 12. qahwet (*Kaffee / Café*), gesprochen „2ahwet“
 13. **kalb** :: Hund
@@ -44,7 +44,7 @@ lektion: 20
 26. **5ubz** :: Brot
 27. **sayyaarat** :: Auto
 28. **2iid** :: Hand
-29. **rijjaal** :: Mann
+29. **rejjaal** :: Mann
 30. **jabal** :: Berg
 31. **Tariiq** :: Weg / Straße
 32. **qamar** :: Mond
@@ -55,8 +55,8 @@ lektion: 20
 **Erinnerung:** In einer 2iDaafet (Genitivverbindung) bekommt nur das **zweite Wort** den Artikel **el-**, wenn die Verbindung bestimmt ist. Achte beim Sprechen auch auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
-- doktoor + mashfaa (Arzt + Krankenhaus) → **doktoor el-mashfaa** (der Arzt des Krankenhauses)
-- mudiir + shirket (Manager + Firma) → **mudiir el-shirket** („mudiir esh-shirket“) (der Manager der Firma) ☀️
+- dektoor + mashfaa (Arzt + Krankenhaus) → **dektoor el-mashfaa** (der Arzt des Krankenhauses)
+- mudiir + sherket (Manager + Firma) → **mudiir el-sherket** („mudiir esh-sherket“) (der Manager der Firma) ☀️
 
 ---
 
@@ -95,7 +95,7 @@ lektion: 20
 11. muDiif + maT3am (Kellner + Restaurant) → _______________
 <br>
 <br>
-12. mwaDDHaf + shirket (Angestellter + Firma) → _______________
+12. mwaDDHaf + sherket (Angestellter + Firma) → _______________
 <br>
 <br>
 
@@ -106,8 +106,8 @@ lektion: 20
 **Erinnerung:** Bei einer 2iDaafet mit einem femininen ersten Wort (das auf -et/-at endet) verändert sich die Endung leicht, wenn der Artikel **el-** vor das zweite Wort kommt: die Endung wird zu **-t** vor dem Artikel. Achte beim Sprechen auch hier auf Sonnen- und Mondbuchstaben!
 
 **Beispiel:**
-- doktoor**e**t 2aTfaal (eine Kinderärztin) → doktoor**t** el-2aTfaal (die Kinderärztin)
-- mudiir**e**t shirket (eine Firmenleiterin) → mudiir**t** el-shirket („mudiirt esh-shirket“) (die Managerin der Firma) ☀️
+- dektoor**e**t 2aTfaal (eine Kinderärztin) → dektoor**t** el-2aTfaal (die Kinderärztin)
+- mudiir**e**t sherket (eine Firmenleiterin) → mudiir**t** el-sherket („mudiirt esh-sherket“) (die Managerin der Firma) ☀️
 
 ---
 
@@ -128,7 +128,7 @@ lektion: 20
 5. bayyaa3et ma7all (eine Ladenverkäuferin) → _______________
 <br>
 <br>
-6. kwaafeeret niswaan (eine Damenfriseurin) → _______________
+6. kwaafeeret neswaan (eine Damenfriseurin) → _______________
 <br>
 <br>
 7. sekerteeret maktab (eine Bürosekretärin) → _______________
@@ -146,7 +146,7 @@ lektion: 20
 11. muDiifet maT3am (eine Restaurantkellnerin) → _______________
 <br>
 <br>
-12. mwaDDHafet shirket (eine Firmenangestellte) → _______________
+12. mwaDDHafet sherket (eine Firmenangestellte) → _______________
 <br>
 <br>
 
@@ -169,7 +169,7 @@ lektion: 20
 1. saa3at (Uhr) → _______________
 <br>
 <br>
-2. mudiir + shirket (Manager + Firma) → _______________
+2. mudiir + sherket (Manager + Firma) → _______________
 <br>
 <br>
 3. qamar (Mond) → _______________
@@ -178,13 +178,13 @@ lektion: 20
 4. Taalbet + jaam3at (Studentin + Universität) → _______________
 <br>
 <br>
-5. funduq (Hotel) → _______________
+5. fenduq (Hotel) → _______________
 <br>
 <br>
 6. sawwaaq + taaksii (Fahrer + Taxi) → _______________
 <br>
 <br>
-7. doktooret + 2aTfaal (Ärztin + Kinder) → _______________
+7. dektooret + 2aTfaal (Ärztin + Kinder) → _______________
 <br>
 <br>
 8. shaay (Tee) → _______________
@@ -193,7 +193,7 @@ lektion: 20
 9. Seedalii + qaryet (Apotheker + Dorf) → _______________
 <br>
 <br>
-10. kwaafeeret + niswaan (Damenfriseurin + Frauen) → _______________
+10. kwaafeeret + neswaan (Damenfriseurin + Frauen) → _______________
 <br>
 <br>
 11. maSraf (Bank) → _______________
@@ -202,10 +202,10 @@ lektion: 20
 12. 5ayyaaT + badlaatt (Schneider + Anzüge) → _______________
 <br>
 <br>
-13. mwaDDHafet + shirket (Angestellte + Firma) → _______________
+13. mwaDDHafet + sherket (Angestellte + Firma) → _______________
 <br>
 <br>
-14. doktoor + mashfaa (Arzt + Krankenhaus) → _______________
+14. dektoor + mashfaa (Arzt + Krankenhaus) → _______________
 <br>
 <br>
 15. mumarreDet + mashfaa (Krankenschwester + Krankenhaus) → _______________

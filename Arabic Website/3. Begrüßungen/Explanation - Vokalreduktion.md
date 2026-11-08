@@ -73,13 +73,13 @@ Manchmal werden lange Vokale kürzer:
 #### Kurze Vokale
 Auch kurze Vokale können abgeschwächt werden.
 Beispiel:
-- **shibak?** (Was ist los mit dir?) → das **i** klingt oft weicher, eher wie **e**: „shebak“
+- **shebak?** (Was ist los mit dir?): der erste Vokal ist schwach, ein kurzes, leichtes **e**. Diesen schwachen Vokal am Wortanfang schreiben wir direkt als **e**
 
   شبك؟
 
 > [!NOTE] So schreiben wir es
-> In unserer Umschrift schreiben wir immer die **volle Form**: kool, leesh, shibak. Wie man es oft spricht, steht in Anführungszeichen.
-> Das gilt auch für schwache Vokale am Wortanfang: tuffaa7at → „teffaa7at“, rummaan → „remmaan“.
+> In unserer Umschrift schreiben wir immer die **volle Form**: kool, leesh. Wie man es oft spricht, steht in Anführungszeichen.
+> Ausnahme: Der schwache Vokal am Wortanfang wird als **e** geschrieben, so wie man ihn sagt: teffaa7at, remmaan.
 
 ---
 

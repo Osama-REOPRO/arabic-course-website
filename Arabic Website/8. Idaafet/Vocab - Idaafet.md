@@ -13,12 +13,12 @@ Erklärung: [[Explanation - Idaafet|2iDaafet]]
 | ------------------------ | -------------------------------- | ------------------------- |
 | **Schul**buch            | Buch (der) Schule                | ktaab madraset            |
 | **Haus**tür              | Tür (des) Hauses                 | baab beet                 |
-| **Auto**schlüssel        | Schlüssel (des) Autos            | miftaa7 sayyaarat         |
+| **Auto**schlüssel        | Schlüssel (des) Autos            | meftaa7 sayyaarat         |
 | **Büro**leiter           | Leiter (des) Büros               | mudiir maktab             |
-| **Sprach**lehrer         | Lehrer (der) Sprache             | 2ustaadh lughat           |
-| **Kaffee**tasse          | Tasse (des) Kaffees              | finjaan qahwet            |
-| **Wasser**glas           | Glas (des) Wassers               | kubbaayet mayy            |
-| **Haus**schlüssel        | Schlüssel (des) Hauses           | miftaa7 beet              |
+| **Sprach**lehrer         | Lehrer (der) Sprache             | 2estaadh lughat           |
+| **Kaffee**tasse          | Tasse (des) Kaffees              | fenjaan qahwet            |
+| **Wasser**glas           | Glas (des) Wassers               | kebbaayet mayy            |
+| **Haus**schlüssel        | Schlüssel (des) Hauses           | meftaa7 beet              |
 | **Schul**tasche          | Tasche (der) Schule              | shantet madraset          |
 | **Hand**tasche           | Tasche (der) Hand                | shantet 2iid              |
 | **Reise**pass            | Pass (der) Reise                 | jawaaz safar              |
@@ -32,13 +32,13 @@ Erklärung: [[Explanation - Idaafet|2iDaafet]]
 | **Wohn**zimmer           | Zimmer (des) Sitzens             | ghurfet qa3det            |
 | **Blumen**garten         | Garten (der) Blumen              | jneenet ward              |
 | **Obst**markt            | Markt (des) Obstes               | suuq fawaakeh             |
-| **Gemüse**händler        | Händler (des) Gemüses            | bayyaa3 5uDrat            |
+| **Gemüse**händler        | Händler (des) Gemüses            | bayyaa3 5eDrat            |
 | **Auto**mechaniker       | Mechaniker (des) Autos           | mikaaniikii sayyaaraatt   |
 | **Bank**direktor         | Direktor (der) Bank              | mudiir bank               |
 | **Schul**direktor        | Direktor (der) Schule            | mudiir madraset           |
 
 > [!NOTE] Aussprache
-> qahwet → „2ahwet“, suuq → „suu2“, qa3det → „2a3det“, fawaakeh → „fwaake“, 2ustaadh → „2ustaaz“, tadhkaret → „tazkaret“, shughl → „sheghel“
+> qahwet → „2ahwet“, suuq → „suu2“, qa3det → „2a3det“, fawaakeh → „fwaake“, 2estaadh → „2ustaaz“, tadhkaret → „tazkaret“, shughl → „sheghel“
 
 ## Einzelwörter
 | Umschrift | Arabisch | Deutsch |
@@ -47,15 +47,15 @@ Erklärung: [[Explanation - Idaafet|2iDaafet]]
 | madraset | مدرسة | die Schule |
 | baab | باب | die Tür |
 | beet | بيت | das Haus |
-| miftaa7 | مفتاح | der Schlüssel |
+| meftaa7 | مفتاح | der Schlüssel |
 | sayyaarat | سيارة | das Auto |
 | mudiir | مدير / مديرة | der Direktor / die Direktorin, der Leiter / die Leiterin |
 | maktab | مكتب | der Schreibtisch, das Büro |
-| 2ustaadh | أستاذ | der Lehrer |
+| 2estaadh | أستاذ | der Lehrer |
 | lughat | لغة | die Sprache |
-| finjaan | فنجان | die Tasse |
+| fenjaan | فنجان | die Tasse |
 | qahwet | قهوة | der Kaffee, das Café |
-| kubbaayet | كباية | das Glas |
+| kebbaayet | كباية | das Glas |
 | mayy | مي | das Wasser |
 | shantat | شنتة / شنتاية | die Tasche, der Rucksack |
 | 2iid | إيد | die Hand |
@@ -76,15 +76,15 @@ Erklärung: [[Explanation - Idaafet|2iDaafet]]
 | suuq | سوق | der Markt |
 | fawaakeh | فواكه | das Obst |
 | bayyaa3 | بياع / بياعة | der Verkäufer / die Verkäuferin |
-| 5uDrat | خضرة | das Gemüse |
+| 5eDrat | خضرة | das Gemüse |
 | mikaaniikii | ميكانيكي | der Mechaniker |
 | bank | بنك | die Bank |
-| shirket | شركة | die Firma |
+| sherket | شركة | die Firma |
 | raff | رف | das Regal |
 | baaS | باص | der Bus |
 | kursii | كرسي | der Stuhl |
 | naDDHaarat | نظارة | die Brille |
-| 3ilbet | علبة | die Dose |
-| 7ummuS | حمص | der Hummus, die Kichererbsen |
+| 3elbet | علبة | die Dose |
+| 7emmuS | حمص | der Hummus, die Kichererbsen |
 | qanniinet | قنينة | die Flasche, die Wasserflasche |
 | 3arabii | عربي | arabisch |

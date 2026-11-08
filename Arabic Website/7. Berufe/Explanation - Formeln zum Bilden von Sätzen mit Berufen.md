@@ -40,8 +40,8 @@ Hinweis: Hier findest du eine sanfte Einführung in das Präsens (Gegenwart) im 
 ##### Beispiele mit Personalpronomen
 * 2anaa Taaleb. (Ich bin Student.)
 * 2anaa Taalbet. (Ich bin Studentin.)
-* huwwe doktoor. (Er ist Arzt.)
-* hiyye doktoorat. (Sie ist Ärztin.)
+* huwwe dektoor. (Er ist Arzt.)
+* hiyye dektoorat. (Sie ist Ärztin.)
 * huwwe muhandes. (Er ist Ingenieur.)
 * hiyye muhandiset. (Sie ist Ingenieurin.)
 
@@ -64,7 +64,7 @@ Genau wie bei den anderen Formeln ändert sich hier in der gesprochenen Sprache 
 > **[Pronomen/Nomen] + [Beruf] + ?**
 
 ##### Beispiele
-* 2inte 2ustaadh? (Bist du Lehrer? (m))
+* 2inte 2estaadh? (Bist du Lehrer? (m))
 * 2intii 2aanset? (Bist du Lehrerin? (f))
 * huwwe mumarreD? (Ist er Krankenpfleger?)
 * hiyye mumarreDat? (Ist sie Krankenschwester?)
@@ -82,9 +82,9 @@ Genau wie bei den anderen Formeln ändert sich hier in der gesprochenen Sprache 
 > **(negativ): la2, [Pronomen] + *muu* + [Beruf]**
 
 ##### Beispiele
-* 2inte 2ustaadh? (Bist du Lehrer?)
-    * 2ee, 2anaa 2ustaadh. (Ja, ich bin Lehrer.)
-    * la2, 2anaa muu 2ustaadh. (Nein, ich bin kein Lehrer.)
+* 2inte 2estaadh? (Bist du Lehrer?)
+    * 2ee, 2anaa 2estaadh. (Ja, ich bin Lehrer.)
+    * la2, 2anaa muu 2estaadh. (Nein, ich bin kein Lehrer.)
 * hiyye Seedalaaniyyet? (Ist sie Apothekerin?)
     * 2ee, hiyye Seedalaaniyyet. (Ja, sie ist Apothekerin.)
     * la2, hiyye muu Seedalaaniyyet. (Nein, sie ist keine Apothekerin.)
@@ -96,7 +96,7 @@ Genau wie bei den anderen Formeln ändert sich hier in der gesprochenen Sprache 
 
 > [!NOTE] Aussprache in Damaskus
 > - **q** klingt wie **2**: sawwaaq → „sawwaa2“, 7allaaq → „7allaa2“
-> - **dh** klingt wie **z**: 2ustaadh → „2ustaaz“
+> - **dh** klingt wie **z**: 2estaadh → „2ustaaz“
 > - **DH** klingt wie **z**: mwaDDHaf → „mwazzaf“
 
 ---
@@ -107,7 +107,7 @@ Genau wie bei den anderen Formeln ändert sich hier in der gesprochenen Sprache 
   **A**: 2a5ii muhandes. (Mein Bruder ist Ingenieur.)
 
 * **F**: shuu btishtighel 5aaltek yaa salmaa? (Was arbeitet deine Tante, Salma?)
-  **A**: 5aaltii doktoorat. (Meine Tante ist Ärztin.)
+  **A**: 5aaltii dektoorat. (Meine Tante ist Ärztin.)
 
 * **F**: huwwe sawwaaq? (Ist er Fahrer?)
   **A**: la2, huwwe muu sawwaaq, huwwe Tabbaa5. (Nein, er ist kein Fahrer, er ist Koch.)

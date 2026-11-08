@@ -15,7 +15,7 @@ Alles aus den Abschnitten 1–17 gemischt: Adjektive, haad el-, la-, lal-, la-mi
 
 ## Übersetze ins syrische Arabisch
 1. dieses lange Kleid
-	- haad el-fusTaan el-Tawiil
+	- haad el-fesTaan el-Tawiil
 2. Das Buch gehört Lina.
 	- 
 3. ein enges Hemd
@@ -76,7 +76,7 @@ Alles aus den Abschnitten 1–17 gemischt: Adjektive, haad el-, la-, lal-, la-mi
 	- 
 
 ##### Lösung
-1. haad el-fusTaan el-Tawiil
+1. haad el-fesTaan el-Tawiil
 	- هاد الفستان الطويل
 2. el-ktaab la-liinaa.
 	- الكتاب للينا.
@@ -96,13 +96,13 @@ Alles aus den Abschnitten 1–17 gemischt: Adjektive, haad el-, la-, lal-, la-mi
 	- هادا كتاب مين؟
 10. la-miin el-ktaab?
 	- لمين الكتاب؟
-11. bluuztii 7ulwet kthiir.
+11. bluuztii 7elwet kthiir.
 	- بلوزتي حلوة كثير.
-12. el-miftaa7 lal-sayyaarat.
+12. el-meftaa7 lal-sayyaarat.
 	- المفتاح للسيارة.
-13. la-miin el-qumSaan? – 2iloh.
+13. la-miin el-qemSaan? – 2iloh.
 	- لمين القمصان؟ – إله.
-14. haadaa fusTaan Tawiil.
+14. haadaa fesTaan Tawiil.
 	- هادا فستان طويل.
 15. hadool el-2a7dhiyet la-miin?
 	- هدول الأحذية لمين؟
@@ -120,9 +120,9 @@ Alles aus den Abschnitten 1–17 gemischt: Adjektive, haad el-, la-, lal-, la-mi
 	- هدول البنطلونات الضيقين / هدول البنطلونات الضيقة
 22. la-miin el-sayyaarat el-jdiidet? – el-sayyaarat el-jdiidet la-2a5ii.
 	- لمين السيارة الجديدة؟ – السيارة الجديدة لأخي.
-23. hadool el-kutub 2ilkon?
+23. hadool el-ketob 2ilkon?
 	- هدول الكتب إلكن؟
-24. el-fasaatiin el-7ulwet la-maayaa.
+24. el-fasaatiin el-7elwet la-maayaa.
 	- الفساتين الحلوة لمايا.
 25. el-2a7dhiyet el-jdaad
 	- الأحذية الجداد
@@ -132,7 +132,7 @@ Alles aus den Abschnitten 1–17 gemischt: Adjektive, haad el-, la-, lal-, la-mi
 	- هي الشنتاية للبنت.
 28. el-fasaatiin el-qadiimet 2ilhon. / el-fasaatiin el-qdaam 2ilhon.
 	- الفساتين القديمة إلهن. / الفساتين القدام إلهن.
-29. 2ayyaa fusTaan beddek yaa saarat? el-waase3 wallaa el-Dayyeq?
+29. 2ayyaa fesTaan beddek yaa saarat? el-waase3 wallaa el-Dayyeq?
 	- أيا فستان بدك يا سارة؟ الواسع ولا الضيق؟
-30. el-fusTaan muu bashe3, huwwe 7uluu kthiir.
+30. el-fesTaan muu bashe3, huwwe 7eluu kthiir.
 	- الفستان مو بشع، هو حلو كثير.

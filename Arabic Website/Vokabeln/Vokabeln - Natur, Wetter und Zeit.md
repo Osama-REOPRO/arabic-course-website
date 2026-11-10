@@ -86,6 +86,36 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- يوم
 	- Hinweis: el-yoom = heute
 
+- **el-yoom** (Adv.) – heute
+	- اليوم
+	- اليوم
+
+- **halla2** (Adv.) – jetzt
+	- هلأ
+	- هَلَّأ
+
+- **mbaare7** (Adv.) – gestern
+	- مبارح
+	- مبارِح
+
+- **2awwal mbaare7** (Ausdruck) – vorgestern
+	- أول مبارح
+	- أَوَّل مبارِح
+
+- **qabl shway** (Ausdruck) – vorhin, gerade eben
+	- قبل شوي
+	- قَبل شوَي
+	- Hinweis: in Damaskus gesprochen „2abl shway“
+
+- **qabl senet** (Ausdruck) – vor einem Jahr
+	- قبل سنة
+	- قَبل سِنِة
+	- Hinweis: in Damaskus gesprochen „2abl senet“
+
+- **min zamaan** (Ausdruck) – früher, vor langer Zeit
+	- من زمان
+	- مِن زَمان
+
 - **Sabaa7** (m.) – der Morgen
 	- صباح
 	- صَباح

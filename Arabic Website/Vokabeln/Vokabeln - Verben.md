@@ -105,3 +105,11 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 - **zayyan** (Verb) – dekorieren, schmücken (er dekorierte)
 	- زين
 	- زَيَّن
+
+- **kaan** (Verb) – sein (er war)
+	- كان
+	- كَان
+	- Wurzel: k-w-n
+	- Formen: 2anaa kent, 2inte kent, 2intii kentii, huwwe kaan, hiyye kaanett, ni7naa kennaa, 2intuu kentuu, hinnen kaanuu
+	- Verneinung: maa kaan
+	- Hinweis: wird in [[Explanation - kaan|Lektion 25]] als Tabelle gelernt, für Sätze ohne Verb in der Vergangenheit

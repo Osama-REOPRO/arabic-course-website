@@ -532,3 +532,6 @@ body {
   .box-card table.vt td { padding: 0 5px; }
   .box-card .ex { padding: 2px 0 3px; }
 }
+
+/* Arabic lines in lists: each line takes its own direction, so punctuation lands on the correct side */
+.note-body li { unicode-bidi: plaintext; text-align: left; }

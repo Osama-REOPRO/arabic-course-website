@@ -34,6 +34,10 @@ const imageExtRe = new RegExp(`\\.(${IMAGE_EXTS.join('|')})$`, 'i');
 export const directives = {
   pagebreak: () => '<div class="pagebreak" aria-hidden="true"></div>',
   gap: (arg) => `<div class="gap" style="height:${sanitizeLength(arg) || '1rem'}" aria-hidden="true"></div>`,
+  // <!-- box:cheatsheet --> … <!-- endbox -->  wraps everything in between in a
+  // separate, visually distinct box (leave an empty line after each directive).
+  box: (arg) => `<div class="box${/^[\w-]+$/.test(arg || '') ? ` box-${arg}` : ''}">`,
+  endbox: () => '</div>',
 };
 
 function sanitizeLength(value) {

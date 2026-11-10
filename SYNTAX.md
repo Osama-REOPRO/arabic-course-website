@@ -20,6 +20,7 @@ reaches students.
 | `group` | optional | any short id | Free-form tag to relate notes that belong together (e.g. all notes of one topic). Not shown to students and currently unused by the site — reserved for future features. |
 | `order` | optional | number | **Sort position** inside the category (top → bottom). Notes without it sort last. |
 | `lektion` | optional | number | The **lesson number shown** as a small "Lektion N" label. This is display only — it does *not* affect sorting, and it is independent of the folder name. Leave it out to show no label. |
+| `listed` | optional | `false` | The page is published and reachable through links, but **not shown in its category list**. Use it for sub-pages, e.g. the single cards of a teaching aid. |
 
 ### The sections (in nav order)
 
@@ -101,6 +102,7 @@ but are interpreted by the website:
 | --- | --- |
 | `<!-- pagebreak -->` | Forces a page break when the page is saved as PDF. |
 | `<!-- gap:2rem -->` | Inserts vertical space (`2rem`, `12px`, `1.5em`, `40%`, …). |
+| `<!-- box:cheatsheet -->` … `<!-- endbox -->` | Puts everything in between in a separate box (`cheatsheet` adds a coloured top edge). Leave an empty line after each directive. |
 
 Your existing `<div style="page-break-after: always;"></div>` blocks keep working too.
 

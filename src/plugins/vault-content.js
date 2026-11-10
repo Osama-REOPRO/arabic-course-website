@@ -79,6 +79,9 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
         group: groupVal != null && groupVal !== '' ? String(groupVal) : null,
         order: toOrder(first(d.order)),
         lesson: lektionLabel(first(d.lektion)),
+        // `listed: false` publishes the page (reachable through links) but keeps
+        // it out of its category list, e.g. the single pages of a teaching aid.
+        listed: !isFalse(first(d.listed)),
         content: p.content,
         file: p.file,
       };
@@ -103,6 +106,7 @@ export function vaultContent({ vaultDir = '_Lessons' } = {}) {
         lesson: note.lesson,
         html,
       };
+      if (!note.listed) continue;
       categories[note.category].push({
         slug: note.slug,
         title: note.title,
@@ -247,6 +251,10 @@ function first(v) {
 
 function isTrue(v) {
   return v === true || v === 'true';
+}
+
+function isFalse(v) {
+  return v === false || v === 'false';
 }
 
 function toOrder(v) {

@@ -361,11 +361,12 @@ body {
 .box-card .box-time ul { margin: 0; padding-inline-start: 1.1em; }
 .box-card .box-time li { margin: 1px 0; }
 
-/* partner grid */
-.box-card .box-partner { margin-bottom: 16px; }
+/* partner grid: big cells to write in */
+.box-card .box-partner { margin-bottom: 0; }
 .box-card table.answer-grid th { font-size: 0.9em; color: var(--card-accent); background: var(--card-soft); }
-.box-card table.answer-grid td:first-child { color: var(--card-gold); font-size: 0.9em; }
-.box-card table.answer-grid td[contenteditable] { height: 2.6em; }
+.box-card table.answer-grid th:first-child, .box-card table.answer-grid td:first-child { width: 16%; }
+.box-card table.answer-grid td:first-child { color: var(--card-gold); font-size: 0.9em; vertical-align: middle; }
+.box-card table.answer-grid td[contenteditable] { height: 5.5em; }
 
 /* partner grid + kaan table side by side, vocab below */
 .box-card .box-mid { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 20px; align-items: start; margin-bottom: 16px; }
@@ -373,7 +374,7 @@ body {
 .box-card .box-kaan td { white-space: nowrap; }
 .box-card .box-kaan td:nth-child(2) { color: var(--card-accent); }
 .box-card .box-kaan thead, .box-card .box-vgroup thead { display: none; }
-.box-card .box-vocab { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0 14px; align-items: start; }
+.box-card .box-vocab { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px 22px; align-items: start; }
 .box-card .box-vocab > h2 { grid-column: 1 / -1; margin-bottom: 4px; }
 .box-card .box-vgroup { break-inside: avoid; margin-bottom: 6px; }
 .box-card .box-vgroup p { margin: 0 0 2px; font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.06em; color: var(--card-gold); }
@@ -381,9 +382,25 @@ body {
 .box-card .box-vgroup td { padding: 1px 6px; border: none; border-bottom: 1px solid var(--border); }
 .box-card .box-vgroup td:first-child { font-weight: 600; width: 56%; }
 
+/* cheat sheet page (box:card that starts with box:sheet) */
+.box-card:has(> .box-sheet) { --card-accent: #8a6d1f; --card-soft: #fbf6e9; --card-line: #e5d7b0; --card-gold: #2f6f6a; }
+:root[data-theme='dark'] .box-card:has(> .box-sheet) { --card-accent: #d0b060; --card-soft: #2a2516; --card-line: #4a4126; --card-gold: #5fb3ab; }
+.box-card .box-sheettop { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); gap: 22px; align-items: start; margin-bottom: 16px; }
+.box-card .box-sheetleft h2 + .box { margin-bottom: 14px; }
+.box-card .box-sheetright {
+  padding: 10px 14px; background: var(--card-soft);
+  border: 1px solid var(--card-line); border-radius: 10px;
+}
+.box-card .box-sheetright p { margin: 8px 0 2px; }
+.box-card .box-sheetright h2 + p { margin-top: 0; }
+.box-card .box-sheetright ul { margin: 0; padding-inline-start: 1.1em; }
+.box-card .box-sheetright li { margin: 1px 0; }
+.box-card .box-sheetright li ul { list-style: none; padding-inline-start: 0.2em; }
+.box-card .box-sheetright li li { font-size: 1.12em; color: var(--fg-soft); }
+
 @media (max-width: 640px) {
   .box-card .box-about { grid-template-columns: 1fr 1fr; }
-  .box-card .box-mid { grid-template-columns: 1fr; }
+  .box-card .box-mid, .box-card .box-sheettop { grid-template-columns: 1fr; }
   .box-card .box-vocab { grid-template-columns: 1fr 1fr; }
 }
 
@@ -397,10 +414,13 @@ body {
   .box-card .box-about { gap: 6px; margin-bottom: 10px; }
   .box-card .box-time { padding: 5px 8px 6px; }
   .box-card .box-mid { margin-bottom: 10px; }
-  .box-card .box-vocab { gap: 0 10px; }
+  .box-card .box-vocab { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0 10px; }
   .box-card .box-vgroup td { padding: 0 4px; }
   .box-card .box-vgroup { margin-bottom: 4px; }
-  .box-card table.answer-grid td[contenteditable] { height: 1.9em; }
+  .box-card table.answer-grid td[contenteditable] { height: 26mm; }
+  .box-card .box-sheettop { gap: 14px; margin-bottom: 10px; }
+  .box-card .box-sheetright { padding: 6px 10px; }
+  .box-card .box-sheetright, .box-card .box-sheetright * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   .box-card table, .box-card .box-vgroup, .box-card .box-time { break-inside: avoid; }
   .box-card, .box-time { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }

@@ -67,8 +67,6 @@ Zurück zu [[Gesprächskarten (10.11.2026)|allen Gesprächskarten]]
 
 <!-- endbox -->
 
-<!-- box:mid -->
-
 <!-- box:partner -->
 
 ## Deine Partnerin / dein Partner
@@ -87,9 +85,25 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 
 <!-- endbox -->
 
-<!-- box:kaan -->
+<!-- endbox -->
+
+<!-- pagebreak -->
+
+<!-- box:card -->
+
+<!-- box:sheet -->
+
+# Spickzettel
+
+<!-- endbox -->
+
+<!-- box:sheettop -->
+
+<!-- box:sheetleft -->
 
 ## kaan – war
+
+<!-- box:kaan -->
 
 | | kaan | |
 |---|---|---|
@@ -104,17 +118,9 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 
 <!-- endbox -->
 
-<!-- endbox -->
-
-<!-- box:vocab -->
-
-## Vokabeln
-
-<!-- box:vcol -->
+## Fragewörter
 
 <!-- box:vgroup -->
-
-**Fragen**
 
 | | |
 |---|---|
@@ -127,6 +133,55 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 
 <!-- endbox -->
 
+<!-- endbox -->
+
+<!-- box:sheetright -->
+
+## So fragst du
+
+**Ja / Nein:** derselbe Satz, die Stimme geht am Ende hoch.
+
+- kent bil-beet? *(Warst du zu Hause?)*
+	- كنت بالبيت؟
+
+**Fragewort zuerst,** die Zeit am Ende.
+
+- ween kent mbaare7? *(Wo warst du gestern?)*
+	- وين كنت مبارح؟
+- ma3 miin kentii? *(Mit wem warst du? – zu einer Frau)*
+	- مع مين كنتي؟
+
+**Jetzt und heute: ohne kaan.**
+
+- ween 2inte halla2? *(Wo bist du jetzt?)*
+	- وين إنت هلأ؟
+
+**Wie war es?** Feminine Wörter: kaanett.
+
+- kaan 7eluu? *(War es schön?)*
+	- كان حلو؟
+- kaan kbiir wallaa Sghiir? *(War es groß oder klein?)*
+	- كان كبير ولا صغير؟
+- el-madraset kaanett 7elwet? *(War die Schule schön?)*
+	- المدرسة كانت حلوة؟
+
+**Antworten**
+
+- 2ee, kent bil-beet. *(Ja, ich war zu Hause.)*
+	- إي، كنت بالبيت.
+- la2, maa kent bil-beet. kent bil-maT3am. *(Nein, ich war nicht zu Hause. Ich war im Restaurant.)*
+	- لأ، ما كنت بالبيت. كنت بالمطعم.
+
+<!-- endbox -->
+
+<!-- endbox -->
+
+<!-- box:vocab -->
+
+## Vokabeln
+
+<!-- box:vcol -->
+
 <!-- box:vgroup -->
 
 **Zeit**
@@ -138,6 +193,31 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 | mbaare7 | gestern |
 | qabl senet | vor einem Jahr |
 | min zamaan | vor langer Zeit |
+
+<!-- endbox -->
+
+<!-- box:vgroup -->
+
+**Dinge**
+
+| | |
+|---|---|
+| qahwet | Kaffee |
+| shaay | Tee |
+| ktaab | Buch |
+
+<!-- endbox -->
+
+<!-- box:vgroup -->
+
+**Wollen**
+
+| | |
+|---|---|
+| beddii | ich möchte |
+| beddak / beddek | du möchtest |
+| kaan beddii | ich wollte |
+| maa kaan | war nicht |
 
 <!-- endbox -->
 
@@ -163,18 +243,6 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 
 <!-- endbox -->
 
-<!-- box:vgroup -->
-
-**Dinge**
-
-| | |
-|---|---|
-| qahwet | Kaffee |
-| shaay | Tee |
-| ktaab | Buch |
-
-<!-- endbox -->
-
 <!-- endbox -->
 
 <!-- box:vcol -->
@@ -193,19 +261,6 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 | Taaleb / Taalbet | Student / Studentin |
 | muhandes / muhandiset | Ingenieur / Ingenieurin |
 | dektoor / dektoorat | Arzt / Ärztin |
-
-<!-- endbox -->
-
-<!-- box:vgroup -->
-
-**Wollen**
-
-| | |
-|---|---|
-| beddii | ich möchte |
-| beddak / beddek | du möchtest |
-| kaan beddii | ich wollte |
-| maa kaan | war nicht |
 
 <!-- endbox -->
 
@@ -235,51 +290,5 @@ Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ___
 <!-- endbox -->
 
 <!-- endbox -->
-
-<!-- endbox -->
-
-<!-- pagebreak -->
-
-<!-- box:cheatsheet -->
-
-## Spickzettel: Fragen auf Arabisch
-
-**Fragewörter**
-
-| Arabisch | Deutsch |
-|---|---|
-| ween? | wo? |
-| miin? | wer? |
-| ma3 miin? | mit wem? |
-| shuu? | was? |
-| wallaa | oder |
-
-**Ja-/Nein-Frage:** derselbe Satz wie die Antwort, nur die Stimme geht am Ende hoch.
-- kent bil-beet? *(Warst du zu Hause?)*
-	- كنت بالبيت؟
-
-**Fragewort zuerst**, die Zeit am Ende.
-- ween kent mbaare7? *(Wo warst du gestern?)*
-	- وين كنت مبارح؟
-- ma3 miin kentii? *(Mit wem warst du? – zu einer Frau)*
-	- مع مين كنتي؟
-
-**Jetzt und heute: ohne kaan.**
-- ween 2inte halla2? *(Wo bist du jetzt?)*
-	- وين إنت هلأ؟
-
-**Wie war es?**
-- kaan 7eluu? *(War es schön?)*
-	- كان حلو؟
-- kaan kbiir wallaa Sghiir? *(War es groß oder klein?)*
-	- كان كبير ولا صغير؟
-- Bei femininen Wörtern: el-madraset kaanett 7elwet? *(War die Schule schön?)*
-	- المدرسة كانت حلوة؟
-
-**Antworten**
-- 2ee, kent bil-beet. *(Ja, ich war zu Hause.)*
-	- إي، كنت بالبيت.
-- la2, maa kent bil-beet. kent bil-maT3am. *(Nein, ich war nicht zu Hause. Ich war im Restaurant.)*
-	- لأ، ما كنت بالبيت. كنت بالمطعم.
 
 <!-- endbox -->

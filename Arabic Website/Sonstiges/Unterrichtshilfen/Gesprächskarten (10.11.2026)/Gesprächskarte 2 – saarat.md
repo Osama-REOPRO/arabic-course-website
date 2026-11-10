@@ -89,18 +89,18 @@ Zurück zu [[Gesprächskarten (10.11.2026)|allen Gesprächskarten]]
 
 ## Deine Partnerin / dein Partner
 
-Finde dasselbe heraus – stell deine eigenen Fragen auf Arabisch. **Name:** ______________
+**Name deiner Partnerin / deines Partners:** ______________
 
 <svg class="cat" aria-hidden="true" width="78" height="74" viewBox="0 0 78 74"><g class="cat-body" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M58 72 C 74 70 76 54 66 50"/><path d="M22 72 C 18 56 22 40 34 34 C 44 30 54 36 56 50 C 58 60 54 68 50 72 Z"/><path d="M24 30 C 22 20 26 12 34 10 C 42 10 46 16 46 24 C 46 30 42 34 34 34 C 28 34 25 32 24 30 Z"/><path d="M26 16 L 24 4 L 32 10"/><path d="M40 10 L 46 3 L 46 14"/></g><g class="cat-line" fill="none" stroke-width="1.2" stroke-linecap="round"><path d="M30 21 q2 -1.6 4 0 M38 21 q2 -1.6 4 0"/><path d="M35 26 l1.5 1.4 l1.5 -1.4"/><path d="M30 26 h-10 M30 28 l-9 3 M42 26 h10 M42 28 l9 3"/><path d="M36 72 v-8 M42 72 v-8"/></g></svg>
 
-<table class="answer-grid">
+<table class="answer-grid split">
 <thead><tr><th></th><th>wo?</th><th>mit wem?</th><th>wie ist / war es?</th><th>sonstiges</th></tr></thead>
 <tbody>
-<tr><td>Jetzt</td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
-<tr><td>Heute</td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
-<tr><td>Gestern</td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
-<tr><td>Vor einem Jahr</td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
-<tr><td>Vor langer Zeit</td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td>Jetzt</td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td></tr>
+<tr><td>Heute</td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td></tr>
+<tr><td>Gestern</td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td class="example"><div class="q" contenteditable="true"><span class="lat">ma3 miin kent?</span><span class="ar" dir="rtl">مع مين كنت؟</span></div><div class="a" contenteditable="true"><span class="lat">kent ma3 2a5ii.</span><span class="ar" dir="rtl">كنت مع أخي.</span></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td></tr>
+<tr><td>Vor einem Jahr</td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td></tr>
+<tr><td>Vor langer Zeit</td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td><td><div class="q" contenteditable="true"></div><div class="a" contenteditable="true"></div></td></tr>
 </tbody>
 </table>
 

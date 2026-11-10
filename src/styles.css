@@ -399,7 +399,8 @@ body {
 
 /* partner table: white, hairlines, a cat on the corner */
 .box-card .box-partner { position: relative; }
-.box-card .box-partner .cat { position: absolute; right: 8px; top: 2.1em; }
+.box-card .box-partner > p:has(> .cat) { margin: 0; padding: 0; }
+.box-card .box-partner .cat { display: block; margin: -46px 10px -19px auto; position: relative; z-index: 1; }
 .box-card .cat .cat-body { fill: var(--pal-paper); stroke: var(--ink); }
 .box-card .cat .cat-line { stroke: var(--ink); }
 .box-card .box-partner > p { padding-right: 90px; }
@@ -413,6 +414,24 @@ body {
 .box-card table.answer-grid tr:last-child td { border-bottom: none; }
 .box-card table.answer-grid td[contenteditable] { height: 5.5em; vertical-align: top; cursor: text; }
 .box-card table.answer-grid td[contenteditable]:focus { outline: 2px solid var(--pal-accent); outline-offset: -2px; }
+
+/* question / answer split: questions are written before the breakout rooms */
+.box-card .box-partner > ol { margin: 0 0 6px; padding-inline-start: 1.3em; padding-right: 90px; }
+.box-card .box-partner > ol li { margin: 2px 0; }
+.box-card table.answer-grid.split td:not(:first-child) { padding: 0; vertical-align: top; }
+.box-card table.answer-grid.split .q, .box-card table.answer-grid.split .a { position: relative; padding: 15px 6px 4px; cursor: text; }
+.box-card table.answer-grid.split .q { min-height: 3.1em; background: color-mix(in srgb, var(--pal-paper) 55%, #ffffff); border-bottom: 1px dashed var(--grid-line); }
+.box-card table.answer-grid.split .a { min-height: 3.9em; }
+.box-card table.answer-grid.split .q::before, .box-card table.answer-grid.split .a::before {
+  position: absolute; top: 2px; left: 6px; font-size: 0.62em; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft);
+}
+.box-card table.answer-grid.split .q::before { content: 'Frage'; }
+.box-card table.answer-grid.split .a::before { content: 'Antwort'; }
+.box-card table.answer-grid.split .q:focus, .box-card table.answer-grid.split .a:focus { outline: 2px solid var(--pal-accent); outline-offset: -2px; }
+
+.box-card table.answer-grid.split td.example .lat, .box-card table.answer-grid.split td.example .ar { display: block; color: var(--pal-deep); font-size: 0.92em; line-height: 1.2; }
+.box-card table.answer-grid.split td.example .lat { font-style: italic; }
+.box-card table.answer-grid.split td.example .ar { text-align: right; }
 
 /* card picker page (the list of all cards) */
 .box-card .box-howto { margin-bottom: 18px; }
@@ -496,6 +515,10 @@ body {
   .box-card .box-about { margin-bottom: 10px; }
   .box-card table.answer-grid { margin-top: 12px; }
   .box-card table.answer-grid td[contenteditable] { height: 21mm; }
+  .box-card table.answer-grid.split .q { min-height: 0; height: 9.5mm; padding-top: 12px; overflow: hidden; }
+  .box-card table.answer-grid.split .a { min-height: 0; height: 10.5mm; padding-top: 12px; overflow: hidden; }
+  .box-card table.answer-grid.split td.example .lat, .box-card table.answer-grid.split td.example .ar { font-size: 0.85em; line-height: 1.12; }
+  .box-card .box-partner > ol { margin-bottom: 4px; }
   .box-card table, .box-card .box-vgroup, .box-card .box-time { break-inside: avoid; }
   /* cheat sheet */
   .box-card:has(.box-sheet) { font-size: 8pt; padding-top: 10px; }

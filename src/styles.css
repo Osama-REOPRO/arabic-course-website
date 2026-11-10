@@ -314,3 +314,93 @@ body {
   .note-body h1, .note-body h2, .note-body h3 { break-after: avoid; }
   .note-body img, .note-body table, .callout { break-inside: avoid; }
 }
+
+/* ------------------------------------------------------------------ *
+ * Teaching aids: conversation cards                                   *
+ * (box:card and its parts; the card fits on one A4 page in print)     *
+ * ------------------------------------------------------------------ */
+.box-card {
+  --card-accent: #2f6f6a;
+  --card-soft: #eef6f5;
+  --card-line: #b9d6d2;
+  --card-gold: #8a6d1f;
+  margin: 0.6em 0 2em;
+  padding: 18px 22px 20px;
+  background: var(--bg);
+  border: 2px solid var(--card-accent);
+  border-radius: 14px;
+  font-size: 0.86em;
+  line-height: 1.4;
+}
+:root[data-theme='dark'] .box-card { --card-accent: #5fb3ab; --card-soft: #1f2b2a; --card-line: #2f4a47; --card-gold: #d0b060; }
+.box-card .box { margin: 0; padding: 0; border: none; border-radius: 0; background: none; }
+.box-card h1 {
+  margin: 0 0 14px; padding-bottom: 8px;
+  font-size: 1.75em; color: var(--card-accent);
+  border-bottom: 3px solid var(--card-accent);
+}
+.box-card h2 {
+  margin: 0 0 8px; font-size: 0.95em; text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--card-accent);
+}
+.box-card p { margin: 0 0 8px; }
+.box-card table { margin: 0; font-size: 1em; }
+.box-card th, .box-card td { padding: 3px 8px; }
+
+/* about you: the five time blocks */
+.box-card .box-about { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 16px; }
+.box-card .box-about > h2 { grid-column: 1 / -1; margin-bottom: 0; }
+.box-card .box-time {
+  padding: 8px 12px 9px; background: var(--card-soft);
+  border: 1px solid var(--card-line); border-radius: 10px;
+}
+.box-card .box-time h3 {
+  margin: 0 0 4px; font-size: 0.82em; text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--card-gold);
+}
+.box-card .box-time ul { margin: 0; padding-inline-start: 1.1em; }
+.box-card .box-time li { margin: 1px 0; }
+
+/* partner grid */
+.box-card .box-partner { margin-bottom: 16px; }
+.box-card table.answer-grid th { font-size: 0.9em; color: var(--card-accent); background: var(--card-soft); }
+.box-card table.answer-grid td:first-child { color: var(--card-gold); font-size: 0.9em; }
+.box-card table.answer-grid td[contenteditable] { height: 2.6em; }
+
+/* partner grid + kaan table side by side, vocab below */
+.box-card .box-mid { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 20px; align-items: start; margin-bottom: 16px; }
+.box-card .box-mid .box-partner { margin-bottom: 0; }
+.box-card .box-kaan td { white-space: nowrap; }
+.box-card .box-kaan td:nth-child(2) { color: var(--card-accent); }
+.box-card .box-kaan thead, .box-card .box-vgroup thead { display: none; }
+.box-card .box-vocab { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0 14px; align-items: start; }
+.box-card .box-vocab > h2 { grid-column: 1 / -1; margin-bottom: 4px; }
+.box-card .box-vgroup { break-inside: avoid; margin-bottom: 6px; }
+.box-card .box-vgroup p { margin: 0 0 2px; font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.06em; color: var(--card-gold); }
+.box-card .box-vgroup table { table-layout: fixed; width: 100%; }
+.box-card .box-vgroup td { padding: 1px 6px; border: none; border-bottom: 1px solid var(--border); }
+.box-card .box-vgroup td:first-child { font-weight: 600; width: 56%; }
+
+@media (max-width: 640px) {
+  .box-card .box-about { grid-template-columns: 1fr 1fr; }
+  .box-card .box-mid { grid-template-columns: 1fr; }
+  .box-card .box-vocab { grid-template-columns: 1fr 1fr; }
+}
+
+/* the back link above a card */
+.note-body .box-back { margin: 0; padding: 0; border: none; background: none; }
+
+@media print {
+  .note-body .box-back { display: none; }
+  .box-card { font-size: 8.6pt; padding: 10px 14px 12px; border-width: 1.5px; margin-top: 0; }
+  .box-card h1 { font-size: 16pt; margin-bottom: 8px; padding-bottom: 5px; }
+  .box-card .box-about { gap: 6px; margin-bottom: 10px; }
+  .box-card .box-time { padding: 5px 8px 6px; }
+  .box-card .box-mid { margin-bottom: 10px; }
+  .box-card .box-vocab { gap: 0 10px; }
+  .box-card .box-vgroup td { padding: 0 4px; }
+  .box-card .box-vgroup { margin-bottom: 4px; }
+  .box-card table.answer-grid td[contenteditable] { height: 1.9em; }
+  .box-card table, .box-card .box-vgroup, .box-card .box-time { break-inside: avoid; }
+  .box-card, .box-time { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}

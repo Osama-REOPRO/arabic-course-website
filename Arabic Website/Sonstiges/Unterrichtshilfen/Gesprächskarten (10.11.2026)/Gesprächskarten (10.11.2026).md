@@ -18,9 +18,16 @@ Zurück zu [[Unterrichtshilfen]]
 **Wähle deine Karte:**
 
 - [[Gesprächskarte 1 – maayaa|maayaa]]
+	- مايا
 - [[Gesprächskarte 2 – saarat|saarat]]
+	- سارة
 - [[Gesprächskarte 3 – 2a7mad|2a7mad]]
+	- أحمد
 - [[Gesprächskarte 4 – liinaa|liinaa]]
+	- لينا
 - [[Gesprächskarte 5 – kariim|kariim]]
+	- كريم
 - [[Gesprächskarte 6 – hudaa|hudaa]]
+	- هدى
 - [[Gesprächskarte 7 – saamii|saamii]]
+	- سامي

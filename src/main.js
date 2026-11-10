@@ -40,6 +40,10 @@ const UI = {
   dark: 'Dunkel',
   reset: 'Zurücksetzen',
   emptyCategory: 'Hier sind noch keine Seiten.',
+  script: 'Schrift',
+  scriptBoth: 'Beides',
+  scriptLatin: 'Lateinisch',
+  scriptArabic: 'Arabisch',
 };
 
 // --- persisted settings ------------------------------------------------------
@@ -181,8 +185,37 @@ function renderNote(route) {
   const body = document.createElement('div');
   body.className = 'note-body';
   body.innerHTML = page.html;
+  // Pages that mark transliteration (.lat) and Arabic script (.ar) get a
+  // script switch: both / Latin only / Arabic only (remembered per viewer).
+  if (body.querySelector('.lat, .ar')) article.appendChild(makeScriptToggle(article));
   article.appendChild(body);
   swap(article);
+}
+
+function makeScriptToggle(article) {
+  const modes = [['both', UI.scriptBoth], ['lat', UI.scriptLatin], ['ar', UI.scriptArabic]];
+  let current = load('script', 'both');
+  if (!modes.some(([m]) => m === current)) current = 'both';
+  const wrap = document.createElement('div');
+  wrap.className = 'script-toggle';
+  wrap.setAttribute('role', 'group');
+  wrap.setAttribute('aria-label', UI.script);
+  const buttons = [];
+  const apply = (mode) => {
+    article.dataset.script = mode;
+    buttons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.mode === mode)));
+  };
+  for (const [mode, label] of modes) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.dataset.mode = mode;
+    b.textContent = label;
+    b.addEventListener('click', () => { save('script', mode); apply(mode); });
+    buttons.push(b);
+    wrap.appendChild(b);
+  }
+  apply(current);
+  return wrap;
 }
 
 function swap(node) {

@@ -183,10 +183,10 @@ Man kann auch direkt fragen: „Gehört das dir?“ Die Antwort ist dann 2ee ode
 | **thyaab** | Kleidung |
 | **shantat** | Tasche |
 | **3alaa** | auf |
-| **qamiiS** (Pl. **qemSaan**) | Hemd (Hemden) |
+| **qamiiS** (Pl. **qumSaan**) | Hemd (Hemden) |
 
 > [!NOTE] Aussprache
-> qamiiS → „2amiiS“, qemSaan → „2emSaan“
+> qamiiS → „2amiiS“, qumSaan → „2umSaan“
 > thyaab → „tyaab“
 
 # 23. Adjektiv oder Aussage? (Sifat w 5abar)

@@ -26,8 +26,8 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 - **qamiiS** (m.) – das Hemd
 	- قميص
 	- قَميص
-	- Plural: qemSaan
-	- Hinweis: in Damaskus gesprochen „2amiiS“, Plural „2emSaan“
+	- Plural: qumSaan
+	- Hinweis: in Damaskus gesprochen „2amiiS“, Plural „2umSaan“
 
 - **bluuzet** (f.) – die Bluse
 	- بلوزة

@@ -89,7 +89,7 @@ lektion: 24
 	- القميص ضيق.
 5. tannuurtii waas3at kthiir.
 	- تنورتي واسعة كثير.
-6. el-qemSaan el-Dayyqiin / el-qemSaan el-Dayyqat
+6. el-qumSaan el-Dayyqiin / el-qumSaan el-Dayyqat
 	- القمصان الضيقين / القمصان الضيقة
 7. bijaamtek muu Dayyqat.
 	- بجامتك مو ضيقة.
@@ -135,7 +135,7 @@ lektion: 24
 	- الكنزة بشعة.
 5. banTaloonii 7eluu kthiir.
 	- بنطلوني حلو كثير.
-6. el-qemSaan el-bash3iin / el-qemSaan el-bash3at
+6. el-qumSaan el-bash3iin / el-qumSaan el-bash3at
 	- القمصان البشعين / القمصان البشعة
 7. fesTaanek muu bashe3.
 	- فستانك مو بشع.
@@ -220,7 +220,7 @@ lektion: 24
 	- هاد الفستان للبنت.
 2. el-kanzet lal-walad.
 	- الكنزة للولد.
-3. hadool el-qemSaan lal-rejjaal.
+3. hadool el-qumSaan lal-rejjaal.
 	- هدول القمصان للرجال.
 4. el-bluuzet el-Tawiilet lal-marat.
 	- البلوزة الطويلة للمرة.
@@ -245,7 +245,7 @@ lektion: 24
 2. fesTaan – qaSiir – el-bint *(Kleid – kurz – das Mädchen)*
 3. bijaamat – waas3at – 2a7mad *(Schlafanzug – weit – Ahmad)*
 4. banTaloon – 7eluu – saarat *(Hose – schön – Sara)*
-5. qemSaan – jdaad – 2a5ii *(Hemden – neu – mein Bruder)*
+5. qumSaan – jdaad – 2a5ii *(Hemden – neu – mein Bruder)*
 6. kanzet – el-rejjaal *(Pullover – der Mann)*
 7. 2a7dhiyet – Sghaar – el-wlaad *(Schuhe – klein – die Kinder)*
 8. fasaatiin – 7elwet – maayaa w liinaa *(Kleider – schön – Maya und Lina)*
@@ -259,7 +259,7 @@ lektion: 24
 	- لمين هي البجامة الواسعة؟ / هي البجامة الواسعة لأحمد.
 4. la-miin haad el-banTaloon el-7eluu? / haad el-banTaloon el-7eluu la-saarat.
 	- لمين هاد البنطلون الحلو؟ / هاد البنطلون الحلو لسارة.
-5. la-miin hadool el-qemSaan el-jdaad? / hadool el-qemSaan el-jdaad la-2a5ii.
+5. la-miin hadool el-qumSaan el-jdaad? / hadool el-qumSaan el-jdaad la-2a5ii.
 	- لمين هدول القمصان الجداد؟ / هدول القمصان الجداد لأخي.
 6. la-miin hay el-kanzet? / hay el-kanzet lal-rejjaal.
 	- لمين هي الكنزة؟ / هي الكنزة للرجال.
@@ -305,7 +305,7 @@ lektion: 24
 11. la-miin haad el-qamiiS? – ________. (Ihm.)
 12. la-miin hay el-tannuurat el-qaSiirat? – ________. (Ihr.)
 13. el-kanzet el-waas3at ________. (gehört mir)
-14. hadool el-qemSaan el-bash3iin ________. (gehören ihnen)
+14. hadool el-qumSaan el-bash3iin ________. (gehören ihnen)
 15. la-miin hadool el-ketob? – ________. (Uns.)
 16. haad el-banTaloon el-qadiim ________. (gehört dir, m.)
 
@@ -336,7 +336,7 @@ lektion: 24
 	- لمين هي التنورة القصيرة؟ – إلها.
 13. el-kanzet el-waas3at 2ilii.
 	- الكنزة الواسعة إلي.
-14. hadool el-qemSaan el-bash3iin 2ilhon.
+14. hadool el-qumSaan el-bash3iin 2ilhon.
 	- هدول القمصان البشعين إلهن.
 15. la-miin hadool el-ketob? – 2ilnaa.
 	- لمين هدول الكتب؟ – إلنا.
@@ -419,7 +419,7 @@ lektion: 24
    **Antwort:** ___ (2anaa)
 2. **Frage:** la-miin el-thyaab yallii bil-ghassaalet?
    **Antwort:** ___ (2intuu)
-3. **Frage:** la-miin el-qemSaan yallii bil-shantat?
+3. **Frage:** la-miin el-qumSaan yallii bil-shantat?
    **Antwort:** ___ (2a7mad)
 4. **Frage:** la-miin el-banTaloon el-Tawiil yallii janb el-ghassaalet?
    **Antwort:** ___ (huwwe)
@@ -441,7 +441,7 @@ lektion: 24
 	- البلوزة الحلوة يلي على التخت إلي.
 2. el-thyaab yallii bil-ghassaalet 2ilkon.
 	- الثياب يلي بالغسالة إلكن.
-3. el-qemSaan yallii bil-shantat la-2a7mad.
+3. el-qumSaan yallii bil-shantat la-2a7mad.
 	- القمصان يلي بالشنتة لأحمد.
 4. el-banTaloon el-Tawiil yallii janb el-ghassaalet 2iloh.
 	- البنطلون الطويل يلي جنب الغسالة إله.

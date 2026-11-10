@@ -116,11 +116,11 @@ Beide Formen bedeuten dasselbe und können immer austauschbar verwendet werden.
 # 8. Vokab
 | Arabisch                              | Deutsch        |
 | ------------------------------------- | -------------- |
-| **qamiiS** (Pl. **qemSaan**)          | Hemd (Hemden)  |
+| **qamiiS** (Pl. **qumSaan**)          | Hemd (Hemden)  |
 | **bluuzet** (Pl. bluuzaatt / bluwaz)  | Bluse (Blusen) |
 | **kanzet** (Pl. kanzaatt)             | Pullover       |
 
-(qamiiS wird in Damaskus „2amiiS“ gesprochen, der Plural „2emSaan“.)
+(qamiiS wird in Damaskus „2amiiS“ gesprochen, der Plural „2umSaan“.)
 
 # 10. Erinnerung: Definitheit
 

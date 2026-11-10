@@ -25,12 +25,12 @@ Erklärung: [[Explanation - Adjektive|Adjektive]] · weiter: [[Vocab - Adjektive
 | --- | --- | --- | --- |
 | fesTaan | fasaatiin | فستان | das Kleid |
 | tannuurat | tanaaniir | تنورة | der Rock |
-| qamiiS | qemSaan | قميص | das Hemd |
+| qamiiS | qumSaan | قميص | das Hemd |
 | bluuzet | bluuzaatt / bluwaz | بلوزة | die Bluse |
 | kanzet | kanzaatt | كنزة | der Pullover |
 | 5zaanet | 5zaanaatt | خزانة | der Schrank |
 
-(qamiiS → „2amiiS“, qemSaan → „2emSaan“)
+(qamiiS → „2amiiS“, qumSaan → „2umSaan“)
 
 ## Fragewörter und kleine Wörter
 | Umschrift | Arabisch | Deutsch |

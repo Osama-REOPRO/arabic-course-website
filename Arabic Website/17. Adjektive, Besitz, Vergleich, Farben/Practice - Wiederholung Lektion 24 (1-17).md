@@ -100,7 +100,7 @@ Alles aus den Abschnitten 1–17 gemischt: Adjektive, haad el-, la-, lal-, la-mi
 	- بلوزتي حلوة كثير.
 12. el-meftaa7 lal-sayyaarat.
 	- المفتاح للسيارة.
-13. la-miin el-qemSaan? – 2iloh.
+13. la-miin el-qumSaan? – 2iloh.
 	- لمين القمصان؟ – إله.
 14. haadaa fesTaan Tawiil.
 	- هادا فستان طويل.

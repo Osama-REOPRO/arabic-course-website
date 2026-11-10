@@ -54,7 +54,7 @@ Vokabeln zu Lektion 24. Erklärung: [[Explanation - Adjektive, Besitz, Vergleich
 | **thyaab** | Kleidung |
 | **shantat** | Tasche |
 | **3alaa** | auf |
-| **qamiiS** (Pl. **qemSaan**) | Hemd (Hemden) |
+| **qamiiS** (Pl. **qumSaan**) | Hemd (Hemden) |
 
 | Arabisch | Deutsch |
 |---|---|

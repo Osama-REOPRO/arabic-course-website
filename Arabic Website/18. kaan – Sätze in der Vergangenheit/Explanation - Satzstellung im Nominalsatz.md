@@ -41,7 +41,7 @@ Das Bekannte ist das **Subjekt**. Es muss **bestimmt** sein: ein Wort mit el-, e
 	- في كلب بالبيت.
 	- Es gibt einen Hund im Haus.
 
-## 2. kaan, muu und maa stehen direkt nach dem Subjekt
+## 2. kaan, muu und maa stehen meistens direkt nach dem Subjekt
 Das Subjekt ist der ganze bekannte Teil, auch wenn er aus mehreren Wörtern besteht.
 - el-beet kaan kbiir.
 	- البيت كان كبير.
@@ -66,13 +66,13 @@ Wenn beide Wörter bestimmt sind, gibt es kein „Neues“. Dann ist es kein Sat
 	- Das Haus ist groß. (Satz)
 
 # Die einzige Ausnahme: Fragewörter
-Fragewörter stehen immer zuerst.
+Fragewörter stehen meistens zuerst.
 - ween el-meftaa7?
 	- وين المفتاح؟
 	- Wo ist der Schlüssel?
 
 # Außerhalb des Satzes: Zeitwörter
-Zeitwörter gehören nicht zum Satzrahmen. Sie stehen am Anfang oder am Ende.
+Zeitwörter gehören nicht zum Satzrahmen. Sie können am Anfang, in der Mitte oder am Ende stehen.
 - mbaare7 kent bil-beet.
 	- مبارح كنت بالبيت.
 	- Gestern war ich zu Hause.

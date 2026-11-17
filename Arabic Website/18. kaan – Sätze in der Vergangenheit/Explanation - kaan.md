@@ -46,7 +46,7 @@ Heute lernen wir eine davon: wie man einen **Nominalsatz** (einen Satz ohne Verb
 	- Er ist Arzt. → Er war Arzt.
 
 > [!NOTE] fii und bedd: kaan steht am Anfang
-> Bei fii und bedd steht kaan **am Anfang** und bleibt immer **kaan**, egal für wen:
+> Bei fii und bedd steht kaan **am Anfang** und bleibt meistens **kaan**, egal für wen:
 > - kaan fii … (es gab …)
 > 	- كان في …
 > - kaan beddii, kaan beddak, kaan bedd'haa … (ich wollte, du wolltest, sie wollte …)
@@ -126,8 +126,10 @@ Diese Wörter sagen, **wann** etwas ist oder war. Lernt sie als Paare:
 > - el-yoom 2anaa bil-beet. (Heute bin ich zu Hause.)
 > 	- اليوم أنا بالبيت.
 
-> [!NOTE] Das Zeitwort steht am Anfang
-> Setzt das Zeitwort an den Anfang, danach kommt der Satz.
+> [!NOTE] Das Zeitwort ist frei
+> Das Zeitwort kann am Anfang, in der Mitte oder am Ende stehen. Am einfachsten ist der Anfang:
+> - mbaare7 kent bil-beet. = kent mbaare7 bil-beet. = kent bil-beet mbaare7. (Gestern war ich zu Hause.)
+> 	- مبارح كنت بالبيت. = كنت مبارح بالبيت. = كنت بالبيت مبارح.
 
 ##### Beispiele
 - mbaare7 kent bil-beet. → el-yoom 2anaa bil-madraset.

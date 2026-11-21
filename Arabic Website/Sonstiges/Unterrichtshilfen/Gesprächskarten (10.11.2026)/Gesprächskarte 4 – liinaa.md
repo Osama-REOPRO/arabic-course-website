@@ -3,7 +3,7 @@ publish: true
 title: "Gesprächskarte 4: liinaa"
 category: other
 listed: false
-lektion: 25
+lektion: 26
 ---
 <!-- box:back -->
 
@@ -20,7 +20,7 @@ Zurück zu [[Gesprächskarten (10.11.2026)|allen Gesprächskarten]]
 <div class="card-head">
 <svg class="vine" aria-hidden="true" width="150" height="170" viewBox="0 0 150 170"><g fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M10 165 C 30 120 20 90 55 70 C 85 52 80 25 110 14"/><path d="M55 70 C 70 78 88 76 98 66"/><path d="M30 118 C 44 116 52 106 54 96"/></g><g fill="none" stroke="currentColor" stroke-width="1.2"><ellipse cx="92" cy="30" rx="9" ry="4" transform="rotate(-30 92 30)"/><ellipse cx="70" cy="56" rx="9" ry="4" transform="rotate(35 70 56)"/><ellipse cx="40" cy="96" rx="9" ry="4" transform="rotate(-50 40 96)"/><ellipse cx="24" cy="138" rx="9" ry="4" transform="rotate(60 24 138)"/><ellipse cx="84" cy="76" rx="8" ry="3.5" transform="rotate(-10 84 76)"/></g><g class="flower" fill="none" stroke-width="1"><circle cx="112" cy="13" r="2"/><path d="M112 9 q3 -6 0 -8 q-3 2 0 8 M116 13 q6 -3 8 0 q-2 3 -8 0 M112 17 q3 6 0 8 q-3 -2 0 -8 M108 13 q-6 3 -8 0 q2 -3 8 0"/><circle cx="99" cy="64" r="1.6"/><path d="M99 60.5 q2.5 -5 0 -6.5 q-2.5 1.5 0 6.5 M102.5 64 q5 -2.5 6.5 0 q-1.5 2.5 -6.5 0 M99 67.5 q2.5 5 0 6.5 q-2.5 -1.5 0 -6.5 M95.5 64 q-5 2.5 -6.5 0 q1.5 -2.5 6.5 0"/></g></svg>
 <svg class="vine vine-r" aria-hidden="true" width="150" height="170" viewBox="0 0 150 170"><g fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M10 165 C 30 120 20 90 55 70 C 85 52 80 25 110 14"/><path d="M55 70 C 70 78 88 76 98 66"/><path d="M30 118 C 44 116 52 106 54 96"/></g><g fill="none" stroke="currentColor" stroke-width="1.2"><ellipse cx="92" cy="30" rx="9" ry="4" transform="rotate(-30 92 30)"/><ellipse cx="70" cy="56" rx="9" ry="4" transform="rotate(35 70 56)"/><ellipse cx="40" cy="96" rx="9" ry="4" transform="rotate(-50 40 96)"/><ellipse cx="24" cy="138" rx="9" ry="4" transform="rotate(60 24 138)"/><ellipse cx="84" cy="76" rx="8" ry="3.5" transform="rotate(-10 84 76)"/></g><g class="flower" fill="none" stroke-width="1"><circle cx="112" cy="13" r="2"/><path d="M112 9 q3 -6 0 -8 q-3 2 0 8 M116 13 q6 -3 8 0 q-2 3 -8 0 M112 17 q3 6 0 8 q-3 -2 0 -8 M108 13 q-6 3 -8 0 q2 -3 8 0"/><circle cx="99" cy="64" r="1.6"/><path d="M99 60.5 q2.5 -5 0 -6.5 q-2.5 1.5 0 6.5 M102.5 64 q5 -2.5 6.5 0 q-1.5 2.5 -6.5 0 M99 67.5 q2.5 5 0 6.5 q-2.5 -1.5 0 -6.5 M95.5 64 q-5 2.5 -6.5 0 q1.5 -2.5 6.5 0"/></g></svg>
-<div class="kicker">Lektion 25 · Gesprächskarte 4</div>
+<div class="kicker">Lektion 26 · Gesprächskarte 4</div>
 <div class="q-ar ar" dir="rtl">
 وين كنتي؟
 </div>

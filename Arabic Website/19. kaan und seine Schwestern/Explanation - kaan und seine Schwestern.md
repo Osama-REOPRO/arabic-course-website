@@ -63,6 +63,10 @@ In der Antwort kann man weglassen, was schon in der Frage steht.
 	- الفستان كان حلو؟ – لأ، ما كان.
 	- War das Kleid schön? – Nein, war es nicht.
 
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#1. Kurze Übung: Zeitwort und kurze Antworten|Übung 1: Zeitwort und kurze Antworten]]
+> - [[Practice - kaan und seine Schwestern#2. Gesprächskarten: kaan|Übung 2: Gesprächskarten (kaan)]]
+
 # 3. Jetzt: noch oder nicht mehr?
 Die nächsten zwei Wörter gehören zusammen. Beide sagen, wie es **jetzt** ist, im Vergleich zu früher, und sie sind Gegenteile:
 - **lessaa** = (immer) noch (nichts hat sich verändert)
@@ -125,6 +129,9 @@ lessaa funktioniert wie das deutsche **immer noch**: Etwas ist jetzt noch so, ob
 > 	- لسا بدي قهوة.
 > 	- Ich will immer noch einen Kaffee.
 
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#3. Partnerübung: lessaa|Übung 3: Partnerübung lessaa]]
+
 # 5. maa 3aad = nicht mehr
 maa 3aad ist das Gegenteil von lessaa: Etwas ist **nicht mehr** so. Es steht meistens direkt nach dem Subjekt und verändert sich wie kaan: Tauscht einfach k gegen 3.
 - 2a5ii lessaatoh Taaleb. → 2a5ii maa 3aad Taaleb.
@@ -172,6 +179,9 @@ maa 3aad ist das Gegenteil von lessaa: Etwas ist **nicht mehr** so. Es steht mei
 > - maa 3aad beddii qahwet.
 > 	- ما عاد بدي قهوة.
 > 	- Ich will keinen Kaffee mehr.
+
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#4. Partnerübung: maa 3aad|Übung 4: Partnerübung maa 3aad]]
 
 # 6. Der Weg: verändert oder geblieben?
 Auch die nächsten zwei Wörter gehören zusammen. Beide schauen auf den Weg von **früher** bis **jetzt**, und sie sind Gegenteile:
@@ -226,6 +236,9 @@ Saar sagt, dass sich etwas **verändert** hat. Es steht meistens direkt nach dem
 > 	- صار في مطعم جنب البيت.
 > 	- Jetzt gibt es ein Restaurant neben dem Haus.
 
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#5. Partnerübung: Saar|Übung 5: Partnerübung Saar]]
+
 # 8. Dall = blieb
 Dall sagt, dass sich etwas **nicht verändert** hat. Es steht meistens direkt nach dem Subjekt. Es hat dieselben Endungen wie kaan und Saar, aber vor einer Endung, die mit einem Konsonanten anfängt, kommt **-ee-** dazu: Dall-ee-t, Dall-ee-naa.
 - 2a5ii kaan Taaleb. → 2a5ii Dall Taaleb.
@@ -270,6 +283,9 @@ Dall sagt, dass sich etwas **nicht verändert** hat. Es steht meistens direkt na
 > - Dall fii shaay bil-maTba5.
 > 	- ضل في شاي بالمطبخ.
 > 	- Es war noch Tee in der Küche übrig.
+
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#6. Partnerübung: Dall|Übung 6: Partnerübung Dall]]
 
 # 9. Alle Endungen: zwei Sets, und ihr kennt beide
 
@@ -323,6 +339,9 @@ lessaa bekommt die Endungen, die ihr von bedd und 2ism kennt, mit einem t dazwis
 | إنتو | بدكن | لساتكن |
 | هنن | بدهن | لساتهن |
 
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#7. Ergänze die Tabelle|Übung 7: Ergänze die Tabelle]]
+
 # 10. Eine Geschichte erzählen: ba3deen
 
 | Wort | Arabisch | Deutsch |
@@ -344,3 +363,7 @@ Mit ba3deen könnt ihr mehrere Schritte hintereinander erzählen, wie eine klein
 
 > [!NOTE] Das Subjekt nur einmal
 > Das Subjekt sagt ihr nur einmal am Anfang. Danach lasst ihr es weg.
+
+> [!tip] Jetzt üben
+> - [[Practice - kaan und seine Schwestern#8. Erzähl die Geschichte|Übung 8: Erzähl die Geschichte]]
+> - [[Practice - kaan und seine Schwestern#9. Lesen: zwei alte Freunde|Übung 9: Lesen: zwei alte Freunde]]

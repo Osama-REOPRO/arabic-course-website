@@ -83,7 +83,7 @@ lessaa funktioniert wie das deutsche **immer noch**: Etwas ist jetzt noch so, ob
 
 | Pronomen | lessaa | Deutsch |
 | --- | --- | --- |
-| 2anaa | lessaanii / lessaatii | ich bin immer noch |
+| 2anaa | lessaatii | ich bin immer noch |
 | 2inte | lessaatak | du bist immer noch (m.) |
 | 2intii | lessaatek | du bist immer noch (f.) |
 | huwwe | lessaatoh | er / es ist immer noch |
@@ -94,7 +94,7 @@ lessaa funktioniert wie das deutsche **immer noch**: Etwas ist jetzt noch so, ob
 
 |  | لسا |
 | --- | --- |
-| أنا | لساني / لساتي |
+| أنا | لساتي |
 | إنت | لساتك |
 | إنتي | لساتك |
 | هو | لساته |
@@ -107,8 +107,8 @@ lessaa funktioniert wie das deutsche **immer noch**: Etwas ist jetzt noch so, ob
 > lessaatoh → „lessaato“, lessaat'haa → „lessaata“, lessaat'hon → „lessaaton“
 
 ##### Beispiele
-- 2anaa lessaanii Taaleb.
-	- أنا لساني طالب.
+- 2anaa lessaatii Taaleb.
+	- أنا لساتي طالب.
 	- Ich bin immer noch Student.
 - el-maT3am lessaatoh maftuu7.
 	- المطعم لساته مفتوح.
@@ -319,7 +319,7 @@ lessaa bekommt die Endungen, die ihr von bedd und 2ism kennt, mit einem t dazwis
 
 | Pronomen | bedd | lessaa |
 | --- | --- | --- |
-| 2anaa | beddii | lessaanii / lessaatii |
+| 2anaa | beddii | lessaatii |
 | 2inte | beddak | lessaatak |
 | 2intii | beddek | lessaatek |
 | huwwe | beddoh | lessaatoh |
@@ -330,7 +330,7 @@ lessaa bekommt die Endungen, die ihr von bedd und 2ism kennt, mit einem t dazwis
 
 |  | بد | لسا |
 | --- | --- | --- |
-| أنا | بدي | لساني / لساتي |
+| أنا | بدي | لساتي |
 | إنت | بدك | لساتك |
 | إنتي | بدك | لساتك |
 | هو | بده | لساته |

@@ -65,8 +65,8 @@ Jede / jeder wählt eine Karte. Erst schreibt ihr allein eure Fragen auf, dann f
 ## Runde 2: ich, du, wir, sie
 1. **A:** 2anaa Taaleb. *(Ich bin Student.)*
 	- أنا طالب.
-	- **B:** 2anaa lessaanii Taaleb.
-		- أنا لساني طالب.
+	- **B:** 2anaa lessaatii Taaleb.
+		- أنا لساتي طالب.
 2. **A:** 2intii bil-beet. *(Du (f.) bist zu Hause.)*
 	- إنتي بالبيت.
 	- **B:** 2intii lessaatek bil-beet.
@@ -255,7 +255,7 @@ Jede / jeder wählt eine Karte. Erst schreibt ihr allein eure Fragen auf, dann f
 
 | Pronomen | kaan | Saar | Dall | lessaa |
 | --- | --- | --- | --- | --- |
-| 2anaa | kent | 1. ....... | 2. ....... | lessaanii |
+| 2anaa | kent | 1. ....... | 2. ....... | lessaatii |
 | hiyye | 3. ....... | Saarett | 4. ....... | 5. ....... |
 | ni7naa | kennaa | 6. ....... | Dalleenaa | 7. ....... |
 | hinnen | 8. ....... | 9. ....... | Dalluu | 10. ....... |
@@ -292,8 +292,8 @@ Sagt jede Geschichte auf Syrisch-Arabisch, mit kaan, ba3deen, Saar / Dall und le
 5. Mein Bruder war Student an der Uni, dann ist er Student geblieben, und jetzt ist er immer noch Student.
 
 ##### Lösung
-1. 2anaa kent Taaleb, ba3deen Sert 2estaadh, w halla2 lessaanii 2estaadh.
-	- أنا كنت طالب، بعدين صرت أستاذ، وهلأ لساني أستاذ.
+1. 2anaa kent Taaleb, ba3deen Sert 2estaadh, w halla2 lessaatii 2estaadh.
+	- أنا كنت طالب، بعدين صرت أستاذ، وهلأ لساتي أستاذ.
 2. 3ammii kaan Tabbaa5, ba3deen Saar mwaDDHaf, w halla2 maa 3aad mwaDDHaf.
 	- عمي كان طباخ، بعدين صار موظف، وهلأ ما عاد موظف.
 3. el-wlaad kaanuu Sghaar, ba3deen Saaruu kbaar, w halla2 maa 3aaduu bil-beet.

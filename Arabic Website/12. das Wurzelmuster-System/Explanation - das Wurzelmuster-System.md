@@ -113,7 +113,7 @@ Das ist grundlegend anders als im Deutschen oder Englischen, wo neue Wörter mei
 Hier siehst du fünf weitere Wurzeln, die jeweilige Grundidee, und drei daraus abgeleitete Wörter:
 
 **d-r-s — die Idee von "Lernen / Studieren"**
-- daras — er lernte
+- daras — er studierte
 - madraset — Schule
 - diraaset — Studium / Untersuchung
 
@@ -185,7 +185,7 @@ Jedes dieser Wörter beschreibt eine **Person, die diese Tätigkeit beruflich od
 Schauen wir uns noch eine Wortgruppe an — diesmal mit Wurzeln, die Sie schon kennen:
 
 - katab (k-t-b) — er schrieb
-- daras (d-r-s) — er lernte
+- daras (d-r-s) — er studierte
 - fata7 (f-t-7) — er öffnete
 - ghasal (gh-s-l) — er wusch
 - qara2 (q-r-2) — er las
@@ -239,7 +239,7 @@ eine Person, die die Handlung der Wurzel beruflich ausübt
 "er hat X getan" (Vergangenheit)
 ###### Beispiele:
 - k-t-b > katab (er schrieb)
-- d-r-s > daras (er lernte)
+- d-r-s > daras (er studierte)
 - f-t-7 > fata7 (er öffnete)
 - gh-s-l > ghasal (er wusch)
 - q-r-2 > qara2 (er las)
@@ -341,7 +341,7 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 
 | Muster | Was das Muster bewirkt | Ergebnis | Bedeutung |
 |---|---|---|---|
-| fa3al | "er hat X getan" (Vergangenheit) | daras | er lernte |
+| fa3al | "er hat X getan" (Vergangenheit) | daras | er studierte |
 | maf3alet | "ein Ort, an dem X passiert" | madraset | Schule |
 | fa33al | "er hat X bei jemand anderem bewirkt" | darras | er unterrichtete |
 
@@ -395,7 +395,7 @@ Das ist das Gespür, das wir anstreben: Sobald Ihr Ohr die *Melodie* eines Muste
 | k-t-b | ك-ت-ب | schreiben | katab (er schrieb), ktaab (Buch), maktab (Büro), maktuub (geschrieben), kaateb (Schriftsteller), maktabet (Bibliothek) |
 | T-b-5 | ط-ب-خ | kochen | Taba5 (er kochte), maTba5 (Küche), Tabbaa5 (Koch), maTbuu5 (gekocht) |
 | sh-gh-l | ش-غ-ل | arbeiten | 2ishtaghal (er arbeitete), shughl (Arbeit), mashghuul (beschäftigt), mashghal (Werkstatt), shagghaal (funktionierend) |
-| d-r-s | د-ر-س | lernen | daras (er lernte), dars (Lektion), madraset (Schule), darras (er unterrichtete), diraaset (Studium) |
+| d-r-s | د-ر-س | studieren | daras (er studierte), dars (Lektion), madraset (Schule), darras (er unterrichtete), diraaset (Studium) |
 | f-t-7 | ف-ت-ح | öffnen | fata7 (er öffnete), maftuu7 (offen), meftaa7 (Schlüssel) |
 | gh-s-l | غ-س-ل | waschen | ghasal (er wusch), maghsal / maghsalet (Waschraum, Waschbecken), ghassaalet (Waschmaschine), maghsuul (gewaschen) |
 | q-r-2 | ق-ر-أ | lesen | qara2 (er las), qiraa2at (das Lesen), qaare2 (Leser), maqruu2 (gelesen) |

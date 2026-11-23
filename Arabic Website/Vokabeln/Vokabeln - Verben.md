@@ -20,7 +20,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- Wurzel: q-r-2
 	- Hinweis: in Damaskus gesprochen „2ara“
 
-- **daras** (Verb) – lernen (er lernte)
+- **daras** (Verb) – studieren (er studierte)
 	- درس
 	- دَرَس
 	- Wurzel: d-r-s

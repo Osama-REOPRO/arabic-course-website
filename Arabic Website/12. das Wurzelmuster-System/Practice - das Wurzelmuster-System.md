@@ -60,7 +60,7 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 
 | Muster | Was das Muster bewirkt | Ergebnis | Bedeutung |
 |---|---|---|---|
-| fa3al | "er hat X getan" (Vergangenheit) | daras | er lernte |
+| fa3al | "er hat X getan" (Vergangenheit) | daras | er studierte |
 | maf3alet | "ein Ort, an dem X passiert" | madraset | Schule |
 | fa33al | "er hat X bei jemand anderem bewirkt" | darras | er unterrichtete |
 
@@ -131,7 +131,7 @@ diese muster haben wir in dieser lektion kennengelernt (platzhalter f-3-l):
 7. T-b-5 → maf3al → maTba5 (Küche)
 8. T-b-5 → fa33aal → Tabbaa5 (Koch)
 9. T-b-5 → maf3uul → maTbuu5 (gekocht / ein gekochtes Gericht)
-10. d-r-s → fa3al → daras (er lernte)
+10. d-r-s → fa3al → daras (er studierte)
 11. d-r-s → maf3alet → madraset (Schule)
 12. d-r-s → fa33al → darras (er unterrichtete)
 13. f-t-7 → fa3al → fata7 (er öffnete)

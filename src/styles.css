@@ -535,3 +535,23 @@ body {
 
 /* Arabic lines in lists: each line takes its own direction, so punctuation lands on the correct side */
 .note-body li { unicode-bidi: plaintext; text-align: left; }
+
+/* Lektion 27 cards: one timeline, top to bottom: time word | dot | information */
+.box-card .box-series { margin: 8px 0 24px; }
+.box-card .box-series .tl { position: relative; max-width: 560px; margin: 0 auto; }
+.box-card .box-series .tl::before { content: ''; position: absolute; left: 50%; top: 10px; bottom: 18px; border-left: 2px solid var(--pal-accent); transform: translateX(-1px); }
+.box-card .box-series .tl::after { content: ''; position: absolute; left: 50%; bottom: 4px; transform: translateX(-7px); border: 7px solid transparent; border-top: 12px solid var(--pal-accent); border-bottom: none; }
+.box-card .box-series .step { position: relative; display: grid; grid-template-columns: 1fr 40px 1fr; align-items: center; min-height: 5em; }
+.box-card .box-series .t { text-align: right; color: var(--pal-deep); }
+.box-card .box-series .t .lat { font-family: var(--serif); font-style: italic; font-weight: 600; font-size: 1.3em; }
+.box-card .box-series .t .ar { font-size: 1.15em; }
+.box-card .box-series .dot { justify-self: center; width: 14px; height: 14px; border-radius: 50%; background: var(--pal-paper); border: 3px solid var(--pal-deep); position: relative; z-index: 1; }
+.box-card .box-series .i { text-align: left; }
+.box-card .box-series .i .lat { font-weight: 600; font-size: 1.15em; color: var(--ink); }
+.box-card .box-series .i .ar { font-size: 1.25em; text-align: left; }
+.box-card .box-series .t .ar { text-align: right; }
+.box-card table.answer-grid.notes td { border-left: none; }
+.box-card table.answer-grid.notes td[contenteditable] { height: 2.6em; }
+.box-card .box-series .topic { margin: 0 auto 14px; text-align: center; font-family: var(--serif); font-style: italic; font-weight: 600; font-size: 1.4em; color: var(--ink); }
+.box-card .box-series .topic .ar { font-style: normal; }
+.box-card .card-head.tall { min-height: 190px; justify-content: center; }

@@ -535,3 +535,16 @@ body {
 
 /* Arabic lines in lists: each line takes its own direction, so punctuation lands on the correct side */
 .note-body li { unicode-bidi: plaintext; text-align: left; }
+
+/* Lektion 27 cards: a story in three steps (früher → dann → jetzt) */
+.box-card .box-story { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin-bottom: 18px; }
+.box-card .box-story > h2 { grid-column: 1 / -1; }
+.box-card .box-story > h2 + .box-time { border-left: none; padding-left: 0; }
+.box-card .box-story .box-time .tw { margin-bottom: 6px; color: var(--ink-soft); }
+.box-card .box-story .box-time .tw .lat { font-style: italic; }
+.box-card .box-story .box-time .kw .lat { font-family: var(--serif); font-weight: 600; font-size: 1.35em; color: var(--ink); }
+.box-card .box-story .box-time .ar { text-align: right; }
+.box-card .box-story .box-time .kw .ar { font-size: 1.3em; }
+
+.box-card table.vt.forms th { font-family: var(--serif); font-style: italic; font-weight: 600; font-size: 1.15em; color: var(--pal-deep); text-align: start; }
+.box-card table.vt.forms td .de { font-size: 0.85em; color: var(--ink-soft); }

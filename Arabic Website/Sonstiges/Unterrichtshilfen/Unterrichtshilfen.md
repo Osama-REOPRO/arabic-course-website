@@ -9,3 +9,4 @@ order: 2
 Material, das wir im Unterricht gemeinsam benutzen.
 
 - [[Gesprächskarten (10.11.2026)|10.11.2026 – Gesprächskarten]] *(Lektion 25)*
+- [[Gesprächskarten (24.11.2026)|24.11.2026 – Gesprächskarten]] *(Lektion 27)*

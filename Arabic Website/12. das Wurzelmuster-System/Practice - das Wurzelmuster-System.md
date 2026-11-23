@@ -51,7 +51,7 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 |---|---|---|---|
 | fa3al | "er hat X getan" (Vergangenheit) | katab | er schrieb |
 | maf3al | "ein Ort, an dem X passiert" | maktab | Büro |
-| maf3uul | "etwas, dem X angetan wurde" | maktuub | geschrieben / Brief |
+| maf3uul | "etwas, dem X angetan wurde" | maktuub | geschrieben |
 | faa3el | "derjenige, der X tut" | kaateb | Schriftsteller |
 
 **Wurzel: d-r-s — die Idee von "Lernen"**
@@ -124,7 +124,7 @@ diese muster haben wir in dieser lektion kennengelernt (platzhalter f-3-l):
 # eine Wurzel, ein Muster
 1. k-t-b → fa3al → katab (er schrieb)
 2. k-t-b → maf3al → maktab (Büro)
-3. k-t-b → maf3uul → maktuub (geschrieben / Brief)
+3. k-t-b → maf3uul → maktuub (geschrieben)
 4. k-t-b → faa3el → kaateb (Schriftsteller)
 5. k-t-b → maf3alet → maktabet (Bibliothek)
 6. T-b-5 → fa3al → Taba5 (er kochte)

@@ -13,7 +13,7 @@ Erklärung: [[Explanation - das Wurzelmuster-System|das Wurzelmuster-System]]
 
 | Wurzel | Arabisch | Grundidee | Wörter |
 | --- | --- | --- | --- |
-| k-t-b | ك-ت-ب | schreiben | katab (er schrieb), ktaab (Buch), maktab (Büro), maktuub (geschrieben, Brief), kaateb (Schriftsteller), maktabet (Bibliothek) |
+| k-t-b | ك-ت-ب | schreiben | katab (er schrieb), ktaab (Buch), maktab (Büro), maktuub (geschrieben), kaateb (Schriftsteller), maktabet (Bibliothek) |
 | T-b-5 | ط-ب-خ | kochen | Taba5 (er kochte), maTba5 (Küche), Tabbaa5 (Koch), maTbuu5 (gekocht) |
 | sh-gh-l | ش-غ-ل | arbeiten | 2ishtaghal (er arbeitete), shughl (Arbeit), mashghuul (beschäftigt), mashghal (Werkstatt), shagghaal (funktionierend) |
 | d-r-s | د-ر-س | lernen | daras (er lernte), dars (Lektion), madraset (Schule), darras (er unterrichtete), diraaset (Studium) |

@@ -15,7 +15,7 @@ Schauen wir uns gemeinsam eine Reihe neuer Wörter an:
 **Nomen:**
 - ktaab — Buch
 - maktab — Büro
-- maktuub — geschrieben / Brief
+- maktuub — geschrieben
 - kaateb — Schriftsteller
 - maktabet — Bibliothek
 
@@ -332,7 +332,7 @@ Drehen wir es jetzt um: Wir nehmen eine einzige Wurzel und lassen sie durch vers
 |---|---|---|---|
 | fa3al | "er hat X getan" (Vergangenheit) | katab | er schrieb |
 | maf3al | "ein Ort, an dem X passiert" | maktab | Büro |
-| maf3uul | "etwas, dem X angetan wurde" | maktuub | geschrieben / Brief |
+| maf3uul | "etwas, dem X angetan wurde" | maktuub | geschrieben |
 | faa3el | "derjenige, der X tut" | kaateb | Schriftsteller |
 
 **Wurzel: d-r-s — die Idee von "Lernen"**
@@ -392,7 +392,7 @@ Das ist das Gespür, das wir anstreben: Sobald Ihr Ohr die *Melodie* eines Muste
 
 | Wurzel | Arabisch | Grundidee | Wörter |
 | --- | --- | --- | --- |
-| k-t-b | ك-ت-ب | schreiben | katab (er schrieb), ktaab (Buch), maktab (Büro), maktuub (geschrieben, Brief), kaateb (Schriftsteller), maktabet (Bibliothek) |
+| k-t-b | ك-ت-ب | schreiben | katab (er schrieb), ktaab (Buch), maktab (Büro), maktuub (geschrieben), kaateb (Schriftsteller), maktabet (Bibliothek) |
 | T-b-5 | ط-ب-خ | kochen | Taba5 (er kochte), maTba5 (Küche), Tabbaa5 (Koch), maTbuu5 (gekocht) |
 | sh-gh-l | ش-غ-ل | arbeiten | 2ishtaghal (er arbeitete), shughl (Arbeit), mashghuul (beschäftigt), mashghal (Werkstatt), shagghaal (funktionierend) |
 | d-r-s | د-ر-س | lernen | daras (er lernte), dars (Lektion), madraset (Schule), darras (er unterrichtete), diraaset (Studium) |

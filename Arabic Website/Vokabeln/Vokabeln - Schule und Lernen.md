@@ -41,7 +41,7 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- لغة
 	- لُغَة
 
-- **maktuub** (m.) – der Brief; geschrieben
+- **maktuub** (Partizip) – geschrieben
 	- مكتوب
 	- مَكتوب
 	- Wurzel: k-t-b
@@ -50,6 +50,11 @@ Jeder Eintrag: **Umschrift** (Wortart) – Deutsch, darunter die arabische Schri
 	- قراءة
 	- قِراءَة
 	- Wurzel: q-r-2
+
+- **risaalet** (f.) – der Brief
+	- رسالة
+	- رِسالِة
+	- Wurzel: r-s-l
 
 - **diraaset** (f.) – das Studium, die Untersuchung
 	- دراسة

@@ -195,8 +195,10 @@ Hier ist die Antwort. Wie heißt die Frage?
 
 > [!NOTE] In arabischer Schrift
 > Manche Formen sehen in arabischer Schrift gleich aus: katabt (ich) und katbett (sie) schreibt man beide كتبت. Die kleinen Vokale (7arakaatt) zeigen den Unterschied:
->
-> كَتَبْت = katabt · كَتْبِت = katbett
+> - katabt
+> 	- كَتَبْت
+> - katbett
+> 	- كَتْبِت
 
 ##### Lösung
 1. 2u5tii **katbett** risaalet.

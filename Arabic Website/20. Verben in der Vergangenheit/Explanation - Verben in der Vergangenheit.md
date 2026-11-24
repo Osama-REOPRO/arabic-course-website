@@ -217,10 +217,10 @@ Diese zwei Sätze bedeuten genau dasselbe:
 Im ersten Satz ist 2anaa trotzdem da: Es steckt in katabt.
 
 > [!tip] Jetzt üben
-> - [[Practice - Verben in der Vergangenheit#7. Hausaufgabe: Ergänze die Tabelle|Übung 7: Hausaufgabe: Ergänze die Tabelle]]
-> - [[Practice - Verben in der Vergangenheit#8. Schreib es auf Arabisch|Übung 8: Schreib es auf Arabisch]]
-> - [[Practice - Verben in der Vergangenheit#9. Partnerübung: jede Person|Übung 9: Partnerübung: jede Person]]
-> - [[Practice - Verben in der Vergangenheit#10. Frag und antworte|Übung 10: Frag und antworte]]
-> - [[Practice - Verben in der Vergangenheit#11. Füll die Lücken|Übung 11: Füll die Lücken]]
-> - [[Practice - Verben in der Vergangenheit#12. Wiederholung: Adjektive und la-|Übung 12: Wiederholung: Adjektive und la-]]
-> - [[Practice - Verben in der Vergangenheit#13. Lesen: gestern|Übung 13: Lesen: gestern]]
+> - [[Practice - Verben in der Vergangenheit#7. Schreib es auf Arabisch|Übung 7: Schreib es auf Arabisch]]
+> - [[Practice - Verben in der Vergangenheit#8. Partnerübung: jede Person|Übung 8: Partnerübung: jede Person]]
+> - [[Practice - Verben in der Vergangenheit#9. Frag und antworte|Übung 9: Frag und antworte]]
+> - [[Practice - Verben in der Vergangenheit#10. Füll die Lücken|Übung 10: Füll die Lücken]]
+> - [[Practice - Verben in der Vergangenheit#11. Wiederholung: Adjektive und la-|Übung 11: Wiederholung: Adjektive und la-]]
+> - [[Practice - Verben in der Vergangenheit#12. Lesen: gestern|Übung 12: Lesen: gestern]]
+> - [[Practice - Verben in der Vergangenheit#13. Hausaufgabe: Ergänze die Tabelle|Hausaufgabe: Ergänze die Tabelle]]

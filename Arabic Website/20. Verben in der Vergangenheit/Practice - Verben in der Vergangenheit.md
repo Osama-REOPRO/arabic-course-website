@@ -175,42 +175,7 @@ Hier ist die Antwort. Wie heißt die Frage?
 8. ween ghasal el-sayyaarat?
 	- وين غسل السيارة؟
 
-# 7. Hausaufgabe: Ergänze die Tabelle
-| | katab | Taba5 | fata7 | ghasal | daras |
-| --- | --- | --- | --- | --- | --- |
-| **2anaa** | katabt | 1. ....... | 2. ....... | 3. ....... | 4. ....... |
-| **2inte** | katabt | 5. ....... | 6. ....... | 7. ....... | 8. ....... |
-| **2intii** | katabtii | 9. ....... | 10. ....... | 11. ....... | 12. ....... |
-| **huwwe** | katab | Taba5 | fata7 | ghasal | daras |
-| **hiyye** | katbett | 13. ....... | 14. ....... | 15. ....... | 16. ....... |
-| **ni7naa** | katabnaa | 17. ....... | 18. ....... | 19. ....... | 20. ....... |
-| **2intuu** | katabtuu | 21. ....... | 22. ....... | 23. ....... | 24. ....... |
-| **hinnen** | katabuu | 25. ....... | 26. ....... | 27. ....... | 28. ....... |
-
-##### Lösung
-| | katab | Taba5 | fata7 | ghasal | daras |
-| --- | --- | --- | --- | --- | --- |
-| **2anaa** | katabt | Taba5t | fata7t | ghasalt | darast |
-| **2inte** | katabt | Taba5t | fata7t | ghasalt | darast |
-| **2intii** | katabtii | Taba5tii | fata7tii | ghasaltii | darastii |
-| **huwwe** | katab | Taba5 | fata7 | ghasal | daras |
-| **hiyye** | katbett | Tab5ett | fat7ett | ghaslett | darsett |
-| **ni7naa** | katabnaa | Taba5naa | fata7naa | ghasalnaa | darasnaa |
-| **2intuu** | katabtuu | Taba5tuu | fata7tuu | ghasaltuu | darastuu |
-| **hinnen** | katabuu | Taba5uu | fata7uu | ghasaluu | darasuu |
-
-| | كتب | طبخ | فتح | غسل | درس |
-| --- | --- | --- | --- | --- | --- |
-| **أنا** | كتبت | طبخت | فتحت | غسلت | درست |
-| **إنت** | كتبت | طبخت | فتحت | غسلت | درست |
-| **إنتي** | كتبتي | طبختي | فتحتي | غسلتي | درستي |
-| **هو** | كتب | طبخ | فتح | غسل | درس |
-| **هي** | كتبت | طبخت | فتحت | غسلت | درست |
-| **نحنا** | كتبنا | طبخنا | فتحنا | غسلنا | درسنا |
-| **إنتو** | كتبتوا | طبختوا | فتحتوا | غسلتوا | درستوا |
-| **هنن** | كتبوا | طبخوا | فتحوا | غسلوا | درسوا |
-
-# 8. Schreib es auf Arabisch
+# 7. Schreib es auf Arabisch
 Allein: Schreibt jeden Satz auf Syrisch-Arabisch.
 1. Gestern kochte ich Essen.
 2. Du (m.) schriebst keinen Brief.
@@ -239,7 +204,7 @@ Allein: Schreibt jeden Satz auf Syrisch-Arabisch.
 8. maa katabuu ktaab.
 	- ما كتبوا كتاب.
 
-# 9. Partnerübung: jede Person
+# 8. Partnerübung: jede Person
 **So funktioniert es:**
 - **Partner A** liest den deutschen Satz vor.
 - **Partner B** sagt ihn auf Syrisch-Arabisch.
@@ -323,7 +288,7 @@ Allein: Schreibt jeden Satz auf Syrisch-Arabisch.
 	- **B:** 2awwal mbaare7 ghasalnaa el-sayyaarat.
 		- أول مبارح غسلنا السيارة.
 
-# 10. Frag und antworte
+# 9. Frag und antworte
 Partner A fragt, Partner B antwortet. Achtung: Wenn die Frage „du“ sagt, sagt die Antwort „ich“ (oder „wir“).
 1. katabt risaalet?
 	- كتبت رسالة؟
@@ -361,7 +326,7 @@ Beispielantworten. Bei Ja-/Nein-Fragen: einmal mit 2ee, einmal mit la2.
 8. 2ee, fata7naa. / la2, maa fata7naa.
 	- إي، فتحنا. / لأ، ما فتحنا.
 
-# 11. Füll die Lücken
+# 10. Füll die Lücken
 Setzt das Verb in Klammern in die richtige Form.
 1. mbaare7 2anaa ________ risaalet. (katab)
 	- مبارح أنا ________ رسالة.
@@ -398,7 +363,7 @@ Setzt das Verb in Klammern in die richtige Form.
 8. 2abii **ghasal** el-sayyaarat bil-shaare3.
 	- أبي غسل السيارة بالشارع.
 
-# 12. Wiederholung: Adjektive und la-
+# 11. Wiederholung: Adjektive und la-
 Schreibt jeden Satz auf Syrisch-Arabisch. Achtung: Das Adjektiv passt sich dem Nomen an, und la- + el- wird zu lal-.
 1. Ich schrieb meiner Mutter einen langen Brief.
 2. Sie wusch das neue Hemd.
@@ -427,7 +392,7 @@ Schreibt jeden Satz auf Syrisch-Arabisch. Achtung: Das Adjektiv passt sich dem N
 8. fata7tuu el-baab el-Sghiir?
 	- فتحتوا الباب الصغير؟
 
-# 13. Lesen: gestern
+# 12. Lesen: gestern
 
 **So funktioniert es:**
 1. Lest die Geschichte allein. Es gibt keine Übersetzung: Versucht, sie selbst zu verstehen.
@@ -476,3 +441,38 @@ qabl 2usbuu3, 2ahl kariim fata7uu maT3am jdiid bi-dimashq. 2umm kariim Tab5ett, 
 	- أهل كريم.
 6. 2ee, lessaat'hon huniik.
 	- إي، لساتهن هنيك.
+
+# 13. Hausaufgabe: Ergänze die Tabelle
+| | katab | Taba5 | fata7 | ghasal | daras |
+| --- | --- | --- | --- | --- | --- |
+| **2anaa** | katabt | 1. ....... | 2. ....... | 3. ....... | 4. ....... |
+| **2inte** | katabt | 5. ....... | 6. ....... | 7. ....... | 8. ....... |
+| **2intii** | katabtii | 9. ....... | 10. ....... | 11. ....... | 12. ....... |
+| **huwwe** | katab | Taba5 | fata7 | ghasal | daras |
+| **hiyye** | katbett | 13. ....... | 14. ....... | 15. ....... | 16. ....... |
+| **ni7naa** | katabnaa | 17. ....... | 18. ....... | 19. ....... | 20. ....... |
+| **2intuu** | katabtuu | 21. ....... | 22. ....... | 23. ....... | 24. ....... |
+| **hinnen** | katabuu | 25. ....... | 26. ....... | 27. ....... | 28. ....... |
+
+##### Lösung
+| | katab | Taba5 | fata7 | ghasal | daras |
+| --- | --- | --- | --- | --- | --- |
+| **2anaa** | katabt | Taba5t | fata7t | ghasalt | darast |
+| **2inte** | katabt | Taba5t | fata7t | ghasalt | darast |
+| **2intii** | katabtii | Taba5tii | fata7tii | ghasaltii | darastii |
+| **huwwe** | katab | Taba5 | fata7 | ghasal | daras |
+| **hiyye** | katbett | Tab5ett | fat7ett | ghaslett | darsett |
+| **ni7naa** | katabnaa | Taba5naa | fata7naa | ghasalnaa | darasnaa |
+| **2intuu** | katabtuu | Taba5tuu | fata7tuu | ghasaltuu | darastuu |
+| **hinnen** | katabuu | Taba5uu | fata7uu | ghasaluu | darasuu |
+
+| | كتب | طبخ | فتح | غسل | درس |
+| --- | --- | --- | --- | --- | --- |
+| **أنا** | كتبت | طبخت | فتحت | غسلت | درست |
+| **إنت** | كتبت | طبخت | فتحت | غسلت | درست |
+| **إنتي** | كتبتي | طبختي | فتحتي | غسلتي | درستي |
+| **هو** | كتب | طبخ | فتح | غسل | درس |
+| **هي** | كتبت | طبخت | فتحت | غسلت | درست |
+| **نحنا** | كتبنا | طبخنا | فتحنا | غسلنا | درسنا |
+| **إنتو** | كتبتوا | طبختوا | فتحتوا | غسلتوا | درستوا |
+| **هنن** | كتبوا | طبخوا | فتحوا | غسلوا | درسوا |

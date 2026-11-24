@@ -175,7 +175,46 @@ Hier ist die Antwort. Wie heißt die Frage?
 8. ween ghasal el-sayyaarat?
 	- وين غسل السيارة؟
 
-# 7. Schreib es auf Arabisch
+# 7. Wähle die richtige Form
+1. 2u5tii (katbett / katabt) risaalet.
+	- أختي (كتبت / كتبت) رسالة.
+2. 2anaa (Taba5t / Tab5ett) 2akl.
+	- أنا (طبخت / طبخت) أكل.
+3. 2intii (fata7t / fata7tii) el-baab?
+	- إنتي (فتحت / فتحتي) الباب؟
+4. el-wlaad (darastuu / darasuu) 3arabii.
+	- الولاد (درستوا / درسوا) عربي.
+5. ni7naa (ghasalnaa / ghasaluu) el-sayyaarat.
+	- نحنا (غسلنا / غسلوا) السيارة.
+6. 2abii (Taba5 / Tab5ett) 2akl Tayyeb.
+	- أبي (طبخ / طبخت) أكل طيب.
+7. 2intuu (katabtuu / katabuu) risaalet?
+	- إنتو (كتبتوا / كتبوا) رسالة؟
+8. 2ummii (fata7 / fat7ett) el-shebbaak.
+	- أمي (فتح / فتحت) الشباك.
+
+> [!NOTE] In arabischer Schrift
+> Manche Formen sehen in arabischer Schrift gleich aus: katabt (ich) und katbett (sie) schreibt man beide كتبت. Den Unterschied hört man nur.
+
+##### Lösung
+1. 2u5tii **katbett** risaalet.
+	- أختي كتبت رسالة.
+2. 2anaa **Taba5t** 2akl.
+	- أنا طبخت أكل.
+3. 2intii **fata7tii** el-baab?
+	- إنتي فتحتي الباب؟
+4. el-wlaad **darasuu** 3arabii.
+	- الولاد درسوا عربي.
+5. ni7naa **ghasalnaa** el-sayyaarat.
+	- نحنا غسلنا السيارة.
+6. 2abii **Taba5** 2akl Tayyeb.
+	- أبي طبخ أكل طيب.
+7. 2intuu **katabtuu** risaalet?
+	- إنتو كتبتوا رسالة؟
+8. 2ummii **fat7ett** el-shebbaak.
+	- أمي فتحت الشباك.
+
+# 8. Schreib es auf Arabisch
 Allein: Schreibt jeden Satz auf Syrisch-Arabisch.
 1. Gestern kochte ich Essen.
 2. Du (m.) schriebst keinen Brief.
@@ -204,7 +243,7 @@ Allein: Schreibt jeden Satz auf Syrisch-Arabisch.
 8. maa katabuu ktaab.
 	- ما كتبوا كتاب.
 
-# 8. Partnerübung: jede Person
+# 9. Partnerübung: jede Person
 **So funktioniert es:**
 - **Partner A** liest den deutschen Satz vor.
 - **Partner B** sagt ihn auf Syrisch-Arabisch.
@@ -288,7 +327,7 @@ Allein: Schreibt jeden Satz auf Syrisch-Arabisch.
 	- **B:** 2awwal mbaare7 ghasalnaa el-sayyaarat.
 		- أول مبارح غسلنا السيارة.
 
-# 9. Frag und antworte
+# 10. Frag und antworte
 Partner A fragt, Partner B antwortet. Achtung: Wenn die Frage „du“ sagt, sagt die Antwort „ich“ (oder „wir“).
 1. katabt risaalet?
 	- كتبت رسالة؟
@@ -326,7 +365,7 @@ Beispielantworten. Bei Ja-/Nein-Fragen: einmal mit 2ee, einmal mit la2.
 8. 2ee, fata7naa. / la2, maa fata7naa.
 	- إي، فتحنا. / لأ، ما فتحنا.
 
-# 10. Füll die Lücken
+# 11. Füll die Lücken
 Setzt das Verb in Klammern in die richtige Form.
 1. mbaare7 2anaa ________ risaalet. (katab)
 	- مبارح أنا ________ رسالة.
@@ -363,7 +402,7 @@ Setzt das Verb in Klammern in die richtige Form.
 8. 2abii **ghasal** el-sayyaarat bil-shaare3.
 	- أبي غسل السيارة بالشارع.
 
-# 11. Wiederholung: Adjektive und la-
+# 12. Wiederholung: Adjektive und la-
 Schreibt jeden Satz auf Syrisch-Arabisch. Achtung: Das Adjektiv passt sich dem Nomen an, und la- + el- wird zu lal-.
 1. Ich schrieb meiner Mutter einen langen Brief.
 2. Sie wusch das neue Hemd.
@@ -392,7 +431,7 @@ Schreibt jeden Satz auf Syrisch-Arabisch. Achtung: Das Adjektiv passt sich dem N
 8. fata7tuu el-baab el-Sghiir?
 	- فتحتوا الباب الصغير؟
 
-# 12. Lesen: gestern
+# 13. Lesen: gestern
 
 **So funktioniert es:**
 1. Lest die Geschichte allein. Es gibt keine Übersetzung: Versucht, sie selbst zu verstehen.
@@ -442,7 +481,7 @@ qabl 2usbuu3, 2ahl kariim fata7uu maT3am jdiid bi-dimashq. 2umm kariim Tab5ett, 
 6. 2ee, lessaat'hon huniik.
 	- إي، لساتهن هنيك.
 
-# 13. Hausaufgabe: Ergänze die Tabelle
+# 14. Hausaufgabe: Ergänze die Tabelle
 | | katab | Taba5 | fata7 | ghasal | daras |
 | --- | --- | --- | --- | --- | --- |
 | **2anaa** | katabt | 1. ....... | 2. ....... | 3. ....... | 4. ....... |

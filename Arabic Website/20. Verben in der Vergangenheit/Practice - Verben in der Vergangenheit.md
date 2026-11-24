@@ -177,9 +177,9 @@ Hier ist die Antwort. Wie heißt die Frage?
 
 # 7. Wähle die richtige Form
 1. 2u5tii (katbett / katabt) risaalet.
-	- أختي (كتبت / كتبت) رسالة.
+	- أختي (كَتْبِت / كَتَبْت) رسالة.
 2. 2anaa (Taba5t / Tab5ett) 2akl.
-	- أنا (طبخت / طبخت) أكل.
+	- أنا (طَبَخْت / طَبْخِت) أكل.
 3. 2intii (fata7t / fata7tii) el-baab?
 	- إنتي (فتحت / فتحتي) الباب؟
 4. el-wlaad (darastuu / darasuu) 3arabii.
@@ -194,13 +194,15 @@ Hier ist die Antwort. Wie heißt die Frage?
 	- أمي (فتح / فتحت) الشباك.
 
 > [!NOTE] In arabischer Schrift
-> Manche Formen sehen in arabischer Schrift gleich aus: katabt (ich) und katbett (sie) schreibt man beide كتبت. Den Unterschied hört man nur.
+> Manche Formen sehen in arabischer Schrift gleich aus: katabt (ich) und katbett (sie) schreibt man beide كتبت. Die kleinen Vokale (7arakaatt) zeigen den Unterschied:
+>
+> كَتَبْت = katabt · كَتْبِت = katbett
 
 ##### Lösung
 1. 2u5tii **katbett** risaalet.
-	- أختي كتبت رسالة.
+	- أختي كَتْبِت رسالة.
 2. 2anaa **Taba5t** 2akl.
-	- أنا طبخت أكل.
+	- أنا طَبَخْت أكل.
 3. 2intii **fata7tii** el-baab?
 	- إنتي فتحتي الباب؟
 4. el-wlaad **darasuu** 3arabii.

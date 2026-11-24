@@ -175,7 +175,7 @@ Hier ist die Antwort. Wie heißt die Frage?
 8. ween ghasal el-sayyaarat?
 	- وين غسل السيارة؟
 
-# 7. Ergänze die Tabelle
+# 7. Hausaufgabe: Ergänze die Tabelle
 | | katab | Taba5 | fata7 | ghasal | daras |
 | --- | --- | --- | --- | --- | --- |
 | **2anaa** | katabt | 1. ....... | 2. ....... | 3. ....... | 4. ....... |

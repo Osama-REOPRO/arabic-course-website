@@ -217,7 +217,7 @@ Diese zwei Sätze bedeuten genau dasselbe:
 Im ersten Satz ist 2anaa trotzdem da: Es steckt in katabt.
 
 > [!tip] Jetzt üben
-> - [[Practice - Verben in der Vergangenheit#7. Ergänze die Tabelle|Übung 7: Ergänze die Tabelle]]
+> - [[Practice - Verben in der Vergangenheit#7. Hausaufgabe: Ergänze die Tabelle|Übung 7: Hausaufgabe: Ergänze die Tabelle]]
 > - [[Practice - Verben in der Vergangenheit#8. Schreib es auf Arabisch|Übung 8: Schreib es auf Arabisch]]
 > - [[Practice - Verben in der Vergangenheit#9. Partnerübung: jede Person|Übung 9: Partnerübung: jede Person]]
 > - [[Practice - Verben in der Vergangenheit#10. Frag und antworte|Übung 10: Frag und antworte]]

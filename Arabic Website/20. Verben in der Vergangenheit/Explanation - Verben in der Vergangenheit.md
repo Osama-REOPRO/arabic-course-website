@@ -221,3 +221,6 @@ Im ersten Satz ist 2anaa trotzdem da: Es steckt in katabt.
 > - [[Practice - Verben in der Vergangenheit#8. Schreib es auf Arabisch|Übung 8: Schreib es auf Arabisch]]
 > - [[Practice - Verben in der Vergangenheit#9. Partnerübung: jede Person|Übung 9: Partnerübung: jede Person]]
 > - [[Practice - Verben in der Vergangenheit#10. Frag und antworte|Übung 10: Frag und antworte]]
+> - [[Practice - Verben in der Vergangenheit#11. Füll die Lücken|Übung 11: Füll die Lücken]]
+> - [[Practice - Verben in der Vergangenheit#12. Wiederholung: Adjektive und la-|Übung 12: Wiederholung: Adjektive und la-]]
+> - [[Practice - Verben in der Vergangenheit#13. Lesen: gestern|Übung 13: Lesen: gestern]]

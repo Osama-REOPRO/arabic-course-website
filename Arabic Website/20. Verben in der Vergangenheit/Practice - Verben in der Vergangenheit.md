@@ -360,3 +360,119 @@ Beispielantworten. Bei Ja-/Nein-Fragen: einmal mit 2ee, einmal mit la2.
 	- طبخوا بالمطبخ.
 8. 2ee, fata7naa. / la2, maa fata7naa.
 	- إي، فتحنا. / لأ، ما فتحنا.
+
+# 11. Füll die Lücken
+Setzt das Verb in Klammern in die richtige Form.
+1. mbaare7 2anaa ________ risaalet. (katab)
+	- مبارح أنا ________ رسالة.
+2. 2u5tii ________ 2akl bil-maTba5. (Taba5)
+	- أختي ________ أكل بالمطبخ.
+3. ni7naa ________ el-shebbaak. (fata7)
+	- نحنا ________ الشباك.
+4. 2intii ________ el-qamiiS? (ghasal)
+	- إنتي ________ القميص؟
+5. el-wlaad ________ 3arabii bil-madraset. (daras)
+	- الولاد ________ عربي بالمدرسة.
+6. 2inte maa ________ el-baab. (fata7)
+	- إنت ما ________ الباب.
+7. 2intuu ________ 2akl mbaare7? (Taba5)
+	- إنتو ________ أكل مبارح؟
+8. 2abii ________ el-sayyaarat bil-shaare3. (ghasal)
+	- أبي ________ السيارة بالشارع.
+
+##### Lösung
+1. mbaare7 2anaa **katabt** risaalet.
+	- مبارح أنا كتبت رسالة.
+2. 2u5tii **Tab5ett** 2akl bil-maTba5.
+	- أختي طبخت أكل بالمطبخ.
+3. ni7naa **fata7naa** el-shebbaak.
+	- نحنا فتحنا الشباك.
+4. 2intii **ghasaltii** el-qamiiS?
+	- إنتي غسلتي القميص؟
+5. el-wlaad **darasuu** 3arabii bil-madraset.
+	- الولاد درسوا عربي بالمدرسة.
+6. 2inte maa **fata7t** el-baab.
+	- إنت ما فتحت الباب.
+7. 2intuu **Taba5tuu** 2akl mbaare7?
+	- إنتو طبختوا أكل مبارح؟
+8. 2abii **ghasal** el-sayyaarat bil-shaare3.
+	- أبي غسل السيارة بالشارع.
+
+# 12. Wiederholung: Adjektive und la-
+Schreibt jeden Satz auf Syrisch-Arabisch. Achtung: Das Adjektiv passt sich dem Nomen an, und la- + el- wird zu lal-.
+1. Ich schrieb meiner Mutter einen langen Brief.
+2. Sie wusch das neue Hemd.
+3. Wir kochten Essen für die Kinder.
+4. Er öffnete das große Fenster.
+5. Du (f.) wuschst das alte Auto.
+6. Sie (Pl.) schrieben Sami einen Brief.
+7. Mein Bruder kochte leckeres Essen für meinen Vater.
+8. Habt ihr die kleine Tür geöffnet?
+
+##### Lösung
+1. katabt risaalet Tawiilet la-2ummii.
+	- كتبت رسالة طويلة لأمي.
+2. ghaslett el-qamiiS el-jdiid.
+	- غسلت القميص الجديد.
+3. Taba5naa 2akl lal-wlaad.
+	- طبخنا أكل للولاد.
+4. fata7 el-shebbaak el-kbiir.
+	- فتح الشباك الكبير.
+5. ghasaltii el-sayyaarat el-qadiimet.
+	- غسلتي السيارة القديمة.
+6. katabuu risaalet la-saamii.
+	- كتبوا رسالة لسامي.
+7. 2a5ii Taba5 2akl Tayyeb la-2abii.
+	- أخي طبخ أكل طيب لأبي.
+8. fata7tuu el-baab el-Sghiir?
+	- فتحتوا الباب الصغير؟
+
+# 13. Lesen: gestern
+
+**So funktioniert es:**
+1. Lest die Geschichte allein. Es gibt keine Übersetzung: Versucht, sie selbst zu verstehen.
+2. Unterstreicht jedes Wort, das ihr nicht versteht.
+3. Wenn alle fertig sind, nennt jede / jeder **2 Wörter**, die sie / er unterstrichen hat. Wir übersetzen sie zusammen.
+4. Beantwortet dann die Fragen.
+
+## Geschichte: gestern
+mbaare7 kent bil-beet ma3 2u5tii. 2anaa Taba5t 2akl, w hiyye darsett 3arabii. ba3deen ghasalt el-sayyaarat bil-shaare3.
+
+rfiiqii kariim kaan bil-maktabet ma3 2a5uuh. darasuu, w katabuu risaalet la-2ahlhon.
+
+qabl 2usbuu3, 2ahl kariim fata7uu maT3am jdiid bi-dimashq. 2umm kariim Tab5ett, w 2abuu kariim kaan bil-maktab. w halla2? lessaat'hon huniik!
+
+## القصة
+مبارح كنت بالبيت مع أختي. أنا طبخت أكل، وهي درست عربي. بعدين غسلت السيارة بالشارع.
+
+رفيقي كريم كان بالمكتبة مع أخوه. درسوا، وكتبوا رسالة لأهلهن.
+
+قبل أسبوع، أهل كريم فتحوا مطعم جديد بدمشق. أم كريم طبخت، وأبو كريم كان بالمكتب. وهلأ؟ لساتهن هنيك!
+
+## Fragen
+1. ween kaan saamii mbaare7?
+	- وين كان سامي مبارح؟
+2. 2u5t saamii Tab5ett?
+	- أخت سامي طبخت؟
+3. shuu ghasal saamii?
+	- شو غسل سامي؟
+4. ween daras kariim?
+	- وين درس كريم؟
+5. miin fata7 maT3am jdiid?
+	- مين فتح مطعم جديد؟
+6. 2ahl kariim lessaat'hon bil-maT3am?
+	- أهل كريم لساتهن بالمطعم؟
+
+##### Lösung
+1. kaan bil-beet ma3 2u5toh.
+	- كان بالبيت مع أخته.
+2. la2, maa Tab5ett. darsett 3arabii.
+	- لأ، ما طبخت. درست عربي.
+3. ghasal el-sayyaarat.
+	- غسل السيارة.
+4. bil-maktabet.
+	- بالمكتبة.
+5. 2ahl kariim.
+	- أهل كريم.
+6. 2ee, lessaat'hon huniik.
+	- إي، لساتهن هنيك.
